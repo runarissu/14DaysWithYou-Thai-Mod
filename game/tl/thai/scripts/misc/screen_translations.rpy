@@ -532,7 +532,7 @@ screen demopoint():
                     color "#FF66CB"
                     font "fonts/Orbitron-Black.ttf"
             vbox:
-                text ("{size=+5}{font=Orbitron-Black.ttf}ขอบคุณที่เล่น!{/font}{/size}\nลองหาตอนจบทั้งหมดหรือยัง?\n\nถ้าอยากหาคอนเทนต์ 14DWY เพิ่มเติม ไปติดตามได้ที่ {a=https://discord.gg/14dayswithyou}Discord{/a} | {a=https://14dayswithyou.tumblr.com}Tumblr{/a} | {a=https://twitter.com/14dayswithyou}Twitter{/a} | {a=https://bsky.app/profile/cutiesai.com}Bluesky{/a} เพื่อดูความคืบหน้าการพัฒนาและเรื่องราวเบื้องหลังของเกม!\n" if _is_thai() else "{size=+5}{font=Orbitron-Black.ttf}Thanks for playing!{/font}{/size}\nHave you tried to get all the different endings yet?\n\nIf you're looking for even more 14DWY content, feel free to check out the official {a=https://discord.gg/14dayswithyou}Discord{/a} | {a=https://14dayswithyou.tumblr.com}Tumblr{/a} | {a=https://twitter.com/14dayswithyou}Twitter{/a} | {a=https://bsky.app/profile/cutiesai.com}Bluesky{/a} for game development progress and lore drops!\n"):
+                text ("{size=+5}{font=fonts/Orbitron-Black.ttf}ขอบคุณที่เล่น!{/font}{/size}\nลองหาตอนจบทั้งหมดหรือยัง?\n\nถ้าอยากหาคอนเทนต์ 14DWY เพิ่มเติม ไปติดตามได้ที่ {a=https://discord.gg/14dayswithyou}Discord{/a} | {a=https://14dayswithyou.tumblr.com}Tumblr{/a} | {a=https://twitter.com/14dayswithyou}Twitter{/a} | {a=https://bsky.app/profile/cutiesai.com}Bluesky{/a} เพื่อดูความคืบหน้าการพัฒนาและเรื่องราวเบื้องหลังของเกม!\n" if _is_thai() else "{size=+5}{font=Orbitron-Black.ttf}Thanks for playing!{/font}{/size}\nHave you tried to get all the different endings yet?\n\nIf you're looking for even more 14DWY content, feel free to check out the official {a=https://discord.gg/14dayswithyou}Discord{/a} | {a=https://14dayswithyou.tumblr.com}Tumblr{/a} | {a=https://twitter.com/14dayswithyou}Twitter{/a} | {a=https://bsky.app/profile/cutiesai.com}Bluesky{/a} for game development progress and lore drops!\n"):
                     font "fonts/Assistant-Regular.ttf"
                     size 25
                     justify True
@@ -1148,7 +1148,7 @@ screen custompronouns():
             hbox:
                 xalign 0.5
                 text ("เลือกสรรพนามที่คุณต้องการ!\n" if _is_thai() else "CHOOSE YOUR PREFERRED PRONOUNS!\n"):
-                    font "Orbitron-Black.ttf"
+                    font "fonts/Orbitron-Black.ttf"
                     size 30
             hbox:
                 spacing 20
@@ -1261,7 +1261,7 @@ screen custompronouns():
             hbox:
                 xalign 0.5
                 text ("แบบไหนเหมาะกว่า?" if _is_thai() else "WHICH IS MORE FITTING?"):
-                    font "Orbitron-Black.ttf"
+                    font "fonts/Orbitron-Black.ttf"
                     size 25
             hbox:
                 xalign 0.5
@@ -1329,7 +1329,7 @@ screen custompronouns():
             hbox:
                 xalign 0.5
                 text ("อยากให้คนอื่นมองเห็นคุณ\nแบบไหน?" if _is_thai() else "HOW WOULD YOU LIKE TO BE\nPERCEIVED BY OTHERS?"):
-                    font "Orbitron-Black.ttf"
+                    font "fonts/Orbitron-Black.ttf"
                     size 25
                     text_align 0.5
             hbox:
@@ -2808,7 +2808,7 @@ screen deletedata():
                     text_color "#9d64fd"
                     text_hover_color "#FF66CB"
                     hovered [Play("sound", "audio/ui/click1.ogg")]
-                    action Confirm(("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}เดี๋ยวนะ, รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะ{color=#a30b11}{b}ลบ{/b}{/color}ไฟล์เซฟ\nทั้งหมด? ทำกลับไม่ได้นะ!" if _is_thai() else "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}WOAH, WAIT!{/font}{/size}{/color}\nAre you sure you want to {color=#a30b11}{b}DELETE{/b}{/color} all of\nyour save files? You can't undo this!"), delete_saves)
+                    action Confirm(("{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}เดี๋ยวนะ, รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะ{color=#a30b11}{b}ลบ{/b}{/color}ไฟล์เซฟ\nทั้งหมด? ทำกลับไม่ได้นะ!" if _is_thai() else "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}WOAH, WAIT!{/font}{/size}{/color}\nAre you sure you want to {color=#a30b11}{b}DELETE{/b}{/color} all of\nyour save files? You can't undo this!"), delete_saves)
                 text ("นี่จะลบไฟล์เซฟและเซฟอัตโนมัติทั้งหมด\n{u}จะไม่{/u}ลบข้อมูลที่บันทึกไว้ของคุณ!" if _is_thai() else "This will delete all your save files and autosaves.\nThis {u}will not{/u} delete any of your stored data!"):
                     color "#8f8f8f"
                     size 20
@@ -2822,9 +2822,9 @@ screen deletedata():
                     text_hover_color "#FF66CB"
                     hovered [Play("sound", "audio/ui/click1.ogg")]
                     if persistent.warningscreen == True:
-                        action [Function(delete_persistent), Confirm(("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}เดี๋ยวนะ, รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะ{color=#a30b11}{b}ลบ{/b}{/color}ข้อมูล\nทั้งหมด? ไม่รวมไฟล์เซฟนะ!" if _is_thai() else "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}WOAH, WAIT!{/font}{/size}{/color}\nAre you sure you want to {color=#a30b11}{b}DELETE{/b}{/color} all of\nyour data? This does not include\nsave files!"), yes=Return(), no=None), SetVariable("persistent.warningscreen", True)]
+                        action [Function(delete_persistent), Confirm(("{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}เดี๋ยวนะ, รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะ{color=#a30b11}{b}ลบ{/b}{/color}ข้อมูล\nทั้งหมด? ไม่รวมไฟล์เซฟนะ!" if _is_thai() else "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}WOAH, WAIT!{/font}{/size}{/color}\nAre you sure you want to {color=#a30b11}{b}DELETE{/b}{/color} all of\nyour data? This does not include\nsave files!"), yes=Return(), no=None), SetVariable("persistent.warningscreen", True)]
                     else:
-                        action Confirm(("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}เดี๋ยวนะ, รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะ{color=#a30b11}{b}ลบ{/b}{/color}ข้อมูล\nทั้งหมด? ไม่รวมไฟล์เซฟนะ!" if _is_thai() else "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}WOAH, WAIT!{/font}{/size}{/color}\nAre you sure you want to {color=#a30b11}{b}DELETE{/b}{/color} all of\nyour data? This does not include\nsave files!"), [delete_persistent, renpy.utter_restart])
+                        action Confirm(("{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}เดี๋ยวนะ, รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะ{color=#a30b11}{b}ลบ{/b}{/color}ข้อมูล\nทั้งหมด? ไม่รวมไฟล์เซฟนะ!" if _is_thai() else "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}WOAH, WAIT!{/font}{/size}{/color}\nAre you sure you want to {color=#a30b11}{b}DELETE{/b}{/color} all of\nyour data? This does not include\nsave files!"), [delete_persistent, renpy.utter_restart])
                 text ("นี่จะลบข้อมูลที่บันทึกไว้{u}ทั้งหมด{/i} (รวมถึงแกลเลอรีและความสำเร็จ) และรีเซ็ตเกมกลับสู่สถานะเริ่มต้น" if _is_thai() else "This will delete {u}all{/i} stored data (including your gallery and achievements) and reset the game back to its default state."):
                     color "#8f8f8f"
                     size 20
@@ -2839,7 +2839,7 @@ screen deletedata():
                         text_color "#850106"
                         text_hover_color "#FF66CB"
                         hovered [Play("sound", "audio/ui/click1.ogg")]
-                        action Confirm(("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}เดี๋ยวนะ, รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะ{color=#a30b11}{b}ปฏิเสธ{/b}{/color}\nความช่วยเหลือของ Ren? ทำกลับไม่ได้นะ!" if _is_thai() else "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}WOAH, WAIT!{/font}{/size}{/color}\nAre you sure you want to {color=#a30b11}{b}DISMISS{/b}{/color}\nRen's help? You can't undo this!"), yes=[SetVariable("persistent.menumissing", False), renpy.utter_restart], no=SetVariable("persistent.menumissing", True))
+                        action Confirm(("{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}เดี๋ยวนะ, รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะ{color=#a30b11}{b}ปฏิเสธ{/b}{/color}\nความช่วยเหลือของ Ren? ทำกลับไม่ได้นะ!" if _is_thai() else "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}WOAH, WAIT!{/font}{/size}{/color}\nAre you sure you want to {color=#a30b11}{b}DISMISS{/b}{/color}\nRen's help? You can't undo this!"), yes=[SetVariable("persistent.menumissing", False), renpy.utter_restart], no=SetVariable("persistent.menumissing", True))
                     text ("ไม่ต้องการความช่วยเหลือจาก Ren? นี่จะพาเขากลับไป\nที่หน้าเมนูหลัก\n\n{b}Ren จะยังจำคุณได้อยู่!{/b}" if _is_thai() else "Don't need Ren's help? This will bring him back to the\nmain menu screen.\n\n{b}Ren will still remember you!{/b}"):
                         color "#8f8f8f"
                         size 20
@@ -3266,14 +3266,14 @@ screen about():
         at slidedown
         vbox:
             align (0.5,0.5)
-            text ("{size=+30}{color=#f8f8f8}เครดิต!{/color}{/size}" if _is_thai() else "{size=+30}{color=#f8f8f8}CREDITS!{/color}{/size}") style "popupbox_text_pink"
-            text ("BGM & เอฟเฟกต์เสียงกลิตช์: {a=http://yacft.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Yuli Audio Craft{/size}{/color}{/font}{/a}" if _is_thai() else "BGM & glitch SFX: {a=http://yacft.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Yuli Audio Craft{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
-            text ("เอฟเฟกต์เสียงธรรมชาติ & บรรยากาศ: {a=https://pixabay.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Pixabay{/size}{/color}{/font}{/a}" if _is_thai() else "Nature & ambience SFX: {a=https://pixabay.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Pixabay{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
-            text ("รูปพื้นหลังสต็อก: {a=https://www.pexels.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Pexels{/size}{/color}{/font}{/a}" if _is_thai() else "Background stock images: {a=https://www.pexels.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Pexels{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
-            text ("แท็กข้อความเคลื่อนไหว & เชดเดอร์: {a=https://wattson.itch.io}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Wattson{/size}{/color}{/font}{/a}" if _is_thai() else "Kinetic text tags & shaders: {a=https://wattson.itch.io}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Wattson{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
-            text ("Discord rich presence: {a=https://arianeb.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ariane Barnes{/size}{/color}{/font}{/a}" if _is_thai() else "Discord rich presence: {a=https://arianeb.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ariane Barnes{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
-            text ("เอนจินเกม: {font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ren'Py [renpy.version_only]{/size}{/color}{/font}" if _is_thai() else "Game engine: {font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ren'Py [renpy.version_only]{/size}{/color}{/font}") style "popupbox_text_pink"
-            text ("{color=#9d64fd}ทุกอย่างอื่น:{/color} {a=https://cutiesai.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Saint (cutiesai){/size}{/color}{/font}{/a}" if _is_thai() else "{color=#9d64fd}Everything else:{/color} {a=https://cutiesai.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Saint (cutiesai){/size}{/color}{/font}{/a}") style "popupbox_text_pink"
+            text ("{font=fonts/Orbitron-Black.ttf}{size=+30}{color=#f8f8f8}เครดิต!{/color}{/size}{/font}" if _is_thai() else "{size=+30}{color=#f8f8f8}CREDITS!{/color}{/size}") style "popupbox_text_pink"
+            text ("{font=fonts/Assistant-Regular.ttf}BGM & เอฟเฟกต์เสียงกลิตช์: {a=http://yacft.com}{color=#f8f8f8}{size=-2}Yuli Audio Craft{/size}{/color}{/a}{/font}" if _is_thai() else "BGM & glitch SFX: {a=http://yacft.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Yuli Audio Craft{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
+            text ("{font=fonts/Assistant-Regular.ttf}เอฟเฟกต์เสียงธรรมชาติ & บรรยากาศ: {a=https://pixabay.com}{color=#f8f8f8}{size=-2}Pixabay{/size}{/color}{/a}{/font}" if _is_thai() else "Nature & ambience SFX: {a=https://pixabay.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Pixabay{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
+            text ("{font=fonts/Assistant-Regular.ttf}รูปพื้นหลังสต็อก: {a=https://www.pexels.com}{color=#f8f8f8}{size=-2}Pexels{/size}{/color}{/a}{/font}" if _is_thai() else "Background stock images: {a=https://www.pexels.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Pexels{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
+            text ("{font=fonts/Assistant-Regular.ttf}แท็กข้อความเคลื่อนไหว & เชดเดอร์: {a=https://wattson.itch.io}{color=#f8f8f8}{size=-2}Wattson{/size}{/color}{/a}{/font}" if _is_thai() else "Kinetic text tags & shaders: {a=https://wattson.itch.io}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Wattson{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
+            text ("{font=fonts/Assistant-Regular.ttf}Discord rich presence: {a=https://arianeb.com}{color=#f8f8f8}{size=-2}Ariane Barnes{/size}{/color}{/a}{/font}" if _is_thai() else "Discord rich presence: {a=https://arianeb.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ariane Barnes{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
+            text ("{font=fonts/Assistant-Regular.ttf}เอนจินเกม: {color=#f8f8f8}{size=-2}Ren'Py [renpy.version_only]{/size}{/color}{/font}" if _is_thai() else "Game engine: {font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ren'Py [renpy.version_only]{/size}{/color}{/font}") style "popupbox_text_pink"
+            text ("{font=fonts/Assistant-Regular.ttf}{color=#9d64fd}ทุกอย่างอื่น:{/color} {a=https://cutiesai.com}{color=#f8f8f8}{size=-2}Saint (cutiesai){/size}{/color}{/a}{/font}" if _is_thai() else "{color=#9d64fd}Everything else:{/color} {a=https://cutiesai.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Saint (cutiesai){/size}{/color}{/font}{/a}") style "popupbox_text_pink"
             text ("\n{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}และขอบคุณมากๆ สำหรับทุกคนที่\nสนับสนุนเดโม!{/size}{/color}{/font}" if _is_thai() else "\n{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}And a big thank you to those who have\nsupported the demo!{/size}{/color}{/font}") style "popupbox_text_pink"
 
     add "images/misc/ur honor hes baby.png":
