@@ -306,7 +306,7 @@ translate thai strings:
 
     # game/scripts/misc/other.rpy:4187
     old "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nLoading will lose any unsaved progress!\nDo you still want to continue?"
-    new "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nโหลดแล้วข้อมูลที่ยังไม่ได้บันทึกจะหายไปหมด!\nยังจะดำเนินการต่อไหม?"
+    new "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nโหลดแล้วข้อมูลที่ยังไม่ได้บันทึกจะหายไปหมด!\nยังจะโหลดต่อไหม?"
 
     # game/scripts/misc/other.rpy:4188
     old "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nAre you sure you want to quit the game?\nYou will lose any unsaved progress!"

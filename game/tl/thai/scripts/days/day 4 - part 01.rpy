@@ -25,7 +25,7 @@ translate thai day4_morning_fbe726f5:
 translate thai day4_morning_a8836ac2:
 
     # n "Wincing at the bright screen that practically flashbangs me, I crack open one eye to read the numbers on the screen."
-    n "หลับตาหลีกหนีจอสว่างจ้าจนเหมือนถูกประทุ้งระเบิดแสง ฉันแกะตาข้างเดียวมองตัวเลขบนหน้าจอ"
+    n "หลับตาหลีกจอสว่างจ้าจนเหมือนโดนระเบิดแสง ฉันแกะตาข้างเดียวมองตัวเลขบนหน้าจอ"
 
 # game/scripts/days/day 4.rpy:66
 
@@ -480,7 +480,7 @@ translate thai day4_morningcont_702c0163:
 translate thai day4_morningcont_34fdcece:
 
     # n "The letter \"T\" shows up where the caller ID should be, alongside a suggestive contact photo of someone's abs that I don't remember taking — which could only mean one thing…"
-    n "ตัวอักษร \"T\" ปรากฏขึ้นตรงที่ควรจะเป็นชื่อผู้โทร พร้อมรูปผู้ติดต่อที่เป็นซิกแพคหน้าท้องของใครบางคนที่ฉันไม่จำได้ว่าเคยถ่าย — ซึ่งหมายถึงสิ่งเดียว…"
+    n "ตัวอักษร \"T\" ปรากฏขึ้นตรงที่ควรจะเป็นชื่อผู้โทร พร้อมรูปผู้ติดต่อที่เป็นซิกแพคของใครบางคนที่ฉันไม่จำได้ว่าเคยถ่าย — ซึ่งหมายถึงสิ่งเดียว…"
 
 # game/scripts/days/day 4.rpy:209
 
@@ -522,7 +522,7 @@ translate thai day4_morningcont_b58d18d4:
 translate thai day4_morningcont_eedacfbe:
 
     # tcall "Aw, what? Did I take your breath away? That's real cute."
-    tcall "อาว อะไรนะ? กูทำให้แกเนื้อตัวเสียวไปเลยเหรอ? น่ารักชะมัด"
+    tcall "อาว อะไรนะ? กูทำให้แกใจหวิวเลยเหรอ? น่ารักชะมัด"
 
 # game/scripts/days/day 4.rpy:217
 
@@ -599,7 +599,7 @@ translate thai day4_morningcont_285dd11b:
 translate thai day4_morningcont_038c06d1:
 
     # tcall "I called to tell you to hurry up. Unless you want to {i}walk{/i} to the aquarium. In fact, maybe I should just—"
-    tcall "กูโทรมาบอกให้รีบๆ หน่อย ไม่งั้นแกอยาก{i}เดิน{/i}ไปพิพิธธันวาคัสเองเหรอ จริงๆ กูน่าจะแค่—"
+    tcall "กูโทรมาบอกให้รีบๆ หน่อย ไม่งั้นแกอยาก{i}เดิน{/i}ไปพิพิธภัณฑ์สัตว์น้ำเองเหรอ จริงๆ กูน่าจะแค่—"
 
 # game/scripts/days/day 4.rpy:230
 
@@ -613,7 +613,7 @@ translate thai day4_morningcont_406755e5:
 translate thai day4_morningcont_cefce974:
 
     # tcall "{size=-6}Well, well, well. If it isn't little Miss Priss all by her lonesome—{/size} Oops, she looks mad."
-    tcall "{size=-6}โอ้โฮ โอ้โฮ โอ้โฮ นี่มันคุณหนูจู้จี้จุกจิกคนเดียมาหรือเปล่านี่—{/size} อุ๊ย ดูเหมือนจะโกรธแล้วนะ"
+    tcall "{size=-6}โอ้โฮ โอ้โฮ โอ้โฮ นี่มันคุณหนูจู้จี้จุกจิกคนเดียวมาหรือเปล่านี่—{/size} อุ๊ย ดูเหมือนจะโกรธแล้วนะ"
 
 # game/scripts/days/day 4.rpy:232
 
@@ -697,6 +697,6 @@ translate thai day4_morningcont_15d32cc9:
 translate thai day4_morningcont_555fa836:
 
     # n "But still… Knowing that [ch_teo] was downstairs {b}somehow{/b} gives me the confidence to leave the safety of my home — though not before committing the state of my apartment to memory and triple-checking my lock."
-    n "แต่ก็… การรู้ว่า [ch_teo] อยู่ข้างล่างมัน{b}ก็ช่าง{/b}ทำให้ฉันมีความมั่นใจพอจะออกจากความปลอดภัยของบ้านตัวเองได้ — แม้จะต้องจำสภาพอพาร์ตเมนต์ไว้ในใจและเช็กล็อกสามรอบก่อนก็ตาม"
+    n "แต่ก็… การรู้ว่า [ch_teo] อยู่ข้างล่างมัน{b}ไม่รู้ทำไม{/b}ทำให้ฉันมีความมั่นใจพอจะออกจากความปลอดภัยของบ้านตัวเองได้ — แม้จะต้องจำสภาพอพาร์ตเมนต์ไว้ในใจและเช็กล็อกสามรอบก่อนก็ตาม"
 
 # game/scripts/days/day 4.rpy:248

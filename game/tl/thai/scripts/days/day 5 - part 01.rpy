@@ -4,14 +4,14 @@
 translate thai day5_alonemorning_6e44f8fa:
 
     # n "Rather than the faint chirping of birds outside my window, it's the sound of something buzzing that rudely pulls me from my slumber."
-    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ หน้าต่าง สิ่งที่ดึงฉันออกจากหลับได้อย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างที่ดังวุ่นวาย"
+    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับได้อย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างที่ดังวุ่นวาย"
 
 # game/scripts/days/day 5.rpy:71
 
 translate thai day5_alonemorning_9f105ca0:
 
     # n "Muscle memory immediately kicks in, causing me to haphazardly throw my arm above my head and fumble around in search of the noise."
-    n "ความจำจากกล้ามเนื้อสั่งการทันที ทำให้ฉันโยนแขนขึ้นเหนือศีรษะอย่างกระทันหัน แล้วควานหาแหล่งกำเนิดเสียงนั้นอย่างไร้ทิศทาง"
+    n "ความจำของกล้ามเนื้อทำงานทันที ทำให้ฉันโยนแขนขึ้นเหนือศีรษะอย่างกระทันหัน แล้วควานหาแหล่งกำเนิดเสียงนั้นอย่างไร้ทิศทาง"
 
 # game/scripts/days/day 5.rpy:72
 
@@ -81,14 +81,14 @@ translate thai day5_alonemorning_1253ccf4:
 translate thai day5_alonemorning_1a0d01fc:
 
     # n "I hope she {b}at least{/b} received [ch_conan]'s text. I'd hate for her to show up bright and early to the library, only to find out that it's closed for the day."
-    n "หวังว่าเธอจะได้รับข้อความของ [ch_conan] ไป{b}อย่างน้อย{/b}นะ ฉันไม่อยากให้เธอมาถึงห้องสมุดตั้งแต่เช้าตรู่ แล้วก็รู้ว่ามันปิดทั้งวัน"
+    n "หวังว่าเธอ{b}อย่างน้อย{/b}จะได้รับข้อความของ [ch_conan] นะ ฉันไม่อยากให้เธอมาถึงห้องสมุดตั้งแต่เช้าตรู่ แล้วก็รู้ว่ามันปิดทั้งวัน"
 
 # game/scripts/days/day 5.rpy:83
 
 translate thai day5_alonemorning_27501361:
 
     # n "Speaking of texts… Maybe I should send one of my own, just in case."
-    n "พูดถึงข้อความแล้ว... ฉันก็ควรส่งของตัวเองสักข้อความนะ ไว้เผื่อไว้"
+    n "พูดถึงข้อความแล้ว... ฉันก็ควรส่งของตัวเองสักข้อความนะ เผื่อไว้"
 
 # game/scripts/days/day 5.rpy:84
 
@@ -158,7 +158,7 @@ translate thai day5_alonemorning_49bf9047:
 translate thai day5_alonemorning_a8755d97:
 
     # n "Wait—Call?!"
-    n "เดี๋ยวก่อน—สายโทรเขอ?!"
+    n "เดี๋ยวก่อน—สายโทรเข้า?!"
 
 # game/scripts/days/day 5.rpy:98
 
@@ -186,7 +186,7 @@ translate thai day5_alonemorning_d5fa4688:
 translate thai day5_alonemorning_6c58b49c:
 
     # y "I {i}definitely{/i} remember you bringing it up, but I'm pretty sure you started gushing about recent AoG spoilers, like… five seconds later."
-    y "ฉันจำได้{i}แน่นอน{/i}ว่าแกพูดถึงเรื่องนี้ แต่แน่ใจว่าหลังจากนั้นแกเริ่มกรีดร้องเรื่องสปอยล์ AoG ใหม่ๆ ภายใน... ห้าวินาที"
+    y "ฉันจำได้{i}แน่นอน{/i}ว่าแกพูดถึงเรื่องนี้ แต่แน่ใจว่าหลังจากนั้นแกเริ่มพรั่งพรูเรื่องสปอยล์ AoG ใหม่ๆ ภายใน... ห้าวินาที"
 
 # game/scripts/days/day 5.rpy:105
 
@@ -270,7 +270,7 @@ translate thai day5_alonemorning_f990b3b7:
 translate thai day5_alonemorning_b0845b02:
 
     # m "Alright! drumroll, pleeeeease…"
-    m "เอ้า! กลองรบเลย กราวใหญ่โว้ย..."
+    m "เอ้า! ตีกลองรวบเลย..."
 
 # game/scripts/days/day 5.rpy:123
 
@@ -354,28 +354,28 @@ translate thai day5_alonemorning_99ffb4fc:
 translate thai day5_alonemorning_bac07221:
 
     # m "Anyway! I'll be at the ferry terminal! But don't make me wait too long; watching the ocean makes me feel nauseous. Also… {i}I{/i} want to be the one who hangs up first. Byeeee!"
-    m "เอาเป็นว่า! ฉันจะรอที่ท่าเรือเฟอร์รี่! แต่อย่าให้ฉันรอนานนะ มองทะเลนานๆ แล้วแน่นไปหมด อีกอย่าง... {i}ฉัน{/i}จะเป็นคนวางสายก่อน บายยย!"
+    m "เอาเป็นว่า! ฉันจะรอที่ท่าเรือเฟอร์รี่! แต่อย่าให้ฉันรอนานนะ มองทะเลนานๆ แล้วคลื่นไส้ อีกอย่าง... {i}ฉัน{/i}จะเป็นคนวางสายก่อน บายยย!"
 
 # game/scripts/days/day 5.rpy:142
 
 translate thai day5_alonemorning_763f4dc7:
 
     # n "Before I can get a word in, [ch_moth] flashes me a cheeky grin and ends the call."
-    n "ก่อนที่ฉันจะพูดอะไรได้ [ch_moth] ก็ยิ้มแซ่ะให้ฉันแล้ววางสาย"
+    n "ก่อนที่ฉันจะพูดอะไรได้ [ch_moth] ก็ยิ้มเจ้าเล่ห์ให้ฉันแล้ววางสาย"
 
 # game/scripts/days/day 5.rpy:145
 
 translate thai day5_alonemorning_d4fbce0e:
 
     # n "Letting out a puff of laughter at their antics, I eagerly get ready to start my day."
-    n "ฉันหัวเราะกับความซุ่มซ่ามของเขา แล้วรีบลุกไปเตรียมตัวเริ่มวันใหม่อย่างกระตือรือร้น"
+    n "ฉันหัวเราะกับความขี้เล่นของเขา แล้วรีบลุกไปเตรียมตัวเริ่มวันใหม่อย่างกระตือรือร้น"
 
 # game/scripts/days/day 5.rpy:157
 
 translate thai day5_meetingviolet_d3231c7e:
 
     # n "Now appropriately dressed and prepared to face the day, I barely take two steps out of my apartment before the muffled sounds of chatter capture my attention."
-    n "แต่งตัวเรียบร้อยพร้อมออกไปเริ่มวันใหม่ ฉันเพิ่งก้าวออกจากอพาร์ตเมนต์ได้แค่สองก้าว เสียงพูดคุยอื้ออึงก็ดึงความสนใจฉันเข้าไป"
+    n "แต่งตัวเรียบร้อยพร้อมออกไปเริ่มวันใหม่ ฉันเพิ่งก้าวออกจากอพาร์ตเมนต์ได้แค่สองก้าว เสียงพูดคุยอู้อี้ๆ ก็ดึงความสนใจฉันเข้าไป"
 
 # game/scripts/days/day 5.rpy:163
 
@@ -620,14 +620,14 @@ translate thai day5_meetingviolet_c70b5495:
 translate thai day5_renmorning_6e44f8fa:
 
     # n "Rather than the faint chirping of birds outside my window, it's the sound of something buzzing that rudely pulls me from my slumber."
-    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ หน้าต่าง สิ่งที่ดึงฉันออกจากหลับได้อย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างที่ดังวุ่นวาย"
+    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับได้อย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างที่ดังวุ่นวาย"
 
 # game/scripts/days/day 5.rpy:238
 
 translate thai day5_renmorning_9f105ca0:
 
     # n "Muscle memory immediately kicks in, causing me to haphazardly throw my arm above my head and fumble around in search of the noise."
-    n "ความจำจากกล้ามเนื้อสั่งการทันที ทำให้ฉันโยนแขนขึ้นเหนือศีรษะอย่างกระทันหัน แล้วควานหาแหล่งกำเนิดเสียงนั้นอย่างไร้ทิศทาง"
+    n "ความจำของกล้ามเนื้อทำงานทันที ทำให้ฉันโยนแขนขึ้นเหนือศีรษะอย่างกระทันหัน แล้วควานหาแหล่งกำเนิดเสียงนั้นอย่างไร้ทิศทาง"
 
 # game/scripts/days/day 5.rpy:239
 
@@ -697,6 +697,6 @@ translate thai day5_renmorning_1253ccf4:
 translate thai day5_renmorning_1a0d01fc:
 
     # n "I hope she {b}at least{/b} received [ch_conan]'s text. I'd hate for her to show up bright and early to the library, only to find out that it's closed for the day."
-    n "หวังว่าเธอจะได้รับข้อความของ [ch_conan] ไป{b}อย่างน้อย{/b}นะ ฉันไม่อยากให้เธอมาถึงห้องสมุดตั้งแต่เช้าตรู่ แล้วก็รู้ว่ามันปิดทั้งวัน"
+    n "หวังว่าเธอ{b}อย่างน้อย{/b}จะได้รับข้อความของ [ch_conan] นะ ฉันไม่อยากให้เธอมาถึงห้องสมุดตั้งแต่เช้าตรู่ แล้วก็รู้ว่ามันปิดทั้งวัน"
 
 # game/scripts/days/day 5.rpy:250

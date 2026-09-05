@@ -1,7 +1,7 @@
 translate thai day4_aquariumscene_3d86c15f:
 
     # n "I watch as [ch_ren] awkwardly scratches his jaw before he turns to me with a lopsided smile and a sparkle in his eyes."
-    n "ฉันเห็น [ch_ren] เกาคางอย่างกระอักกระอ่วนก่อนจะหันมายิ้มเฉ ๆ พร้อมแววตาที่เป็นประกาย"
+    n "ฉันเห็น [ch_ren] เกาคางอย่างอึดอัดก่อนจะหันมายิ้มเบี้ยวๆ พร้อมแววตาที่เป็นประกาย"
 
 # game/scripts/days/day 4.rpy:684
 
@@ -36,7 +36,7 @@ translate thai day4_aquariumscene_8a411b55:
 translate thai day4_aquariumscene_592693f9:
 
     # y "So I can show them to [ch_leon] later! I'm sure he'd find them {i}hilarious{/i}."
-    y "ก็เอาไปให้ [ch_leon] ดูทีหลังไง! แก่นแน่เลยว่าเขาคงจะหัวเราะ{i}ขบขัน{/i}"
+    y "ก็เอาไปให้ [ch_leon] ดูทีหลังไง! ฉันแน่ใจว่าเขาคงจะหัวเราะ{i}ขบขัน{/i}"
 
 # game/scripts/days/day 4.rpy:691
 
@@ -239,7 +239,7 @@ translate thai day4_aquariumscene_428c0646:
 translate thai day4_aquariumscene_9aae5013:
 
     # y "Pfft— Oh, please… Top three?"
-    y "พึ่บ— โอ๊ย ไม่จริงนะ… ท็อปสาม?"
+    y "พูบ— โอ๊ย ไม่จริงนะ… ท็อปสาม?"
 
 # game/scripts/days/day 4.rpy:745
 
@@ -386,7 +386,7 @@ translate thai day4_aquariumscene_c711da74:
 translate thai day4_aquariumscene_857d0593:
 
     # r "It's another one of those boring beach episodes — but I wouldn't mind watching it again."
-    r "มันเป็นอีกตอนที่ชายหาดน่าเบื่อ ๆ — แต่ฉันก็ไม่ว่าถ้าจะดูอีกรอบ"
+    r "มันเป็นอีกตอนชายหาดที่น่าเบื่อ ๆ — แต่ฉันก็ไม่ว่าถ้าจะดูอีกรอบ"
 
 # game/scripts/days/day 4.rpy:780
 
@@ -477,7 +477,7 @@ translate thai day4_aquariumscene_7b304924:
 translate thai day4_aquariumscene_0165d6a1:
 
     # y "Yeah. No offence, but you don't really seem like an aquarium guy."
-    y "อืม ไม่ได้พูดไม่ดีนะ แต่แกไม่ค่อยเหมือนคนที่จะมาพิพิธภัณฑ์สัตว์น้ำเลย"
+    y "อืม ไม่ได้จะพูดไม่ดีนะ แต่แกไม่ค่อยเหมือนคนที่จะมาพิพิธภัณฑ์สัตว์น้ำเลย"
 
 # game/scripts/days/day 4.rpy:801
 

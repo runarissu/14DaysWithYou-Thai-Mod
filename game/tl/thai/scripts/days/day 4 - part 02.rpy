@@ -1,7 +1,7 @@
 translate thai day4_morningcont_116f255e:
 
     # n "I have half a mind to quickly snap photos of everything to see if anything was touched in my absence, but I doubt I'd have enough time. Still… If my stalker {b}does{/b} decide to come back again, I'd want to know."
-    n "ฉันมีความคิดว่าจะรีบถ่ายรูปทุกอย่างเอาไว้เพื่อดูว่ามีอะไรถูกขยับตอนที่ฉันไม่อยู่บ้างไหม แต่คงไม่มีเวลาพอกระมัง ทว่า... ถ้าสตอลเกอร์ของฉัน{b}กลับมา{/b}อีกครั้ง ฉันก็อยากรู้"
+    n "ฉันมีความคิดว่าจะรีบถ่ายรูปทุกอย่างเอาไว้เพื่อดูว่ามีอะไรถูกขยับตอนที่ฉันไม่อยู่บ้างไหม แต่คงไม่มีเวลาพอกระมัง ทว่า... ถ้าสตอล์กเกอร์ของฉัน{b}กลับมา{/b}อีกครั้ง ฉันก็อยากรู้"
 
 # game/scripts/days/day 4.rpy:249
 
@@ -106,7 +106,7 @@ translate thai day4_leonarrival_69ac3576:
 translate thai day4_leonarrival_2a91b802:
 
     # n "It doesn't take long before he's right by my side once more and ushers me towards the front entrance."
-    n "ไม่นานเขาก็มายืนข้างฉันอีกครั้งแล้วพยัคฆ์เดินไปทางทางเข้าด้านหน้า"
+    n "ไม่นานเขาก็มายืนข้างฉันอีกครั้งแล้วนำฉันเดินไปทางทางเข้าด้านหน้า"
 
 # game/scripts/days/day 4.rpy:300
 
@@ -169,7 +169,7 @@ translate thai day4_leonarrival_675bb4b3:
 translate thai day4_leonarrival_ea3cbb3b:
 
     # n "Heh, I suppose it's my stalker's fault for not being more thorough with their passive-aggressive letter for me. Maaaybe if they were more—"
-    n "เฮ้ ก็คงเป็นความผิดของสตอลเกอร์ฉันเองที่เขียนจดหมายประชดประชันมาไม่ละเอียดพอ บางทีถ้าเขาเขียนให้—"
+    n "เฮ้ ก็คงเป็นความผิดของสตอล์กเกอร์ฉันเองที่เขียนจดหมายประชดประชันมาไม่ละเอียดพอ บางทีถ้าเขาเขียนให้—"
 
 # game/scripts/days/day 4.rpy:313
 
@@ -386,14 +386,14 @@ translate thai day4_leonarrival_f175514f:
 translate thai day4_leonarrival_1087f664:
 
     # n "No doubt feigning interest in it; it wasn't like [ch_teo] really cared much for marine life. All his world revolved around was wealth and luxury, giant tech companies, and… probably starting fires."
-    n "ไม่ต้องสงสัยเลยว่าแกล้งทำเป็นสนใจ ก็ [ch_teo] ไม่ได้สนใจสัตว์ทะเลสักเท่าไรหรอก โลกของเขาหมุนรอบแค่ความมั่งคั่งและหรูหรา บริษัทเทคโนโลยียักษ์ใหญ่ แล้วก็... อาจจะเริ่มไฟไหม้"
+    n "ไม่ต้องสงสัยเลยว่าแกล้งทำเป็นสนใจ ก็ [ch_teo] ไม่ได้สนใจสัตว์ทะเลสักเท่าไรหรอก โลกของเขาหมุนรอบแค่ความมั่งคั่งและหรูหรา บริษัทเทคโนโลยียักษ์ใหญ่ แล้วก็... อาจจะก่อไฟ"
 
 # game/scripts/days/day 4.rpy:373
 
 translate thai day4_leonarrival_e6ad94ae:
 
     # extend " Yeah, definitely starting fires."
-    extend " อ่ะ แน่นอน ไฟไหม้แน่ๆ"
+    extend " อ่ะ แน่นอน ก่อไฟแน่ๆ"
 
 # game/scripts/days/day 4.rpy:374
 
@@ -484,7 +484,7 @@ translate thai day4_leonarrival_2258a453:
 translate thai day4_leonarrival_5c90e528:
 
     # n "It was… strange hearing this kind of advice from [ch_leon] — especially after practically lying to him — but I wasn't going to say anything."
-    n "มัน... แปลกที่ได้ยินคำแนะนำแบบนี้จาก [ch_leon] — โดยเฉพาะหลังจากที่แทบจะโกหกเขาไป — แต่ฉันก็ไม่กะจะพูดอะไร"
+    n "มัน... แปลกที่ได้ยินคำแนะนำแบบนี้จาก [ch_leon] — โดยเฉพาะหลังจากที่แทบจะโกหกเขาไป — แต่ฉันก็ไม่คิดจะพูดอะไร"
 
 # game/scripts/days/day 4.rpy:401
 
@@ -533,7 +533,7 @@ translate thai day4_leonarrival_c33ad28a:
 translate thai day4_leonarrival_f4951875:
 
     # n "…Great, I had been spacing out again."
-    n "...เยี่ยมเลย ฉันเพี้ยนไปอีกแล้ว"
+    n "...เยี่ยมเลย ฉันเหม่อไปอีกแล้ว"
 
 # game/scripts/days/day 4.rpy:409
 
@@ -575,7 +575,7 @@ translate thai day4_leonarrival_8ad4875f:
 translate thai day4_leonarrival_d6ff44cf:
 
     # l "He's not? Then what was that all about the other day? He sure looked all cosied up with you at the pier."
-    l "ไม่ใช่เหรอครับ? แล้วเมื่อวันก่อนมันเรื่องอะไร? เขาดูซึ้งซับกับคุณที่ท่าเรือเหมือนกันนะ"
+    l "ไม่ใช่เหรอครับ? แล้วเมื่อวันก่อนมันเรื่องอะไร? เขาดูซบชิดกับคุณที่ท่าเรือเหมือนกันนะ"
 
 # game/scripts/days/day 4.rpy:419
 
@@ -638,7 +638,7 @@ translate thai day4_leonarrival_246c548e:
 translate thai day4_leonarrival_547280d5:
 
     # n "But as she draws near, she clumsily trips on a stray piece of cobble and tumbles forward."
-    n "แต่พอเธอเข้ามาใกล้ เธอก็สะดุดหินทางเดินที่หลุดมาแล้วล้มทะลุมไปข้างหน้า"
+    n "แต่พอเธอเข้ามาใกล้ เธอก็สะดุดหินทางเดินที่หลุดมาแล้วล้มลงไปข้างหน้า"
 
 # game/scripts/days/day 4.rpy:433
 
@@ -659,7 +659,7 @@ translate thai day4_leonarrival_38dd5843:
 translate thai day4_leonarrival_aa940fca:
 
     # n "Almost effortlessly, he reaches out to catch her — almost like those cliche romance movies — except… Not at all, because [ch_teo] was allergic to anything romantic."
-    n "เขาเอื้อมมือไปรับเธอแทบจะไม่ต้องออกแรง — เหมือนหนังรักน้ำเน่าโคลนิคยังไงยังงั้น — ยกเว้นว่า... ไม่เลยสักนิด เพราะ [ch_teo] แพ้ทุกอย่างที่โรแมนติก"
+    n "เขาเอื้อมมือไปรับเธอแทบจะไม่ต้องออกแรง — เหมือนหนังรักน้ำเน่าตามสูตรเลย — ยกเว้นว่า... ไม่เลยสักนิด เพราะ [ch_teo] แพ้ทุกอย่างที่โรแมนติก"
 
 # game/scripts/days/day 4.rpy:447
 

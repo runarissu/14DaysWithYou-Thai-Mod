@@ -22,7 +22,7 @@ translate thai day4_aquariumscene_b07cb358:
 translate thai day4_aquariumscene_f4c09d98:
 
     # n "But… Seeing [ch_elanor] so happy… It meant that my stalker didn't do anything to her, and I couldn't help but let out a comforting sigh at the thought."
-    n "แต่… ได้เห็น [ch_elanor] ดีใจแบบนี้… ก็แปลว่าสตอลเกอร์ของฉันไม่ได้ทำอะไรเธอ คิดได้แบบนั้นก็ทำให้ฉันถอนหายใจโล่งๆ ออกมาเผอิญ"
+    n "แต่… ได้เห็น [ch_elanor] ดีใจแบบนี้… ก็แปลว่าสตอล์กเกอร์ของฉันไม่ได้ทำอะไรเธอ คิดได้แบบนั้นก็ทำให้ฉันถอนหายใจโล่งๆ ออกมาเผอิญ"
 
 # game/scripts/days/day 4.rpy:470
 
@@ -43,7 +43,7 @@ translate thai day4_aquariumscene_675bb4b3:
 translate thai day4_aquariumscene_ea3cbb3b:
 
     # n "Heh, I suppose it's my stalker's fault for not being more thorough with their passive-aggressive letter for me. Maaaybe if they were more—"
-    n "เฮอะ ก็ว่าไป สตอลเกอร์ของฉันนี่แหละที่ผิด ที่เขียนจดหมายประชดประชันมาไม่ละเอียดพอ ถ้าเขาทำให้มัน—"
+    n "เฮอะ ก็ว่าไป สตอล์กเกอร์ของฉันนี่แหละที่ผิด ที่เขียนจดหมายประชดประชันมาไม่ละเอียดพอ ถ้าเขาทำให้มัน—"
 
 # game/scripts/days/day 4.rpy:473
 
@@ -260,14 +260,14 @@ translate thai day4_aquariumscene_1a96e10e:
 translate thai day4_aquariumscene_e0d53e76:
 
     # n "He could've gone without the nonchalant, smug look on his face, but I wasn't about to say anything when he was {b}literally{/b} about to pay for my admission fee."
-    n "เขาจะไม่ทำหน้าเบะหวานแบบนั้นก็ได้ แต่ฉันก็ไม่กะจะพูดอะไรหรอกนะ ตอนที่เขากำลังจะ{b}จ่ายเงิน{/b}ค่าเข้าชมแทนฉันอยู่เลย"
+    n "เขาจะไม่ทำหน้าเฉยเมยๆ หยิ่งๆ แบบนั้นก็ได้ แต่ฉันก็ไม่คิดจะพูดอะไรหรอกนะ ตอนที่เขากำลังจะ{b}จ่ายเงิน{/b}ค่าเข้าชมแทนฉันอยู่เลย"
 
 # game/scripts/days/day 4.rpy:539
 
 translate thai day4_aquariumscene_12393835:
 
     # n "But before I could (begrudgingly) thank him, [ch_elanor]'s excited voice cuts me off."
-    n "แต่ก่อนที่ฉันจะ (อย่างไม่ค่อยเต็มใจ) ได้ขอบคุณเขา เสียงตื่นเต้นของ [ch_elanor] ก็ดัดแทรกขึ้นมา"
+    n "แต่ก่อนที่ฉันจะ (อย่างไม่ค่อยเต็มใจ) ได้ขอบคุณเขา เสียงตื่นเต้นของ [ch_elanor] ก็พูดแทรกขึ้นมา"
 
 # game/scripts/days/day 4.rpy:541
 
@@ -393,7 +393,7 @@ translate thai day4_aquariumscene_8a115b22:
 translate thai day4_aquariumscene_8e5a8e69:
 
     # n "Before I can refuse, [ch_leon] shoves a stack of small bills into my palm and closes his hands around it."
-    n "ก่อนที่ฉันจะทันปฏิเสธ [ch_leon] ก็ยัดธนบัตรหมวดเล็กๆ กองหนึ่งลงในมือฉันแล้วกุมมือฉันไว้"
+    n "ก่อนที่ฉันจะทันปฏิเสธ [ch_leon] ก็ยัดธนบัตรใบเล็กๆ กองหนึ่งลงในมือฉันแล้วกุมมือฉันไว้"
 
 # game/scripts/days/day 4.rpy:574
 
@@ -519,7 +519,7 @@ translate thai day4_aquariumscene_263a4908:
 translate thai day4_aquariumscene_bd1c87d9:
 
     # n "Turning away, I decide to channel my interest into picking out a roadmap from the brochure stand instead. If [ch_teo] and [ch_elanor] were planning on getting cosy with each other, I needed to plan my escape route."
-    n "ฉันหันหลังกลับแล้วตัดสินใจเอาความสนใจไปจับสายแผนที่จากแท่นวางแผ่นพับแทน ถ้า [ch_teo] กับ [ch_elanor] จะออดอ้อนกันต่อ ฉันก็ต้องวางแผนทางหนีเอาไว้"
+    n "ฉันหันหลังกลับแล้วตัดสินใจเอาความสนใจไปจับสายแผนที่จากแท่นวางแผ่นพับแทน ถ้า [ch_teo] กับ [ch_elanor] จะใกล้ชิดกันต่อ ฉันก็ต้องวางแผนทางหนีเอาไว้"
 
 # game/scripts/days/day 4.rpy:619
 
@@ -624,7 +624,7 @@ translate thai day4_aquariumscene_2c925764:
 translate thai day4_aquariumscene_0a716008:
 
     # n "The fond memory from our time at the pier comes to mind, and I find myself thinking back to when [ch_ren] affectionately gave me that nickname."
-    n "ความทรงจำดีๆ ตอนอยู่ที่ท่าเรือก็หวนกลับมา แล้วฉันก็นึกถึงตอนที่ [ch_ren] ตั้งชื่อเล่นให้ฉันด้วยความหมายมุ่งรัก"
+    n "ความทรงจำดีๆ ตอนอยู่ที่ท่าเรือก็หวนกลับมา แล้วฉันก็นึกถึงตอนที่ [ch_ren] ตั้งชื่อเล่นให้ฉันด้วยความเอ็นดู"
 
 # game/scripts/days/day 4.rpy:648
 

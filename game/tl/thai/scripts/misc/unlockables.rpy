@@ -106,7 +106,7 @@ translate thai unlockables_ce9ba8a3:
 translate thai unlockables_5c64cfa0:
 
     # centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}sorry. but it smells just like you,\nand i've missed you so much.{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
-    centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}ขอโทษนะ แต่มันมีกลิ่นเหมือนคุณเลย\nแล้วฉันก็คิดถึงคุณมากขนาดนั้น{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
+    centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}ขอโทษนะ แต่มันมีกลิ่นเหมือนคุณเลย\nแล้วฉันก็คิดถึงคุณมากเลย{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
 
 # game/scripts/misc/unlockables.rpy:39
 translate thai unlockables_4ab03d84:
@@ -268,7 +268,7 @@ translate thai unlockables_22c8f8c5:
 translate thai unlockables_2c4452d1:
 
     # centered "{sc=3}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}So don't hide from me ^^{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
-    centered "{sc=3}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}เลยอย่าซ่อนจากฉันนะ ^^{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
+    centered "{sc=3}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}งั้นอย่าซ่อนจากฉันนะ ^^{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
 
 # game/scripts/misc/unlockables.rpy:81
 translate thai unlockables_c826cd2b:

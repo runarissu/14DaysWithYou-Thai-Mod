@@ -127,7 +127,7 @@ translate thai day4_fillerscene_29a722f7:
 translate thai day4_fillerscene_c9ed0da6:
 
     # e "Hehe! Should I tell you {i}aaaall{/i} about how our lovely [ch_angel] has a secret admirer? And how he often rents out [their] books from the li—"
-    e "ฮีฮี! อยากให้ฉันเล่า{b}ทั้งหมดเลย{/b}เรื่องที่ [ch_angel] ของเรามีคนแอบชอบไหมล่ะ? แล้วก็เรื่องที่เค้ามักจะไปยืมหนังสือของเขาจากห้องสมุด—"
+    e "ฮีฮี! อยากให้ฉันเล่า{i}ทั้งหมดเลย{/i}เรื่องที่ [ch_angel] ของเรามีคนแอบชอบไหมล่ะ? แล้วก็เรื่องที่เค้ามักจะไปยืมหนังสือของเขาจากห้องสมุด—"
 
 # game/scripts/days/day 4.rpy:900
 
@@ -169,7 +169,7 @@ translate thai day4_fillerscene_87fdb5ca:
 translate thai day4_fillerscene_783b25dd:
 
     # n "[ch_elanor] seemed all too happy to snap pictures of everything; ranging from [ch_ren] and I petting some stingrays, [ch_teo] getting splashed by a seal, and all the giant sea creatures that swam around in the overhead tanks."
-    n "[ch_elanor] ดูจะสนุกกับการถ่ายรูปทุกอย่างมาก ตั้งแต่ฉันกับ [ch_ren] ลูบปลากระเบน [ch_teo] โดนราสเซลน้ำกระเด็น ไปจนถึงสัตว์ทะเลตัวใหญ่ๆ ที่ว่ายอยู่ในตู้เลี้ยงเหนือศีรษะ"
+    n "[ch_elanor] ดูจะสนุกกับการถ่ายรูปทุกอย่างมาก ตั้งแต่ฉันกับ [ch_ren] ลูบปลากระเบน [ch_teo] โดนแมวน้ำสาดน้ำใส่ ไปจนถึงสัตว์ทะเลตัวใหญ่ๆ ที่ว่ายอยู่ในตู้เลี้ยงเหนือศีรษะ"
 
 # game/scripts/days/day 4.rpy:922
 
@@ -316,7 +316,7 @@ translate thai day4_fillerscene_e37de543:
 translate thai day4_fillerscene_ebe0c821:
 
     # y "Aww, is the big baby hungry? Didn't eat breakfast this morning, did you?"
-    y "อ๊ะ หนูน้อยหิวเหรอ? เช้านี้ไม่กินข้าวเช้าหรอกหรือ?"
+    y "อ๊ะ เด็กตัวใหญ่หิวเหรอ? เช้านี้ไม่กินข้าวเช้าหรอกหรือ?"
 
 # game/scripts/days/day 4.rpy:969
 
@@ -638,7 +638,7 @@ translate thai day4_teocloset_10a70b92:
 translate thai day4_teocloset_a0356178:
 
     # y "At one point, I had to ask [ch_jae] to take me home because you didn't come back!"
-    y "มีครั้งนึง ฉันต้องให้ [ch_jae พากลับบ้านเพราะแกไม่กลับมา!"
+    y "มีครั้งนึง ฉันต้องให้ [ch_jae] พากลับบ้านเพราะแกไม่กลับมา!"
 
 # game/scripts/days/day 4.rpy:1066
 
