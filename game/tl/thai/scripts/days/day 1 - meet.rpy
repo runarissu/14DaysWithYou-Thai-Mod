@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-09-05 03:10
+# TODO: Translation updated at 2026-09-05 03:10
 
 # game/scripts/days/day 1.rpy:46
 translate thai day1_meetviolet_d847b6e1:
@@ -662,7 +662,6 @@ translate thai day1_meetren_6f66f3a0:
 
 # game/scripts/days/day 1.rpy:459
 
-﻿# TODO: Translation updated at 2026-09-05 03:10
 
 # game/scripts/days/day 1.rpy:46
 translate thai day1_meetren_72bb2370:
@@ -1324,7 +1323,6 @@ translate thai day1_meetren_56fef732:
     # r "{size=-6}And it's really, really, {i}reeeeeeally{/i} fun to say. Especially over and over again!{/size}"
     r "{size=-6}แถมมันก็สนุกมากๆ จริงๆ จังๆ {i}มากกกกกกกก{/i}ที่ได้เรียก ยิ่งเรียกซ้ำๆ ยิ่งสนุก!{/size}"
 
-﻿# TODO: Translation updated at 2026-09-05 03:10
 
 # game/scripts/days/day 1.rpy:46
 translate thai day1_meetren_cbde328f:

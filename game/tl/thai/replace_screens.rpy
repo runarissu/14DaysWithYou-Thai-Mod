@@ -4,11 +4,19 @@
 ## Adds a small language toggle button in the bottom-left corner of the screen.
 ## Uses config.overlay_screens so it shows on every screen without overriding
 ## any existing game screens.
-##
-## The toggle is minimal and unobtrusive — just two text buttons.
 ################################################################################
 
-## Small floating language toggle, bottom-left corner
+style thai_lang_button is button:
+    xsize 50
+    ysize 30
+
+style thai_lang_button_text is button_text:
+    size 16
+    color "#888888"
+    hover_color "#ffffff"
+    selected_idle_color "#9D64FD"
+    selected_hover_color "#9D64FD"
+
 screen thai_language_toggle():
     zorder 200
     frame:
@@ -18,21 +26,12 @@ screen thai_language_toggle():
             spacing 10
             textbutton "EN":
                 action Language(None)
-                text_size 16
-                text_color "#888888"
-                selected_idle_color "#9D64FD"
-                selected_hover_color "#9D64FD"
-                hovered_color "#ffffff"
+                style "thai_lang_button"
             textbutton "ไทย":
                 action Language("thai")
+                style "thai_lang_button"
                 text_font "tl/thai/NotoSansThai-UI.ttf"
-                text_size 16
-                text_color "#888888"
-                selected_idle_color "#9D64FD"
-                selected_hover_color "#9D64FD"
-                hovered_color "#ffffff"
 
-## Register as overlay screen — shows on all screens
 init python:
     if "thai_language_toggle" not in config.overlay_screens:
         config.overlay_screens.append("thai_language_toggle")

@@ -295,7 +295,7 @@ translate thai deadend3_04e9e665:
 translate thai deadend3_f72d5367:
 
     # rfade "{renvoid=1}this time, i want you to {u}agree{/u} to go on a date\nwith that deadbeat "friend" of yours.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=1}คราวนี้ ฉันอยากให้คุณ{u}ยอม{/u}ไปออกเดท\nกับ "เพื่อน" ขี้เกียจของคุณ{/renvoid}" with DistortDissolve
+    rfade "{renvoid=1}คราวนี้ ฉันอยากให้คุณ{u}ยอม{/u}ไปออกเดท\nกับ \"เพื่อน\" ขี้เกียจของคุณ{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:219
 

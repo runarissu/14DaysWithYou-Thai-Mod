@@ -1,34 +1,44 @@
-2026-09-05 15:31:10 UTC
+2026-09-05 15:32:10 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.2.26010301
 
+14 Days With You
+5.5
+Built at 2026-04-05 02:03:39 UTC
 
-Full traceback:
-  File "renpy/bootstrap.py", line 401, in bootstrap
-    renpy.main.main()
-    ~~~~~~~~~~~~~~~^^
-  File "renpy/main.py", line 367, in main
-    renpy.loader.index_files()
-    ~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "renpy/loader.py", line 252, in index_files
-    for _dir, fn in listdirfiles():
-                    ~~~~~~~~~~~~^^ 
-  File "renpy/loader.py", line 485, in listdirfiles
-    scandirfiles()
-    ~~~~~~~~~~~~^^
-  File "renpy/loader.py", line 374, in scandirfiles
-    i(add, seen)
-    ~^^^^^^^^^^^
-  File "renpy/loader.py", line 466, in scandirfiles_from_archives
-    index_archives()
-    ~~~~~~~~~~~~~~^^
-  File "renpy/loader.py", line 279, in index_archives
-    index = handler.read_index(f)
-            ~~~~~~~~~~~~~~~~~~^^^
-  File "renpy/loader.py", line 160, in read_index
-    offset = int(l[8:24], 16)
-             ~~~^^^^^^^^^^^^^
-ValueError: invalid literal for int() with base 16: b'000000583ed2 123'
+Early init took 32 ms
+Loading error handling took 26 ms
+Loading script took 705 ms
+Loading save slot metadata took 23 ms
+Loading persistent took 0 ms
 
-Before loading the script.
-ValueError: invalid literal for int() with base 16: b'000000583ed2 123'
+File "game/tl/thai/replace_screens.rpy", line 23: 'selected_idle_color' is not a keyword argument or valid child of the textbutton statement.
+    selected_idle_color "#9D64FD"
+                       ^
+
+File "game/tl/thai/scripts/days/day 0 - deadend3.rpy", line 298: end of line expected.
+    rfade "{renvoid=1}คราวนี้ ฉันอยากให้คุณ{u}ยอม{/u}ไปออกเดท\nกับ "เพื่อน" ขี้เกียจของคุณ{/renvoid}" with DistortDissolve
+                                      ^
+
+File "game/tl/thai/scripts/days/day 1 - meet.rpy", line 665: expected statement.
+    ﻿
+    ^
+
+File "game/tl/thai/scripts/days/day 1 - meet.rpy", line 1327: expected statement.
+    ﻿
+    ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 315 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 610.62'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 120, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
