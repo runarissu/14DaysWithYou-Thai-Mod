@@ -1,26 +1,33 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While running game code:
-  File "game/tl/thai/scripts/common/options.rpy", line 6, in script
-    old "14 Days With You"
-Exception: A translation for "14 Days With You" already exists at game/tl/thai/common.rpy:10.
+While loading the script.
+renpy.script.ScriptError: Name ('game/tl/thai/common.rpy', 621169801, 0) is defined twice, at game/tl/thai/common.rpy:6 and game/tl/thai/common.rpy:6.
 
 -- Full Traceback ------------------------------------------------------------
 
 Traceback (most recent call last):
-  File "game/tl/thai/scripts/common/options.rpy", line 6, in script
-    old "14 Days With You"
-  File "renpy/ast.py", line 3046, in execute
-    renpy.translation.add_string_translation(self.language, self.old, self.new, newloc)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/translation/__init__.py", line 593, in add_string_translation
-    stl.add(old, new, newloc)
-    ~~~~~~~^^^^^^^^^^^^^^^^^^
-  File "renpy/translation/__init__.py", line 539, in add
-    raise Exception('A translation for "{}" already exists at {}:{}.'.format(quote_unicode(old), fn, line))
-Exception: A translation for "14 Days With You" already exists at game/tl/thai/common.rpy:10.
+  File "renpy/bootstrap.py", line 401, in bootstrap
+    renpy.main.main()
+    ~~~~~~~~~~~~~~~^^
+  File "renpy/main.py", line 412, in main
+    renpy.game.script.load_script()  # sets renpy.game.script.
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^                           
+  File "renpy/script.py", line 456, in load_script
+    self.load_appropriate_file(".rpyc", ["_ren.py", ".rpy"], dir, fn, initcode)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/script.py", line 1082, in load_appropriate_file
+    self.finish_load(stmts, initcode, filename=lastfn)  # type: ignore
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                
+  File "renpy/script.py", line 713, in finish_load
+    check_name(node)
+    ~~~~~~~~~~^^^^^^
+  File "renpy/script.py", line 674, in check_name
+    raise ScriptError(
+    ...<8 lines>...
+    )
+renpy.script.ScriptError: Name ('game/tl/thai/common.rpy', 621169801, 0) is defined twice, at game/tl/thai/common.rpy:6 and game/tl/thai/common.rpy:6.
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.2.26010301
-14 Days With You 5.5
-Sat Sep  5 22:35:14 2026
+ 
+Sat Sep  5 22:56:14 2026
