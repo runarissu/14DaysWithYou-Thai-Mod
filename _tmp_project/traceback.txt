@@ -1,0 +1,28 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/scripts/misc/other.rpy", line 4139, in script
+    init -20 python:
+  File "game/scripts/misc/other.rpy", line 4140, in <module>
+    import discord_rpc
+ModuleNotFoundError: No module named 'discord_rpc'
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/scripts/misc/other.rpy", line 4139, in script
+    init -20 python:
+  File "renpy/ast.py", line 1187, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1273, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/scripts/misc/other.rpy", line 4140, in <module>
+    import discord_rpc
+ModuleNotFoundError: No module named 'discord_rpc'
+
+Windows-11-10.0.26200-SP0 AMD64
+Ren'Py 8.5.2.26010301
+14 Days With You 5.5
+Sat Sep  5 03:10:31 2026

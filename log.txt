@@ -1,0 +1,33 @@
+2026-09-04 20:09:50 UTC
+Windows-11-10.0.26200-SP0
+Ren'Py 8.5.2.26010301
+
+14 Days With You
+5.5
+Built at 2026-04-05 02:03:39 UTC
+
+Early init took 31 ms
+Loading error handling took 19 ms
+Loading script took 245 ms
+Loading save slot metadata took 11 ms
+Loading persistent took 0 ms
+Set script version to: (8, 5, 2)
+Running init code took 61 ms
+Loading analysis data took 9 ms
+Analyze and compile ATL took 17 ms
+Reloading save slot metadata took 2 ms
+Dump and make backups took 0 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 33 ms
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 165 ms
+Init translation took 2 ms
+Cleaning stores took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 6 ms
+Save screen analysis took 16 ms
+Save pyanalysis took 0 ms
+Save bytecode took 26 ms

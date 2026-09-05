@@ -1,0 +1,38 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/tl/thai/replace_pronouns.rpy", line 12, in script
+    init 1 python:
+  File "game/tl/thai/replace_pronouns.rpy", line 45, in <module>
+    refresh_pronouns()
+    ~~~~~~~~~~~~~~~~^^
+  File "game/tl/thai/replace_pronouns.rpy", line 19, in refresh_pronouns
+    _original_refresh_pronouns()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "game/scripts/misc/other.rpy", line 4398, in refresh_pronouns
+NameError: name 'pronoun' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/tl/thai/replace_pronouns.rpy", line 12, in script
+    init 1 python:
+  File "renpy/ast.py", line 1187, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1273, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/tl/thai/replace_pronouns.rpy", line 45, in <module>
+    refresh_pronouns()
+    ~~~~~~~~~~~~~~~~^^
+  File "game/tl/thai/replace_pronouns.rpy", line 19, in refresh_pronouns
+    _original_refresh_pronouns()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "game/scripts/misc/other.rpy", line 4398, in refresh_pronouns
+NameError: name 'pronoun' is not defined
+
+Windows-11-10.0.26200-SP0 AMD64
+Ren'Py 8.5.2.26010301
+14 Days With You 5.5
+Sat Sep  5 03:09:33 2026

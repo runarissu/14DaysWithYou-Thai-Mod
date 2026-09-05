@@ -1,0 +1,30 @@
+2026-09-04 20:10:58 UTC
+Windows-11-10.0.26200-SP0
+Ren'Py 8.5.2.26010301
+
+Early init took 30 ms
+Loading error handling took 19 ms
+Loading script took 1653 ms
+Loading save slot metadata took 11 ms
+Loading persistent took 0 ms
+Set script version to: None (alternate path)
+Running init code took 91 ms
+Loading analysis data took 10 ms
+Analyze and compile ATL took 16 ms
+Reloading save slot metadata took 1 ms
+Backing up script files to 'C:\\Users\\lunas\\AppData\\Roaming/RenPy/backups\\_tmp_project':
+Dump and make backups took 35 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 36 ms
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 170 ms
+Init translation took 0 ms
+Cleaning stores took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 8 ms
+Save screen analysis took 15 ms
+Save pyanalysis took 0 ms
+Save bytecode took 32 ms

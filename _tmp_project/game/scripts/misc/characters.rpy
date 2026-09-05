@@ -1,0 +1,56 @@
+################################################################################
+## CHARACTER INFO / DEFINE
+################################################################################
+define n = Character (None, what_prefix="{i}", what_suffix="{/i}", callback=blip2, ctc="ctc", ctc_pause="ctc")
+define c = Character ("Conan", color="#98d2ff", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define e = Character ("Elanor", color="#d8c365", what_prefix="\"", what_suffix="\"", callback=blip3, ctc="ctc", ctc_pause="ctc")
+define j = Character ("Jae", color="#faa97e", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define k = Character ("Kiara", color="#b18f84", what_prefix="\"", what_suffix="\"", callback=blip3, ctc="ctc", ctc_pause="ctc")
+define l = Character ("Leon", color="#ee6c6d", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define m = Character ("Moth", color="#5269b9", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define o = Character ("Olivia", color="#a8a7a7", what_prefix="\"", what_suffix="\"", callback=blip3, ctc="ctc", ctc_pause="ctc")
+define r = Character ("Ren", color="#ff66cb", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define t = Character ("Teo", color="#93b482", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define v = Character ("Violet", color="#c6b3f8", what_prefix="\"", what_suffix="\"", callback=blip3, ctc="ctc", ctc_pause="ctc")
+define y = Character ("[player]", color="#9d64fd", what_prefix="\"", what_suffix="\"", callback=blip2, ctc="ctc", ctc_pause="ctc")
+
+## Side characters
+define npc = Character ("???", color="#f8f8f8", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define rpc = Character ("???", color="#ff66cb", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define b = Character ("Beau", color="#8ac36f", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define h = Character ("Haruka", color="#9fc4d3", what_prefix="\"", what_suffix="\"", callback=blip3, ctc="ctc", ctc_pause="ctc")
+define s = Character ("Saint", color="#f8d4e0", what_prefix="\"", what_suffix="\"", callback=blip3, ctc="ctc", ctc_pause="ctc")
+define na = Character ("Nate", color="#f7e0a0", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define ro = Character ("Rosie", color="#73B6D3", what_prefix="\"", what_suffix="\"", callback=blip3, ctc="ctc", ctc_pause="ctc")
+define fr = Character ("Fox Ren", color="#464a74", what_prefix="\"", what_suffix="\"", callback=blip1, ctc="ctc", ctc_pause="ctc")
+define gh = Character ("u'/╳j**\╳..̷̫͆", color="#850106", what_prefix="\"", what_suffix="\"", callback=blip5, ctc="ctc", ctc_pause="ctc")
+
+## Other characters
+define it = Character ("", what_color="#850106", what_prefix="{font=fonts/Underdog-Regular.ttf}{size=+30}", what_suffix="{/size}{/font}", kind=centered, window_xalign=0.5, window_left_padding=300, window_right_padding=300, what_xalign=0.5, callback=blip5)
+define rfade = Character (kind=centered, window_xalign=0.5, window_left_padding=300, window_right_padding=300, what_xalign=0.5)
+
+## text type beat
+define rt = Character ("Ren", color="#ff66cb", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_ren")
+define mt = Character ("Moth", color="#5269b9", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_moth")
+define vt = Character ("Violet", color="#c6b3f8", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_violet")
+define et = Character ("Elanor", color="#d8c365", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_elanor")
+define ct = Character ("Conan", color="#98d2ff", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_conan")
+define jt = Character ("Jae", color="#faa97e", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_jae")
+define lt = Character ("Leon", color="#ee6c6d", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_leon")
+define tt = Character ("Teo", color="#93b482", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_teo")
+define ot = Character ("Olivia", color="#a8a7a7", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_olivia")
+define kt = Character ("Kiara", color="#b18f84", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_kiara")
+define npct = Character ("???", color="#f8f8f8", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip4, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_default")
+
+## call type beat (this originally looked vastly different compared to text type beat but now they're literally almost the same oopsies)
+define rcall = Character ("Ren", color="#ff66cb", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip1, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_ren")
+define mcall = Character ("Moth", color="#5269b9", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip1, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_moth")
+define vcall = Character ("Violet", color="#c6b3f8", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip3, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_violet")
+define ecall = Character ("Elanor", color="#d8c365", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip3, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_elanor")
+define ccall = Character ("Conan", color="#98d2ff", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip1, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_conan")
+define jcall = Character ("Jae", color="#faa97e", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip1, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_jae")
+define lcall = Character ("Leon", color="#ee6c6d", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip1, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_leon")
+define tcall = Character ("Teo", color="#93b482", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip1, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_teo")
+define ocall = Character ("Olivia", color="#a8a7a7", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip3, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_olivia")
+define kcall = Character ("Kiara", color="#b18f84", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip3, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_kiara")
+define npccall = Character ("???", color="#f8f8f8", what_prefix="\"{i}", what_suffix="{/i}\"", callback=blip2, ctc="ctc", ctc_pause="ctc", window_background=Frame("gui/ui/texting.png", xsize=1920, ysize=450, xalign=0.5, yalign=1.0),image="side_default")
