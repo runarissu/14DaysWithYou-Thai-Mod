@@ -542,7 +542,7 @@ translate thai strings:
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "การโหลดจะทำให้ความคืบหน้าที่ยังไม่ได้บันทึกหายไป\nคุณแน่ใจหรือไม่ว่าต้องการทำเช่นนี้?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
@@ -550,7 +550,7 @@ translate thai strings:
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "คุณแน่ใจหรือไม่ว่าต้องการกลับเมนูหลัก?\nความคืบหน้าที่ยังไม่ได้บันทึกจะหายไป"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"

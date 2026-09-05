@@ -93,6 +93,8 @@ init python:
         config.language_callbacks[None] = [ ]
     config.language_callbacks[None].append(_thai_reset_fonts)
 
-    # Also apply on init if the game starts in Thai
-    if _preferences.language == "thai":
-        _thai_setup_fonts()
+    # Always apply font replacement at init — composite fonts have both
+    # Thai and Latin glyphs, so English text still renders correctly.
+    # This ensures fonts are ready before any screen (including confirm)
+    # is displayed, even before language callbacks fire.
+    _thai_setup_fonts()
