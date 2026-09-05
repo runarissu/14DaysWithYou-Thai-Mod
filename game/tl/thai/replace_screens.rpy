@@ -4,6 +4,7 @@
 ## Adds a small language toggle button in the top-left corner of the screen.
 ## The toggle is always visible so the player can switch between English
 ## and Thai at any time.
+## Default language is set to Thai on first launch.
 ################################################################################
 
 style thai_lang_button is button:
@@ -32,12 +33,14 @@ screen thai_language_toggle():
                 style "thai_lang_button"
                 text_font "tl/thai/NotoSansThai-UI.ttf"
 
-## Show the overlay screen at startup and keep it shown
-init python:
+## --- Set default language to Thai on first launch ---
+init -100 python:
+    if persistent._thai_first_launch is None:
+        persistent._thai_first_launch = True
+        _preferences.language = "thai"
+
+## --- Register overlay screen so it's always visible ---
+## config.overlay_screens makes the screen show on top of every other screen
+init -1 python:
     if "thai_language_toggle" not in config.overlay_screens:
         config.overlay_screens.append("thai_language_toggle")
-
-    def _thai_show_toggle():
-        renpy.show_screen("thai_language_toggle")
-
-    config.start_callbacks = config.start_callbacks + [_thai_show_toggle]
