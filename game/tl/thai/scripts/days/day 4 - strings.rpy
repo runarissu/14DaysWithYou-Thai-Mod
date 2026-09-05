@@ -30,7 +30,7 @@ translate thai strings:
 
     # game/scripts/days/day 4.rpy:130
     old "I also have coily hair"
-    new "ผมเป็นลองแน่นด้วย"
+    new "ผมขมิ้นแน่นด้วย"
 
     # game/scripts/days/day 4.rpy:133
     old "I also have braided hair"
@@ -134,7 +134,7 @@ translate thai strings:
 
     # game/scripts/days/day 4.rpy:1760
     old "\"No, they're not good for each other.\""
-    new "\"ไม่ คนสองคนนั้นไม่เหมาะกันหรอก\""
+    new "\"ไม่ สองคนนั้นไม่เหมาะกันหรอก\""
 
     # game/scripts/days/day 4.rpy:1770
     old "\"I'm not really sure, to be honest.\""
@@ -166,7 +166,7 @@ translate thai strings:
 
     # game/scripts/days/day 4.rpy:2152
     old "I feel sick just hearing about it"
-    new "ได้ยินปุ๊บรู้สึกไม่สบายเลย"
+    new "ได้ยินปุ๊บก็รู้สึกไม่สบายแล้ว"
 
     # game/scripts/days/day 4.rpy:2285
     old "[rh_o]Be honest[rh_c]"

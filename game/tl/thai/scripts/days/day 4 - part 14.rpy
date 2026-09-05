@@ -113,7 +113,7 @@ translate thai day4_acceptoffer_719e0589:
 translate thai day4_acceptoffer_4103ac6b:
 
     # n "As if picking up on my sudden silence, he clears his throat and gestures towards the items still laid out on the table in front of us."
-    n "เหมือนจะรู้ตัวว่าฉันเงียบไปกะทันหัน เขาก็แคลียร์คอแล้วชี้ไปที่ของที่ยังวางอยู่บนโต๊ะตรงหน้า"
+    n "เหมือนจะรู้ตัวว่าฉันเงียบไปกะทันหัน เขาก็กระแอมแล้วชี้ไปที่ของที่ยังวางอยู่บนโต๊ะตรงหน้า"
 
 # game/scripts/days/day 4.rpy:2755
 
@@ -239,7 +239,7 @@ translate thai day4_acceptoffer_d93aa7a0:
 translate thai day4_acceptoffer_f6aebbcd:
 
     # y "Pfft! No offence [ch_ren], but I can't imagine someone like you mowing grass."
-    y "พู่! ไม่ได้ว่าอะไรนะ [ch_ren] แต่ฉันนึกภาพคุณตัดหญ้าไม่ออกจริงๆ"
+    y "พุท! ไม่ได้ว่าอะไรนะ [ch_ren] แต่ฉันนึกภาพคุณตัดหญ้าไม่ออกจริงๆ"
 
 # game/scripts/days/day 4.rpy:2784
 
@@ -267,7 +267,7 @@ translate thai day4_acceptoffer_31b60e2e:
 translate thai day4_acceptoffer_e3cac739:
 
     # r "…Maybe a bit younger?"
-    r "…สักหน่อยมั้ง?"
+    r "…เด็กกว่านั้นสักหน่อยมั้ง?"
 
 # game/scripts/days/day 4.rpy:2790
 
@@ -295,7 +295,7 @@ translate thai day4_acceptoffer_b2f65e9b:
 translate thai day4_acceptoffer_0aba1078:
 
     # y "…Oh? Well, I really appreciate the offer [ch_ren], but I gotta tough this one out on my own."
-    y "…อ่อ? ก็ ขอบคุณมากนะที่เสนอ [ch_ren] แต่เรื่องนี้ฉันต้องอดทนสู้เอง"
+    y "…อ่อ? ก็ ขอบคุณมากนะที่เสนอให้ [ch_ren] แต่เรื่องนี้ฉันต้องอดทนสู้เอง"
 
 # game/scripts/days/day 4.rpy:2797
 
@@ -323,7 +323,7 @@ translate thai day4_acceptoffer_c79bfcac_1:
 translate thai day4_acceptoffer_7b16e2fe:
 
     # n "Deciding not to get in the way, I curl up on the couch with my food and simply observe him."
-    n "ฉันตัดสินใจไม่ไปเป็นพวง ก็เลยนั่งขดตัวบนโซฟากับอาหารแล้วแค่มองเขาทำ"
+    n "ฉันตัดสินใจไม่ไปเกะกะ ก็เลยนั่งขดตัวบนโซฟากับอาหารแล้วแค่มองเขาทำ"
 
 # game/scripts/days/day 4.rpy:2803
 
@@ -337,7 +337,7 @@ translate thai day4_acceptoffer_75ed53d5:
 translate thai day4_acceptoffer_3dfeddb0:
 
     # n "And soon enough, the events of the evening slowly draw out as I start to feel the telltale signs of weariness take hold of me."
-    n "ไม่นานนัก เหตุการณ์ยามค่ำคืนก็ค่อยๆ เลือนหายไป ขณะที่ฉันเริ่มรู้สึกถึงสัญญาณบอกความเหนื่อยล้าเข้าครอบงำ"
+    n "ไม่นานนัก เหตุการณ์ยามค่ำคืนก็ค่อยๆ ผ่านไป ขณะที่ฉันเริ่มรู้สึกถึงสัญญาณบอกความเหนื่อยล้าเข้าครอบงำ"
 
 # game/scripts/days/day 4.rpy:2805
 
@@ -372,7 +372,7 @@ translate thai day4_acceptoffer_c92a204f:
 translate thai day4_acceptoffer_a2d29a13:
 
     # y "Kinda. It's been a long day."
-    y "ก็ง่วงนิดหน่อย วันนี้มันยาวนะ"
+    y "ก็ง่วงนิดหน่อย วันนี้เหนื่อยมาทั้งวันแล้ว"
 
 # game/scripts/days/day 4.rpy:2812
 
@@ -456,21 +456,21 @@ translate thai day4_acceptoffer_8e6e6a5c:
 translate thai day4_acceptoffer_93024473:
 
     # n "I can't help but playfully roll my eyes at his enthusiasm."
-    n "ฉันกลั้นหัวเราะไม่ไหว ก็เลยกลอกตาใส่ความกระตือรือร้นของเขา"
+    n "ฉันอดไม่ได้ที่จะกลอกตาใส่ความกระตือรือร้นของเขา"
 
 # game/scripts/days/day 4.rpy:2829
 
 translate thai day4_acceptoffer_af3461bf:
 
     # y "Well then. Why don't I get some pillows and blankets and we can camp out here for the night?"
-    y "งั้นเป็นยังไง ฉันไปเอาหมอนกับผ้าห่มมา แล้วเรานอนกันที่นี่ได้มั้ย?"
+    y "งั้นอย่างงี้นะ ฉันไปเอาหมอนกับผ้าห่มมา แล้วเรานอนกันที่นี่ได้มั้ย?"
 
 # game/scripts/days/day 4.rpy:2831
 
 translate thai day4_acceptoffer_7a587c86:
 
     # r "Haha, just like a sleepover?"
-    r "ฮ่าๆ เหมือนค้างคืนเลยเนอะ?"
+    r "ฮ่าๆ เหมือนนอนค้างกับเพื่อนเลยเนอะ?"
 
 # game/scripts/days/day 4.rpy:2832
 
@@ -561,7 +561,7 @@ translate thai day4_acceptoffer_341afd3b:
 translate thai day4_acceptoffer_8a9a7cf9:
 
     # n "Before I know it, my head falls onto his shoulder with a soft thump, and I feel [ch_ren]'s body shake as he lets out a faint laugh. Something moves from the chair next to him before a warm duvet is wrapped around my shoulders."
-    n "ก่อนที่ฉันจะรู้ตัว หัวก็หล่นลงบนไหล่เขาเบาๆ แล้วฉันก็รู้สึกว่าร่างของ [ch_ren] สั่นเล็กน้อยขณะที่เขาหัวเราะเบาๆ มีบางอย่างขยับจากเก้าอี้ข้างๆ เขา ก่อนที่ผ้าห่มอุ่นๆ จะถูกห่มไหล่ให้ฉัน"
+    n "ก่อนที่ฉันจะรู้ตัว หัวก็หล่นลงบนไหล่เขาเบาๆ แล้วฉันก็รู้สึกว่าร่างของ [ch_ren] สั่นเล็กน้อยขณะที่เขาหัวเราะเบาๆ มีบางอย่างขยับจากเก้าอี้ข้างๆ เขา ก่อนที่ผ้าห่มอุ่นๆ จะถูกห่มไว้รอบไหล่ให้ฉัน"
 
 # game/scripts/days/day 4.rpy:2855
 
@@ -582,7 +582,7 @@ translate thai day4_acceptoffer_7143bfe2:
 translate thai day4_acceptoffer_1b1b92bd:
 
     # n "Nostalgia greets me once more, and before my consciousness fades away, I try to chase after the foggy memory that had been plaguing my brain as of late."
-    n "ความคิดถึงครั้งคราวหวนกลับมาอีกครั้ง และก่อนที่จิตสำนึกจะจางหายไป ฉันพยายามไล่ตามความทรงจำที่มัวซัวที่คอยหลอกหลอกสมองฉันมานาน"
+    n "ความคิดถึงครั้งคราวหวนกลับมาอีกครั้ง และก่อนที่จิตสำนึกจะจางหายไป ฉันพยายามไล่ตามความทรงจำที่มัวซัวที่คอยหลอกหลอนสมองฉันมานาน"
 
 # game/scripts/days/day 4.rpy:2860
 
@@ -624,14 +624,14 @@ translate thai day4_acceptoffer_4a938ca8:
 translate thai day4_acceptoffer_f9ced8a5:
 
     # n "With his comforting voice in my mind, I slowly start to slip away."
-    n "ท่ามกลางเสียงอบอุ่นของเขาดังก้องในหัว ฉันก็ค่อยๆ หลุดไป"
+    n "ท่ามกลางเสียงอบอุ่นของเขาดังก้องในใจ ฉันก็ค่อยๆ หลุดไป"
 
 # game/scripts/days/day 4.rpy:2873
 
 translate thai day4_declineoffer_8b68acd4:
 
     # y "I really appreciate the offer, [ch_ren], but I gotta tough this one out on my own."
-    y "ขอบคุณมากนะที่เสนอ [ch_ren] แต่เรื่องนี้ฉันต้องอดทนสู้เอง"
+    y "ขอบคุณมากนะที่เสนอให้ [ch_ren] แต่เรื่องนี้ฉันต้องอดทนสู้เอง"
 
 # game/scripts/days/day 4.rpy:2875
 

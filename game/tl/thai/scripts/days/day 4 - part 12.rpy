@@ -36,21 +36,21 @@ translate thai day4_renreturns_d63099f2:
 translate thai day4_renreturns_d6a525e5:
 
     # n "…What? He must've known. Surely. He had every reason to call me out on my lie, yet… He didn't."
-    n "...อะไรนะ? เขาต้องรู้แน่ๆ แน่นอน เขามีเหตุผลเต็มที่ที่จะเปิดโปงที่ฉันโกหก แต่... เขาไม่ได้ทำ"
+    n "...อะไรนะ? เขาต้องรู้แน่ๆ แน่นอน เขามีเหตุผลเต็มที่ที่จะเปิดโปงว่าฉันโกหก แต่... เขาไม่ได้ทำ"
 
 # game/scripts/days/day 4.rpy:2321
 
 translate thai day4_renreturns_f562844c:
 
     # n "Instead, [ch_ren] seemed to take on the blame with yet another carefree smile."
-    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ อีกครั้ง"
+    n "แต่ [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ อีกครั้ง"
 
 # game/scripts/days/day 4.rpy:2322
 
 translate thai day4_renreturns_46e0fae2:
 
     # n "Ah, forget it; maybe it was some form of righteousness, but I find myself confessing the truth."
-    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกผิดชอบชั่วดีอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
+    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกถูกต้องอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
 
 # game/scripts/days/day 4.rpy:2328
 
@@ -134,21 +134,21 @@ translate thai day4_renreturns_e4378d7b:
 translate thai day4_renreturns_d6a525e5_1:
 
     # n "…What? He must've known. Surely. He had every reason to call me out on my lie, yet… He didn't."
-    n "...อะไรนะ? เขาต้องรู้แน่ๆ แน่นอน เขามีเหตุผลเต็มที่ที่จะเปิดโปงที่ฉันโกหก แต่... เขาไม่ได้ทำ"
+    n "...อะไรนะ? เขาต้องรู้แน่ๆ แน่นอน เขามีเหตุผลเต็มที่ที่จะเปิดโปงว่าฉันโกหก แต่... เขาไม่ได้ทำ"
 
 # game/scripts/days/day 4.rpy:2345
 
 translate thai day4_renreturns_a23599d6:
 
     # n "Instead, [ch_ren] seemed to take the blame with a carefree smile."
-    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ"
+    n "แต่ [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ"
 
 # game/scripts/days/day 4.rpy:2346
 
 translate thai day4_renreturns_46e0fae2_1:
 
     # n "Ah, forget it; maybe it was some form of righteousness, but I find myself confessing the truth."
-    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกผิดชอบชั่วดีอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
+    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกถูกต้องอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
 
 # game/scripts/days/day 4.rpy:2350
 
@@ -183,7 +183,7 @@ translate thai day4_renreturns_5713f753:
 translate thai day4_renreturns_fa055d6e:
 
     # n "I watch in horror as he takes in the sight before him, and I will the ground to open up and swallow me whole."
-    n "ฉันมองด้วยความตกใจขณะที่เขาจ้องมองสิ่งตรงหน้า และฉันขอให้พื้นมันแยกออกแล้วกลืนกินฉันทั้งตัวเลย"
+    n "ฉันมองด้วยความตกใจขณะที่เขาจ้องมองสิ่งตรงหน้า และฉันขอให้พื้นแยกออกแล้วกลืนกินฉันทั้งตัวเลย"
 
 # game/scripts/days/day 4.rpy:2357
 
@@ -211,21 +211,21 @@ translate thai day4_renreturns_e4378d7b_1:
 translate thai day4_renreturns_d6a525e5_2:
 
     # n "…What? He must've known. Surely. He had every reason to call me out on my lie, yet… He didn't."
-    n "...อะไรนะ? เขาต้องรู้แน่ๆ แน่นอน เขามีเหตุผลเต็มที่ที่จะเปิดโปงที่ฉันโกหก แต่... เขาไม่ได้ทำ"
+    n "...อะไรนะ? เขาต้องรู้แน่ๆ แน่นอน เขามีเหตุผลเต็มที่ที่จะเปิดโปงว่าฉันโกหก แต่... เขาไม่ได้ทำ"
 
 # game/scripts/days/day 4.rpy:2363
 
 translate thai day4_renreturns_a23599d6_1:
 
     # n "Instead, [ch_ren] seemed to take the blame with a carefree smile."
-    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ"
+    n "แต่ [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ"
 
 # game/scripts/days/day 4.rpy:2364
 
 translate thai day4_renreturns_46e0fae2_2:
 
     # n "Ah, forget it; maybe it was some form of righteousness, but I find myself confessing the truth."
-    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกผิดชอบชั่วดีอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
+    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกถูกต้องอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
 
 # game/scripts/days/day 4.rpy:2368
 
@@ -379,7 +379,7 @@ translate thai day4_renreturns_a911f566:
 translate thai day4_renreturns_2cdde623:
 
     # n "Part of me wants to pull it closer to get a better view, though I doubt it'd be a good idea to yank [ch_ren] down by his necklace — especially considering how he was {b}already{/b} hunching over enough as it is."
-    n "ส่วนหนึ่งของฉันอยากดึงมันเข้ามาให้ใกล้เพื่อดูให้ชัด แต่คงไม่ค่อยดีแน่ถ้าจะดึง [ch_ren] ลงมาผ่านสร้อยคอ — โดยเฉพาะเมื่อเขา{b}ก็ก้มตัวลงมา{/b}อยู่แล้ว"
+    n "ส่วนหนึ่งของฉันอยากดึงมันเข้ามาให้ใกล้เพื่อดูให้ชัด แต่คงไม่ค่อยดีแน่ถ้าจะดึง [ch_ren] ลงมาผ่านสร้อยคอ — โดยเฉพาะเมื่อเขา{b}ก้มตัวลง{/b}อยู่แล้ว"
 
 # game/scripts/days/day 4.rpy:2399
 
@@ -449,7 +449,7 @@ translate thai day4_renreturns_d4f6bd56:
 translate thai day4_renreturns_285fb717:
 
     # n "Still… It wouldn't do to be stuck waiting out yet {b}another{/b} storm again, so I glance in [ch_ren]'s direction and offer a sympathetic smile."
-    n "ถึงอย่างนั้น... คงไม่ไหวถ้าต้องรอพักฝน{b}อีก{/b}พายุ ฉันเลยมองไปทาง [ch_ren] และยิ้มให้ด้วยความเห็นใจ"
+    n "ถึงอย่างนั้น... คงไม่ไหวถ้าต้องรอให้พายุ{b}อีก{/b}ลูกผ่านไป ฉันเลยมองไปทาง [ch_ren] และยิ้มให้ด้วยความเห็นใจ"
 
 # game/scripts/days/day 4.rpy:2414
 
@@ -470,7 +470,7 @@ translate thai day4_renreturns_cca7b83a:
 translate thai day4_renreturns_a5d9ee60:
 
     # y "Thanks for today, but I should probably start heading back now."
-    y "ขอบคุณสำหรับวันนี้นะ แต่ฉันคงต้องเริ่มตัวกลับแล้วล่ะ"
+    y "ขอบคุณสำหรับวันนี้นะ แต่ฉันคงต้องเริ่มออกเดินกลับแล้วล่ะ"
 
 # game/scripts/days/day 4.rpy:2429
 
@@ -512,7 +512,7 @@ translate thai day4_renreturns_0f2f18b2:
 translate thai day4_renreturns_59e0a23f:
 
     # n "…What did I do to deserve someone as kind as [ch_ren]?"
-    n "...ฉันทำอะไรถึงได้คบคนใจดีอย่าง [ch_ren] วะ"
+    n "...ฉันทำอะไรถึงได้คบคนใจดีอย่าง [ch_ren] นะ"
 
 # game/scripts/days/day 4.rpy:2437
 
@@ -645,7 +645,7 @@ translate thai day4_renreturns_4e4595bf:
 translate thai day4_renreturns_c561af51:
 
     # n "Though before I get the chance to ask, he's {b}already{/b} leaving the kitchen and meandering down the hallway."
-    n "แต่ก่อนที่ฉันจะทันถาม เขา{b}ก็ออก{/b}จากครัวและเดินตรงไปตามทางเดินแล้ว"
+    n "แต่ก่อนที่ฉันจะทันถาม เขา{b}ก็ออก{/b}จากครัวและเดินเลาะไปตามทางเดินแล้ว"
 
 # game/scripts/days/day 4.rpy:2479
 

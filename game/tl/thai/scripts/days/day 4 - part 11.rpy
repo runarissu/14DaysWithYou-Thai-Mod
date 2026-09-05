@@ -15,14 +15,14 @@ translate thai day4_televisionscene_b0d80971:
 translate thai day4_televisionscene_0a4594e3:
 
     # n "The rest of their body was still in view, though; being illuminated by their phone screen as they fiddled with it. Then, all of a sudden, the person immediately drops it — almost as if it was too hot to touch — and takes a step back."
-    n "แต่ส่วนที่เหลือของร่างกายยังอยู่ในภาพ สว่างจากแสงหน้าจอโทรศัพท์ขณะที่เขากำลังหยอกเล่นอยู่กับมัน แล้วทันใดนั้น คนคนนั้นก็ทิ้งโทรศัพท์ทันที เหมือนร้อนจนแตะไม่ได้ แล้วถอยกลับไปก้าวหนึ่ง"
+    n "แต่ส่วนที่เหลือของร่างกายยังอยู่ในภาพ สว่างจากแสงหน้าจอโทรศัพท์ขณะที่เขากำลังเล่นอยู่กับมัน แล้วทันใดนั้น คนคนนั้นก็ทิ้งโทรศัพท์ทันที เหมือนร้อนจนแตะไม่ได้ แล้วถอยกลับไปก้าวหนึ่ง"
 
 # game/scripts/days/day 4.rpy:2113
 
 translate thai day4_televisionscene_89f5fff7:
 
     # n "They must've lost their footing or something, as they end up tumbling into the tank and submerging themselves underwater."
-    n "คงเสียหลักหรืออะไรสักอย่าง เพราะสุดท้ายเขาก็พลัดตกลงไปในตู้และจมดิ่งลงไปใต้น้ำ"
+    n "คงเสียหลักหรืออะไรสักอย่าง เพราะสุดท้ายเขาก็พลัดตกลงไปในตู้และจมลงไปใต้น้ำ"
 
 # game/scripts/days/day 4.rpy:2114
 
@@ -50,7 +50,7 @@ translate thai day4_televisionscene_6fcd0979:
 translate thai day4_televisionscene_8954b64f:
 
     # n "Everything felt all too surreal in this moment, and I suddenly wished I had my phone to text [ch_elanor] and [ch_teo] to see if they saw the news."
-    n "ทุกอย่างมันไม่จริงเหลือเกินในตอนนี้ ฉันอยากมีโทรศัพท์ไว้ส่งข้อความหา [ch_elanor] กับ [ch_teo] จังเลย อยากรู้ว่าพวกเขาเห็นข่าวนี้หรือเปล่า"
+    n "ทุกอย่างมันเหมือนไม่จริงเหลือเกินในตอนนี้ ฉันอยากมีโทรศัพท์ไว้ส่งข้อความหา [ch_elanor] กับ [ch_teo] จังเลย อยากรู้ว่าพวกเขาเห็นข่าวนี้หรือเปล่า"
 
 # game/scripts/days/day 4.rpy:2118
 
@@ -176,7 +176,7 @@ translate thai day4_televisionscene_6c0e5d77_1:
 translate thai day4_televisionscene_61468d0b:
 
     # n "Seeing all of this recent talk of gore and murder on TV, it makes me feel…"
-    n "ได้ยินข่าวเรื่องเลือดเนื้อและฆาตกรรมบนทีวีบ่อยๆ แบบนี้ มันทำให้ฉันรู้สึก…"
+    n "ได้ยินข่าวเรื่องเลือดสาดและฆาตกรรมบนทีวีบ่อยๆ แบบนี้ มันทำให้ฉันรู้สึก…"
 
 # game/scripts/days/day 4.rpy:2149
 
@@ -190,7 +190,7 @@ translate thai day4_televisionscene_45443741:
 translate thai day4_televisionscene_1a2dffe8:
 
     # n "Though… It made sense considering how I'd been all but encompassed by it while living in the city. Everywhere I went, I was surrounded by petty crimes, selfish [asshole]s who called themselves my friends, and even the stench of death."
-    n "แต่ก็… มันสมเหตุสมผลนะ เพราะตอนอยู่ในเมืองฉันแทบจะถูกห้อมล้อมไปด้วยเรื่องพวกนี้ ไปที่ไหนก็เจอแต่อาชญากรรมเล็กๆ น้อยๆ พวก[asshole]ที่เห็นแก่ตัวแล้วอ้างตัวเองว่าเป็นเพื่อนฉัน แถมยังมีกลิ่นความตายอีก"
+    n "แต่ก็… มันสมเหตุสมผลนะ เพราะตอนอยู่ในเมืองฉันแทบจะถูกห้อมล้อมไปด้วยเรื่องพวกนี้ ไปที่ไหนก็เจอแต่อาชญากรรมเล็กๆ น้อยๆ พวก[asshole]ที่เห็นแก่ตัวแล้วอ้างว่าเป็นเพื่อนฉัน แถมยังมีกลิ่นความตายอีก"
 
 # game/scripts/days/day 4.rpy:2151
 
@@ -211,14 +211,14 @@ translate thai day4_televisionscene_f96ba23c:
 translate thai day4_televisionscene_99c3cfca:
 
     # n "In fact, it was one of the reasons why I left the city in the first place. Prior to moving to Corland Bay, I had always been surrounded by petty crimes, selfish [asshole]s who called themselves my friends, and even the stench of death."
-    n "จริงๆ มันก็เป็นหนึ่งในเหตุผลที่ฉันออกจากเมืองตั้งแต่แรก ก่อนย้ายมา Corland Bay ฉันถูกล้อมไปด้วยอาชญากรรมเล็กๆ น้อยๆ พวก[asshole]ที่เห็นแก่ตัวแล้วอ้างตัวเองว่าเป็นเพื่อนฉัน แถมยังมีกลิ่นความตายอีก"
+    n "จริงๆ มันก็เป็นหนึ่งในเหตุผลที่ฉันออกจากเมืองตั้งแต่แรก ก่อนย้ายมา Corland Bay ฉันถูกล้อมไปด้วยอาชญากรรมเล็กๆ น้อยๆ พวก[asshole]ที่เห็นแก่ตัวแล้วอ้างว่าเป็นเพื่อนฉัน แถมยังมีกลิ่นความตายอีก"
 
 # game/scripts/days/day 4.rpy:2159
 
 translate thai day4_televisionscene_6c17f4f2:
 
     # n "Moving here had been a good decision at the start, but now… I'm not so sure. Everyone would always say that nothing bad ever happens in the Bay, but after recent events? It was slowly becoming untrue."
-    n "การย้ายมานี่เป็นการตัดสินใจที่ดีตอนแรก แต่ตอนนี้… ฉันไม่แน่ใจแล้ว ทุกคนบอกตลอดว่าไม่มีเรื่องร้ายเกิดที่นี่ แต่หลังจากเรื่องที่ผ่านมา? มันกำลังกลายเป็นเรื่องไม่จริงไปเรื่อยๆ"
+    n "การย้ายมานี่เป็นการตัดสินใจที่ดีตอนแรก แต่ตอนนี้… ฉันไม่แน่ใจแล้ว ทุกคนบอกตลอดว่าไม่มีเรื่องร้ายเกิดที่นี่ แต่หลังจากเรื่องที่ผ่านมา? มันก็เริ่มไม่จริงอีกต่อไป"
 
 # game/scripts/days/day 4.rpy:2160
 
@@ -260,7 +260,7 @@ translate thai day4_televisionscene_9f31ae27:
 translate thai day4_renreturns_2b4c8bba:
 
     # n "In one of his hands is my beloved phone — alongside a bag of delicious-smelling takeout and an angelfish plushie peeking out from another."
-    n "มือข้างหนึ่งของเขาถือโทรศัพท์ที่ฉันรัก — พร้อมกับถุงอาหารกล่องที่มีกลิ่นหอม และตุ๊กตาปลา angelfish ที่โผล่หัวออกมาจากอีกมือ"
+    n "มือข้างหนึ่งของเขาถือโทรศัพท์ที่ฉันรัก — พร้อมกับถุงอาหารที่มีกลิ่นหอม และตุ๊กตาปลา angelfish ที่โผล่หัวออกมาจากอีกถุง"
 
 # game/scripts/days/day 4.rpy:2180
 
@@ -281,7 +281,7 @@ translate thai day4_renreturns_bdce7cf3:
 translate thai day4_renreturns_5ba96982:
 
     # r "But, um— I brought some food with me! I figured you might be hungry."
-    r "แต่ว่า, อ่ะ— ฉันซื้อข้าวมาด้วยนะ! คิดว่าน่าจะหิวแล้ว"
+    r "แต่ว่า อ่ะ— ฉันซื้อข้าวมาด้วยนะ! คิดว่าน่าจะหิวแล้ว"
 
 # game/scripts/days/day 4.rpy:2189
 
@@ -351,7 +351,7 @@ translate thai day4_renreturns_1d82c3c1:
 translate thai day4_renreturns_3322e172:
 
     # r "I don't know… Something doesn't add up."
-    r "ฉันไม่รู้นะ… มันมีอะไรบางอย่างที่ไม่สมเหตุสมผล"
+    r "ฉันไม่รู้นะ… มันไม่ค่อยเข้าเค้า"
 
 # game/scripts/days/day 4.rpy:2205
 
@@ -393,7 +393,7 @@ translate thai day4_renreturns_a09286a6:
 translate thai day4_renreturns_e22113c8:
 
     # extend " It wasn't serious, and I— Angel, I would never— I-I…"
-    extend " มันไม่ได้จริงจังขนาดนั้น แล้วฉัน— Angel ฉันจะไม่มี— ฉ-ฉัน…"
+    extend " มันไม่ได้จริงจังขนาดนั้น แล้วฉัน— Angel ฉันจะไม่มีทาง— ฉ-ฉัน…"
 
 # game/scripts/days/day 4.rpy:2218
 
@@ -407,7 +407,7 @@ translate thai day4_renreturns_70d283c1:
 translate thai day4_renreturns_f49cacb9:
 
     # extend " I didn't— Angel, I would never— I-I…"
-    extend " ฉันไม่ได้— Angel ฉันจะไม่มี— ฉ-ฉัน…"
+    extend " ฉันไม่ได้— Angel ฉันจะไม่มีทาง— ฉ-ฉัน…"
 
 # game/scripts/days/day 4.rpy:2223
 
@@ -477,14 +477,14 @@ translate thai day4_renreturns_3503e2e6:
 translate thai day4_renreturns_2fc4741b:
 
     # n "I can feel his hands clench around the back of my shirt before he pulls away with a forlorn expression. He attempts to put on a smile for my sake, though I could see right through it."
-    n "ฉันรู้สึกได้ถึงมือเขากำชายเสื้อฉันแน่น ก่อนจะผลักตัวออกมาพร้อมสีหน้าเศร้าหมอง เขาพยายามยิ้มให้ฉันเพื่อให้ฉันสบายใจ แต่ฉันมองออกหมด"
+    n "ฉันรู้สึกได้ถึงมือเขากำชายเสื้อฉันแน่น ก่อนจะถอนตัวออกมาพร้อมสีหน้าเศร้าหมอง เขาพยายามยิ้มให้ฉันเพื่อให้ฉันสบายใจ แต่ฉันมองออกหมด"
 
 # game/scripts/days/day 4.rpy:2239
 
 translate thai day4_renreturns_e1b40e14:
 
     # r "Here, why don't we eat something to get our minds off this."
-    r "เอานะ ไปกินอะไรซักอย่างเพื่อเปลี่ยนความคิดกันดีกว่า"
+    r "เอานะ ไปกินอะไรสักอย่างเพื่อเปลี่ยนความคิดกันดีกว่า"
 
 # game/scripts/days/day 4.rpy:2241
 
@@ -498,7 +498,7 @@ translate thai day4_renreturns_405a29e1:
 translate thai day4_renreturns_a9a8d413:
 
     # y "Yeah… Some food might be nice."
-    y "อืม… กินอะไรซักอย่างก็ดีนะ"
+    y "อืม… กินอะไรสักอย่างก็ดีนะ"
 
 # game/scripts/days/day 4.rpy:2244
 
@@ -519,7 +519,7 @@ translate thai day4_renreturns_bdce7cf3_1:
 translate thai day4_renreturns_5ba96982_1:
 
     # r "But, um— I brought some food with me! I figured you might be hungry."
-    r "แต่ว่า, อ่ะ— ฉันซื้อข้าวมาด้วยนะ! คิดว่าน่าจะหิวแล้ว"
+    r "แต่ว่า อ่ะ— ฉันซื้อข้าวมาด้วยนะ! คิดว่าน่าจะหิวแล้ว"
 
 # game/scripts/days/day 4.rpy:2252
 
@@ -568,7 +568,7 @@ translate thai day4_renreturns_93915643:
 translate thai day4_renreturns_1a89b42f:
 
     # n "One update in particular lets me know that the security camera I ordered had been successfully delivered, and that alone makes me feel safe enough to return to my apartment; should I change my mind about staying here."
-    n "มีการแจ้งเตือนนึงบอกว่ากล้องวงจรปิดที่ฉันสั่งถูกส่งมาถึงเรียบร้อยแล้ว แค่นั้นก็พอทำให้ฉันรู้สึกปลอดภัยพอจะกลับไปอพาร์ตเมนต์ได้แล้ว ถ้าฉันเปลี่ยนใจไม่อยู่ที่นี่"
+    n "มีการแจ้งเตือนหนึ่งบอกว่ากล้องวงจรปิดที่ฉันสั่งถูกส่งมาถึงเรียบร้อยแล้ว แค่นั้นก็พอทำให้ฉันรู้สึกปลอดภัยพอจะกลับไปอพาร์ตเมนต์ได้แล้ว ถ้าฉันเปลี่ยนใจไม่อยู่ที่นี่"
 
 # game/scripts/days/day 4.rpy:2265
 
@@ -610,7 +610,7 @@ translate thai day4_renreturns_646dc17a:
 translate thai day4_renreturns_b663fa36:
 
     # n "Oh, [shit]. I almost forgot about the ink I hastily threw away in the trash! In retrospect, I probably should've flushed it down the toilet or something instead."
-    n "อ้าว [shit] ฉันแทบลืมหมึกที่ทิ้งลงถังขยะไปแล้ว! คิดดูแล้ว น่าจะทิ้งลงโถส้วมหรืออะไรงั้นจะดีกว่า"
+    n "อ้าว [shit] ฉันแทบลืมหมึกที่ทิ้งลงถังขยะไปแล้ว! นึกย้อนไป น่าจะทิ้งลงโถส้วมซะจะดีกว่า"
 
 # game/scripts/days/day 4.rpy:2279
 
