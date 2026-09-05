@@ -92,7 +92,7 @@ translate thai day4_teocloset_c9154000:
 translate thai day4_teocloset_9fce0292:
 
     # t "Little Miss Princess over there is treating me like I'm a [damn] child who needs to be supervised all the time, and I can't even tell if she's interested in me or not."
-    t "คุณหนูน้อยตรงนั้นจ้องจะคอยดูแลกูเหมือนกูเป็นเด็ก[damn]ที่ต้องเฝ้าตลอดเวลา แถมกูก็ดูไม่ออกด้วยว่าเธอสนใจกูหรือเปล่า"
+    t "คุณหนูน้อยตรงนั้นปฏิบัติกับกูเหมือนกูเป็นเด็ก[damn]ที่ต้องเฝ้าตลอดเวลา แถมกูก็ดูไม่ออกด้วยว่าเธอสนใจกูหรือเปล่า"
 
 # game/scripts/days/day 4.rpy:1107
 
@@ -148,14 +148,14 @@ translate thai day4_teocloset_f040927d:
 translate thai day4_teocloset_8549cfe2:
 
     # t "[shit!c], you really {i}are{/i} into me, aren't ya? Can't say I'm flattered, Doll."
-    t "[shit!c] มึงแอบ{i}ชอบ{/i}กูจริงๆ ใช่มั้ย? ไม่อาจจะบอกหรอกนะว่ามันแฟลตเตอร์ Doll"
+    t "[shit!c] มึงแอบ{i}ชอบ{/i}กูจริงๆ ใช่มั้ย? ไม่อาจจะบอกหรอกนะว่ากูดีใจ Doll"
 
 # game/scripts/days/day 4.rpy:1119
 
 translate thai day4_teocloset_33deafa8:
 
     # y "Excuse me?"
-    y "ปะะ?"
+    y "ว่าไงนะ?"
 
 # game/scripts/days/day 4.rpy:1121
 
@@ -358,7 +358,7 @@ translate thai day4_teocloset_a2c32f29:
 translate thai day4_storeroomscene_361e95b8:
 
     # n "Darkness envelopes the both of us as I strain to make out the sound of [ch_teo]'s shuffling in order to pinpoint where he is."
-    n "ความมืดกลืนกลืนเราทั้งคู่ ฉันต้องเอียดฟังเสียง [ch_teo] ก้าวเดินเพื่อระบุว่าเขาอยู่ตรงไหน"
+    n "ความมืดกลืนกินเราทั้งคู่ ฉันต้องตั้งใจฟังเสียง [ch_teo] ก้าวเดินเพื่อระบุว่าเขาอยู่ตรงไหน"
 
 # game/scripts/days/day 4.rpy:1211
 

@@ -410,7 +410,7 @@ translate thai day5_meetingviolet_60ad621d:
 translate thai day5_meetingviolet_da2e74ee:
 
     # n "I can practically see sparkly particle effects appear around [ch_ren]'s face as he beams at me with a sunny smile. The next thing I know, he pivots away from [ch_violet], beelines towards me, and invades my personal space by curiously leaning closer."
-    n "ฉันแทบเห็นเอฟเฟกต์ประกายวาววับขึ้นรอบหน้าของ [ch_ren] ตอนที่เขายิ้มให้ฉันอย่างซ่า ชั่วอึดใจต่อมาเขาก็หันหลังให้ [ch_violet] เดินตรงมาหาฉัน แล้วก้าวเข้ามาในพื้นที่ส่วนตัวของฉันโดยเอียงหน้าเข้ามาใกล้ด้วยความอยากรู้อยากเห็น"
+    n "ฉันแทบเห็นเอฟเฟกต์ประกายวาววับขึ้นรอบหน้าของ [ch_ren] ตอนที่เขายิ้มสดใสให้ฉัน ชั่วอึดใจต่อมาเขาก็หันหลังให้ [ch_violet] เดินตรงมาหาฉัน แล้วก้าวเข้ามาในพื้นที่ส่วนตัวของฉันโดยเอียงหน้าเข้ามาใกล้ด้วยความอยากรู้อยากเห็น"
 
 # game/scripts/days/day 5.rpy:171
 
@@ -431,7 +431,7 @@ translate thai day5_meetingviolet_bd73b8c7:
 translate thai day5_meetingviolet_59ba2506:
 
     # r "O-Oh, yeah? I actually bumped into [ch_violet] this morning while on my walk."
-    r "อ-อ่อ ใช่เหรอ? จริงๆ ฉันเจอ [ch_violet] ตอนเช้าตอนออกเดินเล่นน่ะ"
+    r "อ-อ่อ ใช่เหรอ? จริงๆ ฉันเจอ [ch_violet] ตอนเช้าที่ออกเดินเล่นน่ะ"
 
 # game/scripts/days/day 5.rpy:177
 
@@ -445,7 +445,7 @@ translate thai day5_meetingviolet_97e93381:
 translate thai day5_meetingviolet_77124f52:
 
     # r "We started talking about you, and she mentioned something about being your neighbour."
-    r "เราเริ่มคุยเรื่องของคุณ แล้วเธอพูดอะไรเกี่ยวกับการเป็นเพื่อนบ้านของคุณ"
+    r "เราเริ่มคุยเรื่องของคุณ แล้วเธอพูดถึงเรื่องที่เป็นเพื่อนบ้านคุณ"
 
 # game/scripts/days/day 5.rpy:181
 
@@ -466,7 +466,7 @@ translate thai day5_meetingviolet_f8708fb8:
 translate thai day5_meetingviolet_c5ed76c1:
 
     # v "Oh? Hmm, I see. I could've sworn I went upstairs to check—{nw=0.4}"
-    v "โอ้? อืม เข้าใจแล้ว ฉันนึกว่าฉันขึ้นไปดูเอง—{nw=0.4}"
+    v "โอ้? อืม เข้าใจแล้ว ฉันยังนึกได้ว่าฉันขึ้นไปดูเอง—{nw=0.4}"
 
 # game/scripts/days/day 5.rpy:187
 
@@ -494,28 +494,28 @@ translate thai day5_meetingviolet_833069f4:
 translate thai day5_meetingviolet_f936c49d:
 
     # v "Welp! I should probably let you both be on your way, then. Have fun, you two!"
-    v "เอาล่ะ! ฉันคงต้องปล่อยให้คุณทั้งคู่ไปทางของคุณแล้ว ขอให้สนุกนะคะทั้งสองคน!"
+    v "เอาล่ะ! ฉันคงต้องปล่อยให้คุณทั้งคู่ไปกันเถอะ ขอให้สนุกนะทั้งสองคน!"
 
 # game/scripts/days/day 5.rpy:194
 
 translate thai day5_meetingviolet_0f48b1d2:
 
     # v "And remember! No funny business, you two!"
-    v "และจำไว้นะ! อย่าทำตัวไม่ดีนะทั้งสองคน!"
+    v "และจำไว้นะ! อย่าทำอะไรเกินเลยนะทั้งสองคน!"
 
 # game/scripts/days/day 5.rpy:201
 
 translate thai day5_meetingviolet_7441825c:
 
     # n "Before either of us can muster a response, [ch_violet] swiftly turns on her heel and makes her way towards her apartment."
-    n "ก่อนที่ใครจะทั้งคู่จะตอบอะไรได้ [ch_violet] ก็หันหลังแล้วเดินตรงไปที่อพาร์ตเมนต์ของเธออย่างรวดเร็ว"
+    n "ก่อนที่เราจะตอบอะไรกันได้ [ch_violet] ก็หันหลังแล้วเดินตรงไปที่อพาร์ตเมนต์ของเธออย่างรวดเร็ว"
 
 # game/scripts/days/day 5.rpy:202
 
 translate thai day5_meetingviolet_7e1e6371:
 
     # n "A wave of concern washes over me as I notice how she ignores the potted plant by her door — normally, she'd give it a pet or even bring it inside on certain days — but [ch_ren]'s timid voice pulls me away from my thoughts and captures my attention."
-    n "ความกังวลซัดเข้ามาเมื่อฉันสังเกตเห็นว่าเธอเมินต้นไม้ในกระถางข้างประตู — ปกติเธอจะลูบมันหรือแม้แต่เอาเข้าบ้านในบางวัน — แต่เสียงเอียนอ้อนของ [ch_ren] ดึงฉันออกจากความคิดและดึงความสนใจฉันไป"
+    n "ความกังวลซัดเข้ามาเมื่อฉันสังเกตเห็นว่าเธอเมินต้นไม้ในกระถางข้างประตู — ปกติเธอจะลูบมันหรือแม้แต่เอาเข้าบ้านในบางวัน — แต่เสียงอ่อนโอนของ [ch_ren] ดึงฉันออกจากความคิดและดึงความสนใจฉันไป"
 
 # game/scripts/days/day 5.rpy:204
 
