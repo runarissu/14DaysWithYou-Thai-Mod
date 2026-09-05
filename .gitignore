@@ -22,6 +22,9 @@ desktop.ini
 # Save files
 game/saves/
 
+# Distribution folder (separate repo)
+_dist/
+
 # Temp/audit scripts
 _*.py
 _*.txt
