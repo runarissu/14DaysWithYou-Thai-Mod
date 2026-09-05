@@ -14,9 +14,14 @@ def create_rpa(source_dir, output_path):
     key = 0x12345678  # arbitrary key
     files = []
 
-    # Collect all files
+    # Collect only necessary mod files (.rpy and .ttf)
+    # Skip .rpyc (compiled, Ren'Py will compile from .rpy), .bak, .txt, etc.
+    allowed_exts = {".rpy", ".ttf"}
     for root, dirs, fnames in os.walk(source_dir):
         for fn in sorted(fnames):
+            ext = os.path.splitext(fn)[1].lower()
+            if ext not in allowed_exts:
+                continue
             full = os.path.join(root, fn)
             rel = os.path.relpath(full, source_dir).replace("\\", "/")
             files.append((rel, full))
