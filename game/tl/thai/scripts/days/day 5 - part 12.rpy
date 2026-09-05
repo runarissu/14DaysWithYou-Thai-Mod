@@ -204,14 +204,14 @@ translate thai day5_rencouch_54909869:
 translate thai day5_rencouch_f7818354:
 
     # n "I still couldn't shake off the traumatic encounter from earlier, or the fact that I may {b}potentially{/b} still have a stalker who won't leave me alone."
-    n "ฉันยังสะบัดความรู้สึกแย่จากเรื่องก่อนหน้านี้ไม่ออก หรือความจริงที่ว่าฉันอาจจะ {b}ยัง{/b} มีสตอลเกอร์ที่ไม่ยอมปล่อยฉันไป"
+    n "ฉันยังสะบัดความรู้สึกแย่จากเรื่องก่อนหน้านี้ไม่ออก หรือความจริงที่ว่าฉันอาจจะ {b}ยัง{/b} มีสตอล์กเกอร์ที่ไม่ยอมปล่อยฉันไป"
 
 # game/scripts/days/day 5.rpy:2636
 
 translate thai day5_rencouch_7ca52f97:
 
     # n "I still couldn't shake off the encounter from earlier, or the fact that I {b}now{/b} had solid proof of a stalker who wouldn't leave me alone."
-    n "ฉันยังสะบัดความรู้สึกแย่จากเรื่องก่อนหน้านี้ไม่ออก หรือความจริงที่ว่าฉัน {b}ตอนนี้{/b} มีหลักฐานแน่นอนแล้วว่ามีสตอลเกอร์ที่ไม่ยอมปล่อยฉันไป"
+    n "ฉันยังสะบัดความรู้สึกแย่จากเรื่องก่อนหน้านี้ไม่ออก หรือความจริงที่ว่าฉัน {b}ตอนนี้{/b} มีหลักฐานแน่นอนแล้วว่ามีสตอล์กเกอร์ที่ไม่ยอมปล่อยฉันไป"
 
 # game/scripts/days/day 5.rpy:2637
 

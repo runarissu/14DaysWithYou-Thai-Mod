@@ -43,7 +43,7 @@ translate thai day4_renreturns_d6a525e5:
 translate thai day4_renreturns_f562844c:
 
     # n "Instead, [ch_ren] seemed to take on the blame with yet another carefree smile."
-    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับเครดิตเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ อีกครั้ง"
+    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ อีกครั้ง"
 
 # game/scripts/days/day 4.rpy:2322
 
@@ -141,7 +141,7 @@ translate thai day4_renreturns_d6a525e5_1:
 translate thai day4_renreturns_a23599d6:
 
     # n "Instead, [ch_ren] seemed to take the blame with a carefree smile."
-    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับเครดิตเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ"
+    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ"
 
 # game/scripts/days/day 4.rpy:2346
 
@@ -218,7 +218,7 @@ translate thai day4_renreturns_d6a525e5_2:
 translate thai day4_renreturns_a23599d6_1:
 
     # n "Instead, [ch_ren] seemed to take the blame with a carefree smile."
-    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับเครดิตเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ"
+    n "แทนที่จะอย่างนั้น [ch_ren] กลับรับความผิดเรื่องนี้ไว้เองพร้อมรอยยิ้มสบายๆ"
 
 # game/scripts/days/day 4.rpy:2364
 

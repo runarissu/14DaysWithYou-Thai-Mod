@@ -29,7 +29,7 @@ translate thai day4_televisionscene_89f5fff7:
 translate thai day4_televisionscene_5fd4ed22:
 
     # n "The footage cuts out shortly after, seemingly too inappropriate to air on live television, as noted by the reporter."
-    n "ภาพถูกตัดไปไม่นานหลังจากนั้น ดูเหมือนจะรุนแรงเกินไปจะออกอากาศสด อย่างที่ผู้สื่อข่าวบอกไว้"
+    n "ภาพถูกตัดไปไม่นานหลังจากนั้น ดูเหมือนจะไม่เหมาะจะออกอากาศสด อย่างที่ผู้สื่อข่าวบอกไว้"
 
 # game/scripts/days/day 4.rpy:2115
 
@@ -50,7 +50,7 @@ translate thai day4_televisionscene_6fcd0979:
 translate thai day4_televisionscene_8954b64f:
 
     # n "Everything felt all too surreal in this moment, and I suddenly wished I had my phone to text [ch_elanor] and [ch_teo] to see if they saw the news."
-    n "ทุกอย่างมันไม่จริงเหลือเกินในตอนนี้ ฉันอยากมีโทรศัพท์ไว้ข้อความหา [ch_elanor] กับ [ch_teo] จังเลย อยากรู้ว่าพวกเขาเห็นข่าวนี้หรือเปล่า"
+    n "ทุกอย่างมันไม่จริงเหลือเกินในตอนนี้ ฉันอยากมีโทรศัพท์ไว้ส่งข้อความหา [ch_elanor] กับ [ch_teo] จังเลย อยากรู้ว่าพวกเขาเห็นข่าวนี้หรือเปล่า"
 
 # game/scripts/days/day 4.rpy:2118
 
@@ -106,14 +106,14 @@ translate thai day4_televisionscene_6fcd1b21:
 translate thai day4_televisionscene_3fb806bf:
 
     # n "Slapping my hands against my cheeks, I bring myself to my senses. I was so caught up on [ch_teo] that I almost forgot another major factor: [ch_elanor]."
-    n "ฉันตบแก้มตัวเองเบาๆ เพื่อสะดุ้งให้ตื่น ฉันไปจ้องอยู่กับ [ch_teo] จนแทบลืมอีกคนสำคัญไปเลย: [ch_elanor]"
+    n "ฉันตบแก้มตัวเองเบาๆ เพื่อให้รู้สึกตัว ฉันไปจ้องอยู่กับ [ch_teo] จนแทบลืมอีกคนสำคัญไปเลย: [ch_elanor]"
 
 # game/scripts/days/day 4.rpy:2129
 
 translate thai day4_televisionscene_31f0a7cb:
 
     # n "She's the most sweetest, caring person I know; and she could make just about {b}anyone{/b} soften up to her. I wouldn't put it past [ch_teo] to realise that and possibly open up as well. But still, it certainly wasn't what I was expecting — and so soon, too."
-    n "เธอเป็นคนที่ใจดีและอบอุ่นที่สุดเท่าที่ฉันรู้จัก และเธอทำให้คน{b}ไหนก็ได้{/b}ใจอ่อนลงได้ ฉันไม่แปลกใจหรอกถ้า [ch_teo] จะรู้ตัวและเปิดใจให้ด้วย แต่ถึงอย่างนั้น มันก็ไม่ใช่สิ่งที่ฉันคาดไว้ — และก็เร็วไปด้วย"
+    n "เธอเป็นคนที่ใจดีและอบอุ่นที่สุดเท่าที่ฉันรู้จัก และเธอทำให้ใคร{b}ก็ตาม{/b}ใจอ่อนลงได้ ฉันไม่แปลกใจหรอกถ้า [ch_teo] จะรู้ตัวและเปิดใจให้ด้วย แต่ถึงอย่างนั้น มันก็ไม่ใช่สิ่งที่ฉันคาดไว้ — และก็เร็วไปด้วย"
 
 # game/scripts/days/day 4.rpy:2130
 
@@ -190,7 +190,7 @@ translate thai day4_televisionscene_45443741:
 translate thai day4_televisionscene_1a2dffe8:
 
     # n "Though… It made sense considering how I'd been all but encompassed by it while living in the city. Everywhere I went, I was surrounded by petty crimes, selfish [asshole]s who called themselves my friends, and even the stench of death."
-    n "แต่ก็… มันสมเหตุสมผลนะ เพราะตอนอยู่ในเมืองฉันแทบจะถูกห้อมล้อมไปด้วยเรื่องพวกนี้ ไปที่ไหนก็เจอแต่อาชญากรรมเล็กๆ น้อยๆ พวก[asshole]ที่เห็นแก่ตัวแล้วทักตัวเองว่าเป็นเพื่อนฉัน แถมยังมีกลิ่นความตายอีก"
+    n "แต่ก็… มันสมเหตุสมผลนะ เพราะตอนอยู่ในเมืองฉันแทบจะถูกห้อมล้อมไปด้วยเรื่องพวกนี้ ไปที่ไหนก็เจอแต่อาชญากรรมเล็กๆ น้อยๆ พวก[asshole]ที่เห็นแก่ตัวแล้วอ้างตัวเองว่าเป็นเพื่อนฉัน แถมยังมีกลิ่นความตายอีก"
 
 # game/scripts/days/day 4.rpy:2151
 
@@ -211,7 +211,7 @@ translate thai day4_televisionscene_f96ba23c:
 translate thai day4_televisionscene_99c3cfca:
 
     # n "In fact, it was one of the reasons why I left the city in the first place. Prior to moving to Corland Bay, I had always been surrounded by petty crimes, selfish [asshole]s who called themselves my friends, and even the stench of death."
-    n "จริงๆ มันก็เป็นหนึ่งในเหตุผลที่ฉันออกจากเมืองตั้งแต่แรก ก่อนย้ายมา Corland Bay ฉันถูกล้อมไปด้วยอาชญากรรมเล็กๆ น้อยๆ พวก[asshole]ที่เห็นแก่ตัวแล้วทักตัวเองว่าเป็นเพื่อนฉัน แถมยังมีกลิ่นความตายอีก"
+    n "จริงๆ มันก็เป็นหนึ่งในเหตุผลที่ฉันออกจากเมืองตั้งแต่แรก ก่อนย้ายมา Corland Bay ฉันถูกล้อมไปด้วยอาชญากรรมเล็กๆ น้อยๆ พวก[asshole]ที่เห็นแก่ตัวแล้วอ้างตัวเองว่าเป็นเพื่อนฉัน แถมยังมีกลิ่นความตายอีก"
 
 # game/scripts/days/day 4.rpy:2159
 
@@ -253,7 +253,7 @@ translate thai day4_televisionscene_1d62a899:
 translate thai day4_televisionscene_9f31ae27:
 
     # n "And as if manifesting him with my thoughts, I hear the telltale sounds of the front door unlocking before [ch_ren] shuffles inside and flicks on all the lights."
-    n "เหมือนความคิดของฉันเรียกเขามาจริงๆ ฉันได้ยินเสียงประตูหน้าคลายล็อกอย่างที่คุ้นเคย ก่อนที่ [ch_ren] จะเดินส่ายเท้าเข้ามาและเปิดไฟทุกดวง"
+    n "เหมือนความคิดของฉันเรียกเขามาจริงๆ ฉันได้ยินเสียงประตูหน้าคลายล็อกอย่างที่คุ้นเคย ก่อนที่ [ch_ren] จะเดินเข้ามาและเปิดไฟทุกดวง"
 
 # game/scripts/days/day 4.rpy:2179
 
@@ -351,7 +351,7 @@ translate thai day4_renreturns_1d82c3c1:
 translate thai day4_renreturns_3322e172:
 
     # r "I don't know… Something doesn't add up."
-    r "ฉันไม่รู้นะ… มันมีอะไรบางอย่างที่ขัดแย้งกัน"
+    r "ฉันไม่รู้นะ… มันมีอะไรบางอย่างที่ไม่สมเหตุสมผล"
 
 # game/scripts/days/day 4.rpy:2205
 
@@ -386,7 +386,7 @@ translate thai day4_renreturns_5d76b3c7:
 translate thai day4_renreturns_a09286a6:
 
     # r "Look, I-I know we said some incriminating things today, but I swear—"
-    r "ฟังนะ ฉ-ฉันรู้ว่าเราพูดอะไรที่ทำให้ดูมีความผิดไปวันนี้ แต่ฉันสาบาน—"
+    r "ฟังนะ ฉ-ฉันรู้ว่าเราพูดอะไรที่ทำให้ดูน่าสงสัยไปวันนี้ แต่ฉันสาบาน—"
 
 # game/scripts/days/day 4.rpy:2215
 
@@ -400,7 +400,7 @@ translate thai day4_renreturns_e22113c8:
 translate thai day4_renreturns_70d283c1:
 
     # r "Look, I-I know I said some incriminating things today, but I swear—"
-    r "ฟังนะ ฉ-ฉันรู้ว่าฉันพูดอะไรที่ทำให้ดูมีความผิดไปวันนี้ แต่ฉันสาบาน—"
+    r "ฟังนะ ฉ-ฉันรู้ว่าฉันพูดอะไรที่ทำให้ดูน่าสงสัยไปวันนี้ แต่ฉันสาบาน—"
 
 # game/scripts/days/day 4.rpy:2220
 
@@ -477,7 +477,7 @@ translate thai day4_renreturns_3503e2e6:
 translate thai day4_renreturns_2fc4741b:
 
     # n "I can feel his hands clench around the back of my shirt before he pulls away with a forlorn expression. He attempts to put on a smile for my sake, though I could see right through it."
-    n "ฉันรู้สึกได้ถึงมือเขากำชายเสื้อฉันแน่น ก่อนจะผลักตัวออกมาพร้อมสีหน้าเศร้าหมอง เขาพยายามยิ้มให้ฉันเพื่อให้ฉันสบายใจ แต่ฉันมองทะลุออกไปหมด"
+    n "ฉันรู้สึกได้ถึงมือเขากำชายเสื้อฉันแน่น ก่อนจะผลักตัวออกมาพร้อมสีหน้าเศร้าหมอง เขาพยายามยิ้มให้ฉันเพื่อให้ฉันสบายใจ แต่ฉันมองออกหมด"
 
 # game/scripts/days/day 4.rpy:2239
 
@@ -680,7 +680,7 @@ translate thai day4_renreturns_10943009:
 translate thai day4_renreturns_9a50fc08:
 
     # r "Actually, you know what? I don't think I can smell anything weird at all!"
-    r "จริงๆ แล้ว คุณรู้ไหม? ฉันว่าฉันไม่ได้ได้กลิ่นอะไรแปลกเลยนะ!"
+    r "จริงๆ แล้ว คุณรู้ไหม? ฉันว่าฉันไม่ได้กลิ่นอะไรแปลกเลยนะ!"
 
 # game/scripts/days/day 4.rpy:2309
 

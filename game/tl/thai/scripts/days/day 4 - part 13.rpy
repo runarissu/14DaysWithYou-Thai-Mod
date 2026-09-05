@@ -155,7 +155,7 @@ translate thai day4_gohomebranch_5dcdf47b:
 translate thai day4_gohomebranch_9ebb3f3b:
 
     # r "…That creep didn't come back, did they?"
-    r "...ไอ้ตัวป่วนนั่นไม่ได้กลับมาอีกใช่มั้ย?"
+    r "...ไอ้คนแปลกหน้านั่นไม่ได้กลับมาอีกใช่มั้ย?"
 
 # game/scripts/days/day 4.rpy:2560
 
@@ -204,7 +204,7 @@ translate thai day4_gohomebranch_c642c0d7:
 translate thai day4_gohomebranch_02ccd007:
 
     # n "Quickly withdrawing my hand, I squeak out an apology before picking up my keys and turning back to my door. I still didn't want to get [ch_ren] involved with my problems, but I honestly didn't want to risk being alone tonight, either."
-    n "ฉันรีบดึงมือกลับ เอ่ยคำขอโทษด้วยเสียงแหบแหลวก่อนจะหยิบกุญแจขึ้นมาแล้วหันไปที่ประตู ฉันยังไม่อยากให้ [ch_ren] มาเกี่ยวข้องกับปัญหาของฉันอยู่ดี แต่ถ้าให้ดีจริงๆ ฉันก็ไม่อยากเสี่ยงอยู่คนเดียวคืนนี้เหมือนกัน"
+    n "ฉันรีบดึงมือกลับ เอ่ยคำขอโทษเสียงเล็กๆ ก่อนจะหยิบกุญแจขึ้นมาแล้วหันไปที่ประตู ฉันยังไม่อยากให้ [ch_ren] มาเกี่ยวข้องกับปัญหาของฉันอยู่ดี แต่ถ้าให้ดีจริงๆ ฉันก็ไม่อยากเสี่ยงอยู่คนเดียวคืนนี้เหมือนกัน"
 
 # game/scripts/days/day 4.rpy:2571
 
@@ -232,14 +232,14 @@ translate thai day4_gohomebranch_6d8831e7:
 translate thai day4_gohomebranch_7b465a03:
 
     # r "S-S-Setting up your cameras, I mean! Self-taught programmer, remember?"
-    r "ก-ก-ติดตั้งกล้องให้นะ หมายถึงแบบนั้น! ฉันเป็นโปรแกรมเมอร์ที่สอนตัวเอง จำได้มั้ย?"
+    r "ต-ต-ติดตั้งกล้องให้นะ หมายถึงแบบนั้น! ฉันเป็นโปรแกรมเมอร์ที่สอนตัวเอง จำได้มั้ย?"
 
 # game/scripts/days/day 4.rpy:2581
 
 translate thai day4_gohomebranch_e54be47b:
 
     # r "S-S-Setting up your cameras, I mean! I'm pretty good with tech."
-    r "ก-ก-ติดตั้งกล้องให้นะ หมายถึงแบบนั้น! ฉันเก่งเรื่องเทคโนโลยีอยู่นะ"
+    r "ต-ต-ติดตั้งกล้องให้นะ หมายถึงแบบนั้น! ฉันเก่งเรื่องเทคโนโลยีอยู่นะ"
 
 # game/scripts/days/day 4.rpy:2584
 
@@ -344,7 +344,7 @@ translate thai day4_acceptoffer_7030c061:
 translate thai day4_acceptoffer_1931ba6c:
 
     # n "I watch as he awkwardly shuffles about in the hallway, almost uncertain if he should come inside or not. He moves to take off his shoes, and I watch in awe as he neatly stacks them next to the umbrella rack."
-    n "ฉันมองเขาเดินกระดิกกระเดี้ยอยู่ในทางเดินอย่างอึดอัด เหมือนไม่แน่ใจว่าควรเข้ามาข้างในดีหรือเปล่า เขาเอนตัวไปถอดรองเท้า แล้วฉันก็มองด้วยความอิดโรยตื่นตาตื่นใจขณะที่เขาวางรองเท้าเรียบร้อยข้างขาตั้งร่ม"
+    n "ฉันมองเขาเดินกระดิกกระเดี้ยอยู่ในทางเดินอย่างอึดอัด เหมือนไม่แน่ใจว่าควรเข้ามาข้างในดีหรือเปล่า เขาเอนตัวไปถอดรองเท้า แล้วฉันก็มองด้วยความตื่นตาตื่นใจขณะที่เขาวางรองเท้าเรียบร้อยข้างขาตั้งร่ม"
 
 # game/scripts/days/day 4.rpy:2640
 
@@ -491,7 +491,7 @@ translate thai day4_acceptoffer_a018904b:
 translate thai day4_acceptoffer_6b32f2d1:
 
     # r "Keep it, just in case. I mean, you never know…"
-    r "เก็บไว้เถอะ เผื่อไว้ อ๊ะ จะมีรู้เรื่องอะไรล่ะ..."
+    r "เก็บไว้เถอะ เผื่อไว้ อ๊ะ จะรู้ได้ยังไงล่ะ..."
 
 # game/scripts/days/day 4.rpy:2684
 

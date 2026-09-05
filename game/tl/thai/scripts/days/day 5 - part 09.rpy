@@ -127,14 +127,14 @@ translate thai day5_angelcooking_a88feacc:
 translate thai day5_angelcooking_7ad14093:
 
     # n "As if to prove a point, I hear [ch_ren]'s hand grip the counter by my side — almost alarmingly tight."
-    n "ราวกับจะพิสูจน์คำพูด เสียงมือของ[ch_ren]กำขอบเคาน์เตอร์ข้างตัวฉันดังแว่นเข้ามา — แน่นจนน่าตกใจ"
+    n "ราวกับจะพิสูจน์คำพูด ฉันได้ยินเสียงมือของ[ch_ren]กำขอบเคาน์เตอร์ข้างตัวฉัน — แน่นจนน่าตกใจ"
 
 # game/scripts/days/day 5.rpy:1920
 
 translate thai day5_angelcooking_64e7f4d5:
 
     # r "But… I guess that's why I always like touching you."
-    r "แต่... ฉันเดาว่านั่นคงเป็นเหตุผลที่ฉันชอบสัมผัส[player]ตลอดเวลา"
+    r "แต่... ฉันว่านั่นคงเป็นเหตุผลที่ฉันชอบสัมผัส[player]ตลอดเวลา"
 
 # game/scripts/days/day 5.rpy:1922
 
@@ -190,7 +190,7 @@ translate thai day5_angelcooking_77c78cfc:
 translate thai day5_angelcooking_9cbf9b67:
 
     # n "Without a second thought, I reach for [ch_ren]'s face and gently cup his cheek. My thumb runs across his soft skin, and it's then that I notice all the faint freckles and blemishes that litter his face."
-    n "โดยไม่ต้องคิดให้มาก ฉันเอื้อมมือไปแตะใบหน้าของ[ch_ren]และโอบแก้มของเขาเบาๆ นิ้วหัวแม่มือลูบผิวนุ่มของเขา และตอนนั้นเองที่ฉันสังเกตเห็นฝ้ากระจุกเล็กๆ ที่เปื้อนไปทั่วใบหน้าของเขา"
+    n "โดยไม่ต้องคิดให้มาก ฉันเอื้อมมือไปแตะใบหน้าของ[ch_ren]และโอบแก้มของเขาเบาๆ นิ้วหัวแม่มือลูบผิวนุ่มของเขา และตอนนั้นเองที่ฉันสังเกตเห็นกระและรอยด่างเล็กๆ ที่เปรอะไปทั่วใบหน้าของเขา"
 
 # game/scripts/days/day 5.rpy:1945
 
@@ -309,7 +309,7 @@ translate thai day5_visitviolet_3aefa4d6:
 translate thai day5_visitviolet_88e5b8e1:
 
     # n "It barely takes five seconds before I hear the sound of feet shuffling and my neighbour's head appearing from behind the door."
-    n "ไม่ถึงห้าวินาที ฉันก็ได้ยินเสียงฝีเท้าเสียงดูดัน ก่อนที่เพื่อนบ้านจะโผล่หัวออกมาจากหลังประตู"
+    n "ไม่ถึงห้าวินาที ฉันก็ได้ยินเสียงเท้าลากพื้นเบาๆ ก่อนที่เพื่อนบ้านจะโผล่หัวออกมาจากหลังประตู"
 
 # game/scripts/days/day 5.rpy:1998
 

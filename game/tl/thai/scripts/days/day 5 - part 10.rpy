@@ -50,7 +50,7 @@ translate thai day5_visitviolet_0280dd15_1:
 translate thai day5_visitviolet_b33b0b77_1:
 
     # y "Oh, uh… Yeah! Sure can! And… Sorry if I overstepped in any way."
-    y "อ๊ะ เอ่อ… ค่ะ! ได้สิ! และ… ขอโทษนะถ้าฉันเกินเลยไป"
+    y "อ๊ะ เอ่อ… อา! ได้สิ! และ… ขอโทษนะถ้าฉันเกินเลยไป"
 
 # game/scripts/days/day 5.rpy:2119
 
@@ -533,7 +533,7 @@ translate thai day5_angeleepy_ef69176c:
 translate thai day5_angeleepy_622f751a:
 
     # n "He made sure to leave ample space between us, though it was hard to ignore his presence when he was {b}literally{/b} right there beside me."
-    n "เขาระวังที่จะเว้นระยะห่างระหว่างเราไว้พอสมควร แต่ก็ยากที่จะเมินเฉยการมีอยู่ของเขาได้ ตอนที่เขาอยู่{b}ตรงนั้น{/b}ข้างๆ ฉันเป๊ะๆ"
+    n "เขาระวังเว้นระยะห่างระหว่างเราไว้พอสมควร แต่ก็ยากที่จะเมินเฉยการมีอยู่ของเขาได้ ตอนที่เขาอยู่{b}ตรงนั้น{/b}ข้างๆ ฉันเป๊ะๆ"
 
 # game/scripts/days/day 5.rpy:2280
 
@@ -659,14 +659,14 @@ translate thai day5_angeleepy_7c3662dc:
 translate thai day5_branchingdeadend_43bffda1:
 
     # n "Admittedly, even after we'd made it back to my apartment, I still couldn't shake off the sense of fear still lingering inside me."
-    n "จริงๆ แล้ว แม้จะกลับมาถึงห้องแล้ว ฉันก็ยังส่ายความกลัวที่ค้างคาอยู่ในใจไม่ออก"
+    n "จริงๆ แล้ว แม้จะกลับมาถึงห้องแล้ว ฉันก็ยังสะบัดความกลัวที่ค้างคาอยู่ในใจไม่ออก"
 
 # game/scripts/days/day 5.rpy:2322
 
 translate thai day5_branchingdeadend_09d0a324:
 
     # n "I felt terrible for dismissing [ch_moth]'s concern for the nth time tonight, and even more so when I shut down their request to watch the latest Attack on Giant episode together."
-    n "ฉันรู้สึกแย่มากที่ได้เพิกเฉยความห่วงใยของ [ch_moth] ไปเป็นครั้งที่ไม่รู้จบในคืนนี้ และยิ่งแย่กว่าเดิมตอนที่ฉันปฏิเสธคำขอให้ดู Attack on Giant ตอนล่าสุดด้วยกัน"
+    n "ฉันรู้สึกแย่มากที่ได้เพิกเฉยความห่วงใยของ [ch_moth] ไปอีกครั้งในคืนนี้ และยิ่งแย่กว่าเดิมตอนที่ฉันปฏิเสธคำขอให้ดู Attack on Giant ตอนล่าสุดด้วยกัน"
 
 # game/scripts/days/day 5.rpy:2323
 

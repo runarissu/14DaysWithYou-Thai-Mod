@@ -78,7 +78,7 @@ translate thai day3_inviteren_bfc4a273:
 translate thai day3_inviteren_0c475f4a:
 
     # n "The idea of having somewhere to go in case things got bad {b}was{/b} a comforting thought, but something just didn't sit right with me."
-    n "การมีที่ให้ไปพักถ้าเกิดเรื่องไม่ดี {b}เป็นเรื่อง{/b}ที่ทำให้สบายใจ แต่ฉันก็รู้สึกไม่ค่อยสบายใจกับเรื่องนี้สักเท่าไหร่"
+    n "การมีที่ให้ไปพักถ้าเกิดเรื่องไม่ดี {b}เป็นเรื่อง{/b}ที่ทำให้สบายใจ แต่ฉันก็รู้สึกไม่ค่อยลงตัวกับเรื่องนี้สักเท่าไหร่"
 
 # game/scripts/days/day 3.rpy:1642
 
@@ -92,7 +92,7 @@ translate thai day3_inviteren_edaa1f38:
 translate thai day3_inviteren_0c65a2a9:
 
     # n "And sure, I might've developed a bit of a crush on the tall guy, but I wasn't going to be swayed by my feelings."
-    n "แล้วก็จริง ฉันอาจจะเริ่มแอบชอบคนตัวสูงคนนี้นิดหน่อย แต่ฉันไม่ได้จะยอมให้ความรู้สึกมาชี้นำ"
+    n "แล้วก็จริง ฉันอาจจะเริ่มแอบชอบคนตัวสูงคนนี้นิดหน่อย แต่ฉันไม่ได้จะยอมให้ความรู้สึกพาไป"
 
 # game/scripts/days/day 3.rpy:1647
 
@@ -127,14 +127,14 @@ translate thai day3_inviteren_c52d6137:
 translate thai day3_inviteren_60f23a54:
 
     # n "I can't help but crack a small smile at the (somewhat morbid) thought, and [ch_ren] seems to take it as a positive sign."
-    n "ฉันก็อดยิ้มนิดหน่อยไม่ได้กับความคิด (ที่ค่อนข้างมืดมน) นี้ และ [ch_ren] ดูเหมือนจะเข้าใจว่าเป็นสัญญาณบอกว่าดีขึ้น"
+    n "ฉันก็อดยิ้มนิดหน่อยไม่ได้กับความคิด (ที่ค่อนข้างมืดมน) นี้ และ [ch_ren] ดูเหมือนจะถือว่าเป็นสัญญาณที่ดี"
 
 # game/scripts/days/day 3.rpy:1653
 
 translate thai day3_inviteren_2b843961:
 
     # n "But before I can dwell on it any further, I watch as he leans over to reach into his back pocket and pulls out something that resembled a plastic card."
-    n "แต่ก่อนที่ฉันจะคิดอะไรต่อ ฉันเห็นเขาเอนตัวไปเอาอะไรบางอย่างจากกระเป๋าหลัง แล้วดึงออกมา—ดูเหมือนการ์ดพลาสติก"
+    n "แต่ก่อนที่ฉันจะคิดอะไรต่อ ฉันเห็นเขาเอนตัวไปเอาอะไรบางอย่างจากกระเป๋ากางเกงหลัง แล้วดึงออกมา—ดูเหมือนการ์ดพลาสติก"
 
 # game/scripts/days/day 3.rpy:1654
 
@@ -169,7 +169,7 @@ translate thai day3_inviteren_9124092d:
 translate thai day3_inviteren_d0b90241:
 
     # n "They were known for their high-rise apartments and fancy penthouses, so I'm sure [ch_ren] never had to worry about rat infestations or deadbeat landlords."
-    n "ที่นั่นขึ้นชื่อเรื่องอพาร์ตเมนต์ตึกสูงและเพนต์เฮาส์หรูหรา ฉันแน่ใจว่า [ch_ren] คงไม่ต้องกังวลเรื่องหนูระบาดหรือเจ้าของบ้านขี้เกียจแน่ๆ"
+    n "ที่นั่นขึ้นชื่อเรื่องอพาร์ตเมนต์ตึกสูงและเพนต์เฮาส์หรูหรา ฉันแน่ใจว่า [ch_ren] คงไม่ต้องกังวลเรื่องหนูระบาดหรือเจ้าของบ้านไม่เอาไหนแน่ๆ"
 
 # game/scripts/days/day 3.rpy:1664
 
@@ -190,7 +190,7 @@ translate thai day3_inviteren_ce6eb976:
 translate thai day3_inviteren_33dfce53:
 
     # n "I'm sure [ch_ren] never had to worry about rat infestations or deadbeat landlords."
-    n "ฉันแน่ใจว่า [ch_ren] คงไม่ต้องกังวลเรื่องหนูระบาดหรือเจ้าของบ้านขี้เกียจแน่ๆ"
+    n "ฉันแน่ใจว่า [ch_ren] คงไม่ต้องกังวลเรื่องหนูระบาดหรือเจ้าของบ้านไม่เอาไหนแน่ๆ"
 
 # game/scripts/days/day 3.rpy:1668
 
@@ -274,7 +274,7 @@ translate thai day3_inviteren_8ef2c0d6:
 translate thai day3_inviteren_b544a3fa:
 
     # r "S-Sorry [ch_angel], am I rambling again? I just… Well, I don't want you to worry or anything."
-    r "ข-ขอโทษ [ch_angel] ฉันพูดเพ้อเจ้ออีกแล้วเหรอ? ฉันแค่… ก็คือ ไม่อยากให้คุณต้องกังวลอะไรน่ะ"
+    r "ข-ขอโทษ [ch_angel] ฉันพูดเรื่อยเปื่อยอีกแล้วเหรอ? ฉันแค่… ก็คือ ไม่อยากให้คุณต้องกังวลอะไรน่ะ"
 
 # game/scripts/days/day 3.rpy:1689
 
@@ -372,7 +372,7 @@ translate thai day3_inviteren_719e0589:
 translate thai day3_inviteren_4e5eea5c:
 
     # n "As if picking up on my sudden silence; he clears his throat, gestures towards the food on the table, and scoops up a giant forkful."
-    n "เหมือนจะรู้ตัวว่าฉันเงียบไป เขาก็แคลียร์คอ เอียดหัวไปทางอาหารบนโต๊ะ แล้วตักเข้าปากเต็มส้อม"
+    n "เหมือนจะรู้ตัวว่าฉันเงียบไป เขาก็เคลียร์คอ ทำท่าไปทางอาหารบนโต๊ะ แล้วตักเข้าปากเต็มส้อม"
 
 # game/scripts/days/day 3.rpy:1709
 
@@ -400,14 +400,14 @@ translate thai day3_inviteren_a241443f:
 translate thai day3_inviteren_d3fcafae:
 
     # n "Despite having his cheeks stuffed full of food, [ch_ren] manages to send me a pleased look and an awkward thumbs up — which was a feat in itself, considering how he was trying to hold his utensils at the same time."
-    n "ถึงแก้มจะเพียบไปด้วยอาหาร [ch_ren] ก็ยังส่งสายตาพอใจและยกนิ้วโป้งให้ฉันอย่างกระอักกระอ่วน—ซึ่งมันก็เป็นเรื่องยากอยู่ เพราะเขาต้องถืออุปกรณ์กินข้าวไปด้วยพร้อมกัน"
+    n "ถึงแก้มจะเพียบไปด้วยอาหาร [ch_ren] ก็ยังส่งสายตาพอใจและยกนิ้วโป้งให้ฉันอย่างกระอักกระอ่วน—ซึ่งมันก็เป็นเรื่องยากอยู่ เพราะเขาต้องถือช้อนส้อมไปด้วยพร้อมกัน"
 
 # game/scripts/days/day 3.rpy:1725
 
 translate thai day3_inviteren_daf0612c:
 
     # r "—Ish good! Real tashty! Wan' some?"
-    r "—มะอ่อย! อร่อยมาก! จะกินมั้ย?"
+    r "—มะอ่อย! อช่อยมะก! จะกินมั้ย?"
 
 # game/scripts/days/day 3.rpy:1726
 
@@ -554,14 +554,14 @@ translate thai day3_inviteren_9b54da12:
 translate thai day3_inviteren_90598359:
 
     # n "I wasn't following the plot too keenly, but from what I could gather, the male lead just confessed his love for the main character in the back of [their] truck."
-    n "ฉันไม่ได้ตามเนื้อเรื่องใกล้ชิดนัก แต่เท่าที่ฉันเข้าใจ พระเอกเพิ่งสารภาพรักกับตัวละครเอกในกระบะรถ[their]"
+    n "ฉันไม่ได้ตามเนื้อเรื่องมากนัก แต่เท่าที่ฉันเข้าใจ พระเอกเพิ่งสารภาพรักกับตัวละครเอกในกระบะรถ[their]"
 
 # game/scripts/days/day 3.rpy:1778
 
 translate thai day3_inviteren_6dd65137:
 
     # n "To top it all off, it started raining as some slow, melodic love song came on the radio. The two characters were all too happy to share a sweet kiss with each other in that romantic moment, but…"
-    n "แถมยังเริ่มตกฝนพร้อมกับเพลงรักที่ช้าและเป็นจังหวะดังจากวิทยุ ตัวละครทั้งสองก็ดีใจที่จะจูบกันอย่างหวานในช่วงเวลาโรแมนติกนั้น แต่…"
+    n "แถมฝนก็เริ่มตกพร้อมกับเพลงรักที่ช้าและเป็นจังหวะดังจากวิทยุ ตัวละครทั้งสองก็ดีใจที่จะจูบกันอย่างหวานในช่วงเวลาโรแมนติกนั้น แต่…"
 
 # game/scripts/days/day 3.rpy:1779
 
@@ -575,7 +575,7 @@ translate thai day3_inviteren_b63599ca:
 translate thai day3_inviteren_906c89ca:
 
     # n "The kisses become more passionate, and before I know it, I'm watching the main character lean across the center console to sit in [their] lover's lap instead."
-    n "การจูบเริ่มรุนแรงขึ้น และก่อนที่ฉันจะรู้ตัว ฉันก็เห็นตัวละครเอกเอนตัวข้ามคอนโซลกลางไปนั่งบนตักคนรัก[their]แทน"
+    n "การจูบเริ่มเร่าร้อนขึ้น และก่อนที่ฉันจะรู้ตัว ฉันก็เห็นตัวละครเอกเอนตัวข้ามคอนโซลกลางไปนั่งบนตักคนรัก[their]แทน"
 
 # game/scripts/days/day 3.rpy:1781
 
@@ -603,7 +603,7 @@ translate thai day3_inviteren_d24945a1:
 translate thai day3_inviteren_4b62b043:
 
     # n "His lanky limbs are stretched out in front of him, while his thighs are spread out slightly — and the empty space between his legs was beginning to look {b}inviting{/b} for some reason."
-    n "แขนขาที่ยาวเรียวของเขาเหยียดออกไปข้างหน้า ในขณะที่ต้นขาเปิดออกเล็กน้อย—และพื้นที่ว่างระหว่างขาเขาเริ่มดู{b}น่าสนใจ{/b}ขึ้นมาด้วยเหตุผลบางอย่าง"
+    n "แขนขาที่ยาวเรียวของเขาเหยียดออกไปข้างหน้า ในขณะที่ต้นขาเปิดออกเล็กน้อย—และพื้นที่ว่างระหว่างขาเขาเริ่มดู{b}น่าดึงดูด{/b}ขึ้นมาด้วยเหตุผลบางอย่าง"
 
 # game/scripts/days/day 3.rpy:1786
 

@@ -8,14 +8,14 @@ translate thai day4_acceptoffer_cf620127:
 translate thai day4_acceptoffer_8ef2c0d6:
 
     # r "But I always end up misplacing them all, and—"
-    r "แต่ฉันมักจะวางพวกมันหายไปทุกที และ—"
+    r "แต่ฉันมักจะทำพวกมันหายทุกที และ—"
 
 # game/scripts/days/day 4.rpy:2733
 
 translate thai day4_acceptoffer_b544a3fa:
 
     # r "S-Sorry [ch_angel], am I rambling again? I just… Well, I don't want you to worry or anything."
-    r "ข-ขอโทษ [ch_angel] ฉันพูดเพ้อเจ้ออีกแล้วป่ะ? ก็แค่… ไม่อยากให้คุณต้องกังวลอะไรน่ะ"
+    r "ข-ขอโทษ [ch_angel] ฉันพูดเยิ่นเย้ออีกแล้วป่ะ? ก็แค่… ไม่อยากให้คุณต้องกังวลอะไรน่ะ"
 
 # game/scripts/days/day 4.rpy:2735
 
@@ -106,7 +106,7 @@ translate thai day4_acceptoffer_59b2adc2:
 translate thai day4_acceptoffer_719e0589:
 
     # n "As lovely as [ch_ren]'s… \"welcoming\" hospitality was, I wouldn't want to disrupt or intrude on anything."
-    n "ถึงแม้ความ \"ต้อนรับ\" ของ [ch_ren] จะดีงามแค่ไหน ฉันก็ไม่อยากไปรบกวนหรือเป็นการเปลื้องเปล่าอะไร"
+    n "ถึงแม้ความ \"ต้อนรับ\" ของ [ch_ren] จะดีงามแค่ไหน ฉันก็ไม่อยากไปรบกวนหรือล่วงล้ำอะไร"
 
 # game/scripts/days/day 4.rpy:2753
 
@@ -603,7 +603,7 @@ translate thai day4_acceptoffer_bd5522b0:
 translate thai day4_acceptoffer_6c4d6e54:
 
     # n "Almost desperately, I try and recall their face — or any of their defining features, really. At this point, I'd take anything."
-    n "แทบจะเฝือกแล้ว ฉันพยายามนึกใบหน้าเขา — หรือว่าลักษณะเด่นอะไรก็ได้ จริงๆ ตอนนี้ฉันเอาอะไรก็ได้แล้ว"
+    n "แทบจะสิ้นหวังแล้ว ฉันพยายามนึกใบหน้าเขา — หรือว่าลักษณะเด่นอะไรก็ได้ จริงๆ ตอนนี้ฉันเอาอะไรก็ได้แล้ว"
 
 # game/scripts/days/day 4.rpy:2863
 
@@ -659,7 +659,7 @@ translate thai day4_declineoffer_b4138ada:
 translate thai day4_declineoffer_bc046947:
 
     # n "After spending so much time with [ch_ren], I'd grown to appreciate his company. Something about him felt so… comforting to me."
-    n "หลังจากอยู่กับ [ch_ren] มานาน ฉันเริ่มเริ่มชอบการมีเขาอยู่ข้างๆ มีอะไรบางอย่างเกี่ยวกับเขาที่ทำให้ฉันรู้สึก… อบอุ่น"
+    n "หลังจากอยู่กับ [ch_ren] มานาน ฉันเริ่มชอบการมีเขาอยู่ข้างๆ มีอะไรบางอย่างเกี่ยวกับเขาที่ทำให้ฉันรู้สึก… อบอุ่น"
 
 # game/scripts/days/day 4.rpy:2880
 

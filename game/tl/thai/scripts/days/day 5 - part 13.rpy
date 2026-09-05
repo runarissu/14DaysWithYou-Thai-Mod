@@ -92,14 +92,14 @@ translate thai day5_rencouch_bee11db8:
 translate thai day5_rencouch_bd5a8a8c:
 
     # r "Didn't think I'd let you get away with that, did you? And we can't have your friend seeing me in this state."
-    r "คิดว่าฉันจะปล่อยให้ทำแบบนั้นได้ง่ายๆ ใช่มั้ย? แล้วเราก็ทำเป็นไม่ให้เพื่อนของคุณเห็นฉันในสภาพนี้ได้นะ"
+    r "คิดว่าฉันจะปล่อยให้ทำแบบนั้นได้ง่ายๆ ใช่มั้ย? แล้วเราจะให้เพื่อนของคุณเห็นฉันในสภาพนี้ไม่ได้นะ"
 
 # game/scripts/days/day 5.rpy:2783
 
 translate thai day5_rencouch_f6493e90:
 
     # r "Guess you'll just have to finish what you've started, hm?"
-    r "งั้นก็คงต้องรับผิดชอบสิ่งที่เริ่มทำเองต่อสิ ใช่มั้ย?"
+    r "งั้นก็คงต้องทำให้จบสิ่งที่เริ่มทำเองสิ ใช่มั้ย?"
 
 # game/scripts/days/day 5.rpy:2784
 
@@ -302,7 +302,7 @@ translate thai day5_renevening_0d0ef289:
 translate thai day5_renevening_3211849d:
 
     # n "As I step into my own room, I notice that it's just as gaudy and extravagant as the rest of the apartment; furnished with the most ornate decor and bold colour choices I've ever seen."
-    n "เมื่อฉันก้าวเข้าห้องของตัวเอง ฉันสังเกตว่ามันหรูหราเวอร์วังเท่ากับส่วนอื่นของอพาร์ตเมนต์ เต็มไปด้วยของตกแต่งวิจิตรและโทนสีที่กล้าหาญที่สุดที่ฉันเคยเห็น"
+    n "เมื่อฉันก้าวเข้าห้องของตัวเอง ฉันสังเกตว่ามันหรูหราเวอร์วังเท่ากับส่วนอื่นของอพาร์ตเมนต์ เต็มไปด้วยของตกแต่งวิจิตรและโทนสีที่จัดจ้านที่สุดที่ฉันเคยเห็น"
 
 # game/scripts/days/day 5.rpy:2850
 
@@ -400,7 +400,7 @@ translate thai day5_renevening_2827e18a:
 translate thai day5_renevening_e7e27f4e:
 
     # y "Wait, hold on a sec. Are you… Snooping? Pfft— [ch_moth]!"
-    y "เดี๋ยว รอแป๊บ แกกำลัง… แอบดูของเขาเหรอ? พอได้— [ch_moth]!"
+    y "เดี๋ยว รอแป๊บ แกกำลัง… แอบดูของเขาเหรอ? หึ— [ch_moth]!"
 
 # game/scripts/days/day 5.rpy:2876
 
@@ -463,7 +463,7 @@ translate thai day5_renevening_a9ba0e83:
 translate thai day5_renevening_f7acbedf:
 
     # m "Soooo… Does that mean you have one?"
-    m "งั้น… แปลว่าแกมีอยู่อันนึงสิ?"
+    m "งั้น… แปลว่าแกมีอยู่อันหนึ่งสิ?"
 
 # game/scripts/days/day 5.rpy:2890
 

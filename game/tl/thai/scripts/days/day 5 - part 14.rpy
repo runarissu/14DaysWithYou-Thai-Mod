@@ -36,14 +36,14 @@ translate thai day5_renevening_dae5a64a:
 translate thai day5_renevening_198c82bb:
 
     # m "Oh, but calling me out for wanting to see his Haruko collection was fine, huh? Pff—Hahaha!"
-    m "โอ้ แต่แกจะมาแซวฉันว่าอยากดูคอลเลคชั่น Haruko ของเขาก็ไม่ว่าอะไรเลยนะ? ป๊าว—ฮ่าฮ่าฮ่า!"
+    m "โอ้ แต่แกจะมาแซวฉันว่าอยากดูคอลเลกชัน Haruko ของเขาก็ไม่ว่าอะไรเลยนะ? ป๊าว—ฮ่าฮ่าฮ่า!"
 
 # game/scripts/days/day 5.rpy:2970
 
 translate thai day5_renevening_f317fe84:
 
     # r "The bathroom…? Of course! It's just down the hall, near the kitchen. Here, I can show you."
-    r "ห้องน้ำ…? ได้เลย! อยู่ตรงเดินไปตามทางเลย ใกล้ครัวนั่นแหละ เดี๋ยวฉันพาไปเอง"
+    r "ห้องน้ำ…? ได้เลย! เดินไปตามทางเลย ใกล้ครัวนั่นแหละ เดี๋ยวฉันพาไปเอง"
 
 # game/scripts/days/day 5.rpy:2972
 
@@ -71,7 +71,7 @@ translate thai day5_reneepy_53e81970:
 translate thai day5_reneepy_ea042431:
 
     # n "But just as I settle into bed, I hear a faint knock coming from the door. Was it… [ch_ren]? I let out a faint 'Come in!' and wait for my visitor to emerge."
-    n "แต่ทันทีที่ฉันเอนตัวลงบนเตียง ก็ได้ยินเสียงเคาะประตูเบาๆ เสียงนั้น… ของ [ch_ren] หรือเปล่านะ? ฉันพูด 'เข้ามาเลย!' เบาๆ แล้วรอให้คนที่เคาะประตูแสดงตัว"
+    n "แต่ทันทีที่ฉันเอนตัวลงบนเตียง ก็ได้ยินเสียงเคาะประตูเบาๆ นั่น… [ch_ren] หรือเปล่านะ? ฉันพูด 'เข้ามาเลย!' เบาๆ แล้วรอให้คนที่เคาะประตูแสดงตัว"
 
 # game/scripts/days/day 5.rpy:2990
 
@@ -92,7 +92,7 @@ translate thai day5_reneepy_3357a301:
 translate thai day5_reneepy_dd908d80:
 
     # m "I'm used to my younger siblings bickering in the room next door, or hearing someone playing video games downstairs. Do you mind if I…"
-    m "ฉันคุ้นเคยกับน้องๆ ทะเลาะกันในห้องข้างๆ ไม่ก็เสียงใครบางคนเล่นเกมอยู่ข้างล่าง มึงว่างไหมถ้าฉันจะ…"
+    m "ฉันคุ้นเคยกับน้องๆ ทะเลาะกันในห้องข้างๆ ไม่ก็เสียงใครบางคนเล่นเกมอยู่ข้างล่าง มึงไม่ว่าใช่มั้ยถ้าฉันจะ…"
 
 # game/scripts/days/day 5.rpy:2998
 
@@ -141,7 +141,7 @@ translate thai day5_reneepy_b93835ee:
 translate thai day5_reneepy_69599fad:
 
     # m "You of all people know that I don't have many friends — and I've probably been a jerk to [ch_jae] earlier — but I want you to know that I think he's really cool! I just…"
-    m "มึงก็รู้นะว่าฉันมีเพื่อนไม่ค่อยมาก — และฉันคงเป็นคนหน้าไม่ดีต่อ [ch_jae] ตอนแรก — แต่ฉันอยากให้มึงรู้ว่าฉันคิดว่าเขาเจ๋งมาก! ฉันแค่…"
+    m "มึงก็รู้นะว่าฉันมีเพื่อนไม่ค่อยมาก — และฉันคงทำตัวไม่ดีกับ [ch_jae] ตอนแรก — แต่ฉันอยากให้มึงรู้ว่าฉันคิดว่าเขาเจ๋งมาก! ฉันแค่…"
 
 # game/scripts/days/day 5.rpy:3014
 
@@ -155,7 +155,7 @@ translate thai day5_reneepy_de019de2:
 translate thai day5_reneepy_dc70cbbc:
 
     # m "You of all people know that I don't have many friends — and I've probably been an ass to [ch_jae] earlier — but I want you to know that I think he's really cool! I just…"
-    m "มึงก็รู้นะว่าฉันมีเพื่อนไม่ค่อยมาก — และฉันคงเป็นตัวกามกับ [ch_jae] ตอนแรก — แต่ฉันอยากให้มึงรู้ว่าฉันคิดว่าเขาเจ๋งมาก! ฉันแค่…"
+    m "มึงก็รู้นะว่าฉันมีเพื่อนไม่ค่อยมาก — และฉันคงทำตัวเลวกับ [ch_jae] ตอนแรก — แต่ฉันอยากให้มึงรู้ว่าฉันคิดว่าเขาเจ๋งมาก! ฉันแค่…"
 
 # game/scripts/days/day 5.rpy:3019
 

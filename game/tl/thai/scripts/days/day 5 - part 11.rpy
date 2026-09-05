@@ -1,7 +1,7 @@
 translate thai day5_branchingdeadend_4b18a91c:
 
     # n "I'd already quadruple-checked that the front door was locked before I turned in for the night, so with a satisfied hum, I crawl into bed and try to get comfortable."
-    n "ฉันเช็คประตูหน้าว่าล็อคแล้วล็อคอีกเป็นสี่รอบก่อนนอน พอใจที่ได้ฮัมเพลงเบาๆ แล้วก็คลานขึ้นไปนอนบนเตียงพยายามหาท่าที่สบาย"
+    n "ฉันเช็คประตูหน้าซ้ำสี่รอบก่อนนอนว่าล็อคแล้ว พอใจที่ได้ฮัมเพลงเบาๆ แล้วก็คลานขึ้นไปนอนบนเตียงพยายามหาท่าที่สบาย"
 
 # game/scripts/days/day 5.rpy:2333
 
@@ -29,7 +29,7 @@ translate thai day5_branchingdeadend_ff2b15f5:
 translate thai day5_branchingdeadend_5678dffd:
 
     # n "All of a sudden, a blood-curdling scream rattles the walls and pulls me from my slumber."
-    n "ทันใดนั้นเสียงกรีดร้องน่าสยดสยองดังก้องห้องและดึงฉันตื่นจากหลับ"
+    n "ทันใดนั้นเสียงกรีดร้องน่าสยดสยองดังก้องห้องและดึงฉันตื่นจากความหลับ"
 
 # game/scripts/days/day 5.rpy:2353
 
@@ -57,14 +57,14 @@ translate thai day5_branchingdeadend_cff694b5:
 translate thai day5_branchingdeadend_a42bfc81:
 
     # n "What the fuck? Was that… [ch_moth]? …The creep from earlier?!"
-    n "มึงอะไรเนี่ย? นั่น… [ch_moth] เหรอ? …พวกโรคจิตจากก่อนหน้านี้?!"
+    n "อะไรวะเนี่ย? นั่น… [ch_moth] เหรอ? …พวกโรคจิตจากก่อนหน้านี้?!"
 
 # game/scripts/days/day 5.rpy:2358
 
 translate thai day5_branchingdeadend_106bed0a:
 
     # n "[shit!c]. What the fuck. What the actual fuck."
-    n "[shit!c]. มึงอะไรวะ. มึงอะไรเนี่ยวะ."
+    n "[shit!c]. อะไรวะ. อะไรเนี่ยวะ."
 
 # game/scripts/days/day 5.rpy:2363
 
@@ -106,7 +106,7 @@ translate thai day5_branchingdeadend_76846f3a:
 translate thai day5_branchingdeadend_dc395971:
 
     # n "Instead, there's just an eerie silence and a sense of dread hanging in the air."
-    n "มีแค่ความเงียบประหลาดและความหวาดกลัวที่คอยคุกคากอยู่ในอากาศ"
+    n "มีแค่ความเงียบประหลาดและความหวาดกลัวลอยค้างอยู่ในอากาศ"
 
 # game/scripts/days/day 5.rpy:2369
 
@@ -155,7 +155,7 @@ translate thai day5_branchingdeadend_cea8a17c:
 translate thai day5_branchingdeadend_b93ec929:
 
     # n "From the corner of my eye, I {b}swear{/b} I can see some kind of ghastly apparition begin to form by the foot of my bed."
-    n "มุมตาฉัน {b}สาบาน{/b} ว่าเห็นร่างผีๆ บางอย่างเริ่มก่อตัวขึ้นที่ปลายเตียง"
+    n "ฉัน{b}สาบาน{/b}ว่ามุมตาเห็นร่างผีๆ บางอย่างเริ่มก่อตัวขึ้นที่ปลายเตียง"
 
 # game/scripts/days/day 5.rpy:2401
 
@@ -197,7 +197,7 @@ translate thai day5_branchingdeadend_029aa9a5:
 translate thai day5_branchingdeadend_ca652abb:
 
     # n "The hand reaches for the blanket below my chin in an attempt to peel it back, and I muster all my strength to keep it cocooned around me. It was my last line of defence, and I wasn't about to have my final source of safety ripped away from me."
-    n "มื้นั้นเอื้อมไปที่ผ้าห่มใต้คางฉันพยายามจะดึงออก และฉันก็ใช้กำลังทั้งหมดรั้งไว้ไม่ให้หลุดจากตัว มันคือแนวป้องกันสุดท้ายของฉัน และฉันไม่มีทางยอมให้สิ่งที่ปลอดภัยที่สุดถูกฉีกไปจากฉัน"
+    n "มือนั้นเอื้อมไปที่ผ้าห่มใต้คางฉันพยายามจะดึงออก และฉันก็ใช้กำลังทั้งหมดรั้งไว้ไม่ให้หลุดจากตัว มันคือแนวป้องกันสุดท้ายของฉัน และฉันไม่มีทางยอมให้สิ่งที่ปลอดภัยที่สุดถูกฉีกไปจากฉัน"
 
 # game/scripts/days/day 5.rpy:2409
 
@@ -295,14 +295,14 @@ translate thai day5_branchingdeadend_cadd3e3d:
 translate thai day5_renapartmentbranch_8e092427:
 
     # n "In the end, [ch_ren] ended up accompanying [ch_moth] and me to his apartment. He talked about creating some kind of alibi as a precaution, but I trusted him enough to take care of any loose ends."
-    n "สุดท้าย [ch_ren] ก็ไปกับ [ch_moth] และฉันที่อพาร์ตเมนต์ของเขา เขาพูดถึงการสร้างหลักฐานอะไรสักอย่างเพื่อเป็นการป้องกัน แต่ฉันเชื่อใจเขาพอที่จะจัดการเรื่องเล็กๆ น้อยๆ ได้"
+    n "สุดท้าย [ch_ren] ก็พา [ch_moth] และฉันไปที่อพาร์ตเมนต์ของเขา เขาพูดถึงการสร้างหลักฐานอะไรสักอย่างเพื่อเป็นการป้องกัน แต่ฉันเชื่อใจเขาพอที่จะจัดการเรื่องเล็กๆ น้อยๆ ได้"
 
 # game/scripts/days/day 5.rpy:2460
 
 translate thai day5_renapartmentbranch_3fbe9c6d:
 
     # n "No matter which way I look at it, this was just a robbery attempt that went sideways, plain and simple."
-    n "มองยังไงก็คือความพยายามปล้นที่เลยเถิดไปนิด ง่ายๆ แค่นั้น"
+    n "มองยังไงก็คือความพยายามปล้นที่ผิดพลาดไปนิด ง่ายๆ แค่นั้น"
 
 # game/scripts/days/day 5.rpy:2461
 
@@ -351,7 +351,7 @@ translate thai day5_renapartmentbranch_be251966:
 translate thai day5_renapartmentbranch_730c8f1d:
 
     # n "The elevator ride to his floor is just as slow and tacky as last time, yet [ch_moth] doesn't seem to mind it in the slightest. In fact, they seem to be wholly engrossed with their surroundings — much like I had been the very first time I visited [ch_ren]'s place."
-    n "ขี่ลิฟต์ขึ้นไปชั้นของเขาก็ช้าและจืดจางเหมือนครั้งก่อน แต่ [ch_moth] ไม่ได้รู้สึกเบื่อเลยสักนิด จริงๆ แล้วเขาดูเพลิดเพลินกับบรรยากาศรอบข้างมาก — เหมือนที่ฉันเป็นตอนมาที่ [ch_ren] ครั้งแรก"
+    n "นั่งลิฟต์ขึ้นไปชั้นของเขาก็ช้าและจืดจางเหมือนครั้งก่อน แต่ [ch_moth] ไม่ได้รู้สึกเบื่อเลยสักนิด จริงๆ แล้วเขาดูเพลิดเพลินกับบรรยากาศรอบข้างมาก — เหมือนที่ฉันเป็นตอนมาที่ [ch_ren] ครั้งแรก"
 
 # game/scripts/days/day 5.rpy:2469
 
@@ -421,7 +421,7 @@ translate thai day5_renapartmentbranch_d5991ce5:
 translate thai day5_renapartmentbranch_022d4c53:
 
     # m "Oh. My. God."
-    m "โอ้ โอม  พระเจ้า"
+    m "โอ้ พระเจ้า ของฉัน"
 
 # game/scripts/days/day 5.rpy:2488
 

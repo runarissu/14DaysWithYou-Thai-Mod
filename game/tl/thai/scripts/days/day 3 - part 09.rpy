@@ -1,21 +1,21 @@
 translate thai day3_inviteren_196d0906:
 
     # n "Leaning forward a little bit, I quickly shrug off [ch_ren]'s hoodie and my undershirt, and let it drop to the floor."
-    n "ก้นตัวไปข้างหน้านิดนึง ฉันรีดเสื้อฮู้ดของ [ch_ren] กับเสื้อในออกอย่างรวดเร็ว แล้วปล่อยให้มันตกลงพื้น"
+    n "ก้มตัวไปข้างหน้านิดนึง ฉันรีดเสื้อฮู้ดของ [ch_ren] กับเสื้อในออกอย่างรวดเร็ว แล้วปล่อยให้มันตกลงพื้น"
 
 # game/scripts/days/day 3.rpy:1815
 
 translate thai day3_inviteren_be68e9ad:
 
     # n "Leaning forward a little bit, I quickly make work of my top by tugging it off and letting it drop to the floor."
-    n "ก้นตัวไปข้างหน้านิดนึง ฉันรีบถอดเสื้อตัวนอกออกแล้วปล่อยให้ตกลงพื้น"
+    n "ก้มตัวไปข้างหน้านิดนึง ฉันรีบถอดเสื้อตัวนอกออกแล้วปล่อยให้ตกลงพื้น"
 
 # game/scripts/days/day 3.rpy:1816
 
 translate thai day3_inviteren_7c69ffbd:
 
     # n "The cold, evening air of my apartment ghosts along my exposed skin before [ch_ren] wraps his arms around my body to share his warmth."
-    n "อากาศยามเย็นที่เย็นยะเยือกในอพาร์ตเมนต์ลอยผ่านผิวที่เปลือยเปล่าของฉัน ก่อนที่ [ch_ren] จะโอบแขนรอบตัวฉันเพื่อส่งความอบอุ่นจากตัวเขามาให้"
+    n "อากาศยามเย็นที่เย็นเย็นในอพาร์ตเมนต์ลอยผ่านผิวที่เปลือยเปล่าของฉัน ก่อนที่ [ch_ren] จะโอบแขนรอบตัวฉันเพื่อส่งความอบอุ่นจากตัวเขามาให้"
 
 # game/scripts/days/day 3.rpy:1817
 
@@ -99,7 +99,7 @@ translate thai day3_inviteren_3672148f:
 translate thai day3_inviteren_044f1445:
 
     # n "I can hear the sounds of fabric rustling from behind me, before [ch_ren] brings his white turtleneck into view and folds it into a narrow strip before me."
-    n "ฉันได้ยินเสียงผ้าเสียดสีกันจากด้านหลัง ก่อนที่ [ch_ren] จะยกเสื้อเชิ้ตคอตั้งสีขาวของเขาขึ้นมาแล้วพับเป็นแถบแคบๆ วางตรงหน้าฉัน"
+    n "ฉันได้ยินเสียงผ้าเสียดสีกันจากด้านหลัง ก่อนที่ [ch_ren] จะยกเสื้อคอตั้งสีขาวของเขาขึ้นมาแล้วพับเป็นแถบแคบๆ วางตรงหน้าฉัน"
 
 # game/scripts/days/day 3.rpy:1832
 
@@ -134,14 +134,14 @@ translate thai day3_inviteren_34a5a773:
 translate thai day3_inviteren_32aaa70d:
 
     # n "It's almost painful watching him awkwardly clear his throat a few times until his interest ultimately shifts towards my wall instead."
-    n "มันแทบจะเจ็บปวดที่ได้เห็นเขาแคล้วคออย่างอึดอัดอยู่หลายครั้ง จนกระทั่งความสนใจของเขาเปลี่ยนไปที่ผนังห้องฉันแทน"
+    n "มันแทบจะเจ็บปวดที่ได้เห็นเขาเคลียร์คออย่างอึดอัดอยู่หลายครั้ง จนกระทั่งความสนใจของเขาเปลี่ยนไปที่ผนังห้องฉันแทน"
 
 # game/scripts/days/day 3.rpy:1842
 
 translate thai day3_inviteren_fc4e8bc2:
 
     # n "I also feel the urge to look away once the couple starts to get {b}even more{/b} handsy with each other, and when it starts to become too much to bear, I impulsively change the channel."
-    n "ฉันก็รู้สึกอยากจะเมินสายตาเหมือนกันพอคู่ในหนังเริ่มจับมือซุกซนกัน{b}มากขึ้นอีก{/b} และพอมันเริ่มจะทนดูไม่ไหว ฉันก็เปลี่ยนช่องไปแบบหุ่นสี"
+    n "ฉันก็รู้สึกอยากจะเมินสายตาเหมือนกันพอคู่ในหนังเริ่มจับมือซุกซนกัน{b}มากขึ้นอีก{/b} และพอมันเริ่มจะทนดูไม่ไหว ฉันก็เปลี่ยนช่องไปแบบหุนหัน"
 
 # game/scripts/days/day 3.rpy:1847
 
@@ -204,14 +204,14 @@ translate thai day3_inviteren_f2a235d1:
 translate thai day3_inviteren_fb27aa19:
 
     # n "Jeez, I can't believe it's somehow even more awkward now."
-    n "ตู๊ด ไม่เชื่อว่ามันจะอึดอัดกว่าเมื่อกี้อีก"
+    n "เฮ้อ ไม่เชื่อว่ามันจะอึดอัดกว่าเมื่อกี้อีก"
 
 # game/scripts/days/day 3.rpy:1860
 
 translate thai day3_inviteren_40e0dc8a:
 
     # n "But just as I'm about to do something about it, [ch_ren] awkwardly clears his throat and moves to stand up."
-    n "แต่พอฉันกำลังจะทำอะไรสักอย่าง [ch_ren] ก็แคล้วคออย่างอึดอัดแล้วลุกขึ้นยืน"
+    n "แต่พอฉันกำลังจะทำอะไรสักอย่าง [ch_ren] ก็เคลียร์คออย่างอึดอัดแล้วลุกขึ้นยืน"
 
 # game/scripts/days/day 3.rpy:1862
 
@@ -232,7 +232,7 @@ translate thai day3_inviteren_b7532c3c:
 translate thai day3_inviteren_f8d0cfea:
 
     # r "N-No, I really should go. Now that I think about it, you need to wake up early, don't you?"
-    r "อ-ไม่ ฉันไปจริงๆ นึกๆ ดูอีกที เธอต้องตื่นแต่เช้าไม่ใช่เหรอ?"
+    r "อ-ไม่ ฉันไปจริงๆ นึกๆ ดูอีกที คุณต้องตื่นแต่เช้าไม่ใช่เหรอ?"
 
 # game/scripts/days/day 3.rpy:1866
 
@@ -246,7 +246,7 @@ translate thai day3_inviteren_5704ad35:
 translate thai day3_inviteren_12b28c2e:
 
     # r "Oh! Y-You seem like the early bird type."
-    r "อ่ะ! ด-ดูเหมือนเธอเป็นคนตื่นเช้านะ"
+    r "อ่ะ! ด-ดูเหมือนคุณเป็นคนตื่นเช้านะ"
 
 # game/scripts/days/day 3.rpy:1869
 
@@ -260,14 +260,14 @@ translate thai day3_inviteren_b348f5dd:
 translate thai day3_inviteren_42771a44:
 
     # n "Deciding that was that, I walked [ch_ren] towards the front door with a soft smile on my face."
-    n "ตัดสินใจว่าเอาเท่านี้แล้ว ฉันเดิน [ch_ren] ไปส่งที่ประตูหน้าพร้อมรอยยิ้มอ่อนโยน"
+    n "ตัดสินใจว่าเอาเท่านี้แล้ว ฉันเดินไปส่ง [ch_ren] ที่ประตูหน้าพร้อมรอยยิ้มอ่อนโยน"
 
 # game/scripts/days/day 3.rpy:1872
 
 translate thai day3_inviteren_170ba03b:
 
     # n "Today had been a lot of fun thanks to him, and I was able to keep my mind off of the events that would ultimately transpire tomorrow."
-    n "วันนี้สนุกมากเลยต้องขอบคุณเขา และฉันก็ได้ไม่ต้องคิดเรื่องที่จะเกิดขึ้นพรุ่งนี้"
+    n "วันนี้สนุกมากเลย ต้องขอบคุณเขา และฉันก็ได้ไม่ต้องคิดเรื่องที่จะเกิดขึ้นพรุ่งนี้"
 
 # game/scripts/days/day 3.rpy:1873
 
@@ -330,7 +330,7 @@ translate thai day3_inviteren_fe78c93d:
 translate thai day3_inviteren_e4ed5284:
 
     # r "I… Um… I asked if you wanted me to lock the door for you."
-    r "ฉัน… อืม… ถามว่าเธออยากให้ฉันล็อกประตูให้ไหม"
+    r "ฉัน… อืม… ถามว่าคุณอยากให้ฉันล็อกประตูให้ไหม"
 
 # game/scripts/days/day 3.rpy:1884
 
@@ -344,14 +344,14 @@ translate thai day3_inviteren_c6fcd7b1:
 translate thai day3_inviteren_265e9a4f:
 
     # y "Sorry! I was just… busy thinking. I can lock it. Thanks though."
-    y "ขอโทษ! ฉันแค่… กำลังคิดอะไรอยู่ ล็อกเองได้ค่ะ ขอบคุณนะ"
+    y "ขอโทษ! ฉันแค่… กำลังคิดอะไรอยู่ ล็อกเองได้ ขอบคุณนะ"
 
 # game/scripts/days/day 3.rpy:1887
 
 translate thai day3_inviteren_0e4f7266:
 
     # r "Haha, you do that a lot. It's cute."
-    r "ฮ่าๆ เธอทำแบบนั้นบ่อยเลยนะ น่ารักดี"
+    r "ฮ่าๆ คุณทำแบบนั้นบ่อยเลยนะ น่ารักดี"
 
 # game/scripts/days/day 3.rpy:1888
 
@@ -365,7 +365,7 @@ translate thai day3_inviteren_47ddae30:
 translate thai day3_inviteren_428fbe9d:
 
     # r "Thanks for today. A-And sorry for taking up so much of your time."
-    r "ขอบคุณสำหรับวันนี้นะ แ-และขอโทษที่เสียเวลาเธอไปเยอะเลย"
+    r "ขอบคุณสำหรับวันนี้นะ แ-และขอโทษที่เสียเวลาคุณไปเยอะเลย"
 
 # game/scripts/days/day 3.rpy:1891
 
@@ -400,14 +400,14 @@ translate thai day3_inviteren_62b5eed0:
 translate thai day3_inviteren_e0de688b:
 
     # extend " You too! Or— I mean—"
-    extend " เธอก็เหมือนกันนะ! อ้อ— หมายถึง—"
+    extend " คุณก็เหมือนกันนะ! อ้อ— หมายถึง—"
 
 # game/scripts/days/day 3.rpy:1900
 
 translate thai day3_inviteren_c97d78df:
 
     # r "Y-You're already at home, so… Go to bed safe! Or sleep safe! …Sleep well?"
-    r "อ-เธออยู่บ้านแล้วนะ ก็… กลับไปนอนปลอดภัย! หรือนอนหลับปลอดภัย! …นอนหลับฝันดีนะ?"
+    r "อ-คุณอยู่บ้านแล้วนะ ก็… กลับไปนอนปลอดภัย! หรือนอนหลับปลอดภัย! …นอนหลับฝันดีนะ?"
 
 # game/scripts/days/day 3.rpy:1902
 
