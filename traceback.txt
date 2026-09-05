@@ -1,7 +1,7 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-Before loading the script.
-ValueError: invalid literal for int() with base 16: b'000000583ed2 123'
+While loading the script.
+renpy.script.ScriptError: Name ('game/tl/thai/common.rpy', 621090254, 0) is defined twice, at game/tl/thai/common.rpy:6 and game/tl/thai/common.rpy:6.
 
 -- Full Traceback ------------------------------------------------------------
 
@@ -9,30 +9,25 @@ Traceback (most recent call last):
   File "renpy/bootstrap.py", line 401, in bootstrap
     renpy.main.main()
     ~~~~~~~~~~~~~~~^^
-  File "renpy/main.py", line 367, in main
-    renpy.loader.index_files()
-    ~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "renpy/loader.py", line 252, in index_files
-    for _dir, fn in listdirfiles():
-                    ~~~~~~~~~~~~^^ 
-  File "renpy/loader.py", line 485, in listdirfiles
-    scandirfiles()
-    ~~~~~~~~~~~~^^
-  File "renpy/loader.py", line 374, in scandirfiles
-    i(add, seen)
-    ~^^^^^^^^^^^
-  File "renpy/loader.py", line 466, in scandirfiles_from_archives
-    index_archives()
-    ~~~~~~~~~~~~~~^^
-  File "renpy/loader.py", line 279, in index_archives
-    index = handler.read_index(f)
-            ~~~~~~~~~~~~~~~~~~^^^
-  File "renpy/loader.py", line 160, in read_index
-    offset = int(l[8:24], 16)
-             ~~~^^^^^^^^^^^^^
-ValueError: invalid literal for int() with base 16: b'000000583ed2 123'
+  File "renpy/main.py", line 412, in main
+    renpy.game.script.load_script()  # sets renpy.game.script.
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^                           
+  File "renpy/script.py", line 456, in load_script
+    self.load_appropriate_file(".rpyc", ["_ren.py", ".rpy"], dir, fn, initcode)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/script.py", line 1082, in load_appropriate_file
+    self.finish_load(stmts, initcode, filename=lastfn)  # type: ignore
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                
+  File "renpy/script.py", line 713, in finish_load
+    check_name(node)
+    ~~~~~~~~~~^^^^^^
+  File "renpy/script.py", line 674, in check_name
+    raise ScriptError(
+    ...<8 lines>...
+    )
+renpy.script.ScriptError: Name ('game/tl/thai/common.rpy', 621090254, 0) is defined twice, at game/tl/thai/common.rpy:6 and game/tl/thai/common.rpy:6.
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.2.26010301
- 
-Sat Sep  5 22:31:10 2026
+14 Days With You 5.5
+Sat Sep  5 22:34:19 2026
