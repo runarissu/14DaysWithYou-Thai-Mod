@@ -6,373 +6,38 @@
 translate thai strings:
 
 ## --- Game Title (options.rpy) ---
-    old "14 Days With You"
-    new "14 Days With You"
-
     ## --- Main Menu Navigation (screens.rpy) ---
-    old "Start"
-    new "เริ่มเกม"
-
-    old "History"
-    new "ประวัติ"
-
-    old "Save"
-    new "บันทึก"
-
-    old "Load"
-    new "โหลด"
-
-    old "Options"
-    new "ตัวเลือก"
-
-    old "End Replay"
-    new "ออกจากการเล่นซ้ำ"
-
-    old "Main Menu"
-    new "เมนูหลัก"
-
-    old "About"
-    new "เกี่ยวกับ"
-
-    old "Help"
-    new "ช่วยเหลือ"
-
-    old "Quit"
-    new "ออก"
-
     old "Return"
     new "ย้อนกลับ"
 
     ## --- Save/Load Slots (screens.rpy) ---
-    old "QUICKSAVES"
-    new "บันทึกด่วน"
-
-    old "{color=#ff66cb}{b}SAVED{/b}{/color} | {#file_time}%B %d, %H:%M"
-    new "{color=#ff66cb}{b}บันทึกแล้ว{/b}{/color} | {#file_time}%B %d, %H:%M"
-
-    old "{color=#ff66cb}{b}READY TO LOAD!{/b}{/color} | {#file_time}%B %d, %H:%M"
-    new "{color=#ff66cb}{b}พร้อมโหลด!{/b}{/color} | {#file_time}%B %d, %H:%M"
-
-    old "ERR0R: EMPTY FILE!"
-    new "ERR0R: ไฟล์ว่าง!"
-
     ## --- Preferences / Dialogue Options (screens.rpy) ---
-    old "skip all the text"
-    new "ข้ามข้อความทั้งหมด"
-
     old "skip after choices"
     new "ข้ามหลังเลือก"
 
-    old "streamer mode"
-    new "โหมดสตรีมเมอร์"
-
-    old "Dialogue Options"
-    new "ตัวเลือกบทสนทนา"
-
     ## --- History (screens.rpy) ---
-    old "The dialogue history is empty."
-    new "ประวัติบทสนทนาว่าง"
-
     ## --- Help Screen (screens.rpy) ---
-    old "Keyboard"
-    new "แป้นพิมพ์"
-
-    old "Mouse"
-    new "เมาส์"
-
-    old "Gamepad"
-    new "เกมแพด"
-
-    old "Enter"
-    new "Enter"
-
-    old "Advances dialogue and activates the interface."
-    new "ก้าวไปยังบทสนทนาถัดไปและเปิดใช้งานอินเทอร์เฟซ"
-
-    old "Space"
-    new "Space"
-
-    old "Advances dialogue without selecting choices."
-    new "ก้าวไปยังบทสนทนาถัดไปโดยไม่เลือกตัวเลือก"
-
-    old "Arrow Keys"
-    new "ปุ่มลูกศร"
-
-    old "Navigate the interface."
-    new "นำทางอินเทอร์เฟซ"
-
-    old "Escape"
-    new "Esc"
-
-    old "Accesses the game menu."
-    new "เปิดเมนูเกม"
-
-    old "Ctrl"
-    new "Ctrl"
-
-    old "Skips dialogue while held down."
-    new "ข้ามบทสนทนาขณะกดค้าง"
-
-    old "Tab"
-    new "Tab"
-
-    old "Toggles dialogue skipping."
-    new "เปิด/ปิดการข้ามบทสนทนา"
-
-    old "Page Up"
-    new "Page Up"
-
-    old "Rolls back to earlier dialogue."
-    new "ย้อนกลับไปยังบทสนทนาก่อนหน้า"
-
-    old "Page Down"
-    new "Page Down"
-
-    old "Rolls forward to later dialogue."
-    new "เดินหน้าไปยังบทสนทนาถัดไป"
-
-    old "Hides the user interface."
-    new "ซ่อนอินเทอร์เฟซ"
-
-    old "Takes a screenshot."
-    new "ถ่ายภาพหน้าจอ"
-
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "เปิด/ปิด{a=https://www.renpy.org/l/voicing}การอ่านออกเสียงอัตโนมัติ{/a}"
-
-    old "Left Click"
-    new "คลิกซ้าย"
-
-    old "Middle Click"
-    new "คลิกกลาง"
-
-    old "Right Click"
-    new "คลิกขวา"
-
-    old "Mouse Wheel Up\nClick Rollback Side"
-    new "ล้อเมาส์ขึ้น\nคลิกด้านย้อนกลับ"
-
-    old "Mouse Wheel Down"
-    new "ล้อเมาส์ลง"
-
-    old "Right Trigger\nA/Bottom Button"
-    new "ไกเกอร์ขวา\nปุ่ม A/ล่าง"
-
-    old "Left Trigger\nLeft Shoulder"
-    new "ไกเกอร์ซ้าย\nปุ่มไหล่ซ้าย"
-
-    old "Right Shoulder"
-    new "ปุ่มไหล่ขวา"
-
-    old "D-Pad, Sticks"
-    new "D-Pad, สติ๊ก"
-
-    old "Start, Guide"
-    new "Start, Guide"
-
-    old "Y/Top Button"
-    new "ปุ่ม Y/บน"
-
-    old "Calibrate"
-    new "ปรับเทียบ"
-
     ## --- Confirm Dialog (screens.rpy) ---
-    old "YES"
-    new "ใช่"
-
-    old "NO"
-    new "ไม่"
-
     ## --- Quick Menu (screens.rpy) ---
-    old "BACK"
-    new "ย้อนกลับ"
-
-    old "SKIP"
-    new "ข้าม"
-
-    old "AUTO"
-    new "ออโต้"
-
-    old "HISTORY"
-    new "ประวัติ"
-
-    old "SAVE"
-    new "บันทึก"
-
-    old "LOAD"
-    new "โหลด"
-
-    old "MENU"
-    new "เมนู"
-
     ## --- Zoom notification (screens.rpy) ---
-    old "WE ZOOMIN BOIS"
-    new "ซูมเข้าแล้วนะ"
-
     ## --- Day End Prompt (other.rpy) ---
-    old "RETURN TO MENU"
-    new "กลับเมนู"
-
-    old "QUIT"
-    new "ออก"
-
-    old "QUIT THE GAME"
-    new "ออกจากเกม"
-
-    old "EXIT THE GAME"
-    new "ออกจากเกม"
-
-    old "REMOVE RESTRICTION"
-    new "ปลดข้อจำกัด"
-
     ## --- Age Verification (other.rpy) ---
-    old "AGREE AND CONTINUE"
-    new "ยอมรับและดำเนินการต่อ"
-
-    old "I AM {u}UNDER{/u} 18"
-    new "ฉัน{u}อายุไม่ถึง{/u} 18"
-
-    old "I AM {u}OVER{/u} 18"
-    new "ฉัน{u}อายุเกิน{/u} 18"
-
     ## --- Character Creator (other.rpy) ---
-    old "DEFAULT"
-    new "ค่าเริ่มต้น"
-
-    old "CUSTOM"
-    new "กำหนดเอง"
-
-    old "FACE"
-    new "ใบหน้า"
-
-    old "EYES"
-    new "ดวงตา"
-
-    old "HAIR"
-    new "ผม"
-
-    old "BODY"
-    new "รูปร่าง"
-
-    old "MISC"
-    new "อื่นๆ"
-
     ## --- Hair Length (other.rpy) ---
-    old "SHORT"
-    new "สั้น"
-
-    old "MEDIUM"
-    new "ปานกลาง"
-
-    old "LONG"
-    new "ยาว"
-
-    old "BALD"
-    new "ล้าน"
-
-    old "HIDDEN"
-    new "ซ่อน"
-
     ## --- Hair Texture (other.rpy) ---
-    old "STRAIGHT"
-    new "ตรง"
-
-    old "WAVY"
-    new "เป็นคลื่น"
-
-    old "CURLY"
-    new "หยิก"
-
-    old "COILY"
-    new "ขดเป็นก้นหอย"
-
-    old "BRAIDED"
-    new "ถักเปีย"
-
-    old "LOCS"
-    new "ล็อคผม"
-
     ## --- Pronoun Selection (other.rpy) ---
     ## NOTE: These set the English pronoun variable. Labels are translated
     ## for Thai player understanding, but the underlying values remain English.
-    old "SHE"
-    new "หญิง"
-
-    old "HE"
-    new "ชาย"
-
-    old "THEY"
-    new "ไม่ระบุ"
-
     ## --- Body Type / Appearance (other.rpy) ---
-    old "feminine"
-    new "หญิง"
-
-    old "androgynous"
-    new "กลาง"
-
-    old "masculine"
-    new "ชาย"
-
     ## --- Verb Agreement (other.rpy) ---
     ## NOTE: These are for the custom English pronoun system.
     ## Kept in English since they set English verb values.
-    old "is"
-    new "is"
-
-    old "are"
-    new "are"
-
     ## --- Socials Tab (other.rpy) ---
-    old "> OPEN {b}SOCIALS{/b} TAB"
-    new "> เปิดแท็บ{b}โซเชียล{/b}"
-
-    old "> OPEN {b}WORK{/b} GROUP CHAT"
-    new "> เปิด{b}แชทกลุ่มที่ทำงาน{/b}"
-
-    old "> OPEN {b}???{/b}"
-    new "> เปิด{b}???{/b}"
-
     ## --- Streamer Mode (other.rpy) ---
-    old "ENABLE"
-    new "เปิดใช้งาน"
-
-    old "DISABLE"
-    new "ปิดใช้งาน"
-
-    old "ENTER"
-    new "ตกลง"
-
-    old "If so, click here for more options!"
-    new "ถ้าอย่างนั้น คลิกที่นี่เพื่อดูตัวเลือกเพิ่มเติม!"
-
     ## --- Data Management (other.rpy) ---
-    old "{size=+5}DELETE ALL SAVE FILES{/size}"
-    new "{size=+5}ลบไฟล์บันทึกทั้งหมด{/size}"
-
-    old "{size=+5}DELETE STORED DATA / START FRESH{/size}"
-    new "{size=+5}ลบข้อมูลที่เก็บไว้ / เริ่มใหม่{/size}"
-
-    old "{size=+5}RESET REN.EXE{/size}"
-    new "{size=+5}รีเซ็ต REN.EXE{/size}"
-
     ## --- Update Warning (other.rpy) ---
-    old "DISMISS"
-    new "ปิด"
-
     ## --- Playtest / Debug (other.rpy) ---
-    old "DAY 1"
-    new "วันที่ 1"
-
-    old "18+ SCENE"
-    new "ฉาก 18+"
-
-    old "DEAD END"
-    new "ตอนจบแย่"
-
     ## --- About Screen (other.rpy) ---
-    old "I'm {color=#ffcdeb}Saint{/color} (cutiesai), the sole developer of 14DWY! If you'd like to support me, here's my Ko-Fi!"
-    new "ฉันคือ {color=#ffcdeb}Saint{/color} (cutiesai) นักพัฒนาเพียงคนเดียวของ 14DWY! ถ้าอยากสนับสนุน นี่คือ Ko-Fi ของฉัน!"
 # TODO: Translation updated at 2026-09-05 03:09
 
     # renpy/common/000statements.rpy:28
