@@ -113,7 +113,7 @@ translate thai day4_declineoffer_e12a0f04:
 translate thai day4_declineoffer_383280dc:
 
     # n "If I continued to think about this any more than I should, I swear I would start to go crazy."
-    n "ถ้าฉันยังคิดเรื่องนี้ต่อไปอีกนิด ฉันสาบานว่าฉันจะบ้าเอาของแน่ๆ"
+    n "ถ้าฉันยังคิดเรื่องนี้ต่อไปอีกนิด ฉันสาบานว่าฉันจะบ้าไปแล้วแน่ๆ"
 
 # game/scripts/days/day 4.rpy:2928
 

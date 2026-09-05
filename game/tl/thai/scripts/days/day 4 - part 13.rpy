@@ -106,7 +106,7 @@ translate thai day4_gohome_fff1434b:
 translate thai day4_gohome_bc50abb2:
 
     # n "He even offered to walk me to my door, and what greeted the both of us was a single package on top of my doormat."
-    n "เขายังเสนอจะเดินส่งฉันถึงหน้าบ้านอีก และสิ่งที่รอรับทั้งสองคนอยู่คือพัสดุ์ชิ้นเดียววางอยู่บนพรมเช็ดเท้าหน้าบ้าน"
+    n "เขายังเสนอจะเดินส่งฉันถึงหน้าบ้านอีก และสิ่งที่รอรับทั้งสองคนอยู่คือพัสดุชิ้นเดียววางอยู่บนพรมเช็ดเท้าหน้าบ้าน"
 
 # game/scripts/days/day 4.rpy:2549
 
@@ -127,7 +127,7 @@ translate thai day4_gohome_083f3c54:
 translate thai day4_gohome_3adb8ba6:
 
     # n "Deftly picking it up, I put it under an arm as I fish for my keys in one of my pockets. I can sense [ch_ren]'s eyes on me — or rather, my package — but even as I glance in his direction, I can tell that he's trying to hold himself back from asking."
-    n "ฉันหยิบพัสดุ์ขึ้นมาอย่างคล่องแคล่ว สอดไว้ข้างลำตัวแล้วล้วงหากุญแจในกระเป๋า ฉันรู้สึกได้ว่าสายตาของ [ch_ren] จับจ้องอยู่ที่ฉัน — หรืออาจจะเรียกว่าจ้องพัสดุ์ของฉันมากกว่า — แต่แม้ฉันจะหันไปมองเขา ก็เห็นได้ชัดว่าเขากำลังอดกลั้นไม่ถามอยู่"
+    n "ฉันหยิบพัสดุขึ้นมาอย่างคล่องแคล่ว สอดไว้ข้างลำตัวแล้วล้วงหากุญแจในกระเป๋า ฉันรู้สึกได้ว่าสายตาของ [ch_ren] จับจ้องอยู่ที่ฉัน — หรืออาจจะเรียกว่าจ้องพัสดุของฉันมากกว่า — แต่แม้ฉันจะหันไปมองเขา ก็เห็นได้ชัดว่าเขากำลังอดกลั้นไม่ถามอยู่"
 
 # game/scripts/days/day 4.rpy:2552
 
@@ -400,7 +400,7 @@ translate thai day4_acceptoffer_5116ae3f:
 translate thai day4_acceptoffer_5a4d2905:
 
     # n "[ch_ren] wastes no time in opening my package, placing all the bits and pieces on the table, and setting off to work — though every so often he'd sneak a peek in my direction whenever he thinks I'm not looking."
-    n "[ch_ren] รีบเปิดพัสดุ์ของฉันทันที วางอุปกรณ์เล็กๆ น้อยๆ ทั้งหมดลงบนโต๊ะแล้วเริ่มลงมือทำ — แต่เนี่ย ๆ เขาจะแอบมองมาทางฉันเวลาที่คิดว่าฉันไม่ได้มองอยู่"
+    n "[ch_ren] รีบเปิดพัสดุของฉันทันที วางอุปกรณ์เล็กๆ น้อยๆ ทั้งหมดลงบนโต๊ะแล้วเริ่มลงมือทำ — แต่เนี่ย ๆ เขาจะแอบมองมาทางฉันเวลาที่คิดว่าฉันไม่ได้มองอยู่"
 
 # game/scripts/days/day 4.rpy:2651
 

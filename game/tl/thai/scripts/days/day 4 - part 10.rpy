@@ -99,7 +99,7 @@ translate thai day4_snooping_d38a7257:
 translate thai day4_snooping_2d81364c:
 
     # n "Strange… I don't remember seeing any similar black-haired characters in the webcomic."
-    n "แปลกนะ... ฉันไม่จำได้ว่าในเว็บคอมมิคมีตัวละครผมดำหน้าตาคล้ายๆ แบบนี้เลย"
+    n "แปลกนะ... ฉันจำไม่ได้ว่าในเว็บคอมมิคมีตัวละครผมดำหน้าตาคล้ายๆ แบบนี้เลย"
 
 # game/scripts/days/day 4.rpy:1945
 
@@ -218,7 +218,7 @@ translate thai day4_snooping_760ea1e0:
 translate thai day4_snooping_38eabeed:
 
     # n "Yet no matter how many times I turn and angle the book differently, I still can't figure out how the mechanism works. It didn't look like a normal key would fit in it, and I didn't see any space to insert one in the first place."
-    n "แต่ไม่ว่าจะหมุนหรือปรี่มุมมองยังไง ฉันก็ยังไม่เข้าใจว่ากลไกมันทำงานยังไง มันไม่ได้ดูเหมือนจะใส่กุญแจธรรมดาได้ แถมฉันก็ไม่เห็นช่องใส่กุญแจเลยด้วยซ้ำ"
+    n "แต่ไม่ว่าจะหมุนหรือเอียงมุมยังไง ฉันก็ยังไม่เข้าใจว่ากลไกมันทำงานยังไง มันไม่ได้ดูเหมือนจะใส่กุญแจธรรมดาได้ แถมฉันก็ไม่เห็นช่องใส่กุญแจเลยด้วยซ้ำ"
 
 # game/scripts/days/day 4.rpy:1981
 
@@ -561,7 +561,7 @@ translate thai day4_snooping_4730f04b:
 translate thai day4_snooping_385e9a28:
 
     # n "The queasy feeling in the pit of my stomach only seems to worsen at that, and I contemplate running away from such a confronting scene and locking myself at home for the rest of my life."
-    n "ความรู้สึกไม่สบายท้องยิ่งแย่ลงไปอีก ฉันเริ่มคิดจะหนีจากสถานการณ์ตึงเครียดแบบนี้แล้วไปขังตัวเองอยู่บ้านไปตลาดชีวิต"
+    n "ความรู้สึกไม่สบายท้องยิ่งแย่ลงไปอีก ฉันเริ่มคิดจะหนีจากสถานการณ์ตึงเครียดแบบนี้แล้วไปขังตัวเองอยู่บ้านไปตลอดชีวิต"
 
 # game/scripts/days/day 4.rpy:2067
 

@@ -78,7 +78,7 @@ translate thai day4_renreturns_1c24c796:
 translate thai day4_renreturns_717570da:
 
     # r "Or maybe it's the heating system? This is the first time I turned it on; maybe there's something funky in one of the vents."
-    r "หรือไม่ก็ระบบทำความร้อน? นี่เป็นครั้งแรกที่ฉันเปิดใช้ อาจจะมีอะไรแปลกๆ อยู่ในท่อระบายอย่าง"
+    r "หรือไม่ก็ระบบทำความร้อน? นี่เป็นครั้งแรกที่ฉันเปิดใช้ อาจจะมีอะไรแปลกๆ อยู่ในท่อระบายอากาศ"
 
 # game/scripts/days/day 4.rpy:2334
 
@@ -162,7 +162,7 @@ translate thai day4_renreturns_41cee26f:
 translate thai day4_renreturns_25a5d8e6:
 
     # n "Though it does me no favours as [ch_ren] {b}immediately{/b} picks up on my strange behaviour with a tilt of his head."
-    n "แต่มันก็ไม่ได้ช่วยอะไร เพราะ [ch_ren] {b}รู้ทันที{/b}ว่าฉันทำตัวแปลกๆ พร้อมเอียดคอ"
+    n "แต่มันก็ไม่ได้ช่วยอะไร เพราะ [ch_ren] {b}รู้ทันที{/b}ว่าฉันทำตัวแปลกๆ พร้อมเอียงคอ"
 
 # game/scripts/days/day 4.rpy:2353
 

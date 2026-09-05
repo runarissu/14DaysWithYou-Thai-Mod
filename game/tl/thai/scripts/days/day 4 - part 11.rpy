@@ -15,7 +15,7 @@ translate thai day4_televisionscene_b0d80971:
 translate thai day4_televisionscene_0a4594e3:
 
     # n "The rest of their body was still in view, though; being illuminated by their phone screen as they fiddled with it. Then, all of a sudden, the person immediately drops it — almost as if it was too hot to touch — and takes a step back."
-    n "แต่ส่วนที่เหลือของร่างกายยังอยู่ในภาพ สว่างจากแสงหน้าจอโทรศัพท์ขณะที่เขากำลังหยอกเล่นอยู่กับมัน แล้วทันใดนั้น คนคนนั้นก็ทิ้งโทรศัพท์ทันที เหมือนร้อนจนแตะไม่ได้ แล้วถอยกลับไปก้านหนึ่ง"
+    n "แต่ส่วนที่เหลือของร่างกายยังอยู่ในภาพ สว่างจากแสงหน้าจอโทรศัพท์ขณะที่เขากำลังหยอกเล่นอยู่กับมัน แล้วทันใดนั้น คนคนนั้นก็ทิ้งโทรศัพท์ทันที เหมือนร้อนจนแตะไม่ได้ แล้วถอยกลับไปก้าวหนึ่ง"
 
 # game/scripts/days/day 4.rpy:2113
 
@@ -106,7 +106,7 @@ translate thai day4_televisionscene_6fcd1b21:
 translate thai day4_televisionscene_3fb806bf:
 
     # n "Slapping my hands against my cheeks, I bring myself to my senses. I was so caught up on [ch_teo] that I almost forgot another major factor: [ch_elanor]."
-    n "ฉันตบแก้มตัวเองเบาๆ เพื่อสะดุ้กให้ตื่น ฉันไปจ้องอยู่กับ [ch_teo] จนแทบลืมอีกคนสำคัญไปเลย: [ch_elanor]"
+    n "ฉันตบแก้มตัวเองเบาๆ เพื่อสะดุ้งให้ตื่น ฉันไปจ้องอยู่กับ [ch_teo] จนแทบลืมอีกคนสำคัญไปเลย: [ch_elanor]"
 
 # game/scripts/days/day 4.rpy:2129
 

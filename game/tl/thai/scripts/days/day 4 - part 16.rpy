@@ -127,7 +127,7 @@ translate thai day4_closetbranch_b8c84b6d:
 translate thai day4_closetbranch_f5a17c6b:
 
     # n "[ch_leon] gives me a non-comital shrug of his shoulders before gesturing for me to follow him."
-    n "[ch_leon] กระดกไหล่ให้ฉันอย่างไม่commit ก่อนจะทำท่าให้ฉันตามเขาไป"
+    n "[ch_leon] กระดกไหล่ให้ฉันอย่างลังเล ก่อนจะทำท่าให้ฉันตามเขาไป"
 
 # game/scripts/days/day 4.rpy:3125
 
@@ -176,7 +176,7 @@ translate thai day4_closetbranch_fc7566f7:
 translate thai day4_closetbranch_69ef4fd8:
 
     # y "Yeah, but I can't help but wonder if I could've been nicer about it… More kinder? I didn't think he'd react this way when I told him not to—"
-    y "ใช่ แต่ฉันก็นึกอยู่ว่าถ้าฉันพูดให้ดีกว่านี้… อ่อนโยนกว่านี้ล่ะ? ฉันไม่นึกด้วยว่าเขาจะreactแบบนี้ตอนที่ฉันบอกให้เขาอย่า—"
+    y "ใช่ แต่ฉันก็นึกอยู่ว่าถ้าฉันพูดให้ดีกว่านี้… อ่อนโยนกว่านี้ล่ะ? ฉันไม่นึกด้วยว่าเขาจะตอบสนองแบบนี้ตอนที่ฉันบอกให้เขาอย่า—"
 
 # game/scripts/days/day 4.rpy:3135
 
@@ -295,14 +295,14 @@ translate thai day4_closetbranch_847d61bd:
 translate thai day4_closetbranch_89071546:
 
     # n "With a grin, [ch_leon] tosses an arm over my shoulder and pulls me onto the street."
-    n "พร้อมรอยยิ้ม [ch_leon] โอบแข้งขึ้นบ่าของฉันแล้วดึงฉันออกไปบนถนน"
+    n "พร้อมรอยยิ้ม [ch_leon] โอบแขนขึ้นบ่าของฉันแล้วดึงฉันออกไปบนถนน"
 
 # game/scripts/days/day 4.rpy:3166
 
 translate thai day4_closetbranch_c3b31767:
 
     # l "I wanna spend some time with you! I think it's long overdue, yeah? I mean, I never even got to go on that aquarium date with you guys…"
-    l "ผมอยากอยู่กับคุณสักหน่อย! ผมว่ามันเลยเวลามากแล้วนะครับ พูดตามจริงผมยังไม่ได้ไปเดทที่พิพิธธรรมชาติวิทยากับพวกคุณเลย…"
+    l "ผมอยากอยู่กับคุณสักหน่อย! ผมว่ามันเลยเวลามากแล้วนะครับ พูดตามจริงผมยังไม่ได้ไปเดทที่พิพิธภัณฑ์สัตว์น้ำกับพวกคุณเลย…"
 
 # game/scripts/days/day 4.rpy:3167
 
@@ -400,7 +400,7 @@ translate thai day4_closetbranch_03785942:
 translate thai day4_closetbranch_6c28937c:
 
     # y "That's true. I wonder if they still sell all those wacky flavours."
-    y "ก็จริง ไม่รู้ยังขอรสประหลาดๆ พวกนั้นอยู่ไหม"
+    y "ก็จริง ไม่รู้ยังขายรสประหลาดๆ พวกนั้นอยู่ไหม"
 
 # game/scripts/days/day 4.rpy:3188
 

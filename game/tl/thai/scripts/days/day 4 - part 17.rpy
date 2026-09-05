@@ -246,7 +246,7 @@ translate thai day4_closetbranch_8a322694:
 translate thai day4_closetbranch_d20f75bc:
 
     # y "Something tells me it won't be a little bit of rain…"
-    y "บองสังหรณ์ว่ามันคงไม่ใช่ฝนตกนิดหน่อยแน่..."
+    y "สัญชาตญาณบอกว่ามันคงไม่ใช่ฝนตกนิดหน่อยแน่..."
 
 # game/scripts/days/day 4.rpy:3330
 
@@ -351,7 +351,7 @@ translate thai day4_closetbranch_898d5b48:
 translate thai day4_closetbranch_858f9785:
 
     # n "Panic flashes through me at the thought of it being another \"gift\" from my supposed stalker, but then I remembered the purchase I made this morning."
-    n "ความตื่นตระหนกวูบเข้ามาเมื่อนึกว่ามันคือ \"ของขวัญ\" ชิ้นใหม่จากสตอลเกอร์ แต่แล้วฉันก็นึกขึ้นได้ว่าเช้านี้ฉันสั่งซื้อของไว้"
+    n "ความตื่นตระหนกวูบเข้ามาเมื่อนึกว่ามันคือ \"ของขวัญ\" ชิ้นใหม่จากสตอล์กเกอร์ แต่แล้วฉันก็นึกขึ้นได้ว่าเช้านี้ฉันสั่งซื้อของไว้"
 
 # game/scripts/days/day 4.rpy:3368
 
@@ -456,7 +456,7 @@ translate thai day4_closetbranch_dff4fb98:
 translate thai day4_closetbranch_d924370f:
 
     # n "It was always one thing after the other, huh? First it was my newfound stalker, and now my landlord was just handing out my personal information without a care in the world."
-    n "เรื่อยู่เรื่องไปเลยนะ ตอนแรกก็มีสตอลเกอร์ตามตื๊อ แล้วตอนนี้เจ้าของอพาร์ตเมนต์ก็แจกข้อมูลส่วนตัวของฉันไปเลยโดยไม่สนอะไรเลย"
+    n "เรื่อยู่เรื่องไปเลยนะ ตอนแรกก็มีสตอล์กเกอร์ตามตื๊อ แล้วตอนนี้เจ้าของอพาร์ตเมนต์ก็แจกข้อมูลส่วนตัวของฉันไปเลยโดยไม่สนอะไรเลย"
 
 # game/scripts/days/day 4.rpy:3393
 
@@ -477,7 +477,7 @@ translate thai day4_closetbranch_d3f1a161:
 translate thai day4_closetbranch_1c034714:
 
     # n "Steeling my nerves, I try to calm down my rapid heartbeat and meet [ch_ren]'s gaze. There's a flicker of worry in his eyes, but it all fades away the moment he takes a step closer to me."
-    n "ฉันกลั้นใจ พยายามเรียกเต้นหัวใจที่เร็วจัดให้สงบลงแล้วสบตา [ch_ren] มีแววความกังวลวาบขึ้นในดวงตา แต่มันก็มลายหายไปทันทีที่เขาก้าวเข้ามาใกล้ฉันอีกก้าว"
+    n "ฉันกลั้นใจ พยายามเรียกหัวใจที่เต้นเร็วจัดให้สงบลงแล้วสบตา [ch_ren] มีแววความกังวลวาบขึ้นในดวงตา แต่มันก็มลายหายไปทันทีที่เขาก้าวเข้ามาใกล้ฉันอีกก้าว"
 
 # game/scripts/days/day 4.rpy:3399
 
@@ -561,7 +561,7 @@ translate thai day4_closetbranch_6eccede5:
 translate thai day4_closetbranch_41c6b42e:
 
     # n "Before I can snoop any further, his soft voice interrupts my train of thoughts."
-    n "ก่อนที่ฉันจะแอบดูเพิ่ม เสียงนุ่มๆ ของเขาก็ดังขึ้นตัดสินความคิด"
+    n "ก่อนที่ฉันจะแอบดูเพิ่ม เสียงนุ่มๆ ของเขาก็ดังขึ้นตัดสายความคิด"
 
 # game/scripts/days/day 4.rpy:3414
 
