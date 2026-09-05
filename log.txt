@@ -1,4 +1,4 @@
-2026-09-05 15:30:09 UTC
+2026-09-05 15:31:10 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.2.26010301
 
@@ -28,7 +28,7 @@ Full traceback:
   File "renpy/loader.py", line 160, in read_index
     offset = int(l[8:24], 16)
              ~~~^^^^^^^^^^^^^
-ValueError: invalid literal for int() with base 16: b'000000583ed1 123'
+ValueError: invalid literal for int() with base 16: b'000000583ed2 123'
 
 Before loading the script.
-ValueError: invalid literal for int() with base 16: b'000000583ed1 123'
+ValueError: invalid literal for int() with base 16: b'000000583ed2 123'

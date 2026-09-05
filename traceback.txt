@@ -1,7 +1,7 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 Before loading the script.
-ValueError: invalid literal for int() with base 16: b'000000583ed1 123'
+ValueError: invalid literal for int() with base 16: b'000000583ed2 123'
 
 -- Full Traceback ------------------------------------------------------------
 
@@ -30,9 +30,9 @@ Traceback (most recent call last):
   File "renpy/loader.py", line 160, in read_index
     offset = int(l[8:24], 16)
              ~~~^^^^^^^^^^^^^
-ValueError: invalid literal for int() with base 16: b'000000583ed1 123'
+ValueError: invalid literal for int() with base 16: b'000000583ed2 123'
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.2.26010301
  
-Sat Sep  5 22:30:09 2026
+Sat Sep  5 22:31:10 2026

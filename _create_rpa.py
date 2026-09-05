@@ -21,9 +21,10 @@ def create_rpa(source_dir, output_path):
             rel = os.path.relpath(full, source_dir).replace("\\", "/")
             files.append((rel, full))
 
-    # RPA-3.0 header format: "RPA-3.0 " + 12 hex digits + " " + 8 hex digits + "\n"
-    # Total = 8 + 12 + 1 + 8 + 1 = 30 bytes
-    header_len = 30
+    # RPA-3.0 header format: "RPA-3.0 " + 16 hex digits + " " + 8 hex digits + "\n"
+    # Ren'Py reads l[8:24] (16 chars) for offset, l[25:33] (8 chars) for key
+    # Total = 8 + 16 + 1 + 8 + 1 = 34 bytes
+    header_len = 34
 
     with open(output_path, "wb") as out:
         # Write placeholder header of exact size (we'll overwrite it later)
@@ -47,7 +48,7 @@ def create_rpa(source_dir, output_path):
 
         # Go back and write the real header (must be exactly header_len bytes)
         out.seek(0)
-        header = f"RPA-3.0 {index_offset:012x} {key:08x}\n".encode("ascii")
+        header = f"RPA-3.0 {index_offset:016x} {key:08x}\n".encode("ascii")
         assert len(header) == header_len, f"Header is {len(header)} bytes, expected {header_len}"
         out.write(header)
 
