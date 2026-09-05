@@ -252,3 +252,80 @@ screen charamenu():
     ## butttons because I forget
     imagebutton auto "gui/ui/back_%s.png" action [Play("sound", "audio/ui/cancel.ogg"), Hide("charamenu"), MainMenu(confirm=False)] at amm_button, slideleft anchor (0.5, 0.5) pos (0.06, 975) hovered Play("sound", "audio/ui/click2.ogg")
     imagebutton auto "gui/ui/forward_%s.png" action [Play("sound", "audio/ui/accept.ogg"), Hide ("charamenu"), Jump("game_start")] at amm_button, slideright anchor (0.5, 0.5) pos (0.94, 975) hovered Play("sound", "audio/ui/click2.ogg")
+
+
+################################################################################
+## screen over18() — 18+ warning screen
+################################################################################
+
+screen over18():
+    add "images/bg/other_dark.webp"
+    add "peffectp"
+    add "glitch_2":
+        alpha 0.09
+    vbox:
+        align (0.5,0.5)
+        xsize 1000
+        hbox:
+            xalign 0.5
+            text ("คำเตือน!" if _is_thai() else "WARNING!"):
+                text_align 0.5
+                outlines [ (absolute(7), "362A46", absolute(2), absolute(2)) ]
+                font "fonts/Orbitron-Black.ttf"
+                size 80
+                color "#FF66CB"
+                kerning 10
+
+        hbox:
+            xalign 0.5
+            text ("\"14 Days With You\" เป็นเดโมของเกมแนวสยองขวัญ/โรแมนติกที่กำลังจะวางจำหน่าย และมีไว้สำหรับผู้เล่นอายุ 18 ปีขึ้นไป เนื้อเรื่องจะเข้มขึ้นเรื่อยๆ เมื่อตอนใหม่ออก ผู้เล่นควรใช้ดุลยพินิจด้วยตนเอง\n\n{color=#9d64fd}{b}เดโมนี้มี:{/b}{/color} คำพูดหยาบคายเล็กน้อย สยองขวัญ ความรุนแรง และธีมที่น่าขนลุบ เช่น การถูกตามตัว ความรุนแรง ความตาย และการฆาณกรรม รวมถึงข้อความที่ลาตา การสั่นของหน้าจอ และอาจทำให้ผู้ที่มีอาการชักแบบไวต่อแสงเกิดอาการชักได้ ดูรายการเตือนเนื้อหาทั้งหมดได้ที่ {a=https://cutiesai.com/14dwy}คลิกที่นี่{/a}\n" if _is_thai() else "\"14 Days With You\" is a demo for an upcoming horror/romance game, and is intended to be played by those who are 18 and older. Themes will get darker as more \"Days\" are released. Player discretion is advised.\n\n{color=#9d64fd}{b}THIS DEMO INVOLVES:{/b}{/color} mild coarse language, horror, gore, and unsettling themes such as being stalked, violence, death, and murder. It also involves eye-straining text, screen shakes, and the potential to cause seizures for those with photosensitive epilepsy. For the full list of content warnings, please {a=https://cutiesai.com/14dwy}click here{/a}.\n"):
+                text_align 0.5
+                justify True
+                outlines [ (absolute(1), "362A46", absolute(0), absolute(0)) ]
+                font "fonts/Assistant-Regular.ttf"
+                if renpy.variant("mobile"):
+                    size 35
+                else:
+                    size 28
+                color "#f8f8f8"
+
+        if renpy.variant("mobile"):
+            hbox:
+                xalign 0.5
+                textbutton _("AGREE AND CONTINUE"):
+                    text_style "ss_button"
+                    hovered [Play("sound", "audio/ui/click1.ogg")]
+                    action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", False), Confirm("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}18 OR {u}OVER{/u}{/b}{/color} and have\nlooked at the list of content warnings?", yes=MainMenu(confirm=False), no=None, confirm_selected=False)]
+        else:
+            hbox:
+                spacing 30
+                xalign 0.5
+                hbox:
+                    textbutton _("I AM {u}UNDER{/u} 18"):
+                        text_style "ss_button"
+                        hovered [Play("sound", "audio/ui/click1.ogg")]
+                        action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", True), Confirm("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}{u}UNDER{/u} 18{/b}{/color} and have\n read everything correctly?", Quit(), no=None, confirm_selected=False)]
+                hbox:
+                    text "|":
+                        text_align 0.5
+                        outlines [ (absolute(3), "362A46", absolute(0), absolute(0)) ]
+                        font "fonts/Assistant-Regular.ttf"
+                        size 28
+                        color "#f8f8f8"
+                hbox:
+                    textbutton _("I AM {u}OVER{/u} 18"):
+                        text_style "ss_button"
+                        hovered [Play("sound", "audio/ui/click1.ogg")]
+                        action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", False), Confirm("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}18 OR {u}OVER{/u}{/b}{/color} and have\n read everything correctly?", yes=Jump("loginscreen"), no=None, confirm_selected=False)]
+                hbox:
+                    text "|":
+                        text_align 0.5
+                        outlines [ (absolute(3), "362A46", absolute(0), absolute(0)) ]
+                        font "fonts/Assistant-Regular.ttf"
+                        size 28
+                        color "#f8f8f8"
+                hbox:
+                    textbutton _("QUIT THE GAME"):
+                        text_style "ss_button"
+                        hovered [Play("sound", "audio/ui/click1.ogg")]
+                        action [Play("sound", "audio/ui/accept.ogg"), Quit()]
