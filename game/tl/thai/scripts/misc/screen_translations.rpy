@@ -329,3 +329,83 @@ screen over18():
                         text_style "ss_button"
                         hovered [Play("sound", "audio/ui/click1.ogg")]
                         action [Play("sound", "audio/ui/accept.ogg"), Quit()]
+
+
+################################################################################
+## screen customiselogin() — login screen
+################################################################################
+
+screen customiselogin():
+    modal True
+    add "bg/desktop_bg.webp"
+    add "peffect"
+    frame:
+        at choice_fade
+        background Frame(["gui/boxes/frame.png"])
+        padding (30,80)
+        align (0.5,0.5)
+        vbox:
+            align (0.5,0.5)
+            spacing 20
+            text "====-       :----\n+=+++=====------=-====\n===++++======-===+-=====\n====+++++++====+*+=======\n====+++++++++=+**+======-\n--===+++++++++**+======-\n-=====+*****##*+=+===-\n-===++**##***++=====\n=++++++++++=====\n--===++=====\n-===+===\n-=":
+                size 15
+                font "fonts/VT323-Regular.ttf"
+                line_spacing -2
+                kerning 1
+                bold True
+                align (0.5,0.5)
+                text_align 0.5
+                color "#ff66cb"
+            text ("{size=+20}ยินดีต้อนรับกลับมา!{/size}\nกรุณาใส่ชื่อผู้ใช้ CorUpdates เพื่อดำเนินการต่อ" if _is_thai() else "{size=+20}WELCOME BACK!{/size}\nEnter your CorUpdates username to continue"):
+                size 25
+                font "fonts/VT323-Regular.ttf"
+                color "#f8f8f8"
+                text_align 0.5
+                align (0.5,0.5)
+            frame:
+                background Frame(["socials_offblack"], 20,20,20,20)
+                padding (15,5,15,5)
+                align (0.5,0.5)
+                xysize (250,40)
+                input:
+                    default ""
+                    value VariableInputValue("persistent.corupdate_user")
+                    exclude " `~!@#$%^&*-=+\|;:'\"[]{}(),<>/?"
+                    font "fonts/VT323-Regular.ttf"
+                    size 28
+                    length 15
+                    bold False
+                    text_align 0.5
+                    align (0.5,0.5)
+            textbutton _("ENTER") text_style "buttontext" action [Play("sound", "audio/ui/blip.ogg"), Hide("customiselogin"), MainMenu(confirm=False)] at choice_fade hovered [Play("sound", "audio/ui/click1.ogg")] align (0.5,0.5) sensitive persistent.corupdate_user != ""
+    vbox:
+        at choice_fade
+        align (0.98,0.98)
+        spacing 10
+        frame:
+            background Frame(["bubble_bottomright"], gui.choice_button_borders)
+            padding (50,25)
+            xalign 1.0
+            vbox:
+                text ("สวัสดีจ้า, angel! {size=-5}👋😇{/size}" if _is_thai() else "Hello, angel! {size=-5}👋😇{/size}"):
+                    size 25
+                    font "fonts/VT323-Regular.ttf"
+                    color "#f8f8f8"
+                    text_align 0.5
+                    align (0.5,0.5)
+        frame:
+            background Frame(["bubble_bottomright"], gui.choice_button_borders)
+            padding (50,25)
+            xalign 1.0
+            vbox:
+                text ("เป็นคอนเทนต์ครีเอเตอร์หรือสตรีมเมอร์ไหม?" if _is_thai() else "Are you a content creator or live streamer?"):
+                    size 25
+                    font "fonts/VT323-Regular.ttf"
+                    color "#f8f8f8"
+                    text_align 0.5
+                    align (0.5,0.5)
+        frame:
+            background Frame(["bubble_bottomright"], gui.choice_button_borders)
+            padding (50,20)
+            xalign 1.0
+            textbutton _("If so, click here for more options!") text_style "button_text_bubble" action [Play("sound", "audio/ui/blip.ogg"), Show("streamingmode", dissolve)] at choice_fade hovered [Play("sound", "audio/ui/click1.ogg")]
