@@ -1,33 +1,34 @@
-2026-09-04 20:09:50 UTC
+2026-09-05 15:30:09 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.2.26010301
 
-14 Days With You
-5.5
-Built at 2026-04-05 02:03:39 UTC
 
-Early init took 31 ms
-Loading error handling took 19 ms
-Loading script took 245 ms
-Loading save slot metadata took 11 ms
-Loading persistent took 0 ms
-Set script version to: (8, 5, 2)
-Running init code took 61 ms
-Loading analysis data took 9 ms
-Analyze and compile ATL took 17 ms
-Reloading save slot metadata took 2 ms
-Dump and make backups took 0 ms
-Cleaning cache took 0 ms
-Making clean stores took 0 ms
-Initial gc took 33 ms
-DPI scale factor: 1.250000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 165 ms
-Init translation took 2 ms
-Cleaning stores took 0 ms
-Load screen analysis took 0 ms
-Analyze screens took 6 ms
-Save screen analysis took 16 ms
-Save pyanalysis took 0 ms
-Save bytecode took 26 ms
+Full traceback:
+  File "renpy/bootstrap.py", line 401, in bootstrap
+    renpy.main.main()
+    ~~~~~~~~~~~~~~~^^
+  File "renpy/main.py", line 367, in main
+    renpy.loader.index_files()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/loader.py", line 252, in index_files
+    for _dir, fn in listdirfiles():
+                    ~~~~~~~~~~~~^^ 
+  File "renpy/loader.py", line 485, in listdirfiles
+    scandirfiles()
+    ~~~~~~~~~~~~^^
+  File "renpy/loader.py", line 374, in scandirfiles
+    i(add, seen)
+    ~^^^^^^^^^^^
+  File "renpy/loader.py", line 466, in scandirfiles_from_archives
+    index_archives()
+    ~~~~~~~~~~~~~~^^
+  File "renpy/loader.py", line 279, in index_archives
+    index = handler.read_index(f)
+            ~~~~~~~~~~~~~~~~~~^^^
+  File "renpy/loader.py", line 160, in read_index
+    offset = int(l[8:24], 16)
+             ~~~^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 16: b'000000583ed1 123'
+
+Before loading the script.
+ValueError: invalid literal for int() with base 16: b'000000583ed1 123'

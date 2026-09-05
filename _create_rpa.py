@@ -21,10 +21,13 @@ def create_rpa(source_dir, output_path):
             rel = os.path.relpath(full, source_dir).replace("\\", "/")
             files.append((rel, full))
 
+    # RPA-3.0 header format: "RPA-3.0 " + 12 hex digits + " " + 8 hex digits + "\n"
+    # Total = 8 + 12 + 1 + 8 + 1 = 30 bytes
+    header_len = 30
+
     with open(output_path, "wb") as out:
-        # Write placeholder header (we'll come back and fix the offset)
-        header_placeholder = b"RPA-3.0 00000000000 00000000\n"
-        out.write(header_placeholder)
+        # Write placeholder header of exact size (we'll overwrite it later)
+        out.write(b" " * header_len)
 
         index = {}
         for rel, full in files:
@@ -42,9 +45,10 @@ def create_rpa(source_dir, output_path):
         compressed = zlib.compress(pickled)
         out.write(compressed)
 
-        # Go back and write the real header
+        # Go back and write the real header (must be exactly header_len bytes)
         out.seek(0)
         header = f"RPA-3.0 {index_offset:012x} {key:08x}\n".encode("ascii")
+        assert len(header) == header_len, f"Header is {len(header)} bytes, expected {header_len}"
         out.write(header)
 
     print(f"Created: {output_path}")

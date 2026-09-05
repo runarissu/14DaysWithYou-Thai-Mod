@@ -1,38 +1,38 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While running game code:
-  File "game/tl/thai/replace_pronouns.rpy", line 12, in script
-    init 1 python:
-  File "game/tl/thai/replace_pronouns.rpy", line 45, in <module>
-    refresh_pronouns()
-    ~~~~~~~~~~~~~~~~^^
-  File "game/tl/thai/replace_pronouns.rpy", line 19, in refresh_pronouns
-    _original_refresh_pronouns()
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "game/scripts/misc/other.rpy", line 4398, in refresh_pronouns
-NameError: name 'pronoun' is not defined
+Before loading the script.
+ValueError: invalid literal for int() with base 16: b'000000583ed1 123'
 
 -- Full Traceback ------------------------------------------------------------
 
 Traceback (most recent call last):
-  File "game/tl/thai/replace_pronouns.rpy", line 12, in script
-    init 1 python:
-  File "renpy/ast.py", line 1187, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1273, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/tl/thai/replace_pronouns.rpy", line 45, in <module>
-    refresh_pronouns()
-    ~~~~~~~~~~~~~~~~^^
-  File "game/tl/thai/replace_pronouns.rpy", line 19, in refresh_pronouns
-    _original_refresh_pronouns()
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "game/scripts/misc/other.rpy", line 4398, in refresh_pronouns
-NameError: name 'pronoun' is not defined
+  File "renpy/bootstrap.py", line 401, in bootstrap
+    renpy.main.main()
+    ~~~~~~~~~~~~~~~^^
+  File "renpy/main.py", line 367, in main
+    renpy.loader.index_files()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/loader.py", line 252, in index_files
+    for _dir, fn in listdirfiles():
+                    ~~~~~~~~~~~~^^ 
+  File "renpy/loader.py", line 485, in listdirfiles
+    scandirfiles()
+    ~~~~~~~~~~~~^^
+  File "renpy/loader.py", line 374, in scandirfiles
+    i(add, seen)
+    ~^^^^^^^^^^^
+  File "renpy/loader.py", line 466, in scandirfiles_from_archives
+    index_archives()
+    ~~~~~~~~~~~~~~^^
+  File "renpy/loader.py", line 279, in index_archives
+    index = handler.read_index(f)
+            ~~~~~~~~~~~~~~~~~~^^^
+  File "renpy/loader.py", line 160, in read_index
+    offset = int(l[8:24], 16)
+             ~~~^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 16: b'000000583ed1 123'
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.2.26010301
-14 Days With You 5.5
-Sat Sep  5 03:09:33 2026
+ 
+Sat Sep  5 22:30:09 2026
