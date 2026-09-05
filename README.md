@@ -4,25 +4,44 @@
 
 ม็อดแปลภาษาไทยสำหรับเกม **14 Days With You** 5.5 (Ren'Py 8.5.2)
 
+Thai localization mod for the visual novel *14 Days With You* 5.5.
+
 ## วิธีติดตั้ง (Installation)
 
-1. ดาวน์โหลด `thai_mod.rpa` จาก repo นี้
-2. คัดลอกไฟล์ไปยังโฟลเดอร์ `game\` ของเกม
+1. ดาวน์โหลด `thai_mod.zip` จาก [Releases](../../releases)
+2. แตกไฟล์ zip จะได้โฟลเดอร์ `game/tl/thai/`
+3. คัดลอกโฟลเดอร์ `tl` ทั้งโฟลเดอร์ไปยังโฟลเดอร์ `game\` ของเกม
 
    ```
-   14DaysWithYou-5.5-pc\game\thai_mod.rpa
+   14DaysWithYou-5.5-pc\game\tl\thai\
    ```
 
-3. เปิดเกมปกติ — Ren'Py โหลดม็อดอัตโนมัติ
-4. กดปุ่ม **"ไทย"** ที่มุมจอเพื่อสลับภาษา
+4. เปิดเกม — ภาษาไทยจะเปิดใช้งานอัตโนมัติ
+5. กดปุ่ม **EN / ไทย** ที่มุมซ้ายบนเพื่อสลับภาษา
 
 ## วิธีถอน (Uninstall)
 
-- ลบ `thai_mod.rpa` ออกจากโฟลเดอร์ `game\`
+- ลบโฟลเดอร์ `tl\thai\` ออกจากโฟลเดอร์ `game\`
 
 ## ข้อกำหนด (Requirements)
 
 - เกม 14 Days With You 5.5 (เวอร์ชันเดียวกันเท่านั้น)
+- Windows / Linux / Mac
+
+## โครงสร้างไฟล์ (File Structure)
+
+```
+14DaysWithYou-5.5-pc\
+└── game\
+    ├── script.rpa              # ไฟล์เดิมของเกม (ห้ามลบ)
+    └── tl\
+        └── thai\               # ม็อดแปลไทย
+            ├── common.rpy
+            ├── replace_font.rpy
+            ├── replace_screens.rpy
+            ├── *.ttf            # ฟอนต์ไทย
+            └── scripts\         # ไฟล์แปลบทพูด + UI
+```
 
 ## เครดิต (Credits)
 
