@@ -2,21 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/tl/thai/replace_screens.rpy", line 23: 'selected_idle_color' is not a keyword argument or valid child of the textbutton statement.
-    selected_idle_color "#9D64FD"
-                       ^
-
-File "game/tl/thai/scripts/days/day 0 - deadend3.rpy", line 298: end of line expected.
-    rfade "{renvoid=1}คราวนี้ ฉันอยากให้คุณ{u}ยอม{/u}ไปออกเดท\nกับ "เพื่อน" ขี้เกียจของคุณ{/renvoid}" with DistortDissolve
-                                      ^
-
-File "game/tl/thai/scripts/days/day 1 - meet.rpy", line 665: expected statement.
-    ﻿
-    ^
-
-File "game/tl/thai/scripts/days/day 1 - meet.rpy", line 1327: expected statement.
-    ﻿
-    ^
+File "game/tl/thai/scripts/misc/screen_translations.rpy", line 8: expected ':' not found.
+    translate thai screen charamenu():
+                          ^
 
 Ren'Py Version: Ren'Py 8.5.2.26010301
-Sat Sep  5 22:32:10 2026
+Sat Sep  5 23:05:53 2026

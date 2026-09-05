@@ -5,7 +5,7 @@
 ## Only the text strings are translated; layout/logic stays identical.
 ################################################################################
 
-translate thai screen charamenu():
+translate thai screen charamenu:
     add "gui/bg/menu_bg_chara.png"
     add "triangles_light"
     add "gui/bg/cc_base.png" at slidedown
