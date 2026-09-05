@@ -20,7 +20,7 @@
 ##   NotoSansThai-Underdog.ttf = NotoSansThai-SemiBold + Underdog-Regular
 ##   NotoSansThai-Flow.ttf     = NotoSansThai-Regular  + FlowBlock-Regular
 ##   NotoSansThai-Reenie.ttf   = NotoSansThai-Regular  + ReenieBeanie-Regular
-##   NotoSansThai-VT323.ttf    = NotoSansThai-Regular  + VT323-Regular
+##   PlainPixel-Regular.ttf    = Plain Pixel (CC-BY 4.0, Douglas Vautour) — Thai+Latin pixel font
 ################################################################################
 
 init python:
@@ -72,10 +72,10 @@ init python:
             ("fonts/ReenieBeanie-Regular.ttf", False, True):  (_F + "NotoSansThai-Reenie.ttf", False, False),
             ("fonts/ReenieBeanie-Regular.ttf", True,  True):  (_F + "NotoSansThai-Reenie.ttf", False, False),
 
-            ("fonts/VT323-Regular.ttf", False, False): (_F + "NotoSansThai-VT323.ttf", False, False),
-            ("fonts/VT323-Regular.ttf", True,  False): (_F + "NotoSansThai-VT323.ttf", False, False),
-            ("fonts/VT323-Regular.ttf", False, True):  (_F + "NotoSansThai-VT323.ttf", False, False),
-            ("fonts/VT323-Regular.ttf", True,  True):  (_F + "NotoSansThai-VT323.ttf", False, False),
+            ("fonts/VT323-Regular.ttf", False, False): (_F + "PlainPixel-Regular.ttf", False, False),
+            ("fonts/VT323-Regular.ttf", True,  False): (_F + "PlainPixel-Regular.ttf", False, False),
+            ("fonts/VT323-Regular.ttf", False, True):  (_F + "PlainPixel-Regular.ttf", False, False),
+            ("fonts/VT323-Regular.ttf", True,  True):  (_F + "PlainPixel-Regular.ttf", False, False),
         }
 
     def _thai_reset_fonts():
