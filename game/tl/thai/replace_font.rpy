@@ -26,56 +26,56 @@
 init python:
     def _thai_setup_fonts():
         # Map (original_font, bold, italic) -> Thai-capable replacement.
-        # Bold/italic are False because Ren'Py handles bold/italic via synthetic
-        # transformation on the base font; we only replace the base font file.
+        # We pass through bold/italic flags so Ren'Py applies synthetic
+        # bold/italic transformation on the replacement font.
         # The tuple value is (replacement_font, bold, italic) per Ren'Py API.
         _F = "tl/thai/"
         config.font_replacement_map = {
             # Body text — VarelaRound -> NotoSansThai-Body
             ("fonts/VarelaRound-Regular.ttf", False, False): (_F + "NotoSansThai-Body.ttf", False, False),
-            ("fonts/VarelaRound-Regular.ttf", True,  False): (_F + "NotoSansThai-Body.ttf", False, False),
-            ("fonts/VarelaRound-Regular.ttf", False, True):  (_F + "NotoSansThai-Body.ttf", False, False),
-            ("fonts/VarelaRound-Regular.ttf", True,  True):  (_F + "NotoSansThai-Body.ttf", False, False),
+            ("fonts/VarelaRound-Regular.ttf", True,  False): (_F + "NotoSansThai-Body.ttf", True,  False),
+            ("fonts/VarelaRound-Regular.ttf", False, True):  (_F + "NotoSansThai-Body.ttf", False, True),
+            ("fonts/VarelaRound-Regular.ttf", True,  True):  (_F + "NotoSansThai-Body.ttf", True,  True),
 
             # Character names / display headers — Orbitron-Black -> NotoSansThai-Names
             ("fonts/Orbitron-Black.ttf", False, False): (_F + "NotoSansThai-Names.ttf", False, False),
-            ("fonts/Orbitron-Black.ttf", True,  False): (_F + "NotoSansThai-Names.ttf", False, False),
-            ("fonts/Orbitron-Black.ttf", False, True):  (_F + "NotoSansThai-Names.ttf", False, False),
-            ("fonts/Orbitron-Black.ttf", True,  True):  (_F + "NotoSansThai-Names.ttf", False, False),
+            ("fonts/Orbitron-Black.ttf", True,  False): (_F + "NotoSansThai-Names.ttf", True,  False),
+            ("fonts/Orbitron-Black.ttf", False, True):  (_F + "NotoSansThai-Names.ttf", False, True),
+            ("fonts/Orbitron-Black.ttf", True,  True):  (_F + "NotoSansThai-Names.ttf", True,  True),
 
             # Interface text — Assistant -> NotoSansThai-UI
             ("fonts/Assistant-Regular.ttf", False, False): (_F + "NotoSansThai-UI.ttf", False, False),
-            ("fonts/Assistant-Regular.ttf", True,  False): (_F + "NotoSansThai-UI.ttf", False, False),
-            ("fonts/Assistant-Regular.ttf", False, True):  (_F + "NotoSansThai-UI.ttf", False, False),
-            ("fonts/Assistant-Regular.ttf", True,  True):  (_F + "NotoSansThai-UI.ttf", False, False),
+            ("fonts/Assistant-Regular.ttf", True,  False): (_F + "NotoSansThai-UI.ttf", True,  False),
+            ("fonts/Assistant-Regular.ttf", False, True):  (_F + "NotoSansThai-UI.ttf", False, True),
+            ("fonts/Assistant-Regular.ttf", True,  True):  (_F + "NotoSansThai-UI.ttf", True,  True),
 
             # Orbitron-Regular (used in some UI labels) -> NotoSansThai-UIAlt
             ("fonts/Orbitron-Regular.ttf", False, False): (_F + "NotoSansThai-UIAlt.ttf", False, False),
-            ("fonts/Orbitron-Regular.ttf", True,  False): (_F + "NotoSansThai-UIAlt.ttf", False, False),
-            ("fonts/Orbitron-Regular.ttf", False, True):  (_F + "NotoSansThai-UIAlt.ttf", False, False),
-            ("fonts/Orbitron-Regular.ttf", True,  True):  (_F + "NotoSansThai-UIAlt.ttf", False, False),
+            ("fonts/Orbitron-Regular.ttf", True,  False): (_F + "NotoSansThai-UIAlt.ttf", True,  False),
+            ("fonts/Orbitron-Regular.ttf", False, True):  (_F + "NotoSansThai-UIAlt.ttf", False, True),
+            ("fonts/Orbitron-Regular.ttf", True,  True):  (_F + "NotoSansThai-UIAlt.ttf", True,  True),
 
             # Underdog (used by the "it" centered entity) -> NotoSansThai-Underdog
             ("fonts/Underdog-Regular.ttf", False, False): (_F + "NotoSansThai-Underdog.ttf", False, False),
-            ("fonts/Underdog-Regular.ttf", True,  False): (_F + "NotoSansThai-Underdog.ttf", False, False),
-            ("fonts/Underdog-Regular.ttf", False, True):  (_F + "NotoSansThai-Underdog.ttf", False, False),
-            ("fonts/Underdog-Regular.ttf", True,  True):  (_F + "NotoSansThai-Underdog.ttf", False, False),
+            ("fonts/Underdog-Regular.ttf", True,  False): (_F + "NotoSansThai-Underdog.ttf", True,  False),
+            ("fonts/Underdog-Regular.ttf", False, True):  (_F + "NotoSansThai-Underdog.ttf", False, True),
+            ("fonts/Underdog-Regular.ttf", True,  True):  (_F + "NotoSansThai-Underdog.ttf", True,  True),
 
             # Decorative fonts -> Noto Sans Thai composite (Thai readable, Latin keeps style)
             ("fonts/FlowBlock-Regular.ttf", False, False): (_F + "NotoSansThai-Flow.ttf", False, False),
-            ("fonts/FlowBlock-Regular.ttf", True,  False): (_F + "NotoSansThai-Flow.ttf", False, False),
-            ("fonts/FlowBlock-Regular.ttf", False, True):  (_F + "NotoSansThai-Flow.ttf", False, False),
-            ("fonts/FlowBlock-Regular.ttf", True,  True):  (_F + "NotoSansThai-Flow.ttf", False, False),
+            ("fonts/FlowBlock-Regular.ttf", True,  False): (_F + "NotoSansThai-Flow.ttf", True,  False),
+            ("fonts/FlowBlock-Regular.ttf", False, True):  (_F + "NotoSansThai-Flow.ttf", False, True),
+            ("fonts/FlowBlock-Regular.ttf", True,  True):  (_F + "NotoSansThai-Flow.ttf", True,  True),
 
             ("fonts/ReenieBeanie-Regular.ttf", False, False): (_F + "NotoSansThai-Reenie.ttf", False, False),
-            ("fonts/ReenieBeanie-Regular.ttf", True,  False): (_F + "NotoSansThai-Reenie.ttf", False, False),
-            ("fonts/ReenieBeanie-Regular.ttf", False, True):  (_F + "NotoSansThai-Reenie.ttf", False, False),
-            ("fonts/ReenieBeanie-Regular.ttf", True,  True):  (_F + "NotoSansThai-Reenie.ttf", False, False),
+            ("fonts/ReenieBeanie-Regular.ttf", True,  False): (_F + "NotoSansThai-Reenie.ttf", True,  False),
+            ("fonts/ReenieBeanie-Regular.ttf", False, True):  (_F + "NotoSansThai-Reenie.ttf", False, True),
+            ("fonts/ReenieBeanie-Regular.ttf", True,  True):  (_F + "NotoSansThai-Reenie.ttf", True,  True),
 
             ("fonts/VT323-Regular.ttf", False, False): (_F + "PlainPixel-Regular.ttf", False, False),
-            ("fonts/VT323-Regular.ttf", True,  False): (_F + "PlainPixel-Regular.ttf", False, False),
-            ("fonts/VT323-Regular.ttf", False, True):  (_F + "PlainPixel-Regular.ttf", False, False),
-            ("fonts/VT323-Regular.ttf", True,  True):  (_F + "PlainPixel-Regular.ttf", False, False),
+            ("fonts/VT323-Regular.ttf", True,  False): (_F + "PlainPixel-Regular.ttf", True,  False),
+            ("fonts/VT323-Regular.ttf", False, True):  (_F + "PlainPixel-Regular.ttf", False, True),
+            ("fonts/VT323-Regular.ttf", True,  True):  (_F + "PlainPixel-Regular.ttf", True,  True),
         }
 
     def _thai_reset_fonts():
