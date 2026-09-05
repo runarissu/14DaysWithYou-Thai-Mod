@@ -22,7 +22,7 @@ translate thai day4_declineoffer_070cc677:
 translate thai day4_declineoffer_b160fbe8:
 
     # r "Y-You too! Or— Well, you're not driving anywhere, so… Dream safe!"
-    r "อ— แกด้วย! หรือ— เอ่อ แกก็ไม่ได้ขับรถไปไหนนี่ งั้นก็... ฝันดีนะ!"
+    r "ค— คุณด้วย! หรือ— เอ่อ คุณก็ไม่ได้ขับรถไปไหนนี่ งั้นก็... ฝันดีนะ!"
 
 # game/scripts/days/day 4.rpy:2896
 
@@ -316,7 +316,7 @@ translate thai day4_closetbranch_2cc6ef47:
 translate thai day4_closetbranch_0b3c2c5c:
 
     # r "Are you alright, Angel? D-Did [ch_teo] do anything to you?"
-    r "แกสบายดีมั้ย Angel? [ch_teo] ทำอะไรแกรึเปล่า?"
+    r "คุณสบายดีมั้ย Angel? [ch_teo] ทำอะไรคุณรึเปล่า?"
 
 # game/scripts/days/day 4.rpy:2986
 
@@ -610,7 +610,7 @@ translate thai day4_closetbranch_9ac6a5cd:
 translate thai day4_closetbranch_6beee72b:
 
     # r "Y-You don't have to, [ch_angel]…"
-    r "แ— แกไม่ต้องไปก็ได้นะ [ch_angel]..."
+    r "ค— คุณไม่ต้องไปก็ได้นะ [ch_angel]..."
 
 # game/scripts/days/day 4.rpy:3063
 
@@ -631,7 +631,7 @@ translate thai day4_closetbranch_aa383af3:
 translate thai day4_closetbranch_104bae55:
 
     # r "You don't have to go after [ch_teo]. Just leave him."
-    r "แกไม่ต้องไปตาม [ch_teo] หรอก ปล่อยเขาไป"
+    r "คุณไม่ต้องไปตาม [ch_teo] หรอก ปล่อยเขาไป"
 
 # game/scripts/days/day 4.rpy:3067
 
@@ -687,7 +687,7 @@ translate thai day4_closetbranch_ea48b3e4:
 translate thai day4_closetbranch_2e898af0:
 
     # r "…What? I mean— N-No! Nope! Not at all. But…"
-    r "...อะไน? คือ— ไม— ไม่! ไม่เลย! ไม่มีอะไรเลย แต่..."
+    r "...อะไร? คือ— ไม— ไม่! ไม่เลย! ไม่มีอะไรเลย แต่..."
 
 # game/scripts/days/day 4.rpy:3081
 

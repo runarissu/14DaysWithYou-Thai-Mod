@@ -288,7 +288,7 @@ translate thai day4_closetbranch_800c7728:
 translate thai day4_closetbranch_847d61bd:
 
     # l "But enough about him! [ch_jae]'s on his way back from the city now, so we should leave Mr Moody to him. Besides…"
-    l "แต่พอเรื่องเขามากแล้ว! [ch_jae] กำลังกลับจากเมืองอยู่แล้ว เราก็ปล่อยให้คุณหนูขี้น้อยใจเป็นหน้าที่ของเขาเถอะครับ อีกอย่าง…"
+    l "แต่เรื่องเขาพอแล้ว! [ch_jae] กำลังกลับจากเมืองอยู่แล้ว เราก็ปล่อยให้คุณหนูขี้น้อยใจเป็นหน้าที่ของเขาเถอะครับ อีกอย่าง…"
 
 # game/scripts/days/day 4.rpy:3164
 
@@ -533,7 +533,7 @@ translate thai day4_closetbranch_c3f24110:
 translate thai day4_closetbranch_61d14a27:
 
     # l "You got it!"
-    l "ถูกตัว!"
+    l "ถูกต้อง!"
 
 # game/scripts/days/day 4.rpy:3223
 

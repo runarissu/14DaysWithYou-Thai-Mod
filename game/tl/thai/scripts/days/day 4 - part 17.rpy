@@ -29,14 +29,14 @@ translate thai day4_closetbranch_4498127f:
 translate thai day4_closetbranch_4720ba93:
 
     # y "How did you—?!"
-    y "เธอรู้ได้ยังไง—?!"
+    y "คุณรู้ได้ยังไง—?!"
 
 # game/scripts/days/day 4.rpy:3277
 
 translate thai day4_closetbranch_51cffc54:
 
     # l "Sunfish, I think it's time I told you… I'm… a mind reader."
-    l "Sunfish ผมว่าถึงเวลาที่ผมต้องบอกเธอแล้วล่ะ... ผม... เป็นคนอ่านใจคนได้ครับ"
+    l "Sunfish ผมว่าถึงเวลาที่ผมต้องบอกคุณแล้วล่ะ... ผม... เป็นคนอ่านใจคนได้ครับ"
 
 # game/scripts/days/day 4.rpy:3278
 
@@ -57,7 +57,7 @@ translate thai day4_closetbranch_d790d48c:
 translate thai day4_closetbranch_b3a882aa:
 
     # y "Haha, what? That's such a specific number."
-    y "ฮ่าๆ อะไรของเธอ? เลขเฉพาะเจาะจงจัง"
+    y "ฮ่าๆ อะไรของคุณ? เลขเฉพาะเจาะจงจัง"
 
 # game/scripts/days/day 4.rpy:3283
 
@@ -288,7 +288,7 @@ translate thai day4_closetbranch_e105218d:
 translate thai day4_closetbranch_e1799026:
 
     # l "But… Hey. Are you sure you don't want me to walk ya home?"
-    l "แต่ว่า... เฮ้ย เธอแน่ใจนะว่าไม่อยากให้ผมเดินส่ง?"
+    l "แต่ว่า... เฮ้ย คุณแน่ใจนะว่าไม่อยากให้ผมเดินส่ง?"
 
 # game/scripts/days/day 4.rpy:3339
 

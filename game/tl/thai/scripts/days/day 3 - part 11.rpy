@@ -57,7 +57,7 @@ translate thai day3_inviteelanor_c97a256b:
 translate thai day3_inviteelanor_53087adf:
 
     # e "Make sure to eat something more hearty before you go to bed! But wait an hour before sleeping!"
-    e "อย่าลืมกินของที่อิ่มหน่อยก่อนนอนนะ! แต่ต้องรอสักชั่วโมงก่อนค่อยนอนนะ!"
+    e "อย่าลืมกินของที่อิ่มท้องหน่อยก่อนนอนนะ! แต่ต้องรอสักชั่วโมงก่อนค่อยนอนนะ!"
 
 # game/scripts/days/day 3.rpy:2141
 
@@ -183,7 +183,7 @@ translate thai day3_inviteconan_a36af5cd:
 translate thai day3_inviteconan_82e8ccf6:
 
     # n "Woooow, nice save [ch_angel]."
-    n "ว้าว กู้คืนได้ดีมาก [ch_angel]"
+    n "ว้าว แก้ตัวได้ดีมาก [ch_angel]"
 
 # game/scripts/days/day 3.rpy:2168
 
@@ -232,7 +232,7 @@ translate thai day3_inviteconan_d2b9706a:
 translate thai day3_inviteconan_a794e085:
 
     # y "Right."
-    y "ค่ะ"
+    y "ใช่"
 
 # game/scripts/days/day 3.rpy:2175
 
@@ -267,14 +267,14 @@ translate thai day3_inviteconan_49b4b788:
 translate thai day3_inviteconan_8aa9afad:
 
     # ccall "And you as well, sweetheart."
-    ccall "ผมก็เช่นกันนะครับ คนเลี้ยงแสนดี"
+    ccall "ผมก็เช่นกันนะครับ ที่รัก"
 
 # game/scripts/days/day 3.rpy:2180
 
 translate thai day3_inviteconan_cd601dae:
 
     # extend " We'll have to continue this conversation another time. Perhaps when we're both free."
-    extend " เราคงต้องคุมกันต่อทีหลัง ตอนที่ทั้งคู่ว่างพอดี"
+    extend " เราคงต้องคุยกันต่อทีหลัง ตอนที่ทั้งคู่ว่างพอดี"
 
 # game/scripts/days/day 3.rpy:2181
 

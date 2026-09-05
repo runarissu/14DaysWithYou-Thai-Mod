@@ -498,7 +498,7 @@ translate thai day4_acceptoffer_6b32f2d1:
 translate thai day4_acceptoffer_b4882ac5:
 
     # extend " What if that creep breaks into your apartment again?"
-    extend " ถ้าไอ้ตัวป่วนนั่นบุกเข้ามาในบ้านคุณอีกล่ะ?"
+    extend " ถ้าไอ้คนแปลกหน้านั่นบุกเข้ามาในบ้านคุณอีกล่ะ?"
 
 # game/scripts/days/day 4.rpy:2688
 

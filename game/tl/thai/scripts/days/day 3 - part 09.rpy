@@ -449,7 +449,7 @@ translate thai day3_inviteren_6fe3f5b7:
 translate thai day3_invitemoth_2caebe07:
 
     # mcall "Well, well, well! Look who came crawling back."
-    mcall "โอ๊ย ดูสิ ใครคืนมาปิ๊งอีกล่ะ"
+    mcall "โอ๊ย ดูสิ ใครกลับมาหาอีกล่ะ"
 
 # game/scripts/days/day 3.rpy:1916
 
@@ -463,7 +463,7 @@ translate thai day3_invitemoth_a0c3667c:
 translate thai day3_invitemoth_6f350c02:
 
     # y "Hold up— Rewind. Why am I crawling?"
-    y "เดี๋ยวก่อน— กรอกลับไปหน่อย ทำไมฉันต้องคืนมาปิ๊งด้วย?"
+    y "เดี๋ยวก่อน— กรอกลับไปหน่อย ทำไมฉันต้องกลับมาหาด้วย?"
 
 # game/scripts/days/day 3.rpy:1918
 
@@ -477,7 +477,7 @@ translate thai day3_invitemoth_6774b0dd:
 translate thai day3_invitemoth_c7984f9c:
 
     # mcall "Anyway! What's up, [player_fl]?"
-    mcall "เอาเป็นว่า! มีอะไรเรื่อง [player_fl]?"
+    mcall "เอาเป็นว่า! มีอะไรเหรอ [player_fl]?"
 
 # game/scripts/days/day 3.rpy:1920
 
@@ -491,7 +491,7 @@ translate thai day3_invitemoth_263f5c1d:
 translate thai day3_invitemoth_b828ba83:
 
     # mcall "Pleeease. I can hear the sarcasm dripping through the phone right now. Seriously, what's up?"
-    mcall "จีบจริงเปล่าวะ ฉันได้ยินน้ำเสียงประชดประชันลอยผ่านโทรศัพท์มาเลย พูดจริงๆ เถอะ มีอะไร?"
+    mcall "พอเถอะ ฉันได้ยินน้ำเสียงประชดประชันลอยผ่านโทรศัพท์มาเลย พูดจริงๆ เถอะ มีอะไร?"
 
 # game/scripts/days/day 3.rpy:1922
 
@@ -526,7 +526,7 @@ translate thai day3_invitemoth_98b68a77:
 translate thai day3_invitemoth_76b880ee:
 
     # mcall "Heh… Me? I didn't know we were going on a date together. I'm flattered, dude!"
-    mcall "เหอะ… ฉันเหรอ? ไม่รู้นะว่าเราจะไปเดตกัน ฉันกระเริ่บเลยว่ะ!"
+    mcall "เหอะ… ฉันเหรอ? ไม่รู้นะว่าเราจะไปเดตกัน ฉันกระเริ่นเลยว่ะ!"
 
 # game/scripts/days/day 3.rpy:1927
 

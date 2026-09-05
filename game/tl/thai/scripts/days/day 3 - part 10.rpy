@@ -148,7 +148,7 @@ translate thai day3_inviteviolet_82374f82:
 translate thai day3_inviteviolet_ee1556e1:
 
     # v "Oh dear! What happened?"
-    v "โอ้พระเจ้า! เกิดอะไรขึ้น?"
+    v "โอ้ไม่นะ! เกิดอะไรขึ้น?"
 
 # game/scripts/days/day 3.rpy:1992
 
@@ -400,7 +400,7 @@ translate thai day3_inviteviolet_bf39bc50:
 translate thai day3_inviteviolet_7c7c9c79:
 
     # v "…No, never mind. Good night, [ch_angel]."
-    v "…ไม่ ไม่เป็นไร ราตรีสวัสดิ์นะ [ch_angel]"
+    v "…ไม่ ไม่เป็นไร ฝันดีนะ [ch_angel]"
 
 # game/scripts/days/day 3.rpy:2053
 
@@ -421,7 +421,7 @@ translate thai day3_inviteviolet_a9067699:
 translate thai day3_inviteviolet_9c4d4c18:
 
     # v "No, never mind. Good night, [ch_angel]."
-    v "ไม่ ไม่เป็นไร ราตรีสวัสดิ์นะ [ch_angel]"
+    v "ไม่ ไม่เป็นไร ฝันดีนะ [ch_angel]"
 
 # game/scripts/days/day 3.rpy:2059
 
@@ -470,7 +470,7 @@ translate thai day3_inviteelanor_684c6bdb:
 translate thai day3_inviteelanor_ec718743:
 
     # e "It's no problem. I don't mind spending more time with you."
-    e "ไม่เป็นไรหรอก ฉันไม่ว่าที่จะได้อยู่กับหนูนานขึ้น"
+    e "ไม่เป็นไรหรอก ฉันไม่ว่าอะไรเลย ที่จะได้อยู่กับหนูนานขึ้น"
 
 # game/scripts/days/day 3.rpy:2082
 
@@ -491,7 +491,7 @@ translate thai day3_inviteelanor_6851f99b:
 translate thai day3_inviteelanor_216892d2:
 
     # e "Tadaaa! Your favourite bookmark! I found it all alone on one of the shelves earlier today."
-    e "ตาดาา! ที่คั่นหนังสือเล่มโปรดของหนู! ฉันเจอมันอยู่คนเดียวบนชั้นวางหนึ่งเมื่อกี้วันนี้"
+    e "ตาดาา! ที่คั่นหนังสือเล่มโปรดของหนู! วันนี้ฉันเจอมันอยู่คนเดียวบนชั้นวางหนึ่ง"
 
 # game/scripts/days/day 3.rpy:2086
 
@@ -540,7 +540,7 @@ translate thai day3_inviteelanor_34b07c0e:
 translate thai day3_inviteelanor_5351b2d2:
 
     # y "Everything okay?"
-    y "ไม่มีอะไรผิดปกตินะ?"
+    y "ทุกอย่างโอเคไหม?"
 
 # game/scripts/days/day 3.rpy:2096
 
