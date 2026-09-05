@@ -10,7 +10,17 @@ import os, sys, pickle, zlib
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-def create_rpa(source_dir, output_path):
+def create_rpa(source_dir, output_path, base_dir=None):
+    """
+    Create an RPA-3.0 archive from source_dir.
+    
+    base_dir: the directory that paths in the archive should be relative to.
+              For a mod in game/tl/thai/, base_dir should be game/ so that
+              paths are stored as tl/thai/replace_screens.rpy etc.
+              If None, defaults to source_dir (paths relative to source_dir).
+    """
+    if base_dir is None:
+        base_dir = source_dir
     key = 0x12345678  # arbitrary key
     files = []
 
@@ -23,7 +33,8 @@ def create_rpa(source_dir, output_path):
             if ext not in allowed_exts:
                 continue
             full = os.path.join(root, fn)
-            rel = os.path.relpath(full, source_dir).replace("\\", "/")
+            # Path in archive must be relative to base_dir (game/)
+            rel = os.path.relpath(full, base_dir).replace("\\", "/")
             files.append((rel, full))
 
     # RPA-3.0 header format: "RPA-3.0 " + 16 hex digits + " " + 8 hex digits + "\n"
@@ -64,4 +75,7 @@ def create_rpa(source_dir, output_path):
 if __name__ == "__main__":
     source = r"X:\14DaysWithYou-5.5-pc\game\tl\thai"
     output = r"X:\14DaysWithYou-5.5-pc\game\thai_mod.rpa"
-    create_rpa(source, output)
+    # The game_dir is the parent of tl/thai/ — paths in the .rpa must be
+    # relative to game/ so Ren'Py loads them at the correct location.
+    game_dir = r"X:\14DaysWithYou-5.5-pc\game"
+    create_rpa(source, output, base_dir=game_dir)
