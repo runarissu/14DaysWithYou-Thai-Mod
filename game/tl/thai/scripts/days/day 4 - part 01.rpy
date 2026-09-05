@@ -39,7 +39,7 @@ translate thai day4_morning_7f934929:
 translate thai day4_morning_aa7de901:
 
     # n "I still had plenty of time to get ready for the day and possibly make some waffles for breakfast. The batter would expire soon anyway, and I didn't really feel like visiting the bakery this morning."
-    n "ฉันยังมีเวลาเหลือเพียบพอจะเตรียมตัวออกไปข้างนอก แถมอาจจะทำวาฟเฟิลทานเช้าได้อีก แป้งวาฟเฟิลก็ใกล้หมดอายุแล้ว แถมเช้านี้ฉันก็ไม่อยากไปร้านเบเกอรี่ด้วย"
+    n "ฉันยังมีเวลาเพียบ พอจะเตรียมตัวออกไปข้างนอก แถมอาจจะทำวาฟเฟิลทานเช้าได้อีก แป้งวาฟเฟิลก็ใกล้หมดอายุแล้ว แถมเช้านี้ฉันก็ไม่อยากไปร้านเบเกอรี่ด้วย"
 
 # game/scripts/days/day 4.rpy:68
 
@@ -116,7 +116,7 @@ translate thai day4_morning_29cd70f3:
 translate thai day4_morning_63c80a08:
 
     # n "My usual style has never let me down before, so I decide to stick with the theme and wear something similar. I pick out a few more matching pieces and accessories before giving them all a cursory glance."
-    n "สไตล์ประจำของฉันไม่เคยทำให้ผิดหวังเลย ฉันเลยตัดสินใจแต่งในธีมเดิมและใส่ชุดที่คล้ายๆ กัน ฉันหยิบเสื้อผ้าและอุปกรณ์เสริมที่เข้าชุดกันเพิ่มอีกสองสามชิ้น ก่อนจะมองดูคร่าวๆ ทั้งหมด"
+    n "สไตล์ประจำของฉันไม่เคยทำให้ผิดหวังเลย ฉันเลยตัดสินใจแต่งในธีมเดิมและใส่ชุดที่คล้ายๆ กัน ฉันหยิบเสื้อผ้าและเครื่องประดับที่เข้าชุดกันเพิ่มอีกสองสามชิ้น ก่อนจะมองดูคร่าวๆ ทั้งหมด"
 
 # game/scripts/days/day 4.rpy:84
 
@@ -158,7 +158,7 @@ translate thai day4_morning_73da1508:
 translate thai day4_morning_cd9e9f99:
 
     # n "Was my toothbrush holder always this solid black colour? I could've sworn it was grey…"
-    n "ที่ใส่แปรงสีฟันของฉันมันเป็นสีดำสนิทมาตลอดเหรอ? ฉันอาจจะจำผิด แต่มันน่าจะเป็นสีเท่านั้น…"
+    n "ที่ใส่แปรงสีฟันของฉันมันเป็นสีดำสนิทมาตลอดเหรอ? ฉันสาบานได้ว่ามันเป็นสีเทาต่างหาก…"
 
 # game/scripts/days/day 4.rpy:97
 
@@ -228,14 +228,14 @@ translate thai day4_morningcont_2454d57b:
 translate thai day4_morningcont_2508f449:
 
     # n "An hour flies by, and I've somehow managed to change into my outfit and finish breakfast in record time."
-    n "เวลาผ่านไปชั่วโมง ฉันกลับเปลี่ยนเสื้อผ้าและทานเช้าเสร็จในเวลาที่เร็วเป็นประวัติการณ์"
+    n "เวลาผ่านไปได้ชั่วโมงหนึ่ง ฉันกลับเปลี่ยนเสื้อผ้าและทานเช้าเสร็จในเวลาที่เร็วเป็นประวัติการณ์"
 
 # game/scripts/days/day 4.rpy:154
 
 translate thai day4_morningcont_5ab9b2ef:
 
     # n "An hour flies by, and I've somehow managed to get dressed, style my hair, and finish breakfast in record time."
-    n "เวลาผ่านไปชั่วโมง ฉันกลับแต่งตัว ทำผม และทานเช้าเสร็จในเวลาที่เร็วเป็นประวัติการณ์"
+    n "เวลาผ่านไปได้ชั่วโมงหนึ่ง ฉันกลับแต่งตัว ทำผม และทานเช้าเสร็จในเวลาที่เร็วเป็นประวัติการณ์"
 
 # game/scripts/days/day 4.rpy:155
 
@@ -431,7 +431,7 @@ translate thai day4_morningcont_24cd6c68:
 translate thai day4_morningcont_d0b950a1:
 
     # n "And as awkward as our first encounter was, part of me still wanted to check in on [ch_olivia]; but another part kept me rooted in place. What if my stalker finds out? What if they were still lurking outside—"
-    n "แม้ครั้งแรกที่เจอกันจะอ้างจัง ส่วนหนึ่งของฉันก็ยังอยากไปเช็กดู [ch_olivia] แต่อีกส่วนทำให้ฉันยืนนิ่งอยู่กับที่ ถ้าสตอล์กเกอร์ของฉันรู้ล่ะ? ถ้าแกยังแอบซุ่มอยู่ข้างนอก—"
+    n "แม้ครั้งแรกที่เจอกันจะอึดอัด ส่วนหนึ่งของฉันก็ยังอยากไปเช็กดู [ch_olivia] แต่อีกส่วนทำให้ฉันยืนนิ่งอยู่กับที่ ถ้าสตอล์กเกอร์ของฉันรู้ล่ะ? ถ้าแกยังแอบซุ่มอยู่ข้างนอก—"
 
 # game/scripts/days/day 4.rpy:199
 
@@ -697,6 +697,6 @@ translate thai day4_morningcont_15d32cc9:
 translate thai day4_morningcont_555fa836:
 
     # n "But still… Knowing that [ch_teo] was downstairs {b}somehow{/b} gives me the confidence to leave the safety of my home — though not before committing the state of my apartment to memory and triple-checking my lock."
-    n "แต่ก็… การรู้ว่า [ch_teo] อยู่ข้างล่างมัน{b}ไม่รู้ทำไม{/b}ทำให้ฉันมีความมั่นใจพอจะออกจากความปลอดภัยของบ้านตัวเองได้ — แม้จะต้องจำสภาพอพาร์ตเมนต์ไว้ในใจและเช็กล็อกสามรอบก่อนก็ตาม"
+    n "แต่ก็… การรู้ว่า [ch_teo] อยู่ข้างล่างก็{b}ไม่รู้ทำไม{/b}ทำให้ฉันมีความมั่นใจพอจะออกจากความปลอดภัยของบ้านตัวเองได้ — แม้จะต้องจำสภาพอพาร์ตเมนต์ไว้ในใจและเช็กล็อกสามรอบก่อนก็ตาม"
 
 # game/scripts/days/day 4.rpy:248

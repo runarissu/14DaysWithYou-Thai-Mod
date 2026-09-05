@@ -29,14 +29,14 @@ translate thai day5_renmorning_72f08c8c:
 translate thai day5_renmorning_b836160c:
 
     # m "Oh, right! Remember how I told you about that drawing raffle I won? Y'know, the other day when you were getting ready for that double date?"
-    m "อ่ะ ใช่! จำที่ฉันเล่าเรื่องที่ฉันถูกรางวัลการจับรางวัลวาดรูมป่ะ? ตอนนั้นที่แกกำลังเตรียมตัวไปดับเบิ้ลเดทไง"
+    m "อ่ะ ใช่! จำที่ฉันเล่าเรื่องที่ฉันถูกรางวัลสุ่มวาดรูปป่ะ? ตอนนั้นที่แกกำลังเตรียมตัวไปดับเบิ้ลเดทไง"
 
 # game/scripts/days/day 5.rpy:456
 
 translate thai day5_renmorning_398badb3:
 
     # y "Kinda… I definitely remember you bringing it up, but I'm pretty sure you started gushing about recent AoG spoilers, like… five seconds later."
-    y "ก็คล้ายๆ… จำได้ว่าแกพูดถึงเรื่องนี้ แต่แกเริ่มร่าเริงเรื่องสปอยล์ AoG ตอนล่าสุดในอีกประมาณ… ห้าวินาทีต่อมาแน่ๆ"
+    y "ก็คล้ายๆ… จำได้ว่าแกพูดถึงเรื่องนี้ แต่แกเริ่มพรั่งพรูเรื่องสปอยล์ AoG ตอนล่าสุดในอีกประมาณ… ห้าวินาทีต่อมาแน่ๆ"
 
 # game/scripts/days/day 5.rpy:458
 
@@ -71,7 +71,7 @@ translate thai day5_renmorning_b6b1348e:
 translate thai day5_renmorning_d175eb10:
 
     # m "Oh, right! Remember how I told you about that drawing raffle I won? Y'know, the other day when you were at the manga store?"
-    m "อ่ะ ใช่! จำที่ฉันเล่าเรื่องที่ฉันถูกรางวัลการจับรางวัลวาดรูมป่ะ? ตอนนั้นที่แกอยู่ที่ร้านมังงะไง"
+    m "อ่ะ ใช่! จำที่ฉันเล่าเรื่องที่ฉันถูกรางวัลสุ่มวาดรูปป่ะ? ตอนนั้นที่แกอยู่ที่ร้านมังงะไง"
 
 # game/scripts/days/day 5.rpy:466
 
@@ -113,7 +113,7 @@ translate thai day5_renmorning_f990b3b7:
 translate thai day5_renmorning_b0845b02:
 
     # m "Alright! drumroll, pleeeeease…"
-    m "โอเค! กลองรบทะนานหน่อยยย…"
+    m "โอเค! ตีกลองรัวๆ หน่อยยย…"
 
 # game/scripts/days/day 5.rpy:477
 
@@ -169,7 +169,7 @@ translate thai day5_renmorning_62f35d61:
 translate thai day5_renmorning_8a91fa3a:
 
     # m "Would that be okay? I mean, the shuttle won't pick me up until tomorrow morning, so I haven't got much planned. A-And I wouldn't want to intrude or anything."
-    m "แบบนั้นได้ไหม? คือ รถรับ-ส่งจะมารับฉันไม่เร็วกว่าพรุ่งนี้เช้า ฉันเลยไม่ได้วางแผนอะไรไว้เท่าไหร่ แล-และฉันไม่อยากเป็นการสะกิดด้วยอะ"
+    m "แบบนั้นได้ไหม? คือ รถรับ-ส่งจะมารับฉันไม่เร็วกว่าพรุ่งนี้เช้า ฉันเลยไม่ได้วางแผนอะไรไว้เท่าไหร่ อี-อีกอย่าง ฉันไม่อยากรบกวนด้วยอะ"
 
 # game/scripts/days/day 5.rpy:491
 
@@ -239,7 +239,7 @@ translate thai day5_renmorning_c1c33824:
 translate thai day5_renmorning_ab840cfa:
 
     # r "I really like that anime, too! So I don't mind tagging along. If it's okay with you, of course."
-    r "ฉันก็ชอบอนิเมะเรื่องนั้นมากเหมือนกัน! ก็เลยไม่เป็นไรที่จะไปด้วย ถ้าแกไม่ว่านะ"
+    r "ฉันก็ชอบอนิเมะเรื่องนั้นมากเหมือนกัน! ก็เลยไม่เป็นไรที่จะไปด้วย ถ้าคุณไม่ว่านะ"
 
 # game/scripts/days/day 5.rpy:507
 
@@ -260,7 +260,7 @@ translate thai day5_renmorning_5de665ad:
 translate thai day5_renmorning_eaa53e4a:
 
     # n "[ch_ren] almost slams his head against the headboard with how quickly he straightens up, as [ch_moth] snickers at his reaction in the background."
-    n "[ch_ren] หัวใจเกือบกระแทกหัวเตียงจากความเร็วที่เขาลุกขึ้นนั่งตรง ส่วน [ch_moth] หัวเราะคิกคักกับปฏิกิริยาของเขาอยู่ด้านหลัง"
+    n "[ch_ren] เกือบกระแทกหัวเข้ากับหัวเตียงจากความเร็วที่เขาลุกขึ้นนั่งตรง ส่วน [ch_moth] หัวเราะคิกคักกับปฏิกิริยาของเขาอยู่ด้านหลัง"
 
 # game/scripts/days/day 5.rpy:512
 
@@ -288,14 +288,14 @@ translate thai day5_renmorning_519a599f:
 translate thai day5_renmorning_b9553f37:
 
     # m "Man, who knows what you two were getting up to in bed before I called?"
-    m "โถ่ ใครจะรู้ว่าสองคนกำลังทำอะไรกันอยู่บนเตียงก่อนที่ฉันจะโทรมา?"
+    m "ว๊าย ใครจะรู้ว่าสองคนกำลังทำอะไรกันอยู่บนเตียงก่อนที่ฉันจะโทรมา?"
 
 # game/scripts/days/day 5.rpy:520
 
 translate thai day5_renmorning_1e044d4a:
 
     # m "Man, if you two need some alone time, just say so."
-    m "โถ่ ถ้าสองคนอยากอยู่กันสองต่อสอง ก็บอกมาเลยสิ"
+    m "ว๊าย ถ้าสองคนอยากอยู่กันสองต่อสอง ก็บอกมาเลยสิ"
 
 # game/scripts/days/day 5.rpy:521
 
@@ -337,7 +337,7 @@ translate thai day5_renmorning_763f4dc7:
 translate thai day5_renmorning_ddb54a88:
 
     # y "Well then… I guess it's breakfast to go?"
-    y "งั้นก็… ไปหาอะไรกินทานเดินกันมั้ย?"
+    y "งั้นก็… ซื้อของกินเช้าไปทานระหว่างทางมั้ย?"
 
 # game/scripts/days/day 5.rpy:534
 
@@ -421,7 +421,7 @@ translate thai day5_ferryscene_efa6c068:
 translate thai day5_ferryscene_5d06d0e4:
 
     # m "Man, I couldn't {i}wait{/i} to get off that thing! Never again am I going to ride on a ferry. Ever. {i}Everrrr.{/i}"
-    m "โถ่ ฉันลน{i}รอ{/i}ลงจากของนั้นไม่ไหวแล้ว! ฉันจะไม่ขึ้นเรือเฟอร์รี่อีกตลอดไป ตลอดกาล {i}ตลอดกาลลล.{/i}"
+    m "เฮ้อ ฉันรอ{i}ไม่ไหว{/i}ที่จะลงจากของนั้นแล้ว! ฉันจะไม่ขึ้นเรือเฟอร์รี่อีกตลอดไป ตลอดกาล {i}ตลอดกาลลล.{/i}"
 
 # game/scripts/days/day 5.rpy:579
 
@@ -442,7 +442,7 @@ translate thai day5_ferryscene_8d9637f0:
 translate thai day5_ferryscene_21e9cc62:
 
     # y "Heh, must be the shoes."
-    y "เฮ้อ คงเป็นเพราะรองเท้ามั้ง"
+    y "เฮะ คงเป็นเพราะรองเท้ามั้ง"
 
 # game/scripts/days/day 5.rpy:586
 
@@ -624,14 +624,14 @@ translate thai day5_ferryscene_e39e738d:
 translate thai day5_ferryscene_615eaf31:
 
     # r "O-Of course! I like making you happy—"
-    r "แ-แน่นอน! ฉันชอบทำให้แกมีความสุข—"
+    r "แ-แน่นอน! ฉันชอบทำให้คุณมีความสุข—"
 
 # game/scripts/days/day 5.rpy:642
 
 translate thai day5_ferryscene_e306de9b:
 
     # m "Guh, he really is Haruko."
-    m "กู๊ แกเป็น Haruko จริงๆ"
+    m "กู๊ เขาเป็น Haruko จริงๆ"
 
 # game/scripts/days/day 5.rpy:644
 
@@ -694,6 +694,6 @@ translate thai day5_ferryscene_679214f2:
 translate thai day5_ferryscene_19573ddf:
 
     # m "Oh? [shit!c], sorry, [player_fl]! My bad. But hey, if you've got the time, why don't we all watch it together later?"
-    m "อ่ะ? [shit!c] ขอโทษ [player_fl]! ฉันผิดเอง แต่เฮ้ ถ้ามีเวลา พวกเราดูด้วยกันทั้งหมดทีหลังมั้ย?"
+    m "อ่ะ? [shit!c] ขอโทษ [player_fl]! ฉันผิดเอง แต่เฮ้ ถ้ามีเวลา พวกเราดูด้วยกันทีหลังมั้ย?"
 
 # game/scripts/days/day 5.rpy:660

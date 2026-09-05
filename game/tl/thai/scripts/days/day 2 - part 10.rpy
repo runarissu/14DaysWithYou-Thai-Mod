@@ -547,14 +547,14 @@ translate thai day2_goinside_0fab5a92:
 translate thai day2_leaveren_f745f0ad:
 
     # n "With a warm and fuzzy feeling still inside me, I climb up the flight of stairs until I reach my floor."
-    n "พร้อมความรู้สึกอบอุ่นและปลุกปล้ำอยู่ภายใน ฉันปีนบันไดขึ้นไปจนถึงชั้นของฉัน"
+    n "พร้อมความรู้สึกอบอุ่นและฟูๆ อยู่ภายใน ฉันปีนบันไดขึ้นไปจนถึงชั้นของฉัน"
 
 # game/scripts/days/day 2.rpy:2111
 
 translate thai day2_leaveren_45661f0b:
 
     # n "I highly doubt my landlord had fixed the elevator yet, if the caution tape was anything to go by."
-    n "ฉันสงสัยมากว่าเจ้าของที่จะซ่อมลิฟต์เสร็จหรือยัง ถ้าดูจากเทปเตือนที่ติดอยู่ก็คงไม่น่า"
+    n "ฉันไม่คิดว่าเจ้าของอพาร์ตเมนต์จะซ่อมลิฟต์เสร็จแล้ว ถ้าดูจากเทปเตือนที่ติดอยู่ก็พอรู้"
 
 # game/scripts/days/day 2.rpy:2112
 
@@ -575,7 +575,7 @@ translate thai day2_leaveren_7384a5e9:
 translate thai day2_leaveren_45661f0b_1:
 
     # n "I highly doubt my landlord had fixed the elevator yet, if the caution tape was anything to go by."
-    n "ฉันสงสัยมากว่าเจ้าของที่จะซ่อมลิฟต์เสร็จหรือยัง ถ้าดูจากเทปเตือนที่ติดอยู่ก็คงไม่น่า"
+    n "ฉันไม่คิดว่าเจ้าของอพาร์ตเมนต์จะซ่อมลิฟต์เสร็จแล้ว ถ้าดูจากเทปเตือนที่ติดอยู่ก็พอรู้"
 
 # game/scripts/days/day 2.rpy:2116
 

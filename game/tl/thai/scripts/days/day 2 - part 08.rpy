@@ -253,7 +253,7 @@ translate thai day2_renapartment_3fa1690e:
 translate thai day2_renapartment_8671f12d:
 
     # r "Ugh. I'm just going to shut up now. S-Sorry."
-    r "เฮ้อ ฉันขอเงียกดีกว่า ข-ขอโทษ"
+    r "เฮ้อ ฉันขอเงียบดีกว่า ข-ขอโทษ"
 
 # game/scripts/days/day 2.rpy:1603
 
@@ -575,7 +575,7 @@ translate thai day2_renapartment_2da5464b:
 translate thai day2_renapartment_c4cc48d8:
 
     # n "Glancing around again, I notice how his countertop seems to be void of any dental care, hairbrushes, and skincare products — though a few bottles of concealer and an opened box of hair dye sit in the corner near the sink."
-    n "มองรอบๆ อีกครั้ง ฉันสังเกตว่าเคาน์เตอร์ของเขาไม่มีอุปกรณ์ดูแลฟัน แปรงผม และของใช้บำรุงผวาเลย — แต่มีคอนซีลเลอร์สองสามขวดและกล่องย้อมผมที่เปิดแล้ววางอยู่มุมใกล้อ่างล้างมือ"
+    n "มองรอบๆ อีกครั้ง ฉันสังเกตว่าเคาน์เตอร์ของเขาไม่มีอุปกรณ์ดูแลฟัน แปรงผม และของใช้บำรุงผิวเลย — แต่มีคอนซีลเลอร์สองสามขวดและกล่องย้อมผมที่เปิดแล้ววางอยู่มุมใกล้อ่างล้างมือ"
 
 # game/scripts/days/day 2.rpy:1692
 

@@ -85,7 +85,7 @@ translate thai day4_storeroomscene_d6da9804:
 translate thai day4_storeroomscene_08789487:
 
     # y "You know what? Maybe you should've."
-    y "รู้ไหม? บางทีคุณก็ควรทำจริงๆ"
+    y "รู้ไหม? บางทีคุณก็น่าจะทำจริงๆ ตั้งแต่แรก"
 
 # game/scripts/days/day 4.rpy:1379
 
@@ -554,7 +554,7 @@ translate thai day4_storeroomscene_fcc9a3c8:
 translate thai day4_storeroomscene_09b67f41:
 
     # r "{size=-6}Making you upset like that… That clingy leech had it coming.{/size}"
-    r "{size=-6}ทำให้คุณไม่สบายใจแบบนั้น… ปลิงจำเริญตัวนั้นก็สมควรโว้ย{/size}"
+    r "{size=-6}ทำให้คุณไม่สบายใจแบบนั้น… ปลิงดูดเลือดตัวนั้นก็สมควรโว้ย{/size}"
 
 # game/scripts/days/day 4.rpy:1485
 

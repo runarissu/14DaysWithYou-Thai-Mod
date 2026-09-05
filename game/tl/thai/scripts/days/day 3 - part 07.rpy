@@ -1,7 +1,7 @@
 translate thai day3_inviteren_6b76d986:
 
     # r "I… Um, I also brought some takeout with me, if that's okay?"
-    r "ฉัน… อ้อ, ฉันเอาข้าวกล่องมาด้วยนะ ไม่ว่าจริงไหม?"
+    r "ฉัน… อ้อ, ฉันเอาข้าวกล่องมาด้วยนะ ไม่เป็นไรมั้ย?"
 
 # game/scripts/days/day 3.rpy:1446
 
@@ -428,7 +428,7 @@ translate thai day3_inviteren_2e288250:
 translate thai day3_inviteren_90f951f5:
 
     # y "But my neighbour was nothing but kind to me when I first moved in. And she always has the {i}best{/i} afternoon snacks."
-    y "แต่เพื่อนบ้านใจดีกับฉันมากตอนฉันย้ายมาใหม่ๆ แถมเธอมีขนว่างบ่ายที่{i}อร่อยที่สุด{/i}ตลอด"
+    y "แต่เพื่อนบ้านใจดีกับฉันมากตอนฉันย้ายมาใหม่ๆ แถมเธอมีขนมว่างบ่ายที่{i}อร่อยที่สุด{/i}ตลอด"
 
 # game/scripts/days/day 3.rpy:1553
 

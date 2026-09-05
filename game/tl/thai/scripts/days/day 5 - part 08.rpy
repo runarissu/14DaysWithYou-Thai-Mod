@@ -1,7 +1,7 @@
 translate thai day5_streetscenealt_c50a8f7c:
 
     # r "H-Hey, please be careful. You're… You're going to trip and hurt yourself if y-you keep—"
-    r "เ-เฮ้ย ระวังหน่อยสิ เธอ... เธอจะสะดุดล้มเจ็บตัวเองนะถ้ายัง—"
+    r "เ-เฮ้ย ระวังหน่อยสิ คุณ... คุณจะสะดุดล้มเจ็บตัวเองนะถ้ายัง—"
 
 # game/scripts/days/day 5.rpy:1640
 
@@ -22,7 +22,7 @@ translate thai day5_streetscenealt_6d27a1f7:
 translate thai day5_streetscenealt_85104abd:
 
     # r "Here, I-I can fix this… Don't worry, I can… I'll…"
-    r "เธอดูนะ ฉัน-ฉันแก้เรื่องนี้ได้... ไม่ต้องห่วงนะ ฉันจะ... ฉันจะ..."
+    r "คุณดูนะ ฉัน-ฉันแก้เรื่องนี้ได้... ไม่ต้องห่วงนะ ฉันจะ... ฉันจะ..."
 
 # game/scripts/days/day 5.rpy:1646
 
@@ -71,14 +71,14 @@ translate thai day5_streetscenealt_4e84aa4f:
 translate thai day5_streetscenealt_8b0a6c94:
 
     # n "Unease settles within my chest as I watch [ch_ren] turn back towards the body and crouch down. And when he starts muttering something under his breath, a dizzying wave suddenly washes over me."
-    n "ความไม่สบายใจคุกคามอยู่ในอกขณะที่ฉันดู [ch_ren] หันกลับไปทางศพแล้วนั่งยองๆ และพอเขาเริ่มพึมพำอะไรบางอย่างเบาๆ คลื่นลูกใหญ่ที่ทำให้ตัวตึงเต็มตัวก็ซัดเข้าหาฉันทันที"
+    n "ความไม่สบายใจคืบคลานเข้ามาในอกขณะที่ฉันดู [ch_ren] หันกลับไปทางศพแล้วนั่งยองๆ และพอเขาเริ่มพึมพำอะไรบางอย่างเบาๆ คลื่นอาการวิงเวียนก็ซัดเข้าหาฉันทันที"
 
 # game/scripts/days/day 5.rpy:1654
 
 translate thai day5_streetscenealt_5140d357:
 
     # n "Black clouds of smoke start to form and swirl around my feet in a mesmerising pattern, before my entire being is covered in it and it becomes all I see."
-    n "ควันดำๆ เริ่มก่อตัวและหมุนวนรอบเท้าของฉันเป็นรูปแบบที่ดึงดูดความสนใจ ก่อนที่ทั้งตัวฉันจะถูกห่อหุ้มและมันกลายเป็นสิ่งเดียวที่ฉันมองเห็น"
+    n "ควันดำๆ เริ่มก่อตัวและหมุนวนรอบเท้าของฉันเป็นลวดลายที่ดึงดูดสายตา ก่อนที่ทั้งตัวฉันจะถูกห่อหุ้มและมันกลายเป็นสิ่งเดียวที่ฉันมองเห็น"
 
 # game/scripts/days/day 5.rpy:1655
 
@@ -134,7 +134,7 @@ translate thai day5_angelapartmentbranch_98812883:
 translate thai day5_angelapartmentbranch_b1b3e237:
 
     # r "Didn't you read the chef's family story? The sugar is mandatory."
-    r "เธอไม่ได้อ่านเรื่องราวครอบครัวของเชฟเหรอ? น้ำตาลเป็นของบังคับ"
+    r "คุณไม่ได้อ่านเรื่องราวครอบครัวของเชฟเหรอ? น้ำตาลเป็นของบังคับ"
 
 # game/scripts/days/day 5.rpy:1691
 
@@ -169,7 +169,7 @@ translate thai day5_angelapartmentbranch_b314e4b9:
 translate thai day5_angelapartmentbranch_b1843add:
 
     # r "I can get some delivered here. A-And what if [ch_angel] needs sugar for something else later? [they!c]'d have to go out of [their] way to buy it."
-    r "ฉันสั่งให้ส่งมาที่นี่ได้ แ-และถ้า [ch_angel] ต้องการน้ำตาลไว้ทำอย่างอื่นทีหลังล่ะ? [they!c]ก็ต้องเสียเวลาของ[their]ไปซื้อมาเอง"
+    r "ฉันสั่งให้ส่งมาที่นี่ได้ แ-และถ้า [ch_angel] ต้องการน้ำตาลไว้ทำอย่างอื่นทีหลังล่ะ? [they!c] ก็ต้องเสียเวลาของ [their] ไปซื้อมาเอง"
 
 # game/scripts/days/day 5.rpy:1699
 

@@ -11,7 +11,7 @@ translate thai day2_wahoomorning_b4085a90:
 translate thai day2_wahoomorning_38ae3aba:
 
     # n "I wanted nothing more than to reach out and close the blinds, but something — or rather, someone — seemed to be stopping me."
-    n "ฉันอยาจะยื่นมือไปปิดมู่ลี่ให้หมดสิทธิ์ แต่มีบางอย่าง — หรือจะว่าไปก็คือใครบางคน — ดูเหมือนจะขวางฉันไว้"
+    n "ฉันอยากจะยื่นมือไปปิดมู่ลี่ให้หมดสิทธิ์ แต่มีบางอย่าง — หรือจะว่าไปก็คือใครบางคน — ดูเหมือนจะขวางฉันไว้"
 
 # game/scripts/days/day 2.rpy:61
 
@@ -452,7 +452,7 @@ translate thai day2_sharedmorning_9e7422c7:
 translate thai day2_sharedmorning_17d55482:
 
     # n "He seems almost smug as he leans closer to me, and it was then when I realised {b}just{/b} how pretty he looked underneath the morning light coming from my window."
-    n "เขาดูมึนตึงขณะเอนเข้าใกล้ฉัน และตอนนั้นเองที่ฉันรู้ว่าเขา{b}นี่{/b}สวยขนาดไหนใต้แสงเช้าที่ส่องผ่านหน้าต่างของฉัน"
+    n "เขาดูพอใจในตัวเองขณะเอนเข้าใกล้ฉัน และตอนนั้นเองที่ฉันรู้ว่าเขา{b}นี่{/b}สวยขนาดไหนใต้แสงเช้าที่ส่องผ่านหน้าต่างของฉัน"
 
 # game/scripts/days/day 2.rpy:155
 
@@ -487,7 +487,7 @@ translate thai day2_sharedmorning_534fd38a:
 translate thai day2_sharedmorning_04e5d55a:
 
     # n "He's a bit {b}too{/b} smug."
-    n "เขามึนตึง{b}เกินไป{/b}แล้ว"
+    n "เขาพอใจในตัวเอง{b}เกินไป{/b}แล้ว"
 
 # game/scripts/days/day 2.rpy:162
 
@@ -522,7 +522,7 @@ translate thai day2_sharedmorning_aaef952c:
 translate thai day2_sharedmorning_aaec03ab:
 
     # n "As if noticing how close he was to me — or maybe realising that he dropped his usual stutter — [ch_ren] immediately pulls back and turns his head away."
-    n "เหมือนจะรู้ตัวว่าเขาอยู่ใกล้ฉันแค่ไหน — หรืออาจรู้ว่าเขาลืมพูดตะกะกะแบบเดิม — [ch_ren] รีบถอยออกแล้วหันหน้าหนี"
+    n "เหมือนจะรู้ตัวว่าเขาอยู่ใกล้ฉันแค่ไหน — หรืออาจรู้ว่าเขาลืมพูดตะกุกตะกักแบบเดิม — [ch_ren] รีบถอยออกแล้วหันหน้าหนี"
 
 # game/scripts/days/day 2.rpy:169
 

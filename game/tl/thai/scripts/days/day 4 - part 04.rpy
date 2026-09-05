@@ -547,14 +547,14 @@ translate thai day4_aquariumscene_84c20e1e:
 translate thai day4_aquariumscene_d043e993:
 
     # n "I follow his finger, and between the driftwood and coral, I spot [ch_elanor] and [ch_teo] standing awfully close together."
-    n "ฉันมองตามนิ้วมือเขาไป และระหว่างไม้จมูกับปะการัง ฉันเห็น [ch_elanor] กับ [ch_teo] ยืนอยู่ใกล้กันอย่างน่าสงสัย"
+    n "ฉันมองตามนิ้วมือเขาไป และระหว่างไม้จมน้ำกับปะการัง ฉันเห็น [ch_elanor] กับ [ch_teo] ยืนอยู่ใกล้กันอย่างน่าสงสัย"
 
 # game/scripts/days/day 4.rpy:816
 
 translate thai day4_aquariumscene_1775f5ce:
 
     # n "I don't miss the way [ch_teo] sizes up [ch_ren] — even from a distance — before he tears his gaze away from us with an inaudible scoff."
-    n "ฉันเห็น [ch_teo] มอง [ch_ren] ขึ้นขึ้นลง — แม้จะอยู่ห่างกัน — ก่อนจะสะบัดสายตาออกจากพวกเราพร้อมเสียงหัวเราะเยาะที่แทบไม่ได้ยิน"
+    n "ฉันเห็น [ch_teo] มอง [ch_ren] ขึ้นลง — แม้จะอยู่ห่างกัน — ก่อนจะสะบัดสายตาออกจากพวกเราพร้อมเสียงหัวเราะเยาะที่แทบไม่ได้ยิน"
 
 # game/scripts/days/day 4.rpy:817
 

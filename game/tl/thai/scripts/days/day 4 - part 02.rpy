@@ -106,7 +106,7 @@ translate thai day4_leonarrival_69ac3576:
 translate thai day4_leonarrival_2a91b802:
 
     # n "It doesn't take long before he's right by my side once more and ushers me towards the front entrance."
-    n "ไม่นานเขาก็มายืนข้างฉันอีกครั้งแล้วนำฉันเดินไปทางทางเข้าด้านหน้า"
+    n "ไม่นานเขาก็มายืนข้างฉันอีกครั้งแล้วนำฉันเดินไปทางเข้าด้านหน้า"
 
 # game/scripts/days/day 4.rpy:300
 
@@ -162,7 +162,7 @@ translate thai day4_leonarrival_00cdaef9:
 translate thai day4_leonarrival_675bb4b3:
 
     # n "I guess it would be fine? It's not like the note told me otherwise."
-    n "คงไม่เป็นไรมั้ง? ก็จดหมายก็ไม่ได้บอกว่าห้าม"
+    n "คงไม่เป็นไรมั้ง? จดหมายก็ไม่ได้บอกว่าห้าม"
 
 # game/scripts/days/day 4.rpy:312
 
@@ -211,7 +211,7 @@ translate thai day4_leonarrival_03c3876b:
 translate thai day4_leonarrival_e73d88a5:
 
     # l "Heyo! You look good, Sunfish!"
-    l "ว่าไง! มึงดูดีเนอะ Sunfish!"
+    l "ว่าไง! คุณดูดีเนอะ Sunfish!"
 
 # game/scripts/days/day 4.rpy:329
 
@@ -316,7 +316,7 @@ translate thai day4_leonarrival_2f919ed1:
 translate thai day4_leonarrival_206e7ab4:
 
     # l "…Okay, yeah. So {i}maaaybe{/i} I {i}did{/i} arrive half an hour early."
-    l "...อ่า ก็ใช่ครับ งั้นผม{i}อาจจะ{/i}{i}มา{/i}ก่อนครึ่งชั่วโมงจริงๆ"
+    l "...อ่า ก็ใช่ครับ งั้นผม{i}อาจจะ{/i}{i}มา{/i}ก่อนครึ่งชั่วโมงจริงๆ ครับ"
 
 # game/scripts/days/day 4.rpy:353
 
@@ -428,7 +428,7 @@ translate thai day4_leonarrival_3250020d:
 translate thai day4_leonarrival_0260858c:
 
     # l "Y'know, I'm really glad you came. But… I'm also honestly surprised you agreed to this."
-    l "รู้มั้ยครับ ผมดีใจจริงๆ ที่คุณมา แต่... ผมก็แอบตกใจนะที่คุณตกลงมา"
+    l "รู้มั้ยครับ ผมดีใจจริงๆ ที่คุณมา แต่... ผมก็แอบตกใจนะที่คุณตกลงจะมา"
 
 # game/scripts/days/day 4.rpy:380
 
@@ -456,7 +456,7 @@ translate thai day4_leonarrival_9b62f72a:
 translate thai day4_leonarrival_6d635df8:
 
     # l "The guy we met at the pier the other day. He said something about being your boyfriend?"
-    l "คนที่พวกเราเจอที่ท่าเรือวันนั้นไงครับ เขาพูดอะไรเรื่องเป็นแฟนคุณ?"
+    l "คนที่พวกเราเจอที่ท่าเรือวันนั้นไงครับ เขาบอกว่าเป็นแฟนคุณ?"
 
 # game/scripts/days/day 4.rpy:396
 
@@ -505,7 +505,7 @@ translate thai day4_leonarrival_b4b683c4:
 translate thai day4_leonarrival_0d80e245:
 
     # n "A younger version of ourselves greets me as they innocently play a game of pretend on the playground. I can see [ch_leon] in all his boyish charm as he promises to marry me from atop the slide — before he slides down it and runs to my side in glee."
-    n "ตัวตนเล็กๆ ของพวกเราทักทายฉัน ขณะเล่นเกมจำลองบทบาทอย่างไร้เดียงสาอยู่บนสนามเด็กเล่น ฉันเห็น [ch_leon] ในวัยเด็กชายเต็มตัว ขณะสัญญาว่าจะแต่งงานกับฉันจากบนสไลเดอร์ — ก่อนจะลื่นลงมาแล้ววิ่งมาหาฉันอย่างดีใจ"
+    n "ตัวตนเล็กๆ ของพวกเราทักทายฉัน ขณะเล่นเกมจำลองบทบาทอย่างไร้เดียงสาอยู่บนสนามเด็กเล่น ฉันเห็น [ch_leon] ในเสน่ห์วัยเด็กชายของเขา ขณะสัญญาว่าจะแต่งงานกับฉันจากบนสไลเดอร์ — ก่อนจะลื่นลงมาแล้ววิ่งมาหาฉันอย่างดีใจ"
 
 # game/scripts/days/day 4.rpy:404
 

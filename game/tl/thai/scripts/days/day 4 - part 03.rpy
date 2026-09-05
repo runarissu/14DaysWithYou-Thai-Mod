@@ -99,7 +99,7 @@ translate thai day4_aquariumscene_a7dc029f:
 translate thai day4_aquariumscene_c3d4a40d:
 
     # l "Oi, c'mon mate. Show a bit more enthusiasm, yeah?"
-    l "โอ้ย อย่างั้นสิ ออกอาการตื่นเต้นอีกหน่อยสิครับ"
+    l "โอ้ย ออกอาการตื่นเต้นอีกหน่อยสิครับ"
 
 # game/scripts/days/day 4.rpy:495
 
@@ -274,7 +274,7 @@ translate thai day4_aquariumscene_12393835:
 translate thai day4_aquariumscene_e93eecf8:
 
     # e "Ooh, do you suppose there will be shows today as well? I saw some advertised outside!"
-    e "โอ้ ลูกว่าวันนี้จะมีโชว์ด้วยไหม? ฉันเห็นป้ายโฆษณาข้างนอกนะ!"
+    e "โอ้ ลูกว่าวันนี้จะมีโชว์ด้วยไหม? ลูกเห็นป้ายโฆษณาข้างนอกนะ!"
 
 # game/scripts/days/day 4.rpy:543
 
@@ -330,7 +330,7 @@ translate thai day4_aquariumscene_3a33d39a:
 translate thai day4_aquariumscene_1219c2db:
 
     # y "Oh no. Is everything okay?"
-    y "โธ่ ไม่เป็นไรนะ?"
+    y "โธ่ ไม่เป็นอะไรใช่มั้ย?"
 
 # game/scripts/days/day 4.rpy:561
 
@@ -393,7 +393,7 @@ translate thai day4_aquariumscene_8a115b22:
 translate thai day4_aquariumscene_8e5a8e69:
 
     # n "Before I can refuse, [ch_leon] shoves a stack of small bills into my palm and closes his hands around it."
-    n "ก่อนที่ฉันจะทันปฏิเสธ [ch_leon] ก็ยัดธนบัตรใบเล็กๆ กองหนึ่งลงในมือฉันแล้วกุมมือฉันไว้"
+    n "ก่อนที่ฉันจะทันปฏิเสธ [ch_leon] ก็ยัดธนบัตรใบย่อยๆ กองหนึ่งลงในมือฉันแล้วกุมมือฉันไว้"
 
 # game/scripts/days/day 4.rpy:574
 
@@ -519,7 +519,7 @@ translate thai day4_aquariumscene_263a4908:
 translate thai day4_aquariumscene_bd1c87d9:
 
     # n "Turning away, I decide to channel my interest into picking out a roadmap from the brochure stand instead. If [ch_teo] and [ch_elanor] were planning on getting cosy with each other, I needed to plan my escape route."
-    n "ฉันหันหลังกลับแล้วตัดสินใจเอาความสนใจไปจับสายแผนที่จากแท่นวางแผ่นพับแทน ถ้า [ch_teo] กับ [ch_elanor] จะใกล้ชิดกันต่อ ฉันก็ต้องวางแผนทางหนีเอาไว้"
+    n "ฉันหันหลังกลับแล้วตัดสินใจเอาความสนใจไปจับแผนที่จากแท่นวางแผ่นพับแทน ถ้า [ch_teo] กับ [ch_elanor] จะใกล้ชิดกันต่อ ฉันก็ต้องวางแผนทางหนีเอาไว้"
 
 # game/scripts/days/day 4.rpy:619
 

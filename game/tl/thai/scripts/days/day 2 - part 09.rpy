@@ -148,7 +148,7 @@ translate thai day2_renapartment_629b91da:
 translate thai day2_renapartment_ee3e802e:
 
     # n "I watch as he takes a respectful glance at my attire, before sheepishly averting his attention to the ends of his sleeve."
-    n "ฉันมองเขาที่แอบชำระตามองชุดของฉันอย่างนอบน้อม ก่อนจะอายๆ หันความสนใจไปที่ปลายแขนเสื้อตัวเอง"
+    n "ฉันมองเขาที่แอบชำเลืองมองชุดของฉันอย่างนอบน้อม ก่อนจะอายๆ หันความสนใจไปที่ปลายแขนเสื้อตัวเอง"
 
 # game/scripts/days/day 2.rpy:1757
 
@@ -218,7 +218,7 @@ translate thai day2_renapartment_b8ee695d:
 translate thai day2_renapartment_19275e4b:
 
     # n "But to be fair, it didn't look as though it'd start spontaneously raining when I left my apartment this morning."
-    n "แต่พูดตามยุติธรรม ตอนออกจากอพาร์ตเมนต์เมื่อเช้า มันไม่ได้ดูเหมือนว่าจะเริ่มตกฝยกะทันหันขนาดนี้"
+    n "แต่พูดตามยุติธรรม ตอนออกจากอพาร์ตเมนต์เมื่อเช้า มันไม่ได้ดูเหมือนว่าจะเริ่มตกฝนกะทันหันขนาดนี้"
 
 # game/scripts/days/day 2.rpy:1772
 
@@ -540,7 +540,7 @@ translate thai day2_renapartment_b542c15f:
 translate thai day2_renapartment_696439a5:
 
     # n "[ch_ren]'s cheeks flush red as he awkwardly shuffles his weight from one foot to the other."
-    n "แก้มของ [ch_ren] แดงระเรื่อขณะที่เขายืนเขย่งสลับเท้าอย่างกระอักกระอ่วน"
+    n "แก้มของ [ch_ren] แดงระเรื่อขณะที่เขาถ่ายน้ำหนักสลับเท้าอย่างกระอักกระอ่วน"
 
 # game/scripts/days/day 2.rpy:1878
 
@@ -561,7 +561,7 @@ translate thai day2_renapartment_78bfa9c9:
 translate thai day2_renapartment_1663aef2:
 
     # n "Deciding to take the initiative, I step {b}even closer{/b} to the pink-haired man and rest my hands against his sides."
-    n "ฉันตัดสินใจเป็นฝ่ายออกตัว ก้าวเข้าไป{b}ใกล้กว่าเดิม{/b}ชายผมชมพูและวางมือลงบนเอวข้างของเขา"
+    n "ฉันตัดสินใจเป็นฝ่ายออกตัว ก้าวเข้าไป{b}ใกล้กว่าเดิม{/b}ชายผมชมพูและวางมือลงบนสีข้างของเขา"
 
 # game/scripts/days/day 2.rpy:1881
 
@@ -582,7 +582,7 @@ translate thai day2_renapartment_e24bcc4b:
 translate thai day2_renapartment_380579d2:
 
     # n "Did I just say that?! I can't keep letting these intrusive thoughts win!"
-    n "ฉันพูดอย่างนั้นออกไปเหรอ?! ฉันต้องหยุดให้ความคิดบุกรุกชนะอีก!"
+    n "ฉันพูดอย่างนั้นออกไปเหรอ?! ฉันต้องหยุดให้ความคิดที่รบกวนจิตใจชนะอีก!"
 
 # game/scripts/days/day 2.rpy:1890
 

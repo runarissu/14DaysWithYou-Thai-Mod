@@ -78,7 +78,7 @@ translate thai day5_covescene_ca187043:
 translate thai day5_covescene_f3434fc2:
 
     # r "Oh, right. Thanks! Here, let me get my towel, and we can all go back to the—"
-    r "อ๊ะ อ๋อ ขอบใจนะ! เดี๋ยวฉันไปเอาผ้าเช็ดตัว แล้วเราก็กลับไปที่—"
+    r "อ๊ะ อ๋อ ขอบคุณนะ! เดี๋ยวฉันไปเอาผ้าเช็ดตัว แล้วเราก็กลับไปที่—"
 
 # game/scripts/days/day 5.rpy:1164
 
@@ -246,7 +246,7 @@ translate thai day5_covescene_8b8b2e47:
 translate thai day5_covescene_bb130bff:
 
     # y "…Pfft! Your levels of cuteness aggression genuinely terrify me sometimes."
-    y "…พึ่บ! ระดับความก้าวร้าวจากความน่ารักของมึงนี่บางทีก็น่ากลัวจริงๆ"
+    y "…พึ่บ! ระดับความก้าวร้าวจากความน่ารักของแกนี่บางทีก็น่ากลัวจริงๆ"
 
 # game/scripts/days/day 5.rpy:1248
 
@@ -330,14 +330,14 @@ translate thai day5_streetscene_55951c4e:
 translate thai day5_streetscene_5972c726:
 
     # m "[ch_angel]? Hey, are you okay? What the hell was their problem?"
-    m "[ch_angel]? เฮ้ย มึงโอเคป่ะ? คนนั้นมีปัญหาอะไรวะ?"
+    m "[ch_angel]? เฮ้ย แกโอเคป่ะ? คนนั้นมีปัญหาอะไรวะ?"
 
 # game/scripts/days/day 5.rpy:1288
 
 translate thai day5_streetscene_c0385edc:
 
     # m "I mean, c'moooon. How hard is it to look where you're going? That dude's a grade A [asshole]! {i}No{/i}… They're the S tier of [asshole]s!"
-    m "พูดตรงๆ โอ้ยยย มันยากขนาดนั้นเหรอ ที่จะดูทางเดิน? คนนั้นเป็น [asshole] ระดับ A เลยนะ! {i}ไม่{/i}… เค้าเป็น [asshole] ระดับ S ต่างหาก!"
+    m "เฮ้ย โอ้ยยย มันยากขนาดนั้นเหรอที่จะดูทางเดินไป? คนนั้นเป็น [asshole] ระดับ A เลยนะ! {i}ไม่{/i}… เค้าเป็น [asshole] ระดับ S ต่างหาก!"
 
 # game/scripts/days/day 5.rpy:1289
 
@@ -351,14 +351,14 @@ translate thai day5_streetscene_5f6cdb32:
 translate thai day5_streetscene_f37c6403:
 
     # n "What if that was my stalker? The person who was—"
-    n "ถ้าคนนั้นเป็นสตอลเกอร์ของฉันล่ะ? คนที่—"
+    n "ถ้าคนนั้นเป็นสตอล์กเกอร์ของฉันล่ะ? คนที่—"
 
 # game/scripts/days/day 5.rpy:1292
 
 translate thai day5_streetscene_d7445fe0:
 
     # m "—Maybe we should head back to your place? I guess peak hour is starting soon since {i}everyone{/i} seems to be in such a hurry."
-    m "—มั้ยจะกลับไปที่บ้านมึงดีกว่าไหม? คิดว่าชั่วโมงเร่งด่วนกำลังจะเริ่มแล้ว เพราะ {i}ทุกคน{/i} ดูรีบจัง"
+    m "—มั้ยกลับไปที่บ้านแกดีกว่าไหม? คิดว่าชั่วโมงเร่งด่วนกำลังจะเริ่มแล้ว เพราะ {i}ทุกคน{/i} ดูรีบจัง"
 
 # game/scripts/days/day 5.rpy:1293
 
@@ -442,7 +442,7 @@ translate thai day5_streetscene_49a7f352:
 translate thai day5_streetscene_792d78f4:
 
     # n "So this is my stalker?! I have half a mind to just… pull down their mask and hoodie to expose their identity, but I didn't want to cause a scene or make matters worse. [ch_ren], however, seems to have other plans."
-    n "คนนี้คือสตอลเกอร์ของฉันเหรอ?! ฉันอยากจะแค่… ดึงหน้ากากกับเสื้อฮู้ดออกเพื่อเผยตัวตน แต่ฉันไม่อยากทำเรื่องใหญ่โตหรือทำให้แย่ลง [ch_ren] กลับดูเหมือนจะมีแผนอื่น"
+    n "คนนี้คือสตอล์กเกอร์ของฉันเหรอ?! ฉันอยากจะแค่… ดึงหน้ากากกับเสื้อฮู้ดออกเพื่อเผยตัวตน แต่ฉันไม่อยากทำเรื่องใหญ่โตหรือทำให้แย่ลง [ch_ren] กลับดูเหมือนจะมีแผนอื่น"
 
 # game/scripts/days/day 5.rpy:1328
 
@@ -547,7 +547,7 @@ translate thai day5_streetscene_6cc59baa:
 translate thai day5_streetscene_b7bf5592:
 
     # m "You okay, [player_fl]? Do you know them or something?"
-    m "มึงโอเคไหม [player_fl]? มึงรู้จักคนนั้นเหรอ?"
+    m "แกโอเคไหม [player_fl]? แกรู้จักคนนั้นเหรอ?"
 
 # game/scripts/days/day 5.rpy:1361
 
@@ -631,7 +631,7 @@ translate thai day5_streetscene_d6be3bd5:
 translate thai day5_streetscene_58968b47:
 
     # m "Well, whatever! You said you wanted to head home?"
-    m "ก็ ช่างมัน! มึงบอกว่าอยากกลับบ้านใช่มั้ย?"
+    m "ก็ ช่างมัน! แกบอกว่าอยากกลับบ้านใช่มั้ย?"
 
 # game/scripts/days/day 5.rpy:1379
 
@@ -666,7 +666,7 @@ translate thai day5_streetscene_d4fe95ea:
 translate thai day5_streetscene_50a4fd27:
 
     # n "Purely on the happenstance of that [asshole] being my stalker, I'm sure they wouldn't have the guts to try anything while I still had company over."
-    n "ถ้าคน [asshole] นั้นเป็นสตอลเกอร์ของฉันจริง ฉันก็แน่ใจว่าเค้าคงไม่กล้าทำอะไรตอนที่ฉันมีคนอยู่ด้วย"
+    n "ถ้าคน [asshole] นั้นเป็นสตอล์กเกอร์ของฉันจริง ฉันก็แน่ใจว่าเค้าคงไม่กล้าทำอะไรตอนที่ฉันมีคนอยู่ด้วย"
 
 # game/scripts/days/day 5.rpy:1395
 

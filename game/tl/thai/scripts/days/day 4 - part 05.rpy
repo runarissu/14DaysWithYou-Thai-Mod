@@ -64,7 +64,7 @@ translate thai day4_fillerscene_71012cee:
 translate thai day4_fillerscene_46583592:
 
     # y "He assured me that everything's fine, so I wouldn't stress too much about it."
-    y "เค้าบอกว่าไม่มีอะไรหรอก ก็เลยไม่ต้องเครียดมากหรอก"
+    y "เค้าบอกว่าไม่มีอะไรหรอก ก็เลยไม่ต้องเครียดมาก"
 
 # game/scripts/days/day 4.rpy:883
 
@@ -148,7 +148,7 @@ translate thai day4_fillerscene_efbf58e8:
 translate thai day4_fillerscene_d4351cff:
 
     # n "Almost hastily, I snatch the ticket from [ch_elanor]'s hands and usher [ch_ren] inside the tunnel — {b}away{/b} from my gossipy co-worker and [ch_teo]'s smug grin."
-    n "แทบจะเป็นการรีบร้อน ฉันคว้าตั๋วจากมือของ [ch_elanor] แล้วพา [ch_ren] เข้าไปในอุโมงค์ — ให้{b}ห่าง{/b}จากเพื่อนร่วมงานขี้นินทากับรอยยิ้มจอมตัวของ [ch_teo]"
+    n "แทบจะเป็นการรีบร้อน ฉันคว้าตั๋วจากมือของ [ch_elanor] แล้วพา [ch_ren] เข้าไปในอุโมงค์ — ให้{b}ห่าง{/b}จากเพื่อนร่วมงานขี้นินทากับรอยยิ้มหยิ่งๆ ของ [ch_teo]"
 
 # game/scripts/days/day 4.rpy:913
 
@@ -225,7 +225,7 @@ translate thai day4_fillerscene_7f53aaec:
 translate thai day4_fillerscene_223e5fc5:
 
     # t "Aw, c'mon Princess, no need to act coy. Surely people say the same thing to you at the library, right?"
-    t "โอ้ย เจ้าหญิง ไม่ต้องทำตัวซื่อหรอก คนคงพูดแบบเดียวกันกับคุณที่ห้องสมุดอยู่แล้วใช่มั้ย?"
+    t "โอ้ย เจ้าหญิง ไม่ต้องทำตัวซื่อหรอก คนคงพูดแบบเดียวกันกับมึงที่ห้องสมุดอยู่แล้วใช่มั้ย?"
 
 # game/scripts/days/day 4.rpy:945
 
@@ -267,7 +267,7 @@ translate thai day4_fillerscene_734297d9:
 translate thai day4_fillerscene_853037e6:
 
     # e "Ahem! Anyway! Are either of you hungry yet? It's past noon, and I'm worried [ch_teo] won't put his pride aside and admit that he's hungry."
-    e "อืม! ก็เอาเป็นว่า! ใครหิวบ้างยัง? ก็เลยเที่ยงแล้วนะ ฉันเป็นห่วงว่า [ch_teo] จะไม่ยอมวางความทะนงตัวแล้วยอมรับว่าหิว"
+    e "อืม! ก็เอาเป็นว่า! ใครหิวบ้างยัง? หลังเที่ยงแล้วนะ ฉันเป็นห่วงว่า [ch_teo] จะไม่ยอมวางความทะนงตัวแล้วยอมรับว่าหิว"
 
 # game/scripts/days/day 4.rpy:957
 
@@ -288,7 +288,7 @@ translate thai day4_fillerscene_77281f6d:
 translate thai day4_fillerscene_701cf16d:
 
     # t "…Tch."
-    t "…ชึ่บ"
+    t "…ชึบ"
 
 # game/scripts/days/day 4.rpy:963
 
@@ -540,7 +540,7 @@ translate thai day4_teocloset_1410d3d4:
 translate thai day4_teocloset_b8280ff9:
 
     # n "He casually leans his weight to one side before finally speaking."
-    n "เขาพับน้ำหนักไปทางข้างนึงอย่างสบายๆ ก่อนจะเอ่ยปาก"
+    n "เขาเอนน้ำหนักไปทางข้างนึงอย่างสบายๆ ก่อนจะเอ่ยปาก"
 
 # game/scripts/days/day 4.rpy:1044
 

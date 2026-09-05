@@ -29,7 +29,7 @@ translate thai day2_leaveren_d17a6398:
 translate thai day2_leaveren_f5c02c41:
 
     # n "All of a sudden, the TV turns into static, and I can only assume that it was caused by the storm."
-    n "ทันใดนั้นทีวีก็กลายเป็นหิมะ ฉันคาดว่าคงเป็นเพราะพายุ"
+    n "ทันใดนั้นทีวีก็กลายเป็นสัญญาณรบกวน ฉันคาดว่าคงเป็นเพราะพายุ"
 
 # game/scripts/days/day 2.rpy:2163
 
@@ -232,7 +232,7 @@ translate thai day2_wahooend_148313c5:
 translate thai day2_wahooend_862f98b3:
 
     # n "What was there to say? He still had that flippant personality of his going on, and he somehow knew all of my favourite things without asking me."
-    n "จะพูดอะไรดี? เขาก็ยังมีบุคลิกเรื่อยเปื่อยแบบเดิม แถมยังรู้สิ่งที่ฉันชอบทั้งหมดโดยที่ไม่ได้ถามฉัน"
+    n "จะพูดอะไรดี? เขาก็ยังมีบุคลิกที่ไม่เคยจริงจังแบบเดิม แถมยังรู้สิ่งที่ฉันชอบทั้งหมดโดยที่ไม่ได้ถามฉัน"
 
 # game/scripts/days/day 2.rpy:2238
 
@@ -246,14 +246,14 @@ translate thai day2_wahooend_0ce745cd:
 translate thai day2_wahooend_d4cdf2fa:
 
     # n "But I guess I shouldn't be calling him a creep when {b}I{/b} was the one who willingly agreed to go to his apartment — despite only knowing him for two whole days."
-    n "แต่ฉันก็คงไม่ควรเรียกเขาว่าครีป เมื่อ{b}ฉัน{/b}เองที่ยอมไปอพาร์ตเมนต์ของเขาโดยใจจะกล้า — ทั้งที่รู้จักเขาแค่สองวัน"
+    n "แต่ฉันก็คงไม่ควรเรียกเขาว่าครีป เมื่อ{b}ฉัน{/b}เองที่ยอมไปอพาร์ตเมนต์ของเขาโดยเต็มใจ — ทั้งที่รู้จักเขาแค่สองวัน"
 
 # game/scripts/days/day 2.rpy:2245
 
 translate thai day2_wahooend_bb34a3bf:
 
     # n "There was also that break-in that [ch_violet] mentioned yesterday, but [ch_ren] didn't fit their description at all."
-    n "ก็มีเรื่องบุกทำลายที่ [ch_violet] เล่าให้ฟังเมื่อวานด้วย แต่ [ch_ren] ก็ไม่ตรงกับลักษณะที่เขาบอกเลย"
+    n "ก็มีเรื่องที่มีคนบุกเข้ามาที่ [ch_violet] เล่าให้ฟังเมื่อวานด้วย แต่ [ch_ren] ก็ไม่ตรงกับลักษณะที่เขาบอกเลย"
 
 # game/scripts/days/day 2.rpy:2246
 
@@ -267,4 +267,4 @@ translate thai day2_wahooend_45e91fba:
 translate thai day2_wahooend_945131f5:
 
     # n "Rolling onto my side, I push those thoughts aside as I hug the plushie closer and slowly drift off to sleep."
-    n "ฉันนอนตะแคงข้างและเก็บความคิดเหล่านั้นไว้ด้านข้าง ขณะกอดตุ๊กตาเข้าใกล้ตัวแล้วค่อยๆ หลับไป"
+    n "ฉันนอนตะแคงข้างและปัดความคิดเหล่านั้นทิ้ง ขณะกอดตุ๊กตาเข้าใกล้ตัวแล้วค่อยๆ หลับไป"

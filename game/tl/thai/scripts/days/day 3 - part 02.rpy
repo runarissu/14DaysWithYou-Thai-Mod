@@ -226,7 +226,7 @@ translate thai day3_libraryscene_fd45190e:
 translate thai day3_libraryscene_d0c7744f:
 
     # n "Now wasn't the time to be dwelling on these things… I would've been late for work if I stayed in my head any longer."
-    n "ตอนนี้ไม่ใช่เวลามาคิดเรื่องพวกนี้… ฉันคงสายงานถ้ายังเพ้อฝันอยู่อีก"
+    n "ตอนนี้ไม่ใช่เวลามาคิดเรื่องพวกนี้… ฉันคงสายเข้างานถ้ายังเพ้อฝันอยู่อีก"
 
 # game/scripts/days/day 3.rpy:338
 translate thai day3_libraryscene_2785b9ae:
@@ -256,7 +256,7 @@ translate thai day3_elanorscene_84c8088b:
 translate thai day3_elanorscene_5003f93e:
 
     # n "But I'm hardly given any time to take in my surroundings before [ch_elanor] reaches for my arm and all but {b}drags{/b} me behind the reception counter and towards a mountain of paperwork."
-    n "แต่ฉันแทบไม่ได้มีเวลามองรอบตัวเลย ก่อนที่ [ch_elanor] จะคว้าแขนฉันและ{b}ลาก{/b}ฉันไปหลังเคาน์เตอร์ต้อนรับเกือบทุดวง ไปยังภูเขาเอกสารที่รออยู่"
+    n "แต่ฉันแทบไม่ได้มีเวลามองรอบตัวเลย ก่อนที่ [ch_elanor] จะคว้าแขนฉันและ{b}ลาก{/b}ฉันไปหลังเคาน์เตอร์ต้อนรับเกือบทุกวง ไปยังภูเขาเอกสารที่รออยู่"
 
 # game/scripts/days/day 3.rpy:359
 translate thai day3_elanorscene_b8b2d28b:
@@ -310,7 +310,7 @@ translate thai day3_elanorscene_10aae51d:
 translate thai day3_elanorscene_982e2763:
 
     # y "Hey, hey. Don't worry El, I'll help."
-    y "เฮ้ เฮ้ ห่วงไม่ได้นะ El ฉันช่วยเอง"
+    y "เฮ้ เฮ้ ไม่ต้องห่วงนะ El ฉันช่วยเอง"
 
 # game/scripts/days/day 3.rpy:372
 translate thai day3_elanorscene_c5688f16:

@@ -148,7 +148,7 @@ translate thai day5_changingstalls_b182032e:
 translate thai day5_changingstalls_e2ba1013:
 
     # m "Oh, for Haruko's sake. Just use [their] stall!"
-    m "โอ้ย เพื่อน้ำตาของ Haruko ก็ใช้ห้องของเขาสิ!"
+    m "โอ้ย ก็ใช้ห้องของเขาสิ!"
 
 # game/scripts/days/day 5.rpy:942
 translate thai day5_changingstalls_d66388ae:
@@ -214,7 +214,7 @@ translate thai day5_changingstalls_98d5e87f:
 translate thai day5_changingstalls_a6b71577:
 
     # y "All yours, babe."
-    y "ของแกทั้งหมดเลยจ้ะ"
+    y "ของคุณทั้งหมดเลยจ้ะ"
 
 # game/scripts/days/day 5.rpy:967
 translate thai day5_changingstalls_38100b84:
@@ -370,7 +370,7 @@ translate thai day5_covescene_6587337e:
 translate thai day5_covescene_c4627313:
 
     # n "[ch_ren], however, seems to have a bout of confusion as he takes in the scene in front of him — before he snaps out of his daze and lifts [ch_moth]'s phone to take a photo."
-    n "แต่ [ch_ren] ดูเหมือนจะ งง ไปครู่หนึ่งตอนมองภาพตรงหน้า — ก่อนจะสะดิ้กตื่นแล้วยกโทรศัพท์ของ [ch_moth] ขึ้นมาถ่ายรูป"
+    n "แต่ [ch_ren] ดูเหมือนจะงงไปครู่หนึ่งตอนมองภาพตรงหน้า — ก่อนจะสะดิ้กตื่นแล้วยกโทรศัพท์ของ [ch_moth] ขึ้นมาถ่ายรูป"
 
 # game/scripts/days/day 5.rpy:1029
 translate thai day5_covescene_66743b69:
@@ -490,7 +490,7 @@ translate thai day5_covescene_87f092b3:
 translate thai day5_covescene_dcafacf6:
 
     # y "What about you, buttercup?"
-    y "แล้วแกล่ะ คนหวาน?"
+    y "แล้วคุณล่ะ คนหวาน?"
 
 # game/scripts/days/day 5.rpy:1077
 translate thai day5_covescene_268f85f6:
@@ -502,7 +502,7 @@ translate thai day5_covescene_268f85f6:
 translate thai day5_covescene_3d035350:
 
     # y "Don't you want a photo to commemorate this moment as well?"
-    y "แกไม่อยากถ่ายรูปเก็บเป็นที่ระลึกเหมือนกันเหรอ?"
+    y "คุณไม่อยากถ่ายรูปเก็บเป็นที่ระลึกเหมือนกันเหรอ?"
 
 # game/scripts/days/day 5.rpy:1079
 translate thai day5_covescene_79d481a0:
@@ -580,13 +580,13 @@ translate thai day5_covescene_cf3643ba:
 translate thai day5_covescene_0a04c787:
 
     # n "I stifle my laughter at [ch_ren]'s confused look as [ch_moth] continues to rant while they tug him towards the Haruko statue. I look away the moment they ask him to start posing, and it's then that I realise I still have his phone in my hands."
-    n "ฉันกลั้นหัวเราะตอนเห็นสีหน้า งง ของ [ch_ren] ขณะที่ [ch_moth] พูดเพรียวและดึงเขาไปที่รูปปั้น Haruko ฉันหันหน้าหนีตอนที่เขาเริ่มให้เขาโพสท่า และตอนนั้นฉันก็รู้ตัวว่ายังถือโทรศัพท์ของเขาอยู่"
+    n "ฉันกลั้นหัวเราะตอนเห็นสีหน้างงของ [ch_ren] ขณะที่ [ch_moth] พูดเพรียวและดึงเขาไปที่รูปปั้น Haruko ฉันหันหน้าหนีตอนที่เขาเริ่มให้เขาโพสท่า และตอนนั้นฉันก็รู้ตัวว่ายังถือโทรศัพท์ของเขาอยู่"
 
 # game/scripts/days/day 5.rpy:1124
 translate thai day5_covescene_f34df770:
 
     # n "But just as I move to return it to its rightful owner, the screen immediately lights up and starts to vibrate."
-    n "แต่พอฉันจะเดินไปคืนให้เจ้าของ หน้าจอก็ติดสว่าขึ้นมาทันทีและเริ่มสั่น"
+    n "แต่พอฉันจะเดินไปคืนให้เจ้าของ หน้าจอก็สว่างขึ้นมาทันทีและเริ่มสั่น"
 
 # game/scripts/days/day 5.rpy:1128
 translate thai day5_covescene_18dfb175:

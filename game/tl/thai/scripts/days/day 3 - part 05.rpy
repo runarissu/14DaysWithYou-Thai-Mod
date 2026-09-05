@@ -8,7 +8,7 @@ translate thai day3_leonscene_36347623:
 translate thai day3_leonscene_d5227e35:
 
     # y "…Sorry, what was that?"
-    y "…ขอโทษค่ะ ว่าอะไรนะ?"
+    y "…ขอโทษ ว่าอะไรนะ?"
 
 # game/scripts/days/day 3.rpy:969
 
@@ -43,7 +43,7 @@ translate thai day3_leonscene_bf18d8ea:
 translate thai day3_leonscene_12e63096:
 
     # e "Please! Don't let us keep you longer than we should."
-    e "หนู! อย่าให้พวกฉันเก็บตัวไว้นานเลยนะ รีบกลับเถอะ"
+    e "หนู! อย่าให้พวกฉันรั้งไว้นานเลยนะ รีบกลับเถอะ"
 
 # game/scripts/days/day 3.rpy:977
 
@@ -211,7 +211,7 @@ translate thai day3_mangastore_844a3972:
 translate thai day3_mangastore_2c2097c5:
 
     # n "His height does him no favours though, as I watch his head peek out from the top while he bobs and weaves his way towards the side entrance."
-    n "แต่ส่วนสูงของเขาก็ไม่ค่อยช่วยอะไร เพราะฉันเห็นหัวของเขาโผล่พ้นด้านบนตู้ขณะที่เขาเดินลัดเลียดไปทางประตูข้าง"
+    n "แต่ส่วนสูงของเขาก็ไม่ค่อยช่วยอะไร เพราะฉันเห็นหัวของเขาโผล่พ้นด้านบนตู้ขณะที่เขาเดินลัดเลียบไปทางประตูข้าง"
 
 # game/scripts/days/day 3.rpy:1040
 
@@ -239,7 +239,7 @@ translate thai day3_mangastore_41c50179:
 translate thai day3_mangastore_9a43baca:
 
     # mcall "Oh nooo, that's terrible. Get well soon. Or… sorry for your loss. Ooooor— whatever. Anyway! Listen!"
-    mcall "โอ้ไม่นนน น่าเศรจจ หายป่วยเร็วๆ นะ หรือ... ขอแสดงความเสียใจด้วย หรือร่วมแชร์ความโศกเศร้า หรือ— ยังไงก็แล้วแต่ เอาเป็นว่า! ฟังนะ!"
+    mcall "โอ้ไม่นนน น่าเศร้าจ๊าจ หายป่วยเร็วๆ นะ หรือ... ขอแสดงความเสียใจด้วย หรือร่วมแชร์ความโศกเศร้า หรือ— ยังไงก็แล้วแต่ เอาเป็นว่า! ฟังนะ!"
 
 # game/scripts/days/day 3.rpy:1052
 
@@ -421,14 +421,14 @@ translate thai day3_mangastore_98894ba8:
 translate thai day3_mangastore_ee47b82c:
 
     # n "I know it'd barely been more than a day since I last saw him, but I still wanted to thank him for the date he took me on yesterday."
-    n "รู้ว่ายังไม่ถึงวันที่เราเจอกันครั้งล่าสุด แต่ฉันก็ยังอยากขอบคุณเขาที่พาไปเดทเมื่อวาน"
+    n "รู้ว่าเราเพิ่งเจอกันไม่ถึงวัน แต่ฉันก็ยังอยากขอบคุณเขาที่พาไปเดทเมื่อวาน"
 
 # game/scripts/days/day 3.rpy:1093
 
 translate thai day3_mangastore_94e16ec9:
 
     # n "I know it'd barely been more than a few hours since I last saw [ch_ren], but I still wanted to thank him for letting me stay at his place for the night."
-    n "รู้ว่ายังไม่ถึงไม่กี่ชั่วโมงที่ฉันเพิ่งเจอ [ch_ren] ครั้งล่าสุด แต่ฉันก็ยังอยากขอบคุณเขาที่ให้ฉันค้างคืนที่บ้านเขา"
+    n "รู้ว่าเพิ่งเจอ [ch_ren] ไปไม่กี่ชั่วโมง แต่ฉันก็ยังอยากขอบคุณเขาที่ให้ฉันค้างคืนที่บ้านเขา"
 
 # game/scripts/days/day 3.rpy:1094
 
@@ -484,7 +484,7 @@ translate thai day3_mangastore_edc5b869:
 translate thai day3_mangastore_3abb299b:
 
     # n "It was a shame, though; I really wanted to see him and his charming smile again."
-    n "น่าเสียดายแหมะ ฉันอยากเจอเขากับรอยยิ้มที่ดูเสน่ห์อีกจริงๆ"
+    n "น่าเสียดายจริงๆ ฉันอยากเจอเขาและรอยยิ้มที่เต็มไปด้วยเสน่ห์อีกจริงๆ"
 
 # game/scripts/days/day 3.rpy:1114
 
@@ -533,7 +533,7 @@ translate thai day3_mangastore_b7580b65:
 translate thai day3_mangastore_049b01b4:
 
     # n "I was bound to run into [ch_ren] again at some point — regardless if I had a way to contact him or not."
-    n "ฉันก็คงต้องเจอ [ch_ren] อีกสักที่ — ไม่ว่าจะมีทางติดต่อเขาได้หรือไม่ก็ตาม"
+    n "ฉันก็คงต้องเจอ [ch_ren] อีกสักครั้ง — ไม่ว่าจะมีทางติดต่อเขาได้หรือไม่ก็ตาม"
 
 # game/scripts/days/day 3.rpy:1124
 
@@ -561,7 +561,7 @@ translate thai day3_meetinglandlord_95f6ad00:
 translate thai day3_meetinglandlord_70532fe0:
 
     # y "{size=+10}Woah!{/size}" with hpunch
-    y "{size=+10}ว๊าย!{/size}" with hpunch
+    y "{size=+10}ว๊ะ!{/size}" with hpunch
 
 # game/scripts/days/day 3.rpy:1153
 

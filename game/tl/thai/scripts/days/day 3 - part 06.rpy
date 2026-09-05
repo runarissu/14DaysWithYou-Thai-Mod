@@ -50,7 +50,7 @@ translate thai day3_meetinglandlord_856d8551:
 translate thai day3_meetinglandlord_52eb1de4:
 
     # o "You know what? I'm not even sure why I'm having this conversation with you. Forget it. I'm in a rush, so please move."
-    o "รู้ไหม? ฉันยังไม่รู้เลยว่าทำไมต้องคุยเรื่องนี้กับแกด้วย ลืมมันไปเถอะ ฉันรี ขอเลยทางหน่อย"
+    o "รู้ไหม? ฉันยังไม่รู้เลยว่าทำไมต้องคุยเรื่องนี้กับแกด้วย ลืมมันไปเถอะ ฉันรีบ ขอเลยทางหน่อย"
 
 # game/scripts/days/day 3.rpy:1208
 
@@ -71,7 +71,7 @@ translate thai day3_meetinglandlord_33deafa8:
 translate thai day3_meetinglandlord_50ab1208:
 
     # o "Nothing. Just the ramblings of a stressed-out university student. Anyway, I'm in a rush, so please move."
-    o "ไม่มีอะไร แค่คำบ่นของนักศึกษามหาลัยที่เครียดจัดๆ เอาเป็นว่า ฉันรี ขอเลยทางหน่อยนะ"
+    o "ไม่มีอะไร แค่คำบ่นของนักศึกษามหาลัยที่เครียดจัดๆ เอาเป็นว่า ฉันรีบ ขอเลยทางหน่อยนะ"
 
 # game/scripts/days/day 3.rpy:1220
 
@@ -99,7 +99,7 @@ translate thai day3_meetinglandlord_f01f796b:
 translate thai day3_meetinglandlord_7f56f06a:
 
     # o "I'm not even sure why I'm having this conversation with you. Forget it. I'm in a rush, so please move."
-    o "ฉันยังไม่รู้เลยว่าทำไมต้องคุยเรื่องนี้กับแกด้วย ลืมมันไปเถอะ ฉันรี ขอเลยทางหน่อย"
+    o "ฉันยังไม่รู้เลยว่าทำไมต้องคุยเรื่องนี้กับแกด้วย ลืมมันไปเถอะ ฉันรีบ ขอเลยทางหน่อย"
 
 # game/scripts/days/day 3.rpy:1232
 
@@ -120,7 +120,7 @@ translate thai day3_meetinglandlord_56740151:
 translate thai day3_meetinglandlord_53053ba1:
 
     # o "Ugh. I don't have time for this. Forget it. I'm in a rush, so please move."
-    o "อืด ฉันไม่มีเวลาให้เรื่องนี้หรอก ลืมมันไปเถอะ ฉันรี ขอเลยทางหน่อย"
+    o "อืด ฉันไม่มีเวลาให้เรื่องนี้หรอก ลืมมันไปเถอะ ฉันรีบ ขอเลยทางหน่อย"
 
 # game/scripts/days/day 3.rpy:1241
 
@@ -526,7 +526,7 @@ translate thai day3_invite1_ceace04c:
 translate thai day3_invite1_b2a09592:
 
     # n "The phone rings a few times before they pick up with a happy lilt in their tone."
-    n "โทรศัพท์ดังไปสักพักก่อนที่เขาจะรับสายด้วยน้ำเสียงที่ร่าเริจ"
+    n "โทรศัพท์ดังไปสักพักก่อนที่เขาจะรับสายด้วยน้ำเสียงที่ร่าเริง"
 
 # game/scripts/days/day 3.rpy:1366
 
@@ -540,7 +540,7 @@ translate thai day3_invite1_d64f9e6f:
 translate thai day3_invite1_00ce4c3a:
 
     # n "Admittedly, it {b}was{/b} a nice idea — and before I know it, I'm picking up my keys and heading out."
-    n "ยอมรับว่ามัน{b}เป็น{/b}ไอเดียที่ดี — และก่อนที่ฉันจะทันรู้ตัว ฉันก็หยิบกุญแจแล้วออกตัวไป"
+    n "ยอมรับว่ามัน{b}เป็น{/b}ไอเดียที่ดี — และก่อนที่ฉันจะทันรู้ตัว ฉันก็หยิบกุญแจแล้วเดินออกไป"
 
 # game/scripts/days/day 3.rpy:1368
 
@@ -582,7 +582,7 @@ translate thai day3_invite2_6286d322:
 translate thai day3_invite2_6d6b0560:
 
     # n "Admittedly, it was a nice idea — and before I know it, I'm picking up my keys and heading out."
-    n "ยอมรับว่ามันเป็นไอเดียที่ดี — และก่อนที่ฉันจะทันรู้ตัว ฉันก็หยิบกุญแจแล้วออกตัวไป"
+    n "ยอมรับว่ามันเป็นไอเดียที่ดี — และก่อนที่ฉันจะทันรู้ตัว ฉันก็หยิบกุญแจแล้วเดินออกไป"
 
 # game/scripts/days/day 3.rpy:1392
 
@@ -666,7 +666,7 @@ translate thai day3_inviteren_d318ed13:
 translate thai day3_inviteren_1931ba6c:
 
     # n "I watch as he awkwardly shuffles about in the hallway, almost uncertain if he should come inside or not. He moves to take off his shoes, and I watch in awe as he neatly stacks them next to the umbrella rack."
-    n "ฉันมองเขาเดินเซอังไปในทางเดิน ดูไม่แน่ใจว่าจะเข้ามาข้างในไหม เขาเอนตัวไปถอดรองเท้า และฉันมองด้วยความตื่นเต้นขณะที่เขาวางรองเท้าเรียบร้อยข้างขาตั้งร่ม"
+    n "ฉันมองเขาเดินกระเซิงไปในทางเดิน ดูไม่แน่ใจว่าจะเข้ามาข้างในไหม เขาเอนตัวไปถอดรองเท้า และฉันมองด้วยความตื่นเต้นขณะที่เขาวางรองเท้าเรียบร้อยข้างขาตั้งร่ม"
 
 # game/scripts/days/day 3.rpy:1436
 

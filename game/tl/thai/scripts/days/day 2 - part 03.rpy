@@ -1,7 +1,7 @@
 translate thai day2_pierdate_c1955da5:
 
     # n "[ch_teo] isn't subtle with how he nudges [ch_leon] out of the way, nor does he seem to remove his hand from Rosie's waist."
-    n "[ch_teo] ไม่ได้แอบทำเลย ที่เขาใช้ไหลดัน [ch_leon] ออกไปทาง และเขาก็ไม่ยอมปล่อยมือจากเอวของ Rosie เหมือนกัน"
+    n "[ch_teo] ไม่ได้แอบทำเลย ที่เขาใช้ไหล่ดัน [ch_leon] ออกไปทาง และเขาก็ไม่ยอมปล่อยมือจากเอวของ Rosie เหมือนกัน"
 
 # game/scripts/days/day 2.rpy:438
 
@@ -57,14 +57,14 @@ translate thai day2_pierdate_c2ef4c10:
 translate thai day2_pierdate_91acfaf6:
 
     # y "Sorry, what? Wait…"
-    y "ขออะไรนะ? เดี๋ยว…"
+    y "เดี๋ยว อะไรนะ? เดี๋ยว…"
 
 # game/scripts/days/day 2.rpy:450
 
 translate thai day2_pierdate_f672b5a0:
 
     # extend " You're dating [ch_teo]?!" with vpunch
-    extend " แกนั่นแหละแฟนกับ [ch_teo]?!" with vpunch
+    extend " แกออกเดทกับ [ch_teo]?!" with vpunch
 
 # game/scripts/days/day 2.rpy:452
 
@@ -519,7 +519,7 @@ translate thai day2_teocont_d8a6aa5f:
 translate thai day2_teocont_a4ced17b:
 
     # n "Never fucking mind."
-    n "ไม่ต้องสนใจแล้ววะ สาส"
+    n "ไม่ต้องสนใจแล้ววะ สัส"
 
 # game/scripts/days/day 2.rpy:601
 

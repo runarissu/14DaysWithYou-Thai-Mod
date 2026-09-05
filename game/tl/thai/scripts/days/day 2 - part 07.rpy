@@ -1,14 +1,14 @@
 translate thai day2_rainscene_497a1d56:
 
     # n "But if he was, then that would only add insult to injury — considering how [ch_teo] had done the same to me multiple times in the past."
-    n "แต่ถ้าเขาเป็นจริงๆ ก็คงเป็นการเติมเต็มความแย่ให้กว่าเดิม — พิจารณาจากที่ [ch_teo] เคยทำแบบเดียวกันกับฉันมาหลายครั้งแล้ว"
+    n "แต่ถ้าเขาเป็นจริงๆ ก็คงยิ่งซ้ำเติม — พิจารณาจากที่ [ch_teo] เคยทำแบบเดียวกันกับฉันมาหลายครั้งแล้ว"
 
 # game/scripts/days/day 2.rpy:1300
 
 translate thai day2_rainscene_04ce5e30:
 
     # n "Plus, that'd be a really low blow considering that he was the one who offered to take me out on a date today."
-    n "อีกอย่าง มันก็ต่ำสถิติเกินไป เพราะเขาเป็นคนที่เสนอจะพาฉันออกเดทวันนี้"
+    n "อีกอย่าง มันก็เลวเกินไป เพราะเขาเป็นคนที่เสนอจะพาฉันออกเดทวันนี้"
 
 # game/scripts/days/day 2.rpy:1302
 
@@ -43,7 +43,7 @@ translate thai day2_rainscene_74e14e49:
 translate thai day2_rainscene_1a20e989:
 
     # n "Thankfully the rain was there to cool me off… As well as soak the ends of my outfit and make everything feel damp and uncomfortable."
-    n "โชคดีที่ฝนช่วยทำให้ฉันเย็นลง… พร้อมกับทำให้ชายเสื้อผ้าฉันเปียกชุ่มและทุกอย่างรู้สึกชื้อแฉะไม่สบาย"
+    n "โชคดีที่ฝนช่วยทำให้ฉันเย็นลง… พร้อมกับทำให้ชายเสื้อผ้าฉันเปียกชุ่มและทุกอย่างรู้สึกชื้นแฉะไม่สบาย"
 
 # game/scripts/days/day 2.rpy:1307
 
@@ -505,7 +505,7 @@ translate thai day2_rainscene_4bf21235:
 translate thai day2_rainscene_e890adc7:
 
     # extend " before picking it back up and ensuring that the contents inside it were still okay."
-    extend " ก่อนจะหยิบมันกลับขึ้นมาและตรวจดูว่าของข้างในยังเป็นได้ดีอยู่หรือไม่"
+    extend " ก่อนจะหยิบมันกลับขึ้นมาและตรวจดูว่าของข้างในยังไม่เสียหายหรือเปล่า"
 
 # game/scripts/days/day 2.rpy:1456
 

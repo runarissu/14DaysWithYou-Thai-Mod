@@ -557,7 +557,7 @@ translate thai day3_renmorning_f23020ca:
 translate thai day3_renmorning_74cbf6c9:
 
     # n "Wait a second… Eight o'clock?! I was going to be late for work!" with vpunch
-    n "เดี๋ยวก่อน… แปดโมง?! ฉันจะสายงานพอดี!" with vpunch
+    n "เดี๋ยวก่อน… แปดโมง?! ฉันจะสายเข้างานพอดี!" with vpunch
 
 # game/scripts/days/day 3.rpy:239
 
@@ -634,7 +634,7 @@ translate thai day3_renmorning_564f439d:
 translate thai day3_renmorning_38cf080a:
 
     # r "Hehe, and I thought {i}I{/i} was dramatic."
-    r "เฮะ ฉันนี่แหละที่คิดว่าตัวเอง{i}พาดราม่า{/i}อยู่"
+    r "เฮะ ฉันนี่แหละที่คิดว่าตัวเอง{i}ดราม่า{/i}อยู่"
 
 # game/scripts/days/day 3.rpy:255
 
@@ -655,7 +655,7 @@ translate thai day3_renmorning_909e55c3:
 translate thai day3_renmorning_9eefe082:
 
     # r "O-Oh, but I should warn you! I don't exactly drive a car…"
-    r "อ-อ้อ แต่ฉันขอเตือนก่อนนะ! ฉันไม่ได้ขับรถยนต์…"
+    r "อ-อ้อ แต่ฉันขอเตือนก่อนนะ! ฉันไม่ได้ขับรถยนต์นะ…"
 
 # game/scripts/days/day 3.rpy:275
 

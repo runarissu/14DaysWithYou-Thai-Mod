@@ -78,7 +78,7 @@ translate thai day4_teocloset_694e2f3e:
 translate thai day4_teocloset_597ed9d8:
 
     # y "…What? Don't you think that's kind of a roundabout idea? How would this even benefit—"
-    y "…อะไรนะ? แกไม่คิดว่ามันวนไปวนมาไปหน่อยเหรอะ? แล้วมันจะเป็นประโยชน์ยังไง—"
+    y "…อะไรนะ? แกไม่คิดว่ามันวนไปวนมาไปหน่อยเหรอ? แล้วมันจะเป็นประโยชน์ยังไง—"
 
 # game/scripts/days/day 4.rpy:1102
 
@@ -113,14 +113,14 @@ translate thai day4_teocloset_e32d08a0:
 translate thai day4_teocloset_7c31601b:
 
     # t "Either my idea works out and this gathering gets more… {i}interesting{/i}, or she realises I'm not the type to be babied and backs off."
-    t "ไม่งั้นแผนของกูเวิร์กแล้วการมารวมตัวครั้งนี้ก็จะสนุกขึ้น… {i}น่าสนใจ{/i}หน่อย ไม่ก็เธอจะรู้ตัวว่ากูไม่ใช่คนที่จะให้คนมาเลี้ยงดูเหมือนเด็กแล้วเลิกยุ่ง"
+    t "ถ้าแผนของกูเวิร์ก การมารวมตัวครั้งนี้ก็จะสนุกขึ้น… {i}น่าสนใจ{/i}หน่อย ไม่ก็เธอจะรู้ตัวว่ากูไม่ใช่คนที่จะให้คนมาเลี้ยงดูเหมือนเด็กแล้วเลิกยุ่ง"
 
 # game/scripts/days/day 4.rpy:1112
 
 translate thai day4_teocloset_d796fd6b:
 
     # n "While I had to jump through hoops and hurdles to understand it, [ch_teo] {b}did{/b} have a point. But everything about his idea still felt wrong."
-    n "ถึงฉันจะต้องครั่นตัวไปหลายรอบกว่าจะเข้าใจ แต่ [ch_teo] ก็{b}มีสาระ{/b}อยู่บ้าง ทว่าทุกอย่างเกี่ยวกับแผนของเขามันยังรู้สึกผิดอยู่ดี"
+    n "ถึงฉันจะต้องคิดวนไปวนมาหลายรอบกว่าจะเข้าใจ แต่ [ch_teo] ก็{b}มีสาระ{/b}อยู่บ้าง ทว่าทุกอย่างเกี่ยวกับแผนของเขามันยังรู้สึกผิดอยู่ดี"
 
 # game/scripts/days/day 4.rpy:1113
 
@@ -365,7 +365,7 @@ translate thai day4_storeroomscene_361e95b8:
 translate thai day4_storeroomscene_611dc617:
 
     # n "Ugh. I seriously can't believe he roped me into doing this—"
-    n "อืด ฉันไม่เชื่อเลยว่าฉันโดนเขาลากให้มาทำเรื่องแบบนี้—"
+    n "เฮ้อ ฉันไม่เชื่อเลยว่าฉันโดนเขาลากให้มาทำเรื่องแบบนี้—"
 
 # game/scripts/days/day 4.rpy:1212
 

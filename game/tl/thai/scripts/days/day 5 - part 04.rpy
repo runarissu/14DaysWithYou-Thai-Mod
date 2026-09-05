@@ -1,7 +1,7 @@
 translate thai day5_ferryscene_0a324d81:
 
     # r "S-Sounds like fun! Don't you think, Angel?"
-    r "ด-ดูสนุกเนอะ! ว่าไหม [player]?"
+    r "ด-ดูสนุกเนอะ! ใช่มั้ย [player]?"
 
 # game/scripts/days/day 5.rpy:661
 
@@ -29,14 +29,14 @@ translate thai day5_ferryscene_8b05063d:
 translate thai day5_ferryscene_fc243a48:
 
     # m "Speaking of… Did I tell you the reason I'm here in the first place?"
-    m "พูดถึงเรื่องนี้... ฉันเคยบอกมึงป่ะว่าที่มาที่นี่เพราะอะไร?"
+    m "พูดถึงเรื่องนี้... ฉันเคยบอกแกป่ะว่าที่มาที่นี่เพราะอะไร?"
 
 # game/scripts/days/day 5.rpy:667
 
 translate thai day5_ferryscene_bfc4ad97:
 
     # m "Well, y'know about that one anime convention being held in New Salvus? They were hosting this AOG art contest online, so naturally I joined… {i}aaaaand{/i} won!"
-    m "อ่ะว่า มึงรู้ป่ะว่ามีงานอนิเมะคอนเวนชันที่ New Salvus? เค้ามีจัดประกวดวาดรูป AoG ออนไลน์ด้วย ก็สมควรที่ฉันจะสมัคร... {i}แล้วก็{/i} ชนะ!"
+    m "อ่ะว่า แกรู้ป่ะว่ามีงานอนิเมะคอนเวนชันที่ New Salvus? เค้ามีจัดประกวดวาดรูป AoG ออนไลน์ด้วย ก็สมควรที่ฉันจะสมัคร... {i}แล้วก็{/i} ชนะ!"
 
 # game/scripts/days/day 5.rpy:669
 
@@ -71,7 +71,7 @@ translate thai day5_ferryscene_4ac5d0b6:
 translate thai day5_ferryscene_b9b66705:
 
     # m "Yeah… Now that you mention it, it {i}is{/i} kinda strange how you never said anything to me. You must be really busy with work, huh?"
-    m "อ่ะ... พูดถึงตอนนี้ ก็{i}แปลก{/i}นะที่มึงไม่เคยบอกฉันเลย มึงคงยุ่งกับงานมากใช่มั้ง?"
+    m "อ่ะ... พูดถึงตอนนี้ ก็{i}แปลก{/i}นะที่แกไม่เคยบอกฉันเลย แกคงยุ่งกับงานมากใช่มั้ง?"
 
 # game/scripts/days/day 5.rpy:677
 
@@ -99,21 +99,21 @@ translate thai day5_ferryscene_33ea6af1:
 translate thai day5_ferryscene_4303c975:
 
     # m "Well, don't worry about it too much! I'll be sure to buy you all the Haruko charms I can find. I mean, I still owe you, don't I?"
-    m "เอาน่า ไม่ต้องคิดมาก! ฉันจะซื้อ charm Haruko ให้มึงทุกอันที่เจอเลย คือฉันยังเป็นหนี้มึงอยู่ใช่มั้ง?"
+    m "เอาน่า ไม่ต้องคิดมาก! ฉันจะซื้อ charm Haruko ให้แกทุกอันที่เจอเลย คือฉันยังเป็นหนี้แกอยู่ใช่มั้ง?"
 
 # game/scripts/days/day 5.rpy:683
 
 translate thai day5_ferryscene_2aebd65c:
 
     # m "Besides! The convention isn't until tomorrow, and we've still got an entire day to kill. Didn't you once say you wanted to show me some of the sights here?"
-    m "อีกอย่าง! งานคอนเวนชันก็พรุ่งนี้ แถมเรายังมีเวลาทั้งวันเลย มึงเคยบอกว่าอยากพาฉันไปเที่ยวดูสถานที่ที่นี่ใช่มั้ง?"
+    m "อีกอย่าง! งานคอนเวนชันก็พรุ่งนี้ แถมเรายังมีเวลาทั้งวันเลย แกเคยบอกว่าอยากพาฉันไปเที่ยวดูสถานที่ที่นี่ใช่มั้ง?"
 
 # game/scripts/days/day 5.rpy:684
 
 translate thai day5_ferryscene_96bd09d7:
 
     # y "Aw, you remembered?"
-    y "อ๊ะ มึงจำได้เลยเหรอ?"
+    y "อ๊ะ แกจำได้เลยเหรอ?"
 
 # game/scripts/days/day 5.rpy:685
 
@@ -127,7 +127,7 @@ translate thai day5_ferryscene_19cd74f0:
 translate thai day5_ferryscene_804c9bcd:
 
     # y "You don't really like the water, do you? Maybe we can just—"
-    y "มึงไม่ค่อยชอบน้ำใช่มั้ง? ถ้างั้นเราอาจจะแค่—"
+    y "แกไม่ค่อยชอบน้ำใช่มั้ง? ถ้างั้นเราอาจจะแค่—"
 
 # game/scripts/days/day 5.rpy:688
 
@@ -169,14 +169,14 @@ translate thai day5_ferryscene_3873b8a2:
 translate thai day5_ferryscene_ab85c70b:
 
     # m "Hahaha! Unfortunately for you, [player_fl], you'll need to unlock my level eighty friendship to hear that one."
-    m "ฮ่าฮ่า! เสียใจด้วยนะ [player_fl] มึงต้องอัปเลเวลเพื่อนแบบฉันให้ถึงเลเวลแปดสิบก่อนถึงจะได้ฟังเรื่องนั้น"
+    m "ฮ่าฮ่า! เสียใจด้วยนะ [player_fl] แกต้องอัปเลเวลเพื่อนแบบฉันให้ถึงเลเวลแปดสิบก่อนถึงจะได้ฟังเรื่องนั้น"
 
 # game/scripts/days/day 5.rpy:699
 
 translate thai day5_ferryscene_8f17ff66:
 
     # m "Now! What did you say about a beach? After what happens in the latest episode, I hope I get to see Haruko's glorious butt imprint in the sand."
-    m "เอาล่ะ! มึงพูดเรื่องหาดอะไรนะ? หลังจากที่เกิดเรื่องในตอนล่าสุด ฉันหวังว่าจะได้เห็นรอยก้นอันงดงามของ Haruko ติดอยู่บนทรายเลย"
+    m "เอาล่ะ! แกพูดเรื่องหาดอะไรนะ? หลังจากที่เกิดเรื่องในตอนล่าสุด ฉันหวังว่าจะได้เห็นรอยก้นอันงดงามของ Haruko ติดอยู่บนทรายเลย"
 
 # game/scripts/days/day 5.rpy:701
 
@@ -204,7 +204,7 @@ translate thai day5_teoalive_528180ad:
 translate thai day5_teoalive_7264e2f0:
 
     # m "Wait, for real? You live around here?"
-    m "เดี๋ยว เรื่องจริงเหรอ? มึงอยู่แถวนี้เลยเหรอ?"
+    m "เดี๋ยว เรื่องจริงเหรอ? แกอยู่แถวนี้เลยเหรอ?"
 
 # game/scripts/days/day 5.rpy:727
 
@@ -358,7 +358,7 @@ translate thai day5_teoalive_f3de1b06:
 translate thai day5_teoalive_e85f460b:
 
     # j "I mean, think about it! Ron and Joe… An unlikely duo on the hunt for more hair-dye… Haha!"
-    j "คิดดูสิ! Ron กับ Joe... คู่ไม้แฝดที่ออกตามหายาย้อมผม... ฮ่าฮ่า!"
+    j "คิดดูสิ! Ron กับ Joe... คู่แปลกๆ ที่ออกตามหายาย้อมผม... ฮ่าฮ่า!"
 
 # game/scripts/days/day 5.rpy:770
 
@@ -435,14 +435,14 @@ translate thai day5_teoalive_3149385f:
 translate thai day5_teoalive_8dd9a91b:
 
     # j "C'moooon, two of you are wearing jeans, and the other has two sweaters on! That's toootally not beach apparel."
-    j "โอ้ยใจเย็นๆ สองคนใส่ยีนส์ อีกคนใส่เสื้อกันหนาวสองตัว! นั่นไม่ใช่ชุดไปเล่นน้ำทะเลเลยสิ"
+    j "เฮ้ย สองคนใส่ยีนส์ อีกคนใส่เสื้อกันหนาวสองตัว! นั่นไม่ใช่ชุดไปเล่นน้ำทะเลเลยสิ"
 
 # game/scripts/days/day 5.rpy:788
 
 translate thai day5_teoalive_edfc600d:
 
     # j "If you want, I've got a spare pair of swim trunks in my bag that you can borrow for the da—"
-    j "ถ้าอยาก กูมีกางเกงว่ายน้ำอะไหล่อยู่ในกระเป๋า ให้ยืมไปใส่ได้นะวันนี้—"
+    j "ถ้าอยาก กูมีกางเกงว่ายน้ำสำรองอยู่ในกระเป๋า ให้ยืมไปใส่ได้นะวันนี้—"
 
 # game/scripts/days/day 5.rpy:790
 
@@ -512,7 +512,7 @@ translate thai day5_teoalive_f05f65d0_3:
 translate thai day5_teoalive_8cc0e1a3:
 
     # n "I couldn't help but playfully roll my eyes at [ch_jae]'s antics."
-    n "ฉันก็ทำหน้ามุ่ยใส่ความบ้าของ [ch_jae] อย่างขำๆ ไป"
+    n "ฉันก็กลอกตาใส่ความบ้าของ [ch_jae] อย่างขำๆ ไป"
 
 # game/scripts/days/day 5.rpy:810
 
@@ -526,7 +526,7 @@ translate thai day5_teoalive_4bfe48ca:
 translate thai day5_teoalive_fba248ae:
 
     # j "Ohhh? You want me to stay? Aww shucks, [ch_angel]."
-    j "โอ้ว? มึงอยากให้กูอยู่เหรอ? อ๊ะโอ๊ย น่าเขินนะ [ch_angel]"
+    j "โอ้ว? มึงอยากให้กูอยู่เหรอ? อ๊ะ น่าเขินอะ [ch_angel]"
 
 # game/scripts/days/day 5.rpy:813
 
@@ -575,7 +575,7 @@ translate thai day5_teoalive_2de635ff:
 translate thai day5_teodead_11f4bfa1:
 
     # n "The walk along the promenade is awfully quiet, and it has me wondering where the usual crowd of people are. Usually, I'd see [ch_jae] and [ch_teo] hanging around near the food kiosks, but today… No one seemed to be around."
-    n "เดินตามทางเดินริมน้ำไปเงียบผิดปกติ ทำให้ฉันสงสัยว่าคนที่ปกติเพียบพลั่กหายไปไหนหมด ปกติฉันมักจะเห็น [ch_jae] กับ [ch_teo] อยู่แถวร้านขายของ แต่วันนี้... ไม่มีใครอยู่เลยสักคน"
+    n "เดินตามทางเดินริมน้ำไปเงียบผิดปกติ ทำให้ฉันสงสัยว่าคนที่ปกติเพียบหายไปไหนหมด ปกติฉันมักจะเห็น [ch_jae] กับ [ch_teo] อยู่แถวร้านขายของ แต่วันนี้... ไม่มีใครอยู่เลยสักคน"
 
 # game/scripts/days/day 5.rpy:846
 
@@ -624,7 +624,7 @@ translate thai day5_teodead_ad1cf311:
 translate thai day5_teodead_03869d76:
 
     # y "Oh, you don't have to. Besides, I was mostly joking. You already know [ch_moth] doesn't like the oc—"
-    y "อ๊ะ ไม่ต้องหรอก อีกอย่าง ฉันแค่ล้อเล่นเอง มึงก็รู้ว่า [ch_moth] ไม่ชอบทะเ—"
+    y "อ๊ะ ไม่ต้องหรอก อีกอย่าง ฉันแค่ล้อเล่นเอง คุณก็รู้ว่า [ch_moth] ไม่ชอบทะเ—"
 
 # game/scripts/days/day 5.rpy:856
 
@@ -680,7 +680,7 @@ translate thai day5_teodead_257b6f09:
 translate thai day5_teodead_71f07d47:
 
     # m "Y'know, I recently watched this anime where the main protagonist gets isekai'ed to an underwater city—"
-    m "มึงรู้ป่ะ ฉันเพิ่งดูอนิเมะเรื่องหนึ่งที่พระเอกโดนอิเซไคไปอยู่ในเมืองใต้น้ำ—"
+    m "แกรู้ป่ะ ฉันเพิ่งดูอนิเมะเรื่องหนึ่งที่พระเอกโดนอิเซไคไปอยู่ในเมืองใต้น้ำ—"
 
 # game/scripts/days/day 5.rpy:881
 

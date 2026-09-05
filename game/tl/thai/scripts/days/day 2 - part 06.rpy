@@ -29,7 +29,7 @@ translate thai day2_meetolivia_952e3c2d:
 translate thai day2_meetolivia_59e9fe4a:
 
     # n "But instead, he leans in close to her face and whispers in a hushed tone that I could barely hear from my spot outside the store."
-    n "แต่เขากลับก้ำเข้าไปใกล้หน้าเธอแล้วกระซิบเบาๆ จนฉันแทบได้ยินไม่ขึ้นจากจุดที่ยืนอยู่หน้าร้าน"
+    n "แต่เขากลับก้มเข้าไปใกล้หน้าเธอแล้วกระซิบเบาๆ จนฉันแทบได้ยินไม่ขึ้นจากจุดที่ยืนอยู่หน้าร้าน"
 
 # game/scripts/days/day 2.rpy:1120
 
@@ -533,7 +533,7 @@ translate thai day2_rainscene_a6d3de60:
 translate thai day2_rainscene_0ff3b742:
 
     # y "But you'll get soaked!"
-    y "แต่พี่จะเปียกทั้งตัวเลยนะ!"
+    y "แต่แกจะเปียกทั้งตัวเลยนะ!"
 
 # game/scripts/days/day 2.rpy:1261
 

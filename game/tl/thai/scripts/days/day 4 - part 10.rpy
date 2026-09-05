@@ -379,7 +379,7 @@ translate thai day4_snooping_2848b12f:
 translate thai day4_snooping_fd39afe1:
 
     # n "[fuck!c], I shouldn't have been looking through [ch_ren]'s personal messages without his permission. What kind of creep does that, anyway?"
-    n "[fuck!c] ฉันไม่ควรแอบอ่านข้อความส่วนตัวของ[ch_ren]โดยไม่ได้รับอนุญาตเลย คนแบบนี้เรียกว่าอะไร สาสก็ไม่รู้"
+    n "[fuck!c] ฉันไม่ควรแอบอ่านข้อความส่วนตัวของ[ch_ren]โดยไม่ได้รับอนุญาตเลย คนแบบนี้เรียกว่าอะไรก็ไม่รู้"
 
 # game/scripts/days/day 4.rpy:2014
 
@@ -484,7 +484,7 @@ translate thai day4_snooping_2732bd06:
 translate thai day4_snooping_1d4850de:
 
     # n "There were still so many things I didn't know about that soft-looking guy, and I was beginning to question whether coming here was a good idea or not."
-    n "ยังมีอีกหลายอย่างที่ฉันไม่รู้เกี่ยวกับคนหน้าตูบๆ คนนี้ แล้วฉันก็เริ่มสงสัยว่าการมาที่นี่มันคือความคิดที่ดีรึเปล่า"
+    n "ยังมีอีกหลายอย่างที่ฉันไม่รู้เกี่ยวกับคนที่ดูอ่อนโยนคนนี้ แล้วฉันก็เริ่มสงสัยว่าการมาที่นี่มันคือความคิดที่ดีรึเปล่า"
 
 # game/scripts/days/day 4.rpy:2044
 
@@ -512,7 +512,7 @@ translate thai day4_snooping_f000c4b3:
 translate thai day4_snooping_b81decd5:
 
     # y "Ugh! Great, just when I thought it couldn't get any worse."
-    y "อืด! ดีมาก นึกว่าจะแย่กว่านี้ไม่ได้แล้ว"
+    y "โอ๊ย! ดีมาก นึกว่าจะแย่กว่านี้ไม่ได้แล้ว"
 
 # game/scripts/days/day 4.rpy:2055
 
@@ -631,7 +631,7 @@ translate thai day4_snooping_a029cfc4:
 translate thai day4_snooping_4655b2ed:
 
     # n "Ugh… Perhaps it was to get rid of the guilty feeling forming in my stomach, but I quickly find myself shaking my head to dismiss those thoughts and reaching for the remote on the table."
-    n "อืด... อาจจะเพื่อกำจัดความรู้สึกผิดที่ก่อตัวอยู่ในท้อง แต่ฉันก็รีบส่ายหัวไล่ความคิดพวกนั้นทิ้งแล้วหยิบรีโมทบนโต๊ะ"
+    n "เฮ้อ... อาจจะเพื่อกำจัดความรู้สึกผิดที่ก่อตัวอยู่ในท้อง แต่ฉันก็รีบส่ายหัวไล่ความคิดพวกนั้นทิ้งแล้วหยิบรีโมทบนโต๊ะ"
 
 # game/scripts/days/day 4.rpy:2097
 
@@ -694,6 +694,6 @@ translate thai day4_televisionscene_de15396b:
 translate thai day4_televisionscene_e88cae07:
 
     # npc "Here on the scene with us, we have the Mayor's chairman and the mother of the victim, Kaori Alv— *crrk! *— to talk about—"
-    npc "ที่นี่บนเวทีกับเรา มีประธานของนายกเทศมนตรีและมารดาของผู้เคราะห์ร้าย Kaori Alv— *crrk! *— มาพูดถึง—"
+    npc "ที่นี่ที่เกิดเหตุกับเรา มีประธานของนายกเทศมนตรีและมารดาของผู้เคราะห์ร้าย Kaori Alv— *crrk! *— มาพูดถึง—"
 
 # game/scripts/days/day 4.rpy:2110

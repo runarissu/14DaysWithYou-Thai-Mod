@@ -1,7 +1,7 @@
 translate thai day5_renmorning_27501361:
 
     # n "Speaking of texts… Maybe I should send one of my own, just in case."
-    n "พูดถึงข้อความแล้ว... ฉันก็น่าจะส่งของตัวเองสักข้อความดีกว่า ไว้ดูต่างหาก"
+    n "พูดถึงข้อความแล้ว... ฉันก็น่าจะส่งของตัวเองสักข้อความดีกว่า เผื่อไว้"
 
 # game/scripts/days/day 5.rpy:251
 
@@ -15,14 +15,14 @@ translate thai day5_renmorning_67cbd479:
 translate thai day5_renmorning_116ee947:
 
     # n "With that out of the way, I let out a tired sigh before haphazardly throwing my phone back onto the empty space near my bed."
-    n "จัดการเรื่องนั้นเสร็จ ฉันก็ถอนหายใจเหนื่อยๆ ก่อนจะโยนโทรศัพท์กลับไปที่พื้นที่ว่างข้างเตียงอย่างไม่ค่อยประณีตนัก"
+    n "จัดการเรื่องนั้นเสร็จ ฉันก็ถอนหายใจเหนื่อยๆ ก่อนจะโยนโทรศัพท์กลับไปที่พื้นที่ว่างข้างเตียงอย่างสะเปะสะปะ"
 
 # game/scripts/days/day 5.rpy:254
 
 translate thai day5_renmorning_3db6e674:
 
     # ct "Library will be closed 2day 4 pesticide spraying. Bookworms R back. U will get paid leave. - [ch_conan]"
-    ct "ห้องสมุดปิดวันนี้ ฉีดยากำจัดแมลง หนอนหนังสือกลับบ้านได้ มีลาพักเงินเดือน - [ch_conan]"
+    ct "ห้องสมุดปิดวันนี้ ฉีดยากำจัดแมลง หนอนหนังสือกลับมาแล้ว จะได้ลาพักก็ยังได้เงิน - [ch_conan]"
 
 # game/scripts/days/day 5.rpy:255
 
@@ -43,7 +43,7 @@ translate thai day5_renmorning_e80b4847:
 translate thai day5_renmorning_6eb3a551:
 
     # n "Before I can let my thoughts wander, I instead busy myself with drafting a response before haphazardly throwing my phone onto the empty space near my bed and letting out a sigh."
-    n "ก่อนจะปล่อยให้ความคิดล่องลอยไปไกล ฉันรีบพิมพ์ตอบกลับสั้นๆ แล้วโยนโทรศัพท์ไปที่พื้นที่ว่างข้างเตียงอย่างไม่ประณีตนัก พร้อมกับถอนหายใจออกมา"
+    n "ก่อนจะปล่อยให้ความคิดล่องลอยไปไกล ฉันรีบพิมพ์ตอบกลับสั้นๆ แล้วโยนโทรศัพท์ไปที่พื้นที่ว่างข้างเตียงอย่างสะเปะสะปะ พร้อมกับถอนหายใจออกมา"
 
 # game/scripts/days/day 5.rpy:258
 
@@ -57,7 +57,7 @@ translate thai day5_renmorning_d0c04133:
 translate thai day5_renmorning_f8aed88d:
 
     # n "That reminds me… What happened to [ch_ren]? The last thing I remember from last night was us snuggled up on the couch together."
-    n "นั่นนะสิ ทำไมถึงนึกได้... [ch_ren] ไปไหนแล้วนะ? อย่างสุดท้ายที่ฉันจำได้จากคืนที่แล้วคือเรานอนซบกันอยู่บนโซฟา"
+    n "นึกได้แล้ว... [ch_ren] ไปไหนล่ะ? อย่างสุดท้ายที่ฉันจำได้จากคืนที่แล้วคือเรานอนซบกันอยู่บนโซฟา"
 
 # game/scripts/days/day 5.rpy:260
 
@@ -274,7 +274,7 @@ translate thai day5_renmorning_d5b2dd4c:
 translate thai day5_renmorning_d9f5e985:
 
     # m "Heeeeey! Morning sleepyhead! I've got something big to share with you!"
-    m "โห่ววว! อรุณสวัสดิ์ไอ้หมานอน! ฉันมีเรื่องใหญ่จะบอก!"
+    m "โห่ววว! อรุณสวัสดิ์ไอ้คนง่วง! ฉันมีเรื่องใหญ่จะบอก!"
 
 # game/scripts/days/day 5.rpy:317
 
@@ -442,7 +442,7 @@ translate thai day5_renmorning_c80fad5d:
 translate thai day5_renmorning_d9f5e985_1:
 
     # m "Heeeeey! Morning sleepyhead! I've got something big to share with you!"
-    m "โห่ววว! อรุณสวัสดิ์ไอ้หมานอน! ฉันมีเรื่องใหญ่จะบอก!"
+    m "โห่ววว! อรุณสวัสดิ์ไอ้คนง่วง! ฉันมีเรื่องใหญ่จะบอก!"
 
 # game/scripts/days/day 5.rpy:359
 
@@ -456,7 +456,7 @@ translate thai day5_renmorning_b4dc0a9b:
 translate thai day5_renmorning_3fb80b49:
 
     # m "WHO'S IN YOUR BED?! HELLOOOO! YES, YOU! I CAN SEE YOUR ARM!" with hpunch
-    m "ใครอยู่บนเตียงนั้น?! โหลลลล! ใช่ คุณนั่นแหละ! ฉันเห็นแขนคุณนะ!" with hpunch
+    m "ใครอยู่บนเตียงนั้น?! โหลลลล! ใช่ แกนั่นแหละ! ฉันเห็นแขนแกนะ!" with hpunch
 
 # game/scripts/days/day 5.rpy:364
 
@@ -477,7 +477,7 @@ translate thai day5_renmorning_fdd0a3cd:
 translate thai day5_renmorning_6f59461e:
 
     # m "OH MY GOD?! DO YOU HAVE SOMEONE IN YOUR BEDROOM?!" with hpunch
-    m "พระเจ้าจอร์จ?! มีคนอยู่ในห้องนอนคุณเหรอ?!" with hpunch
+    m "โอ้พระเจ้า?! มีคนอยู่ในห้องนอนแกเหรอ?!" with hpunch
 
 # game/scripts/days/day 5.rpy:370
 
@@ -638,7 +638,7 @@ translate thai day5_renmorning_f139101e:
 translate thai day5_renmorning_8af74fa1:
 
     # m "Nice to meet you, Mr. Submissive and—"
-    m "ยินดีที่ได้รู้จักค่ะ คุณนุ่มนิ่มน่า—"
+    m "ยินดีที่ได้รู้จัก คุณนุ่มนิ่มน่า—"
 
 # game/scripts/days/day 5.rpy:432
 
@@ -673,7 +673,7 @@ translate thai day5_renmorning_3040bf06:
 translate thai day5_renmorning_9c5e342f:
 
     # r "…Pookie bear?"
-    r "...หมีน่ารัก?"
+    r "...หมีน้อยน่ารัก?"
 
 # game/scripts/days/day 5.rpy:442
 

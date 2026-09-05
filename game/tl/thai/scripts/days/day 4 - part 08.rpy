@@ -106,7 +106,7 @@ translate thai day4_storeroomscene_a42f9e67:
 translate thai day4_storeroomscene_542cfb2b:
 
     # y "Heh, I suppose. He's my favourite character for a reason, you know."
-    y "เฮ้อ ก็ว่าไป แกเป็นตัวละครที่ฉันชอบที่สุดก็มีเหตุผลนะ"
+    y "เฮ่อ ก็ว่าไป แกเป็นตัวละครที่ฉันชอบที่สุดก็มีเหตุผลนะ"
 
 # game/scripts/days/day 4.rpy:1546
 
@@ -232,7 +232,7 @@ translate thai day4_storeroomscene_bb36401c:
 translate thai day4_storeroomscene_c72dac26:
 
     # n "And while it was hard to see in this dark room, it was easy to make out the feather-like touch of [ch_ren]'s fingers as they glide across my skin."
-    n "ถึงจะมองเห็นอะไรได้ยากในห้องมืดนี้ แต่ฉันก็รู้สึกได้ถึงสัมผัสที่นุ่มนวลราวกงนขนนกของนิ้ว [ch_ren] ที่ลูบไล้ผ่านผิวของฉัน"
+    n "ถึงจะมองเห็นอะไรได้ยากในห้องมืดนี้ แต่ฉันก็รู้สึกได้ถึงสัมผัสที่นุ่มนวลราวกับขนนกของนิ้ว [ch_ren] ที่ลูบไล้ผ่านผิวของฉัน"
 
 # game/scripts/days/day 4.rpy:1579
 
@@ -519,7 +519,7 @@ translate thai day4_leavingstoreroom_d3df21f5:
 translate thai day4_leavingstoreroom_5100c058:
 
     # n "Plus, [ch_ren] {b}did{/b} once offer to let me stay at his place if something ever goes wrong."
-    n "อีกอย่าง [ch_ren] {b}เคย{/b}เสนอให้ฉันไปพักที่บ้านเขาถ้ามีอะไรไปไม่ดี"
+    n "อีกอย่าง [ch_ren] {b}เคย{/b}เสนอให้ฉันไปพักที่บ้านเขาถ้ามีอะไรเกิดขึ้น"
 
 # game/scripts/days/day 4.rpy:1674
 

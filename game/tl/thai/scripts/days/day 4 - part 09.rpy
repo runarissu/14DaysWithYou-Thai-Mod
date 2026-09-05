@@ -22,7 +22,7 @@ translate thai day4_visitren_d457bfd2:
 translate thai day4_visitren_ac80bd5f:
 
     # n "Hypothetically, of course. I was well aware of the fact that {b}the{/b} [ch_teo]dore Alvarado would never settle down with anyone."
-    n "สมมติว่าสมมตินะ ฉันก็รู้ดีอยู่แล้วว่า {b}เดอะ{/b} [ch_teo]dore Alvarado จะไม่มีวันอยู่กับใครเป็นหลักเป็นแหล่งหรอก"
+    n "สมมตินะ ฉันก็รู้ดีอยู่แล้วว่า {b}เดอะ{/b} [ch_teo]dore Alvarado จะไม่มีวันอยู่กับใครเป็นหลักเป็นแหล่งหรอก"
 
 # game/scripts/days/day 4.rpy:1730
 translate thai day4_visitren_02713e30:
@@ -298,7 +298,7 @@ translate thai day4_visitren_bf59ef24:
 translate thai day4_visitren_fe4fa876:
 
     # n "The same gaudy interior greets us, and I still find myself trying to process how [ch_ren] could afford such a lavish place."
-    n "ตกแต่งภายในที่ฉาวโฉมเดิมๆ ต้อนรับเรา และฉันยังคงพยายามเข้าใจว่า [ch_ren] เอาที่ไหนมาซื้อที่หรูหราขนาดนี้"
+    n "ตกแต่งภายในที่โอ่อ่าเดิมๆ ต้อนรับเรา และฉันยังคงพยายามเข้าใจว่า [ch_ren] เอาที่ไหนมาซื้อที่หรูหราขนาดนี้"
 
 # game/scripts/days/day 4.rpy:1843
 translate thai day4_visitren_07cfe1e3:
@@ -448,7 +448,7 @@ translate thai day4_visitren_dfbac381:
 translate thai day4_visitren_3cf378ea:
 
     # r "H-Hey, don't worry. I'll go back and get it. The aquarium should still be open, anyway."
-    r "เ-เฮ้ ไม่ต้องห่วง ฉันจะกลับไปเอาให้ พิพิธภัณฑ์สัตว์น้ำก็น่าจะยังเปิดอยู่อยู่แล้ว"
+    r "เ-เฮ้ ไม่ต้องห่วง ฉันจะกลับไปเอาให้ พิพิธภัณฑ์สัตว์น้ำก็น่าจะยังเปิดอยู่แล้ว"
 
 # game/scripts/days/day 4.rpy:1885
 translate thai day4_visitren_f3bddaa6:
@@ -520,7 +520,7 @@ translate thai day4_snooping_6417e78d:
 translate thai day4_snooping_544aed8d:
 
     # n "It was just as ostentatious as the rest of his house, though I couldn't help but feel like it lacked any form of life."
-    n "มันฉาวโฉมพอๆ กับส่วนอื่นๆ ของบ้านเขา แม้ฉันจะรู้สึกว่ามันขาดความมีชีวิตชีวาอะไรก็ตาม"
+    n "มันโอ่อ่าพอๆ กับส่วนอื่นๆ ของบ้านเขา แม้ฉันจะรู้สึกว่ามันขาดความมีชีวิตชีวาอะไรก็ตาม"
 
 # game/scripts/days/day 4.rpy:1910
 translate thai day4_snooping_5c671025:
@@ -532,13 +532,13 @@ translate thai day4_snooping_5c671025:
 translate thai day4_snooping_99a81954:
 
     # n "The furniture was gaudy yet tasteless, there was hardly any personal decoration or colours, and there was nothing that really screamed '[ch_ren]' to me."
-    n "เฟอร์นิเจอร์ฉาวแต่ไร้รสนิยม แทบไม่มีของตกแต่งส่วนตัวหรือสีสันเลย และก็ไม่มีอะไรที่ส่งเสียงบอกว่านี่คือ '[ch_ren]' เลย"
+    n "เฟอร์นิเจอร์โอ่อ่าแต่ไร้รสนิยม แทบไม่มีของตกแต่งส่วนตัวหรือสีสันเลย และก็ไม่มีอะไรที่ส่งเสียงบอกว่านี่คือ '[ch_ren]' เลย"
 
 # game/scripts/days/day 4.rpy:1912
 translate thai day4_snooping_4b90892e:
 
     # n "There were no personal touches, photos, items, hobbies, {b}nothing{/b}. Just tacky furniture and the bland smell of something sterile."
-    n "ไม่มีสัมผัสส่วนตัว ไม่มีรูปภาพ ไม่มีของ ไม่มีงานอดิเรก {b}ไม่มีอะไรเลย{/b} มีแต่เฟอร์นิเจอร์ที่จี๊ดฉุนและกลิ่นหมดจดที่ไร้สีสัน"
+    n "ไม่มีสัมผัสส่วนตัว ไม่มีรูปภาพ ไม่มีของ ไม่มีงานอดิเรก {b}ไม่มีอะไรเลย{/b} มีแต่เฟอร์นิเจอร์ที่ประดังประเดิดและกลิ่นหมดจดที่ไร้สีสัน"
 
 # game/scripts/days/day 4.rpy:1913
 translate thai day4_snooping_82a68f18:
@@ -556,7 +556,7 @@ translate thai day4_snooping_fcdf7ed0:
 translate thai day4_snooping_4f0201f8:
 
     # n "Everything looks the same as the last time I was here — down to the cold, marble flooring and gaudy furniture scattered about the place."
-    n "ทุกอย่างดูเหมือนเดิมตั้งแต่ครั้งที่ฉันมาคราวก่อน — ตั้งแต่พื้นหินอ่อนเย็นๆ ไปจนถึงเฟอร์นิเจอร์ฉาวที่กระจัดกระจายอยู่ทั่วที่"
+    n "ทุกอย่างดูเหมือนเดิมตั้งแต่ครั้งที่ฉันมาคราวก่อน — ตั้งแต่พื้นหินอ่อนเย็นๆ ไปจนถึงเฟอร์นิเจอร์โอ่อ่าที่กระจัดกระจายอยู่ทั่วที่"
 
 # game/scripts/days/day 4.rpy:1917
 translate thai day4_snooping_b3afa886:
@@ -568,7 +568,7 @@ translate thai day4_snooping_b3afa886:
 translate thai day4_snooping_d46cacdf:
 
     # y "Heh, cute."
-    y "เอิ่ม น่ารัก"
+    y "เฮ่อ น่ารัก"
 
 # game/scripts/days/day 4.rpy:1919
 translate thai day4_snooping_aeecf6e5:

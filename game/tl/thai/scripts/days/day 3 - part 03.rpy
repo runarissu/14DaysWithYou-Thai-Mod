@@ -106,7 +106,7 @@ translate thai day3_meetingkiara_3f63f568:
 translate thai day3_meetingkiara_7f60eb68:
 
     # y "S-Sorry! I wasn't… I didn't notice you come in."
-    y "ข-ขอโทษค่ะ! ฉันไม่ได้… ไม่ได้สังเกตว่าคุณเข้ามา"
+    y "ข-ขอโทษ! ฉันไม่ได้… ไม่ได้สังเกตว่าคุณเข้ามา"
 
 # game/scripts/days/day 3.rpy:480
 
@@ -127,7 +127,7 @@ translate thai day3_meetingkiara_2b7c5ac0:
 translate thai day3_meetingkiara_1e0c8d4f:
 
     # extend " Can I help you with anything?"
-    extend " มีอะไรให้ฉันช่วยไหมคะ?"
+    extend " มีอะไรให้ฉันช่วยไหม?"
 
 # game/scripts/days/day 3.rpy:483
 
@@ -162,7 +162,7 @@ translate thai day3_meetingkiara_36c259fc:
 translate thai day3_meetingkiara_88b10869:
 
     # y "I don't suppose… Are you [ch_kiara]?"
-    y "ฉันว่า… คุณคือ [ch_kiara] ใช่ไหมคะ?"
+    y "ฉันว่า… คุณคือ [ch_kiara] ใช่ไหม?"
 
 # game/scripts/days/day 3.rpy:489
 
@@ -638,7 +638,7 @@ translate thai day3_planningdate_24720a5d:
 translate thai day3_planningdate_145e708e:
 
     # n "Despite the low blow to his ego, [ch_teo] didn't look the least bit offended. In fact, he seems to thrive off of it."
-    n "แม้จะถูกกระทบอหยิ่งยโตแค่ไหน [ch_teo] กลับไม่ได้ดูน้อยใจเลยสักนิด กลับดูเหมือนจะเติมเต็มจากสิ่งนั้นเสียด้วยซ้ำ"
+    n "แม้จะถูกกระทบความรู้สึกแค่ไหน [ch_teo] กลับไม่ได้ดูน้อยใจเลยสักนิด กลับดูเหมือนจะเติมเต็มจากสิ่งนั้นเสียด้วยซ้ำ"
 
 # game/scripts/days/day 3.rpy:668
 

@@ -4,7 +4,7 @@
 translate thai day5_alonemorning_6e44f8fa:
 
     # n "Rather than the faint chirping of birds outside my window, it's the sound of something buzzing that rudely pulls me from my slumber."
-    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับได้อย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างที่ดังวุ่นวาย"
+    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับอย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างดังสั่น"
 
 # game/scripts/days/day 5.rpy:71
 
@@ -102,7 +102,7 @@ translate thai day5_alonemorning_67cbd479:
 translate thai day5_alonemorning_116ee947:
 
     # n "With that out of the way, I let out a tired sigh before haphazardly throwing my phone back onto the empty space near my bed."
-    n "จัดการเรียบร้อยแล้ว ฉันถอนหายใจอย่างเหนื่อยล้าก่อนจะโยนมือถือกลับไปที่พื้นที่ว่างข้างเตียงอย่างไม่ค่อยประณีต"
+    n "จัดการเรียบร้อยแล้ว ฉันถอนหายใจอย่างเหนื่อยล้าก่อนจะโยนมือถือกลับไปที่พื้นที่ว่างข้างเตียงอย่างสะเปะสะปะ"
 
 # game/scripts/days/day 5.rpy:87
 
@@ -130,7 +130,7 @@ translate thai day5_alonemorning_e80b4847:
 translate thai day5_alonemorning_6eb3a551:
 
     # n "Before I can let my thoughts wander, I instead busy myself with drafting a response before haphazardly throwing my phone onto the empty space near my bed and letting out a sigh."
-    n "ก่อนที่ความคิดจะลอยไปไกล ฉันรีบพิมพ์ตอบแล้วโยนมือถือไปที่พื้นที่ว่างข้างเตียงอย่างไม่ประณีต พร้อมกับถอนหายใจ"
+    n "ก่อนที่ความคิดจะลอยไปไกล ฉันรีบพิมพ์ตอบแล้วโยนมือถือไปที่พื้นที่ว่างข้างเตียงอย่างสะเปะสะปะ พร้อมกับถอนหายใจ"
 
 # game/scripts/days/day 5.rpy:91
 
@@ -165,7 +165,7 @@ translate thai day5_alonemorning_a8755d97:
 translate thai day5_alonemorning_4d626451:
 
     # m "Heeeeey there, sleepyhead! I've got something big to share with you!"
-    m "โหๆๆๆ ตื่นแล้วหรือยังไอ้นอนตื่น! มีเรื่องใหญ่ๆ จะเล่าให้ฟัง!"
+    m "โหๆๆๆ ตื่นแล้วหรือยังไอ้คนง่วง! มีเรื่องใหญ่ๆ จะเล่าให้ฟัง!"
 
 # game/scripts/days/day 5.rpy:101
 
@@ -270,7 +270,7 @@ translate thai day5_alonemorning_f990b3b7:
 translate thai day5_alonemorning_b0845b02:
 
     # m "Alright! drumroll, pleeeeease…"
-    m "เอ้า! ตีกลองรวบเลย..."
+    m "เอ้า! ตีกลองรัวๆ หน่อย..."
 
 # game/scripts/days/day 5.rpy:123
 
@@ -319,7 +319,7 @@ translate thai day5_alonemorning_62f35d61:
 translate thai day5_alonemorning_b40ad2a5:
 
     # m "Would that be okay? I mean, the shuttle won't pick me up until tomorrow morning, so I haven't got much planned. A-And I wouldn't want to intrude on your plans or anything."
-    m "แบบนั้นได้มั้ย? คือชัตเทิลจะมารับฉันไม่เร็วกว่าพรุ่งนี้เช้า ก็เลยไม่ได้วางแผนอะไรไว้ แล-และฉันไม่อยากมารบกวนแผนของแกหรอกนะ"
+    m "แบบนั้นได้มั้ย? คือชัตเทิลจะมารับฉันไม่เร็วกว่าพรุ่งนี้เช้า ก็เลยไม่ได้วางแผนอะไรไว้ อี-อีกอย่าง ฉันไม่อยากมารบกวนแผนของแกหรอกนะ"
 
 # game/scripts/days/day 5.rpy:133
 
@@ -564,14 +564,14 @@ translate thai day5_meetingviolet_70d535de:
 translate thai day5_meetingviolet_70a85446:
 
     # n "All of a sudden, a mischievous thought crosses my mind…"
-    n "ทันใดนั้น ความคิดซุ่มซ่ามก็วาบขึ้นมาในหัว..."
+    n "ทันใดนั้น ความคิดขี้เล่นก็วาบขึ้นมาในหัว..."
 
 # game/scripts/days/day 5.rpy:213
 
 translate thai day5_meetingviolet_2b367e32:
 
     # n "One that involves [ch_moth]… And the real-life manifestation of Haruko."
-    n "ความคิดที่เกี่ยวกับ [ch_moth]... กับตัวตนจริงของ Haruko ในโลกแห่งความเป็นจริง"
+    n "ความคิดที่เกี่ยวกับ [ch_moth]... กับตัวจริงของ Haruko ในชีวิตจริง"
 
 # game/scripts/days/day 5.rpy:214
 
@@ -585,7 +585,7 @@ translate thai day5_meetingviolet_5cc17307:
 translate thai day5_meetingviolet_2c94a891:
 
     # n "With such an ingenious plan now firmly hatched in my mind, I turn to him with a faux-innocent glint in my eyes."
-    n "แผนการอัจฉริยะเช่นนี้เกิดขึ้นในหัวอย่างมั่นคงแล้ว ฉันจึงหันไปหาเขาด้วยแววตาที่ดูไร้เดียงสา"
+    n "แผนอัจฉริยะเช่นนี้ผุดขึ้นในหัวอย่างชัดเจนแล้ว ฉันจึงหันไปหาเขาด้วยแววตาที่ดูไร้เดียงสา"
 
 # game/scripts/days/day 5.rpy:216
 
@@ -620,7 +620,7 @@ translate thai day5_meetingviolet_c70b5495:
 translate thai day5_renmorning_6e44f8fa:
 
     # n "Rather than the faint chirping of birds outside my window, it's the sound of something buzzing that rudely pulls me from my slumber."
-    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับได้อย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างที่ดังวุ่นวาย"
+    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับอย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างดังสั่น"
 
 # game/scripts/days/day 5.rpy:238
 

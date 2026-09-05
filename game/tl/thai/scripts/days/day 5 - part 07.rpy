@@ -8,14 +8,14 @@ translate thai day5_streetscene_e05718d8:
 translate thai day5_streetscene_bdffdd75:
 
     # n "Somehow, I felt a lot more comfortable going back to [ch_ren]'s apartment instead of my own."
-    n "ไม่รู้เหมือนกันนะ แต่กลับไปที่คอนโดของ[ch_ren]ดูจะสบายใจกว่ากลับไปที่ของตัวเองเยอะเลย"
+    n "ไม่รู้เหมือนกันนะ แต่กลับไปที่คอนโดของ [ch_ren] ดูจะสบายใจกว่ากลับไปที่ของตัวเองเยอะเลย"
 
 # game/scripts/days/day 5.rpy:1407
 
 translate thai day5_streetscene_6c1a02b9:
 
     # n "I don't want to risk [ch_moth]'s safety either, so I try my best to convince myself that this {b}really is{/b} a good idea after all. With a resolute nod of my head, I turn to [ch_ren] with a meek smile."
-    n "ฉันก็ไม่อยากเสี่ยงเรื่องความปลอดภัยของ[ch_moth]ด้วย ก็เลยพยายามเต็มที่ที่จะโน้มน้าวตัวเองว่านี่{b}จริงๆ{/b}เป็นไอเดียที่ดีอยู่ พร้อมกับพยักหน้าเด็ดขาด แล้วหันไปหา[ch_ren]พร้อมรอยยิ้มเล็กๆ"
+    n "ฉันก็ไม่อยากเสี่ยงเรื่องความปลอดภัยของ [ch_moth] ด้วย ก็เลยพยายามเต็มที่ที่จะโน้มน้าวตัวเองว่านี่{b}จริงๆ{/b}เป็นไอเดียที่ดีอยู่ พร้อมกับพยักหน้าเด็ดขาด แล้วหันไปหา [ch_ren] พร้อมรอยยิ้มเล็กๆ"
 
 # game/scripts/days/day 5.rpy:1408
 
@@ -36,7 +36,7 @@ translate thai day5_streetscene_2b17a0d1:
 translate thai day5_streetscene_2ce32171_1:
 
     # n "[ch_moth] still seems a bit peeved by the person who bumped into me, but they still nod their head at my question."
-    n "[ch_moth]ยังดูไม่ค่อยพอใจกับคนที่ชนฉันอยู่ แต่ก็ยังพยักหน้าให้กับคำถามของฉัน"
+    n "[ch_moth] ยังดูไม่ค่อยพอใจกับคนที่ชนฉันอยู่ แต่ก็ยังพยักหน้าให้กับคำถามของฉัน"
 
 # game/scripts/days/day 5.rpy:1412
 
@@ -50,7 +50,7 @@ translate thai day5_streetscene_e05718d8_1:
 translate thai day5_streetscenealt_16326a96:
 
     # n "The moment [ch_moth] and I reach the main street, I immediately pick up on the lack of… well, noise. Aside from a lone cop car, there were hardly any other cars or people on the street, and most of the stores appeared to be closed."
-    n "พอฉันกับ[ch_moth]เดินถึงถนนใหญ่ สิ่งแรกที่ฉันสังเกตได้คือความเงียบ... นอกจากรถตำรวจคันเดียว แทบจะไม่มีรถหรือคนเดินอยู่บนถนนเลย และร้านส่วนใหญ่ก็ดูเหมือนจะปิดอยู่"
+    n "พอฉันกับ [ch_moth] เดินถึงถนนใหญ่ สิ่งแรกที่ฉันสังเกตได้คือความเงียบ... นอกจากรถตำรวจคันเดียว แทบจะไม่มีรถหรือคนเดินอยู่บนถนนเลย และร้านส่วนใหญ่ก็ดูเหมือนจะปิดอยู่"
 
 # game/scripts/days/day 5.rpy:1420
 
@@ -64,7 +64,7 @@ translate thai day5_streetscenealt_dd30505c:
 translate thai day5_streetscenealt_44145aec:
 
     # n "Suddenly, [ch_moth] comes to an abrupt stop in front of one of the only open stores on the street; a quaint, little gift shop just opposite of the icecream parlour."
-    n "ทันใดนั้น [ch_moth]ก็หยุดกะทันหันหน้าร้านที่เปิดอยู่ร้านเดียวบนถนน เป็นร้านของชำน้อยๆน่ารัก อยู่ตรงข้ามร้านไอศกรีมพอดี"
+    n "ทันใดนั้น [ch_moth] ก็หยุดกะทันหันหน้าร้านที่เปิดอยู่ร้านเดียวบนถนน เป็นร้านของชำน้อยๆ น่ารัก อยู่ตรงข้ามร้านไอศกรีมพอดี"
 
 # game/scripts/days/day 5.rpy:1422
 
@@ -141,7 +141,7 @@ translate thai day5_streetscenealt_ad472221:
 translate thai day5_streetscenealt_efdd80bd:
 
     # n "Shaking my head, I decide there's no point in dwelling over this — not when I have more pressing matters to focus on. I'm {b}supposed{/b} to be having fun with [ch_moth] today, and—"
-    n "ส่ายหัว ฉันตัดสินใจว่าไม่มีประโยชน์ที่จะคิดเรื่องนี้ต่อ — ตอนที่ยังมีเรื่องสำคัญกว่าต้องใส่ใจ ฉัน{b}น่าจะ{/b}สนุกกับ[ch_moth]วันนี้ แล้ว—"
+    n "ส่ายหัว ฉันตัดสินใจว่าไม่มีประโยชน์ที่จะคิดเรื่องนี้ต่อ — ตอนที่ยังมีเรื่องสำคัญกว่าต้องใส่ใจ ฉัน{b}น่าจะ{/b}สนุกกับ [ch_moth] วันนี้ แล้ว—"
 
 # game/scripts/days/day 5.rpy:1444
 
@@ -218,7 +218,7 @@ translate thai day5_streetscenealt_dcb1005e:
 translate thai day5_streetscenealt_4aa65ce5:
 
     # n "I watch in complete horror as [ch_ren] brandishes a broken glass bottle in one hand and jams it into the person's rib over and over and over again — with each thrust becoming more ruthless than the last."
-    n "ฉันดูด้วยความสะพรึงกลัวสุดขีด ขณะที่[ch_ren]ถือขวดแก้วแตกมือเดียวแล้วแทงเข้าซี่โครงของคนคนนั้นครั้งแล้วครั้งเล่า — แต่ละครั้งรุนแรงกว่าครั้งก่อน"
+    n "ฉันดูด้วยความสะพรึงกลัวสุดขีด ขณะที่ [ch_ren] ถือขวดแก้วแตกมือเดียวแล้วแทงเข้าซี่โครงของคนคนนั้นครั้งแล้วครั้งเล่า — แต่ละครั้งรุนแรงกว่าครั้งก่อน"
 
 # game/scripts/days/day 5.rpy:1478
 
@@ -267,7 +267,7 @@ translate thai day5_streetscenealt_dcb1005e_1:
 translate thai day5_streetscenealt_9fa6e633:
 
     # n "I watch in complete and utter horror as [ch_ren] shoves the person off of me, brandishes a broken glass bottle in one hand, and plunges it into their neck over and over and over again — with each thrust becoming more ruthless than the last."
-    n "ฉันดูด้วยความสะพรึงกลัวสุดขีด ขณะที่[ch_ren]ผลักคนคนนั้นออกจากตัวฉัน ถือขวดแก้วแตกมือเดียวแล้วแทงเข้าคอของเขาครั้งแล้วครั้งเล่า — แต่ละครั้งรุนแรงกว่าครั้งก่อน"
+    n "ฉันดูด้วยความสะพรึงกลัวสุดขีด ขณะที่ [ch_ren] ผลักคนคนนั้นออกจากตัวฉัน ถือขวดแก้วแตกมือเดียวแล้วแทงเข้าคอของเขาครั้งแล้วครั้งเล่า — แต่ละครั้งรุนแรงกว่าครั้งก่อน"
 
 # game/scripts/days/day 5.rpy:1500
 
@@ -281,28 +281,28 @@ translate thai day5_streetscenealt_d18ace16:
 translate thai day5_streetscenealt_c8b1cb06:
 
     # n "All I can do is watch in silence as [ch_ren] repeatedly stabs my assaulter without a single hint of remorse. His usual soft eyes are void of any emotion, and he doesn't relent until they go limp in his hold and slump to the ground with an audible thump."
-    n "สิ่งเดียวที่ฉันทำได้คือเฝ้าดูเงียบๆ ขณะที่[ch_ren]แทงคนทำร้ายฉันซ้ำๆ โดยไม่มีอาการสำนึกผิดแม้สักนิด ดวงตาที่ปกติอ่อนโยนของเขาว่างเปล่าจากอารมณ์ใดๆ และเขาไม่หยุดจนกว่าคนนั้นจะอ่อนแรงในมือเขาและทรุดลงพื้นเสียงดัง"
+    n "สิ่งเดียวที่ฉันทำได้คือเฝ้าดูเงียบๆ ขณะที่ [ch_ren] แทงคนทำร้ายฉันซ้ำๆ โดยไม่มีอาการสำนึกผิดแม้สักนิด ดวงตาที่ปกติอ่อนโยนของเขาว่างเปล่าจากอารมณ์ใดๆ และเขาไม่หยุดจนกว่าคนนั้นจะอ่อนแรงในมือเขาและทรุดลงพื้นเสียงดัง"
 
 # game/scripts/days/day 5.rpy:1505
 
 translate thai day5_streetscenealt_98a1ec7c:
 
     # n "But even then, [ch_ren] doesn't stop. He lifts his leg and starts to kick them now — finding some kind of sick pleasure in watching their body recoil and hit the wall with each heavy blow."
-    n "แต่แม้แล้ว [ch_ren]ก็ยังไม่หยุด เขายกขาขึ้นแล้วเริ่มเตะคนนั้น — ราวกับได้รับความพึงพอใจอันแสนป่วยจากการดูร่างของเขากระเด็นและชนกำแพงกับทุกครั้งที่เตะ"
+    n "แต่แม้แล้ว [ch_ren] ก็ยังไม่หยุด เขายกขาขึ้นแล้วเริ่มเตะคนนั้น — ราวกับได้รับความพึงพอใจอันแสนป่วยจากการดูร่างของเขากระเด็นและชนกำแพงกับทุกครั้งที่เตะ"
 
 # game/scripts/days/day 5.rpy:1507
 
 translate thai day5_streetscenealt_6cfa3222:
 
     # n "My blood goes cold the moment the dull sound of bones cracking reaches my ears, but my rapid heartbeat drowns it all out. And when [ch_ren] turns to me, there's an almost predatory look in his eyes that keeps me rooted in place."
-    n "เลือดฉันเย็นยะเย็นในวินาทีที่เสียงกระดูกหักดังแผ่วเข้าหู แต่เสียงหัวใจเต้นเร็วของฉันกลบมันเสียหมด และพอ[ch_ren]หันมาหาฉัน สายตาของเขามีความดุร้ายจนฉันยืนติดกับที่ไปไม่ได้เลย"
+    n "เลือดฉันเย็นยะเย็นในวินาทีที่เสียงกระดูกหักดังแผ่วเข้าหู แต่เสียงหัวใจเต้นเร็วของฉันกลบมันเสียหมด และพอ [ch_ren] หันมาหาฉัน สายตาของเขามีความดุร้ายจนฉันยืนติดกับที่ไปไม่ได้เลย"
 
 # game/scripts/days/day 5.rpy:1518
 
 translate thai day5_streetscenealt_ed4251a3:
 
     # n "His breathing is laboured and ragged, yet what intrigues me the most is the the way the corners of his lips twitch into an almost sickeningly sweet smile."
-    n "ลมหายใจของเขาหอบและแหบ แต่สิ่งที่ดึงดูดฉันมากที่สุดคือรอยมุมปากที่กระตุกขึ้นเป็นรอยยิ้มหวานจนแทบจะขนลุม"
+    n "ลมหายใจของเขาหอบและแหบ แต่สิ่งที่ดึงดูดฉันมากที่สุดคือรอยมุมปากที่กระตุกขึ้นเป็นรอยยิ้มหวานจนแทบจะขนลุก"
 
 # game/scripts/days/day 5.rpy:1521
 
@@ -330,7 +330,7 @@ translate thai day5_streetscenealt_a39f65b2:
 translate thai day5_streetscenealt_cea66984:
 
     # n "But the rough texture of [ch_ren]'s blood-soaked hands against my skin pulls me back to reality, and sends a noticeable shiver down my spine as he checks my body for any signs of damage."
-    n "แต่ความหยาบกร้านของมือที่เปื้อนเลือดของ[ch_ren]กับผิวฉันดึงฉันกลับสู่ความจริง และทำให้ฉันสั่นสะท้านอย่างเห็นได้ชัดขณะที่เขาตรวจดูร่างกายฉันว่ามีบาดแผลหรือไม่"
+    n "แต่ความหยาบกร้านของมือที่เปื้อนเลือดของ [ch_ren] กับผิวฉันดึงฉันกลับสู่ความจริง และทำให้ฉันสั่นสะท้านอย่างเห็นได้ชัดขณะที่เขาตรวจดูร่างกายฉันว่ามีบาดแผลหรือไม่"
 
 # game/scripts/days/day 5.rpy:1532
 
@@ -351,7 +351,7 @@ translate thai day5_streetscenealt_cf30b9d9:
 translate thai day5_streetscenealt_12112b48:
 
     # n "The initial shock still hasn't worn off yet, but at least I can feel my legs again. [ch_ren] must've taken notice, as he gently moves me towards the wall to lean against it, before he sinks down to the ground alongside me."
-    n "ความตื่นตระหนกในตอนแรกยังไม่หาย แต่อย่างน้อยฉันก็รู้สึกที่ขาได้อีกครั้ง [ch_ren]คงสังเกตเห็น เลยค่อยๆพาฉันไปพิงกำแพง ก่อนจะทรุดลงนั่งข้างฉัน"
+    n "ความตื่นตระหนกในตอนแรกยังไม่หาย แต่อย่างน้อยฉันก็รู้สึกที่ขาได้อีกครั้ง [ch_ren] คงสังเกตเห็น เลยค่อยๆ พาฉันไปพิงกำแพง ก่อนจะทรุดลงนั่งข้างฉัน"
 
 # game/scripts/days/day 5.rpy:1547
 
@@ -372,7 +372,7 @@ translate thai day5_streetscenealt_1f00e6c7:
 translate thai day5_streetscenealt_dcbb03ab:
 
     # n "[ch_ren] glances over his shoulder towards the body he'd practically maimed."
-    n "[ch_ren]แลไปข้างหลังมองร่างที่เขาแทบจะทำลายไปแล้ว"
+    n "[ch_ren] แลไปข้างหลังมองร่างที่เขาแทบจะทำลายไปแล้ว"
 
 # game/scripts/days/day 5.rpy:1551
 
@@ -428,21 +428,21 @@ translate thai day5_streetscenealt_8c7d71b9:
 translate thai day5_streetscenealt_cd353ad5:
 
     # n "Before I can get lost in my thoughts, the sleeves of [ch_ren]'s cardigan come into view as he starts to wipe the blood from my face. There's a tender look in his eye, and I can't help but feel weak in the knees at the vulnerability of it all."
-    n "ก่อนที่ฉันจะจมปลักอยู่กับความคิด แขนเสื้อการ์ดิแกนของ[ch_ren]ก็ปรากฏขึ้นขณะที่เขาเริ่มเช็ดเลือดออกจากใบหน้าฉัน สายตาของเขามีความอ่อนโยน และฉันก็ไม่อาจควบคุมความอ่อนแรงที่เข่าได้จากความเปราะบางของตอนนี้"
+    n "ก่อนที่ฉันจะจมปลักอยู่กับความคิด แขนเสื้อการ์ดิแกนของ [ch_ren] ก็ปรากฏขึ้นขณะที่เขาเริ่มเช็ดเลือดออกจากใบหน้าฉัน สายตาของเขามีความอ่อนโยน และความเปราะบางของตอนนี้ทำให้เข่าฉันอ่อนย้อนจนแทบยืนไม่ไหว"
 
 # game/scripts/days/day 5.rpy:1564
 
 translate thai day5_streetscenealt_1767f661:
 
     # n "In return, I reach out to smear some of the red on his cheek as well. [ch_ren] almost seems to {b}keen{/b} at my touch — but just as I bring my blood-stained finger towards his mouth for him to taste, he cuts me off."
-    n "ตอบแทน ฉันยื่นมือไปทาเลือดแดงไว้บนแก้มเขาด้วย [ch_ren]แทบจะ{b}คราง{/b}ออกมาตอนสัมผัส — แต่พอฉันยื่นนิ้วที่เปื้อนเลือดเข้าไปหาปากเขาให้ชิม เขาก็ตัดบรรทัด"
+    n "ตอบแทน ฉันยื่นมือไปทาเลือดแดงไว้บนแก้มเขาด้วย [ch_ren] แทบจะ{b}คราง{/b}ออกมาตอนสัมผัส — แต่พอฉันยื่นนิ้วที่เปื้อนเลือดเข้าไปหาปากเขาให้ชิม เขาก็ตัดบรรทัด"
 
 # game/scripts/days/day 5.rpy:1566
 
 translate thai day5_streetscenealt_cd353ad5_1:
 
     # n "Before I can get lost in my thoughts, the sleeves of [ch_ren]'s cardigan come into view as he starts to wipe the blood from my face. There's a tender look in his eye, and I can't help but feel weak in the knees at the vulnerability of it all."
-    n "ก่อนที่ฉันจะจมปลักอยู่กับความคิด แขนเสื้อการ์ดิแกนของ[ch_ren]ก็ปรากฏขึ้นขณะที่เขาเริ่มเช็ดเลือดออกจากใบหน้าฉัน สายตาของเขามีความอ่อนโยน และฉันก็ไม่อาจควบคุมความอ่อนแรงที่เข่าได้จากความเปราะบางของตอนนี้"
+    n "ก่อนที่ฉันจะจมปลักอยู่กับความคิด แขนเสื้อการ์ดิแกนของ [ch_ren] ก็ปรากฏขึ้นขณะที่เขาเริ่มเช็ดเลือดออกจากใบหน้าฉัน สายตาของเขามีความอ่อนโยน และความเปราะบางของตอนนี้ทำให้เข่าฉันอ่อนย้อนจนแทบยืนไม่ไหว"
 
 # game/scripts/days/day 5.rpy:1568
 
@@ -505,7 +505,7 @@ translate thai day5_streetscenealt_95af5bc4:
 translate thai day5_streetscenealt_c0645d0b:
 
     # n "In return, [ch_ren] leans down and presses a deep kiss against my lips."
-    n "ตอบแทน [ch_ren]ก้มลงแล้วจูบลึกที่ริมฝีปากฉัน"
+    n "ตอบแทน [ch_ren] ก้มลงแล้วจูบลึกที่ริมฝีปากฉัน"
 
 # game/scripts/days/day 5.rpy:1583
 
@@ -554,7 +554,7 @@ translate thai day5_streetscenealt_85f44c99:
 translate thai day5_streetscenealt_87dcde80:
 
     # n "Completely ignoring my words, [ch_ren] continues to caress my face as he peers down at me. But the sickening feeling of having someone else's blood against my skin makes my stomach churn, so I shove him off and stumble back."
-    n "เพิกเฉยคำพูดฉันสิ้นเชิง [ch_ren]ยังคงลูบใบหน้าฉันขณะมองลงมา แต่ความรู้สึกสะอิดสะเอียนที่มีเลือดคนอื่นติดผิวฉันทำให้กระเพาะฉันปั่นป่วน ฉันเลยผลักเขาออกแล้วสะดุดถอยหลัง"
+    n "เพิกเฉยคำพูดฉันสิ้นเชิง [ch_ren] ยังคงลูบใบหน้าฉันขณะมองลงมา แต่ความรู้สึกสะอิดสะเอียนที่มีเลือดคนอื่นติดผิวฉันทำให้กระเพาะฉันปั่นป่วน ฉันเลยผลักเขาออกแล้วสะดุดถอยหลัง"
 
 # game/scripts/days/day 5.rpy:1603
 
@@ -596,7 +596,7 @@ translate thai day5_streetscenealt_9123a937:
 translate thai day5_streetscenealt_04a90537:
 
     # r "I should've done {i}worse.{/i} I mean, you're practically shakin' like a leaf right now because of 'em."
-    r "ฉันน่าจะทำ{i}ให้แย่กว่านี้{/i} คุณก็กำลังสั่นเทิ้มเหมือนใบไม้เลยเพราะพวกเขา"
+    r "ฉันน่าจะทำ{i}ให้แย่กว่านี้{/i} คุณก็กำลังสั่นเหมือนใบไม้เลยเพราะพวกเขา"
 
 # game/scripts/days/day 5.rpy:1613
 

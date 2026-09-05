@@ -43,7 +43,7 @@ translate thai day2_cafedate_c1daee66:
 translate thai day2_cafedate_4ddc37c1:
 
     # r "I even tried asking for napkins earlier, but I don't think they heard me…"
-    r "ฉันยังลองขอกระดาษชำระเมื่อกี้ด้วย แต่ดูเหมือนเขาจะไม่ได้ยินฉัน…"
+    r "ฉันยังลองขอกระดาษเช็ดปากเมื่อกี้ด้วย แต่ดูเหมือนเขาจะไม่ได้ยินฉัน…"
 
 # game/scripts/days/day 2.rpy:922
 
@@ -512,7 +512,7 @@ translate thai day2_meetolivia_c9554e1d:
 translate thai day2_meetolivia_0abf04d8:
 
     # n "I match his teasing smile with my own as I run my thumb over the pink sticky note in my hand."
-    n "ฉันยิ้มแซวกลับเขาใบหน้าเดียวกับเขา ขณะที่ลูบสติกเกอร์โน้ตสีชมพูในมือด้วยนิ้วโป้ง"
+    n "ฉันยิ้มแซวกลับให้เขาด้วยสีหน้าเดียวกัน ขณะที่ลูบสติกเกอร์โน้ตสีชมพูในมือด้วยนิ้วโป้ง"
 
 # game/scripts/days/day 2.rpy:1061
 
@@ -526,7 +526,7 @@ translate thai day2_meetolivia_5b4c3bbb:
 translate thai day2_meetolivia_2cf9411f:
 
     # n "I match his teasing smile with my own as I recall the sticky note [ch_ren] left on my monitor at work."
-    n "ฉันยิ้มแซวกลับเขาใบหน้าเดียวกับเขา ขณะที่นึกถึงสติกเกอร์โน้ตที่ [ch_ren] ทิ้งไว้บนจอคอมที่ทำงาน"
+    n "ฉันยิ้มแซวกลับให้เขาด้วยสีหน้าเดียวกัน ขณะที่นึกถึงสติกเกอร์โน้ตที่ [ch_ren] ทิ้งไว้บนจอคอมที่ทำงาน"
 
 # game/scripts/days/day 2.rpy:1064
 
@@ -540,7 +540,7 @@ translate thai day2_meetolivia_fe71c5cc:
 translate thai day2_meetolivia_79719ba0:
 
     # y "Pfft— Don't jinx it."
-    y "พู์— อย่าเพิ่งพูดพร่ำเพรื่อ"
+    y "พื้บ— อย่าเพิ่งพูดเลย"
 
 # game/scripts/days/day 2.rpy:1066
 

@@ -1,7 +1,7 @@
 translate thai day3_planningdate_59b54924:
 
     # e "I-I suppose it would be a bit awkward if it's just you and me…"
-    e "ก-ก็คงจะเลิกลาไปนิดนึงนะ ถ้ามีแค่สองคนกับหนู…"
+    e "ก-ก็คงจะน่าอึดอัดนิดหน่อยนะ ถ้ามีแค่สองคนกับหนู…"
 
 # game/scripts/days/day 3.rpy:698
 
@@ -99,7 +99,7 @@ translate thai day3_planningdate_63cd534d:
 translate thai day3_planningdate_f22d0bc1:
 
     # n "[ch_teo] scoffs at my answer while [ch_elanor] visibly deflates."
-    n "[ch_teo] แค่นเสียงใส่คำตอบของฉัน ส่วน [ch_elanor] ก็ทรุดโทรมลงต่อหน้าต่อตา"
+    n "[ch_teo] แค่นเสียงใส่คำตอบของฉัน ส่วน [ch_elanor] ก็ซบเซาลงต่อหน้าต่อตา"
 
 # game/scripts/days/day 3.rpy:752
 
@@ -148,7 +148,7 @@ translate thai day3_planningdate_191d46aa:
 translate thai day3_planningdate_f0aad838:
 
     # n "Without so much as glancing in my direction, he pulls out his phone and immediately starts to text someone."
-    n "โดยไม่แม้แต่จะมองมาทางฉัน เขาก็หยิบโทรศัพท์ออกมาแล้วเริ่มข้อความหาใครคนหนึ่งทันที"
+    n "โดยไม่แม้แต่จะมองมาทางฉัน เขาก็หยิบโทรศัพท์ออกมาแล้วเริ่มส่งข้อความหาใครคนหนึ่งทันที"
 
 # game/scripts/days/day 3.rpy:764
 
@@ -519,7 +519,7 @@ translate thai day3_leonscene_3530e454:
 translate thai day3_leonscene_9ca4f987:
 
     # n "But as I'm slipping out the library's back door, I notice [ch_teo], [ch_elanor], [ch_leon], and [ch_jae] all standing around the alleyway's entrance in an avid conversation."
-    n "แต่ตอนที่ฉันลอดประตูหลังของห้องสมุดออกมา ฉันก็เห็น [ch_teo], [ch_elanor], [ch_leon] และ [ch_jae] ยืนคุยกันอยู่ที่ปากทางเข้าตรอกอย่างเอร็ดอรรถ"
+    n "แต่ตอนที่ฉันลอดประตูหลังของห้องสมุดออกมา ฉันก็เห็น [ch_teo], [ch_elanor], [ch_leon] และ [ch_jae] ยืนคุยกันอยู่ที่ปากทางเข้าตรอกอย่างครึกครื้น"
 
 # game/scripts/days/day 3.rpy:912
 
@@ -603,7 +603,7 @@ translate thai day3_leonscene_1c2acfb0:
 translate thai day3_leonscene_0663f816:
 
     # l "Hey! How come you never told me you've never been to the aquarium before? Makes sense, though."
-    l "เฮ้! ทำไมไม่เคยบอกผมเลยว่าไม่เคยไปพิพิธภัพันธ์สัตว์น้ำมาก่อน? ก็เข้าใจได้นะ"
+    l "เฮ้! ทำไมไม่เคยบอกผมเลยว่าไม่เคยไปพิพิธภัณฑ์สัตว์น้ำมาก่อน? ก็เข้าใจได้นะ"
 
 # game/scripts/days/day 3.rpy:948
 
@@ -666,14 +666,14 @@ translate thai day3_leonscene_a507d116:
 translate thai day3_leonscene_4de10cf7:
 
     # e "Hehe, I'm looking forward to tomorrow! I've never been to an aquarium before, so this should be fun."
-    e "แหะๆ ฉันรอพรุ่งนี้อยู่เลย! ฉันไม่เคยไปพิพิธภัพันธ์สัตว์น้ำมาก่อน คงสนุกแน่ๆ"
+    e "แหะๆ ฉันรอพรุ่งนี้อยู่เลย! ฉันไม่เคยไปพิพิธภัณฑ์สัตว์น้ำมาก่อน คงสนุกแน่ๆ"
 
 # game/scripts/days/day 3.rpy:960
 
 translate thai day3_leonscene_d768ebdc:
 
     # l "Well, here's hoping the weather will be more lenient tomorrow. It was [pissing] down buckets yesterday, wasn't it?"
-    l "เอาล่ะ หวังว่าพรุ่งนี้อากาศจะดีกว่านี้ เมื่อวาน[pissing]หนักมากใช่มั้ย?"
+    l "เอาล่ะ หวังว่าพรุ่งนี้อากาศจะดีกว่านี้ เมื่อวาน[pissing] หนักมากใช่มั้ย?"
 
 # game/scripts/days/day 3.rpy:962
 
@@ -694,4 +694,4 @@ translate thai day3_leonscene_aced3364:
 translate thai day3_leonscene_e4959146:
 
     # n "I only {b}now{/b} notice that I've had my back to the dark alleyway this entire time."
-    n "ฉันเพิ่ง{b}สังเกตเห็นตอนนี้{/b}ว่าฉันหันหลังให้ตรอกมืดมาตลอดเวลา"
+    n "ฉันเพิ่งรู้ตัว{b}ตอนนี้{/b}ว่าฉันหันหลังให้ตรอกมืดมาตลอดเวลา"

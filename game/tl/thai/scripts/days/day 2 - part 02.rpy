@@ -638,7 +638,7 @@ translate thai day2_pierdate_64162ccf:
 translate thai day2_pierdate_d58a3d2f:
 
     # l "Oh, speak of the devil! Isn't that him over there?"
-    l "โอ พูดถึงผีผีมา! นั่นเขาอยู่ตรงนั้นไหม?"
+    l "โอ พูดถึงเจ้าตัวเลย! นั่นเขาอยู่ตรงนั้นไหม?"
 
 # game/scripts/days/day 2.rpy:416
 
