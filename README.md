@@ -8,7 +8,7 @@ Thai localization mod for the visual novel *14 Days With You* 5.5.
 
 - แปลบทพูดครบ Day 0–5 และเนื้อหาเสริม
 - แปล UI ทุกหน้าจอ (เมนู, preferences, save/load, credits, ฯลฯ)
-- รองรับฟอนต์ไทย Noto Sans Thai, Prompt, Sarabun, PlainPixel
+- รองรับฟอนต์ไทย Noto Sans Thai, PlainPixel
 - ปุ่มสลับภาษา ไทย/EN ในเกม
 - รักษา text tags, variables, และ syntax ของ Ren'Py ทั้งหมด
 - ไม่แก้ไฟล์เดิมของเกม (overlay system)
@@ -49,7 +49,7 @@ Thai localization mod for the visual novel *14 Days With You* 5.5.
 ## ลิขสิทธิ์ (License)
 
 - โค้ดแปล: MIT
-- ฟอนต์: OFL/Apache (Noto Sans Thai, Sarabun, Prompt, PlainPixel)
+- ฟอนต์: OFL/Apache (Noto Sans Thai, PlainPixel)
 - เกมต้นฉบับ: สงวนลิขสิทธิ์โดย [cutiesai](https://cutiesai.com)
 
 ## เครดิต (Credits)
