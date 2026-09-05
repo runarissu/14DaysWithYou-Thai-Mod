@@ -1,4 +1,4 @@
-2026-09-05 16:14:59 UTC
+2026-09-05 16:37:04 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.2.26010301
 
@@ -6,33 +6,37 @@ Ren'Py 8.5.2.26010301
 5.5
 Built at 2026-04-05 02:03:39 UTC
 
-Early init took 31 ms
+Early init took 30 ms
 Loading error handling took 20 ms
-Loading script took 292 ms
-Loading save slot metadata took 14 ms
-Loading persistent took 0 ms
+<unknown>:1: SyntaxWarning: invalid escape sequence '\|'
+<unknown>:1: SyntaxWarning: invalid escape sequence '\|'
+<unknown>:1: SyntaxWarning: invalid escape sequence '\|'
+<unknown>:1: SyntaxWarning: invalid escape sequence '\|'
+Loading script took 738 ms
+Loading save slot metadata took 16 ms
+Loading persistent took 2 ms
 Set script version to: (8, 5, 2)
-Running init code took 65 ms
+Running init code took 68 ms
 Loading analysis data took 9 ms
 Analyze and compile ATL took 17 ms
-Reloading save slot metadata took 5 ms
-Dump and make backups took 0 ms
+Reloading save slot metadata took 6 ms
+Dump and make backups took 1 ms
 Cleaning cache took 0 ms
 Making clean stores took 0 ms
-Initial gc took 36 ms
+Initial gc took 37 ms
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 171 ms
-Init translation took 0 ms
-Cleaning stores took 1 ms
+Creating interface object took 177 ms
+Init translation took 1 ms
+Cleaning stores took 0 ms
 Load screen analysis took 0 ms
-Analyze screens took 7 ms
+Analyze screens took 12 ms
 Save screen analysis took 15 ms
-Save pyanalysis took 9 ms
-Save bytecode took 28 ms
+Save pyanalysis took 10 ms
+Save bytecode took 31 ms
 Running _start took 1 ms
-Interface start took 395 ms
+Interface start took 438 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -42,5 +46,11 @@ Vendor: 'NVIDIA Corporation'
 Renderer: 'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
 Version: '4.6.0 NVIDIA 610.62'
 Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 120, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1731, 974) drawable=(1731, 974)
+Screen sizes: virtual=(1920, 1080) physical=(1730, 973) drawable=(1730, 973)
 Maximum texture size: 4096x4096
+Cleaning stores took 0 ms
+Load screen analysis took 19 ms
+Analyze screens took 0 ms
+Running _start took 0 ms
+1788626243.4587705
+Our user: {'id': '854734608205217802', 'username': 'runarissu', 'discriminator': '0', 'avatar': '421b6be30040a15cfb97f43bf7a9b71b'}

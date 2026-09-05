@@ -278,7 +278,7 @@ screen over18():
 
         hbox:
             xalign 0.5
-            text ("\"14 Days With You\" เป็นเดโมของเกมแนวสยองขวัญ/โรแมนติกที่กำลังจะวางจำหน่าย และมีไว้สำหรับผู้เล่นอายุ 18 ปีขึ้นไป เนื้อเรื่องจะเข้มขึ้นเรื่อยๆ เมื่อตอนใหม่ออก ผู้เล่นควรใช้ดุลยพินิจด้วยตนเอง\n\n{color=#9d64fd}{b}เดโมนี้มี:{/b}{/color} คำพูดหยาบคายเล็กน้อย สยองขวัญ ความรุนแรง และธีมที่น่าขนลุบ เช่น การถูกตามตัว ความรุนแรง ความตาย และการฆาณกรรม รวมถึงข้อความที่ลาตา การสั่นของหน้าจอ และอาจทำให้ผู้ที่มีอาการชักแบบไวต่อแสงเกิดอาการชักได้ ดูรายการเตือนเนื้อหาทั้งหมดได้ที่ {a=https://cutiesai.com/14dwy}คลิกที่นี่{/a}\n" if _is_thai() else "\"14 Days With You\" is a demo for an upcoming horror/romance game, and is intended to be played by those who are 18 and older. Themes will get darker as more \"Days\" are released. Player discretion is advised.\n\n{color=#9d64fd}{b}THIS DEMO INVOLVES:{/b}{/color} mild coarse language, horror, gore, and unsettling themes such as being stalked, violence, death, and murder. It also involves eye-straining text, screen shakes, and the potential to cause seizures for those with photosensitive epilepsy. For the full list of content warnings, please {a=https://cutiesai.com/14dwy}click here{/a}.\n"):
+            text ("\"14 Days With You\" เป็นเดโมของเกมแนวสยองขวัญ/โรแมนติกที่กำลังจะวางจำหน่าย และมีไว้สำหรับผู้เล่นอายุ 18 ปีขึ้นไป เนื้อเรื่องจะเข้มขึ้นเรื่อยๆ เมื่อตอนใหม่ออก ผู้เล่นควรใช้วิจารณญาณด้วยตนเอง\n\n{color=#9d64fd}{b}เดโมนี้มี:{/b}{/color} คำพูดหยาบคายเล็กน้อย สยองขวัญ ฉากนองเลือด และธีมที่น่าขนลุก เช่น การถูกตามตัว ความรุนแรง ความตาย และการฆาตกรรม รวมถึงข้อความที่ลายตา การสั่นของหน้าจอ และอาจทำให้ผู้ที่มีอาการชักแบบไวต่อแสงเกิดอาการชักได้ ดูรายการเตือนเนื้อหาทั้งหมดได้ที่ {a=https://cutiesai.com/14dwy}คลิกที่นี่{/a}\n" if _is_thai() else "\"14 Days With You\" is a demo for an upcoming horror/romance game, and is intended to be played by those who are 18 and older. Themes will get darker as more \"Days\" are released. Player discretion is advised.\n\n{color=#9d64fd}{b}THIS DEMO INVOLVES:{/b}{/color} mild coarse language, horror, gore, and unsettling themes such as being stalked, violence, death, and murder. It also involves eye-straining text, screen shakes, and the potential to cause seizures for those with photosensitive epilepsy. For the full list of content warnings, please {a=https://cutiesai.com/14dwy}click here{/a}.\n"):
                 text_align 0.5
                 justify True
                 outlines [ (absolute(1), "362A46", absolute(0), absolute(0)) ]
@@ -424,7 +424,7 @@ screen androidversion():
         align (0.5, 0.5)
         vbox:
             align (0.5,0.5)
-            text ("{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}เดโมนี้ไม่รองรับ\nแอปภาคีบุคคลส่วนใหญ่\n{size=-20}เล่นบน PC (Windows, Linux, Mac) เพื่อประสบการณ์ที่ดีที่สุด{/size}{/color}{/font}\n" if _is_thai() else "{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}THIS DEMO IS NOT COMPATIBLE\nWITH MOST THIRD-PARTY APPS\n{size=-20}Play on PC (Windows, Linux, Mac) for the best experience{/size}{/color}{/font}\n"):
+            text ("{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}เดโมนี้ไม่รองรับ\nแอปของบุคคลที่สามส่วนใหญ่\n{size=-20}เล่นบน PC (Windows, Linux, Mac) เพื่อประสบการณ์ที่ดีที่สุด{/size}{/color}{/font}\n" if _is_thai() else "{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}THIS DEMO IS NOT COMPATIBLE\nWITH MOST THIRD-PARTY APPS\n{size=-20}Play on PC (Windows, Linux, Mac) for the best experience{/size}{/color}{/font}\n"):
                 size 45
                 textalign 0.5
                 align (0.5,0.5)
@@ -468,7 +468,7 @@ screen versionscreen():
             text ("เวอร์ชัน [version_number]" if _is_thai() else "Ver [version_number]") size 25 text_align 1.0:
                 outlines [(absolute(1), "#141414", absolute(0), absolute(0))]
         if renpy.variant("mobile"):
-            text ("{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{noalt}คุณกำลังใช้แอปภาคีบุคคล\nอาจพบบั๊กและข้อผิดพลาดได้\nเล่นบน PC เพื่อประสบการณ์ที่ดีที่สุด\n(เวอร์ชัน [version_number]){/noalt}{/color}{/font}" if _is_thai() else "{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{noalt}YOU ARE USING A THIRD-PARTY APP\nBUGS AND ERRORS ARE TO BE EXPECTED\nPLAY ON PC FOR THE BEST EXPERIENCE\n(Ver [version_number]){/noalt}{/color}{/font}") size 25:
+            text ("{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{noalt}คุณกำลังใช้แอปของบุคคลที่สาม\nอาจพบบั๊กและข้อผิดพลาดได้\nเล่นบน PC เพื่อประสบการณ์ที่ดีที่สุด\n(เวอร์ชัน [version_number]){/noalt}{/color}{/font}" if _is_thai() else "{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{noalt}YOU ARE USING A THIRD-PARTY APP\nBUGS AND ERRORS ARE TO BE EXPECTED\nPLAY ON PC FOR THE BEST EXPERIENCE\n(Ver [version_number]){/noalt}{/color}{/font}") size 25:
                 outlines [(absolute(2), "#141414", absolute(0), absolute(0))]
 
 
@@ -532,7 +532,7 @@ screen demopoint():
                     color "#FF66CB"
                     font "fonts/Orbitron-Black.ttf"
             vbox:
-                text ("{size=+5}{font=Orbitron-Black.ttf}ขอบคุณที่เล่น!{/font}{/size}\nลองหาตอนจบทั้งหมดหรือยัง?\n\nถ้าอยากหาคอนเทนต์ 14DWY เพิ่มเติม ไปติดตามได้ที่ {a=https://discord.gg/14dayswithyou}Discord{/a} | {a=https://14dayswithyou.tumblr.com}Tumblr{/a} | {a=https://twitter.com/14dayswithyou}Twitter{/a} | {a=https://bsky.app/profile/cutiesai.com}Bluesky{/a} เพื่อดูความคืบหน้าและเรื่องราวของเกม!\n" if _is_thai() else "{size=+5}{font=Orbitron-Black.ttf}Thanks for playing!{/font}{/size}\nHave you tried to get all the different endings yet?\n\nIf you're looking for even more 14DWY content, feel free to check out the official {a=https://discord.gg/14dayswithyou}Discord{/a} | {a=https://14dayswithyou.tumblr.com}Tumblr{/a} | {a=https://twitter.com/14dayswithyou}Twitter{/a} | {a=https://bsky.app/profile/cutiesai.com}Bluesky{/a} for game development progress and lore drops!\n"):
+                text ("{size=+5}{font=Orbitron-Black.ttf}ขอบคุณที่เล่น!{/font}{/size}\nลองหาตอนจบทั้งหมดหรือยัง?\n\nถ้าอยากหาคอนเทนต์ 14DWY เพิ่มเติม ไปติดตามได้ที่ {a=https://discord.gg/14dayswithyou}Discord{/a} | {a=https://14dayswithyou.tumblr.com}Tumblr{/a} | {a=https://twitter.com/14dayswithyou}Twitter{/a} | {a=https://bsky.app/profile/cutiesai.com}Bluesky{/a} เพื่อดูความคืบหน้าการพัฒนาและเรื่องราวเบื้องหลังของเกม!\n" if _is_thai() else "{size=+5}{font=Orbitron-Black.ttf}Thanks for playing!{/font}{/size}\nHave you tried to get all the different endings yet?\n\nIf you're looking for even more 14DWY content, feel free to check out the official {a=https://discord.gg/14dayswithyou}Discord{/a} | {a=https://14dayswithyou.tumblr.com}Tumblr{/a} | {a=https://twitter.com/14dayswithyou}Twitter{/a} | {a=https://bsky.app/profile/cutiesai.com}Bluesky{/a} for game development progress and lore drops!\n"):
                     font "fonts/Assistant-Regular.ttf"
                     size 25
                     justify True
@@ -1029,7 +1029,7 @@ screen customcharacter():
             xysize (432,155)
             has vbox
             align (0.5,0.5)
-            text ("พื้นผิวผม" if _is_thai() else "CUSTOM HAIR TEXTURE"):
+            text ("เนื้อผม" if _is_thai() else "CUSTOM HAIR TEXTURE"):
                 font "fonts/Orbitron-Black.ttf"
                 color "#9d64fd"
                 size 25
@@ -1205,7 +1205,7 @@ screen custompronouns():
             hbox:
                 spacing 20
                 xalign 0.5
-                text ("{b}สรรพนามสะท้อน{/b}    {color=#8f8f8f}{size=-5}herself | himself | themself{/size}{/color}" if _is_thai() else "{b}Reflective Pronoun{/b}    {color=#8f8f8f}{size=-5}herself | himself | themself{/size}{/color}"):
+                text ("{b}สรรพนามสะท้อนกลับ{/b}    {color=#8f8f8f}{size=-5}herself | himself | themself{/size}{/color}" if _is_thai() else "{b}Reflective Pronoun{/b}    {color=#8f8f8f}{size=-5}herself | himself | themself{/size}{/color}"):
                     font "fonts/Assistant-Regular.ttf"
                     size 25
                 button:
@@ -2625,7 +2625,7 @@ screen chat_work():
                     padding (40,20,40,20)
                     xysize (580,107)
                     pos (130,35)
-                    text ("ใครเห็นปากกาฉันไหม? ฉันวางไว้ที่ไหนสักแห่ง!" if _is_thai() else "Has anyone seen my pen? I left it somewhere!"):
+                    text ("ใครเห็นปากกาฉันไหม? ฉันวางไว้ที่ไหนสักที่แล้ว!" if _is_thai() else "Has anyone seen my pen? I left it somewhere!"):
                         font "fonts/VT323-Regular.ttf"
                         color "#141414"
                         size 32
@@ -2866,7 +2866,7 @@ screen updatewarning():
                 color "#FF66CB"
                 size 40
                 align (0.5,0.5)
-            text ("พึ่งอัปเดตเป็น Day 5.5 ไหม? ถ้าใช่ ไฟล์เซฟเก่าอาจใช้ไม่ได้และอาจมีข้อผิดพลาด กรุณาเริ่มเกมใหม่เพื่อหลีกเลี่ยงปัญหา\n" if _is_thai() else "Did you recently update to Day 5.5? If so, older save files might not work and may lead to errors. Please start a new game to avoid any issues.\n"):
+            text ("เพิ่งอัปเดตเป็น Day 5.5 ไหม? ถ้าใช่ ไฟล์เซฟเก่าอาจใช้ไม่ได้และอาจมีข้อผิดพลาด กรุณาเริ่มเกมใหม่เพื่อหลีกเลี่ยงปัญหา\n" if _is_thai() else "Did you recently update to Day 5.5? If so, older save files might not work and may lead to errors. Please start a new game to avoid any issues.\n"):
                 color "#141414"
                 font "fonts/Assistant-Regular.ttf"
                 size 25
@@ -3589,7 +3589,7 @@ screen album():
                 else:
                     text ("- ไปให้ถึงวันถัดไป" if _is_thai() else "- Make it to the next Day") style "notepad"
                 if persistent.d1_badending == True:
-                    text "- {s}ได้รับตอนจบ Dead End{s}" style "notepad"
+                    text "- {s}ได้รับตอนจบ Dead End{/s}" style "notepad"
                 else:
                     text ("- ได้รับตอนจบ Dead End" if _is_thai() else "- Obtain a Dead End") style "notepad"
                 if persistent.d1_inviteren == True:
