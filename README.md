@@ -26,4 +26,4 @@
 
 - แปลและปรับแต่ง: [runarissu](https://github.com/runarissu)
 - เกมต้นฉบับ: [14 Days With You](https://14dayswithyou.tumblr.com) by cutiesai
-- ฟอนต์: Noto Sans Thai, Prompt, Sarabun, PlainPixel (OFL/Apache)
+- ฟอนต์: Noto Sans Thai, PlainPixel (OFL/Apache)
