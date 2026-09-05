@@ -1,0 +1,32 @@
+# Game assets (not part of mod)
+game/script.rpa
+game/*.rpa
+!game/thai_mod.rpa
+
+# Extracted source (reference only)
+_extracted/
+
+# Ren'Py SDK
+renpy-*/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Save files
+game/saves/
+
+# Temp/audit scripts
+_*.py
+_*.txt
+!thai_mod_INSTALL.txt
+!README.md
+
+# Logs
+*.log
