@@ -1,4 +1,4 @@
-2026-09-05 15:45:32 UTC
+2026-09-05 15:47:45 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.2.26010301
 
@@ -7,32 +7,32 @@ Ren'Py 8.5.2.26010301
 Built at 2026-04-05 02:03:39 UTC
 
 Early init took 31 ms
-Loading error handling took 18 ms
-Loading script took 259 ms
-Loading save slot metadata took 14 ms
+Loading error handling took 19 ms
+Loading script took 261 ms
+Loading save slot metadata took 15 ms
 Loading persistent took 0 ms
 Set script version to: (8, 5, 2)
-Running init code took 61 ms
+Running init code took 69 ms
 Loading analysis data took 9 ms
-Analyze and compile ATL took 16 ms
-Reloading save slot metadata took 3 ms
+Analyze and compile ATL took 18 ms
+Reloading save slot metadata took 4 ms
 Dump and make backups took 0 ms
-Cleaning cache took 1 ms
-Making clean stores took 0 ms
-Initial gc took 36 ms
+Cleaning cache took 0 ms
+Making clean stores took 1 ms
+Initial gc took 43 ms
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 171 ms
-Init translation took 2 ms
+Creating interface object took 168 ms
+Init translation took 1 ms
 Cleaning stores took 0 ms
-Load screen analysis took 23 ms
-Analyze screens took 1 ms
+Load screen analysis took 24 ms
+Analyze screens took 0 ms
 Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
-Save bytecode took 27 ms
-Running _start took 2 ms
-Interface start took 401 ms
+Save bytecode took 29 ms
+Running _start took 1 ms
+Interface start took 415 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -46,9 +46,7 @@ Screen sizes: virtual=(1920, 1080) physical=(1920, 991) drawable=(1920, 991)
 Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(1920, 991) drawable=(1920, 991)
 Maximum texture size: 4096x4096
-Cleaning stores took 0 ms
-Load screen analysis took 17 ms
-Analyze screens took 0 ms
-Running _start took 1 ms
-1788623159.8140223
-Our user: {'id': '854734608205217802', 'username': 'runarissu', 'discriminator': '0', 'avatar': '421b6be30040a15cfb97f43bf7a9b71b'}
+Screen sizes: virtual=(1920, 1080) physical=(1920, 991) drawable=(1920, 991)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1920, 991) drawable=(1920, 991)
+Maximum texture size: 4096x4096

@@ -297,21 +297,21 @@ translate thai strings:
     new "วันที่ 5"
 
     # game/scripts/misc/other.rpy:4185
-    old "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nAre you sure you want to delete\nthis save file?"
-    new "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะลบ\nไฟล์บันทึกนี้?"
+    old "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nAre you sure you want to delete\nthis save file?"
+    new "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะลบ\nไฟล์บันทึกนี้?"
 
     # game/scripts/misc/other.rpy:4186
-    old "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nDo you want to overwrite this save?\nYou won't get it back!"
-    new "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nจะเขียนทับไฟล์บันทึกนี้เลยเหรอ?\nย้อนกลับไม่ได้นะ!"
+    old "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nDo you want to overwrite this save?\nYou won't get it back!"
+    new "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nจะเขียนทับไฟล์บันทึกนี้เลยเหรอ?\nย้อนกลับไม่ได้นะ!"
 
     # game/scripts/misc/other.rpy:4187
-    old "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nLoading will lose any unsaved progress!\nDo you still want to continue?"
-    new "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nโหลดแล้วข้อมูลที่ยังไม่ได้บันทึกจะหายไปหมด!\nยังจะโหลดต่อไหม?"
+    old "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nLoading will lose any unsaved progress!\nDo you still want to continue?"
+    new "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nโหลดแล้วข้อมูลที่ยังไม่ได้บันทึกจะหายไปหมด!\nยังจะโหลดต่อไหม?"
 
     # game/scripts/misc/other.rpy:4188
-    old "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nAre you sure you want to quit the game?\nYou will lose any unsaved progress!"
-    new "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะออกจากเกม?\nข้อมูลที่ยังไม่ได้บันทึกจะหายไปหมด!"
+    old "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nAre you sure you want to quit the game?\nYou will lose any unsaved progress!"
+    new "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nแน่ใจนะว่าจะออกจากเกม?\nข้อมูลที่ยังไม่ได้บันทึกจะหายไปหมด!"
 
     # game/scripts/misc/other.rpy:4189
-    old "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nReturn to the main menu?\nYou will lose any unsaved progress!"
-    new "{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nกลับเมนูหลักเลยเหรอ?\nข้อมูลที่ยังไม่ได้บันทึกจะหายไปหมด!"
+    old "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u], WAIT!{/font}{/size}{/color}\nReturn to the main menu?\nYou will lose any unsaved progress!"
+    new "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}[player!u] รอก่อน!{/font}{/size}{/color}\nกลับเมนูหลักเลยเหรอ?\nข้อมูลที่ยังไม่ได้บันทึกจะหายไปหมด!"
