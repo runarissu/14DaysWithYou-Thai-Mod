@@ -295,7 +295,7 @@ screen over18():
                 textbutton _("AGREE AND CONTINUE"):
                     text_style "ss_button"
                     hovered [Play("sound", "audio/ui/click1.ogg")]
-                    action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", False), Confirm("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}18 OR {u}OVER{/u}{/b}{/color} and have\nlooked at the list of content warnings?", yes=MainMenu(confirm=False), no=None, confirm_selected=False)]
+                    action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", False), Confirm(("{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}สำคัญมาก!{/font}{/size}{/color}\nยืนยันว่าคุณ{color=#a30b11}{b}อายุ 18 ปี{u}ขึ้นไป{/u}{/b}{/color}\nและได้อ่านรายการเตือนเนื้อหาแล้ว?" if _is_thai() else "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}18 OR {u}OVER{/u}{/b}{/color} and have\nlooked at the list of content warnings?"), yes=MainMenu(confirm=False), no=None, confirm_selected=False)]
         else:
             hbox:
                 spacing 30
@@ -304,7 +304,7 @@ screen over18():
                     textbutton _("I AM {u}UNDER{/u} 18"):
                         text_style "ss_button"
                         hovered [Play("sound", "audio/ui/click1.ogg")]
-                        action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", True), Confirm("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}{u}UNDER{/u} 18{/b}{/color} and have\n read everything correctly?", Quit(), no=None, confirm_selected=False)]
+                        action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", True), Confirm(("{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}สำคัญมาก!{/font}{/size}{/color}\nยืนยันว่าคุณ{color=#a30b11}{b}{u}อายุต่ำกว่า{/u} 18 ปี{/b}{/color}\nและได้อ่านทุกอย่างถูกต้องแล้ว?" if _is_thai() else "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}{u}UNDER{/u} 18{/b}{/color} and have\n read everything correctly?"), Quit(), no=None, confirm_selected=False)]
                 hbox:
                     text "|":
                         text_align 0.5
@@ -316,7 +316,7 @@ screen over18():
                     textbutton _("I AM {u}OVER{/u} 18"):
                         text_style "ss_button"
                         hovered [Play("sound", "audio/ui/click1.ogg")]
-                        action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", False), Confirm("{color=#FF66CB}{size=+20}{font=Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}18 OR {u}OVER{/u}{/b}{/color} and have\n read everything correctly?", yes=Jump("loginscreen"), no=None, confirm_selected=False)]
+                        action [Play("sound", "audio/ui/accept.ogg"), SetVariable("persistent.warningscreen", False), Confirm(("{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}สำคัญมาก!{/font}{/size}{/color}\nยืนยันว่าคุณ{color=#a30b11}{b}อายุ 18 ปี{u}ขึ้นไป{/u}{/b}{/color}\nและได้อ่านทุกอย่างถูกต้องแล้ว?" if _is_thai() else "{color=#FF66CB}{size=+20}{font=fonts/Orbitron-Black.ttf}IMPORTANT!{/font}{/size}{/color}\nConfirm you are {color=#a30b11}{b}18 OR {u}OVER{/u}{/b}{/color} and have\n read everything correctly?"), yes=Jump("loginscreen"), no=None, confirm_selected=False)]
                 hbox:
                     text "|":
                         text_align 0.5
