@@ -1,11 +1,15 @@
 ################################################################################
 ## Thai Screen Translations — 14 Days With You
 ##
-## Overrides screens that contain hardcoded English text (not using _()).
-## Only the text strings are translated; layout/logic stays identical.
+## Redefines screens that contain hardcoded English text (not using _()).
+## Uses _preferences.language to switch text based on selected language.
 ################################################################################
 
-translate thai screen charamenu:
+init python:
+    def _is_thai():
+        return _preferences.language == "thai"
+
+screen charamenu():
     add "gui/bg/menu_bg_chara.png"
     add "triangles_light"
     add "gui/bg/cc_base.png" at slidedown
@@ -16,7 +20,7 @@ translate thai screen charamenu:
         xminimum 408
         vbox:
             align (0.5,0.5)
-            text "ปรับแต่งตัวละครหลักไหม?":
+            text ("ปรับแต่งตัวละครหลักไหม?" if _is_thai() else "Customise the main character?"):
                 size 22
                 font "fonts/Assistant-Regular.ttf"
                 color "#f8f8f8"
@@ -37,19 +41,19 @@ translate thai screen charamenu:
         vbox:
             align (0.5, 0.5)
             if persistent.streamermode == True:
-                text "\"{color=#FF66CB}{b}โหมดสตรีมเมอร์{/b}{/color}\" กำลังเปิดอยู่\nกรุณาปิดเพื่อใช้ฟีเจอร์นี้":
+                text ("\"{color=#FF66CB}{b}โหมดสตรีมเมอร์{/b}{/color}\" กำลังเปิดอยู่\nกรุณาปิดเพื่อใช้ฟีเจอร์นี้" if _is_thai() else "\"{color=#FF66CB}{b}Streamer Mode{/b}{/color}\" is currently enabled.\nPlease disable it to use this feature."):
                     size 22
                     font "fonts/Assistant-Regular.ttf"
                     color "#141414"
                     text_align 0.5
             elif persistent.dlc_14nightswithyou == True and persistent.dlc_14nightswithyou_type == "paid" and persistent.dlc_14nwy_comp == False:
-                    text "กรุณาอัปเดตเกมหลักและ DLC\nเพื่อปลดล็อกส่วนนี้":
+                    text ("กรุณาอัปเดตเกมหลักและ DLC\nเพื่อปลดล็อกส่วนนี้" if _is_thai() else "Please update the base game and its DLC\nto unlock this section."):
                         size 22
                         textalign 0.5
                         font "fonts/Assistant-Regular.ttf"
                         color "#141414"
             elif persistent.dlc_14nightswithyou == True:
-                text "ต้องการเปิดใช้งาน DLC 18+ ไหม?":
+                text ("ต้องการเปิดใช้งาน DLC 18+ ไหม?" if _is_thai() else "Do you want to enable the 18+ DLC?"):
                     size 22
                     font "fonts/Assistant-Regular.ttf"
                     color "#141414"
@@ -60,7 +64,7 @@ translate thai screen charamenu:
                     textbutton _("YES") text_style "cutietext" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("dlc_14nightswithyou_scenes", True), Show("customisensfw", dissolve)] hovered [Play("sound", "audio/ui/click1.ogg")]
                     textbutton _("NO") text_style "cutietext" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("dlc_14nightswithyou_scenes", False)] hovered Play("sound", "audio/ui/click1.ogg")
             else:
-                text "คุณยังไม่มี DLC! เข้าชม\n{a=https://cutiesai.itch.io/}{b}cutiesai.itch.io{/b}{/a} เพื่อเปิดใช้ฟีเจอร์นี้":
+                text ("คุณยังไม่มี DLC! เข้าชม\n{a=https://cutiesai.itch.io/}{b}cutiesai.itch.io{/b}{/a} เพื่อเปิดใช้ฟีเจอร์นี้" if _is_thai() else "You don't own any DLCs! Visit\n{a=https://cutiesai.itch.io/}{b}cutiesai.itch.io{/b}{/a} to enable this feature"):
                     size 22
                     font "fonts/Assistant-Regular.ttf"
                     color "#141414"
@@ -70,7 +74,7 @@ translate thai screen charamenu:
     hbox:
         at slidedown
         pos (789,678)
-        text "14 Days With You ยังเป็นเดโมอยู่!\nลองสนับสนุน cutiesai\nที่ {a=https://ko-fi.com/cutiesai}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Ko-Fi{/color}{/font}{/a}, {a=https://cutiesai.itch.io/14dayswithyou}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Itch{/color}{/font}{/a}, หรือ {a=https://discord.gg/14dayswithyou}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Discord{/color}{/font}{/a}!":
+        text ("14 Days With You ยังเป็นเดโมอยู่!\nลองสนับสนุน cutiesai\nที่ {a=https://ko-fi.com/cutiesai}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Ko-Fi{/color}{/font}{/a}, {a=https://cutiesai.itch.io/14dayswithyou}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Itch{/color}{/font}{/a}, หรือ {a=https://discord.gg/14dayswithyou}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Discord{/color}{/font}{/a}!" if _is_thai() else "14 Days With You is still a demo!\nConsider supporting cutiesai\non {a=https://ko-fi.com/cutiesai}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Ko-Fi{/color}{/font}{/a}, {a=https://cutiesai.itch.io/14dayswithyou}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Itch{/color}{/font}{/a}, or {a=https://discord.gg/14dayswithyou}{font=fonts/VT323-Regular.ttf}{color=#FF66CB}Discord{/color}{/font}{/a}!"):
             size 28
             font "fonts/VT323-Regular.ttf"
             color "#141414"
@@ -86,7 +90,7 @@ translate thai screen charamenu:
         pos (773,554)
         spacing -5
         if update_angel == "status":
-            text "อยู่ใน DM ของ Haruko เหรอ? ฉันยังดีอยู่\nเราไม่เหมือนกันนะ <3 ([they]/[them])":
+            text ("อยู่ใน DM ของ Haruko เหรอ? ฉันยังดีอยู่\nเราไม่เหมือนกันนะ <3 ([they]/[them])" if _is_thai() else "You're in Haruko's DMs? I'm in sane\nWe are not the same <3 ([they]/[them])"):
                 font "fonts/Assistant-Regular.ttf"
                 color "#898989"
                 size 25
@@ -111,12 +115,12 @@ translate thai screen charamenu:
         hbox:
             align (0.5,0.5)
             if persistent.dayend == True:
-                text "ยินดีต้อนรับกลับมา!":
+                text ("ยินดีต้อนรับกลับมา!" if _is_thai() else "WELCOME BACK!"):
                     size 30
                     font "fonts/Orbitron-Black.ttf"
                     color "#141414"
             else:
-                text "สวัสดีจ้า!":
+                text ("สวัสดีจ้า!" if _is_thai() else "HELLO THERE!"):
                     size 30
                     font "fonts/Orbitron-Black.ttf"
                     color "#141414"
@@ -149,7 +153,7 @@ translate thai screen charamenu:
         xsize 386
         spacing 10
         vbox:
-            text "- เปลี่ยนไอคอนสักที\n- Passw0rd_777 {size=-10}(ใช้ศูนย์นะ!!!){/size}\n- 01101100 01101111 01101100\n- ใต้กระดาษโน้ต":
+            text ("- เปลี่ยนไอคอนสักที\n- Passw0rd_777 {size=-10}(ใช้ศูนย์นะ!!!){/size}\n- 01101100 01101111 01101100\n- ใต้กระดาษโน้ต" if _is_thai() else "- change my icon somehow\n- Passw0rd_777 {size=-10}(with a zero!!!){/size}\n- 01101100 01101111 01101100\n- underneath the stickynote"):
                 font "fonts/ReenieBeanie-Regular.ttf"
                 color "#141414"
                 bold False

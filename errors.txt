@@ -3,8 +3,8 @@ errors listed below, and try again.
 
 
 File "game/tl/thai/scripts/misc/screen_translations.rpy", line 8: expected ':' not found.
-    translate thai screen charamenu():
+    translate thai screen charamenu:
                           ^
 
 Ren'Py Version: Ren'Py 8.5.2.26010301
-Sat Sep  5 23:05:53 2026
+Sat Sep  5 23:06:26 2026

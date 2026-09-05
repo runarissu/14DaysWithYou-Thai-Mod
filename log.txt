@@ -1,4 +1,4 @@
-2026-09-05 16:05:53 UTC
+2026-09-05 16:06:25 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.2.26010301
 
@@ -6,19 +6,19 @@ Ren'Py 8.5.2.26010301
 5.5
 Built at 2026-04-05 02:03:39 UTC
 
-Early init took 30 ms
-Loading error handling took 20 ms
-Loading script took 266 ms
+Early init took 31 ms
+Loading error handling took 19 ms
+Loading script took 263 ms
 Loading save slot metadata took 15 ms
 Loading persistent took 0 ms
 
 File "game/tl/thai/scripts/misc/screen_translations.rpy", line 8: expected ':' not found.
-    translate thai screen charamenu():
+    translate thai screen charamenu:
                           ^
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Interface start took 300 ms
+Interface start took 288 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
