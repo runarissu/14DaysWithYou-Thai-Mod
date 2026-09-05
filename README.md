@@ -1,5 +1,7 @@
 # 14 Days With You — Thai Localization Mod
 
+![Hero Banner](hero-banner.png)
+
 ม็อดแปลภาษาไทยสำหรับเกม **14 Days With You** 5.5 (Ren'Py 8.5.2)
 
 ## วิธีติดตั้ง (Installation)
