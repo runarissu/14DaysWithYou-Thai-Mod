@@ -598,6 +598,6 @@ translate thai day5_covescene_18dfb175:
 translate thai day5_covescene_138ca7cf:
 
     # npct "i understand why the offering wouldn't work with o, but did u REALLY need to fish out that—"
-    npct "i understand why the offering wouldn't work with o, but did u REALLY need to fish out that—"
+    npct "เข้าใจว่าของถวายมันใช้ไม่ได้กับ o หรอก แต่ว่าจะต้องเอาออกมาจริงๆ เหรอ—"
 
 # game/scripts/days/day 5.rpy:1133
