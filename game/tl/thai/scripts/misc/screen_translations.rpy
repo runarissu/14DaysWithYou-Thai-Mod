@@ -2990,7 +2990,7 @@ screen main_menu():
             add "menu_ren":
                 align (0.5,0.5)
                 at slideright
-            imagebutton auto "gui/ui/more_%s.png" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("renchatter", renpy.random.choice(renchatterlist)), ToggleVariable("welcome_chatter")] align (0.98,0.98) hovered Play("sound", "audio/ui/click2.ogg") at choice_fade, slideright
+            imagebutton auto "gui/ui/more_%s.png" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("renchatter", renpy.random.choice(renchatterlist_thai if _is_thai() else renchatterlist)), ToggleVariable("welcome_chatter")] align (0.98,0.98) hovered Play("sound", "audio/ui/click2.ogg") at choice_fade, slideright
         frame:
             background Frame(["status_box"], gui.choice_button_borders)
             pos (650,240)
@@ -3021,6 +3021,8 @@ screen main_menu():
                 anchor (1.0,1.0)
                 text "[renchatter]":
                     text_align 0.5
+                    if _is_thai():
+                        font "fonts/Assistant-Regular.ttf"
                 at choice_fade, slideright
 
     vbox:
