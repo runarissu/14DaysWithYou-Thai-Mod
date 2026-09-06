@@ -44,3 +44,22 @@ init -100 python:
 init -1 python:
     if "thai_language_toggle" not in config.overlay_screens:
         config.overlay_screens.append("thai_language_toggle")
+
+## --- Thai version of mainmenulist (shown on main menu) ---
+init 5 python:
+    mainmenulist_thai = [
+        "ถ้าชอบเดโม ลอง{a=https://cutiesai.itch.io/14dayswithyou/rate?source=game}ให้คะแนน{/a}บน itch.io ดูนะ!",
+        "อยากช่วยแปลเดโม?\nเข้า{a=https://discord.gg/14dayswithyou}Discord ทางการ{/a}แล้วบอกได้เลย!",
+        "ดูอัปเดตล่าสุดได้ที่{a=https://cutiesai.itch.io/14dayswithyou}หน้า Itch ทางการ{/a}!",
+        "อยากสนับสนุนผู้พัฒนา? ไปที่{a=https://ko-fi.com/cutiesai}Ko-Fi{/a}ได้เลย!",
+    ]
+
+    # Override mainmenulist when Thai is active (runs after default init)
+    if _preferences.language == "thai":
+        mainmenulist = list(mainmenulist_thai)
+        # Also re-roll mainmenutext if it was already set to English
+        try:
+            if mainmenutext and mainmenutext not in mainmenulist_thai:
+                mainmenutext = renpy.random.choice(mainmenulist_thai)
+        except NameError:
+            pass
