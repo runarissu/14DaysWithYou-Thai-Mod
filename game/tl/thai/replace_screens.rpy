@@ -53,13 +53,3 @@ init 5 python:
         "ดูอัปเดตล่าสุดได้ที่{a=https://cutiesai.itch.io/14dayswithyou}หน้า Itch ทางการ{/a}!",
         "อยากสนับสนุนผู้พัฒนา? ไปที่{a=https://ko-fi.com/cutiesai}Ko-Fi{/a}ได้เลย!",
     ]
-
-    # Override mainmenulist when Thai is active (runs after default init)
-    if _preferences.language == "thai":
-        mainmenulist = list(mainmenulist_thai)
-        # Also re-roll mainmenutext if it was already set to English
-        try:
-            if mainmenutext and mainmenutext not in mainmenulist_thai:
-                mainmenutext = renpy.random.choice(mainmenulist_thai)
-        except NameError:
-            pass

@@ -2995,7 +2995,16 @@ screen main_menu():
             background Frame(["status_box"], gui.choice_button_borders)
             pos (650,240)
             xysize (400,130)
-            text "[mainmenutext]":
+            if _is_thai():
+                default _thai_menu_text = renpy.random.choice(mainmenulist_thai)
+                text "[_thai_menu_text]":
+                    font "fonts/Assistant-Regular.ttf"
+                    color "#141414"
+                    size 20
+                    text_align 0.5
+                    align (0.5,0.5)
+            else:
+                text "[mainmenutext]":
                     font "fonts/Assistant-Regular.ttf"
                     color "#141414"
                     size 20

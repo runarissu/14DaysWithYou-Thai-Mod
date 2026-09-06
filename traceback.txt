@@ -1,33 +1,52 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While loading the script.
-renpy.script.ScriptError: Name ('game/tl/thai/common.rpy', 621169801, 0) is defined twice, at game/tl/thai/common.rpy:6 and game/tl/thai/common.rpy:6.
+While running game code:
+renpy.game.JumpException: start
+
+During handling of the above exception, another exception occurred:
+
+renpy.script.LabelNotFound: could not find label 'start'.
 
 -- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "renpy/common/00start.rpy", line 306, in script
+    python:
+  File "renpy/ast.py", line 1187, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1273, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/00start.rpy", line 308, in <module>
+    renpy.jump("start")
+    ~~~~~~~~~~^^^^^^^^^
+  File "renpy/exports/statementexports.py", line 271, in jump
+    raise renpy.game.JumpException(label)
+renpy.game.JumpException: start
+
+During handling of the above exception, another exception occurred:
 
 Traceback (most recent call last):
   File "renpy/bootstrap.py", line 401, in bootstrap
     renpy.main.main()
     ~~~~~~~~~~~~~~~^^
-  File "renpy/main.py", line 412, in main
-    renpy.game.script.load_script()  # sets renpy.game.script.
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^                           
-  File "renpy/script.py", line 456, in load_script
-    self.load_appropriate_file(".rpyc", ["_ren.py", ".rpy"], dir, fn, initcode)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/script.py", line 1082, in load_appropriate_file
-    self.finish_load(stmts, initcode, filename=lastfn)  # type: ignore
-    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                
-  File "renpy/script.py", line 713, in finish_load
-    check_name(node)
-    ~~~~~~~~~~^^^^^^
-  File "renpy/script.py", line 674, in check_name
-    raise ScriptError(
-    ...<8 lines>...
-    )
-renpy.script.ScriptError: Name ('game/tl/thai/common.rpy', 621169801, 0) is defined twice, at game/tl/thai/common.rpy:6 and game/tl/thai/common.rpy:6.
+  File "renpy/main.py", line 591, in main
+    run(restart)
+    ~~~^^^^^^^^^
+  File "renpy/main.py", line 137, in run
+    renpy.execution.run_context(True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "renpy/execution.py", line 1036, in run_context
+    context.run()
+    ~~~~~~~~~~~^^
+  File "renpy/common/00start.rpy", line 306, in script
+    python:
+  File "renpy/script.py", line 1201, in lookup
+    raise LabelNotFound(original)
+renpy.script.LabelNotFound: could not find label 'start'.
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.2.26010301
  
-Sat Sep  5 22:56:14 2026
+Sun Sep  6 01:15:01 2026
