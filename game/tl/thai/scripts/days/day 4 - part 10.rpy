@@ -372,7 +372,7 @@ translate thai day4_snooping_811a0e49:
 translate thai day4_snooping_2848b12f:
 
     # n "All of a sudden, the app closes itself and shows me [ch_ren]'s cluttered desktop. And out of the corner of my eye, I swear I see the red light of his webcam turn on for a split second."
-    n "ทันใดนั้น แอปก็ปิดตัวเองแล้วโชว์หน้า desktop รกๆ ของ[ch_ren] แล้วจากมุมตา ฉันอาจเห็นไฟแดงของเว็บแคมติดขึ้นมาแวบหนึ่ง"
+    n "ทันใดนั้น แอปก็ปิดตัวเองแล้วโชว์หน้า เดสก์ท็อป รกๆ ของ[ch_ren] แล้วจากมุมตา ฉันอาจเห็นไฟแดงของเว็บแคมติดขึ้นมาแวบหนึ่ง"
 
 # game/scripts/days/day 4.rpy:2013
 

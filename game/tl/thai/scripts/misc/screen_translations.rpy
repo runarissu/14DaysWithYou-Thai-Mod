@@ -1102,8 +1102,8 @@ screen customcharacter():
                     text ("{color=#ff66cb}สีผม:{/color} เดิม [hair_colour]" if _is_thai() else "{color=#ff66cb}HAIR COLOUR:{/color} formerly [hair_colour]")
                 text ("{color=#ff66cb}สีตา:{/color} [eye_colour]\n" if _is_thai() else "{color=#ff66cb}EYE COLOUR:{/color} [eye_colour]\n")
                 text ("{color=#ff66cb}อาชีพ:{/color} บรรณารักษ์\n" if _is_thai() else "{color=#ff66cb}OCCUPATION:{/color} librarian\n")
-                text ("{color=#ff66cb}ที่อยู่:{/color} {font=fonts/FlowBlock-Regular.ttf}lol like I'd spoil this information so early on{/font}, Corland Bay\n" if _is_thai() else "{color=#ff66cb}HOME ADDRESS:{/color} {font=fonts/FlowBlock-Regular.ttf}lol like I'd spoil this information so early on{/font}, Corland Bay\n")
-                text ("{color=#ff66cb}คนรู้จัก:{/color} Leon Davis (เพื่อน), \"Moth\" (เพื่อน), {font=fonts/FlowBlock-Regular.ttf}Ren (future boyfriend){/font}, Violet Garcia (เพื่อนบ้าน), Elanor Creston (เพื่อนร่วมงาน), Conan O'Rourke (นายจ้าง), {font=fonts/FlowBlock-Regular.ttf}spoilers, spoiler spoil hehe{/font}\n" if _is_thai() else "{color=#ff66cb}KNOWN AFFILIATES:{/color} Leon Davis (friend), \"Moth\" (friend), {font=fonts/FlowBlock-Regular.ttf}Ren (future boyfriend){/font}, Violet Garcia (neighbour), Elanor Creston (coworker), Conan O'Rourke (employer), {font=fonts/FlowBlock-Regular.ttf}spoilers, spoiler spoil hehe{/font}\n")
+                text ("{color=#ff66cb}ที่อยู่:{/color} {font=fonts/FlowBlock-Regular.ttf}555 คิดว่าฉันจะสปอยล์ข้อมูลนี้ตั้งแต่ตอนนี้เหรอ{/font}, Corland Bay\n" if _is_thai() else "{color=#ff66cb}HOME ADDRESS:{/color} {font=fonts/FlowBlock-Regular.ttf}lol like I'd spoil this information so early on{/font}, Corland Bay\n")
+                text ("{color=#ff66cb}คนรู้จัก:{/color} Leon Davis (เพื่อน), \"Moth\" (เพื่อน), {font=fonts/FlowBlock-Regular.ttf}Ren (แฟนในอนาคต){/font}, Violet Garcia (เพื่อนบ้าน), Elanor Creston (เพื่อนร่วมงาน), Conan O'Rourke (นายจ้าง), {font=fonts/FlowBlock-Regular.ttf}สปอยล์, สปอยล์ สปอยล์ แหะๆ{/font}\n" if _is_thai() else "{color=#ff66cb}KNOWN AFFILIATES:{/color} Leon Davis (friend), \"Moth\" (friend), {font=fonts/FlowBlock-Regular.ttf}Ren (future boyfriend){/font}, Violet Garcia (neighbour), Elanor Creston (coworker), Conan O'Rourke (employer), {font=fonts/FlowBlock-Regular.ttf}spoilers, spoiler spoil hehe{/font}\n")
                 text ("{color=#ff66cb}ครอบครัว:{/color} ไม่ทราบ" if _is_thai() else "{color=#ff66cb}KNOWN FAMILY:{/color} unknown")
 
         vpgrid:
@@ -1270,7 +1270,7 @@ screen custompronouns():
                 textbutton _("are") text_style "cutietext" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("are", "are")] hovered Play("sound", "audio/ui/click1.ogg")
             hbox:
                 xalign 0.5
-                text "she is... | he is... | they are...":
+                text ("เธอคือ... | เขาคือ... | พวกเขาคือ..." if _is_thai() else "she is... | he is... | they are..."):
                     font "fonts/Assistant-Regular.ttf"
                     size 20
                     color "#8f8f8f"
@@ -1387,7 +1387,7 @@ screen newsbanner():
         pos (197,5)
         hbox:
             at newscroll
-            text ("ข่าวด่วน: Ren คือ best boy และนี่ยังเป็นงานที่กำลังทำอยู่" if _is_thai() else "BREAKING NEWS: REN IS BEST BOY AND THIS IS STILL A WIP."):
+            text ("ข่าวด่วน: Ren คือเบสบอย และนี่ยังเป็นงานที่กำลังทำอยู่" if _is_thai() else "BREAKING NEWS: REN IS BEST BOY AND THIS IS STILL A WIP."):
                 color "#f8f8f8"
                 font "fonts/VT323-Regular.ttf"
                 size 25
@@ -2581,7 +2581,7 @@ screen chat_work():
                     padding (40,20,40,20)
                     xysize (580,107)
                     pos (130,35)
-                    text ("วันที่ 14 ของการทำ visual novel ตัวเองระหว่างเวลางาน >:3" if _is_thai() else "Day 14 of me making my own visual novel during work hours >:3"):
+                    text ("วันที่ 14 ของการทำวิชวลโนเวลตัวเองระหว่างเวลางาน >:3" if _is_thai() else "Day 14 of me making my own visual novel during work hours >:3"):
                         font "fonts/VT323-Regular.ttf"
                         color "#141414"
                         size 32
@@ -3028,7 +3028,7 @@ screen main_menu():
     vbox:
         align (1.0,0.0)
         if renpy.variant("mobile"):
-            text "Android [version_number]":
+            text ("แอนดรอยด์ [version_number]" if _is_thai() else "Android [version_number]"):
                 size 25
                 xalign 1.0
                 outlines [ (1, "141414", absolute(0), absolute(0)) ]
@@ -3282,7 +3282,7 @@ screen about():
             text ("{font=fonts/Assistant-Regular.ttf}เอฟเฟกต์เสียงธรรมชาติ & บรรยากาศ: {a=https://pixabay.com}{color=#f8f8f8}{size=-2}Pixabay{/size}{/color}{/a}{/font}" if _is_thai() else "Nature & ambience SFX: {a=https://pixabay.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Pixabay{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
             text ("{font=fonts/Assistant-Regular.ttf}รูปพื้นหลังสต็อก: {a=https://www.pexels.com}{color=#f8f8f8}{size=-2}Pexels{/size}{/color}{/a}{/font}" if _is_thai() else "Background stock images: {a=https://www.pexels.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Pexels{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
             text ("{font=fonts/Assistant-Regular.ttf}แท็กข้อความเคลื่อนไหว & เชดเดอร์: {a=https://wattson.itch.io}{color=#f8f8f8}{size=-2}Wattson{/size}{/color}{/a}{/font}" if _is_thai() else "Kinetic text tags & shaders: {a=https://wattson.itch.io}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Wattson{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
-            text ("{font=fonts/Assistant-Regular.ttf}Discord rich presence: {a=https://arianeb.com}{color=#f8f8f8}{size=-2}Ariane Barnes{/size}{/color}{/a}{/font}" if _is_thai() else "Discord rich presence: {a=https://arianeb.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ariane Barnes{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
+            text ("{font=fonts/Assistant-Regular.ttf}Discord สถานะการเล่น: {a=https://arianeb.com}{color=#f8f8f8}{size=-2}Ariane Barnes{/size}{/color}{/a}{/font}" if _is_thai() else "Discord rich presence: {a=https://arianeb.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ariane Barnes{/size}{/color}{/font}{/a}") style "popupbox_text_pink"
             text ("{font=fonts/Assistant-Regular.ttf}เอนจินเกม: {color=#f8f8f8}{size=-2}Ren'Py [renpy.version_only]{/size}{/color}{/font}" if _is_thai() else "Game engine: {font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Ren'Py [renpy.version_only]{/size}{/color}{/font}") style "popupbox_text_pink"
             text ("{font=fonts/Assistant-Regular.ttf}{color=#9d64fd}ทุกอย่างอื่น:{/color} {a=https://cutiesai.com}{color=#f8f8f8}{size=-2}Saint (cutiesai){/size}{/color}{/a}{/font}" if _is_thai() else "{color=#9d64fd}Everything else:{/color} {a=https://cutiesai.com}{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}Saint (cutiesai){/size}{/color}{/font}{/a}") style "popupbox_text_pink"
             text ("\n{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}และขอบคุณมากๆ สำหรับทุกคนที่\nสนับสนุนเดโม!{/size}{/color}{/font}" if _is_thai() else "\n{font=fonts/Assistant-Regular.ttf}{color=#f8f8f8}{size=-2}And a big thank you to those who have\nsupported the demo!{/size}{/color}{/font}") style "popupbox_text_pink"
@@ -3829,52 +3829,52 @@ screen album():
                     if persistent.fact_name == True:
                         text ("{color=#FF66CB}{size=+5}ชื่อ:{/size}{/color} REN ({font=FlowBlock-Regular.ttf}LMAO YOU_THOUGHT{/font})" if _is_thai() else "{color=#FF66CB}{size=+5}NAME:{/size}{/color} REN ({font=FlowBlock-Regular.ttf}LMAO YOU_THOUGHT{/font})") style "terminal_button"
                     else:
-                        text "{color=#FF66CB}{size=+5}NAME:{/size}{/color}{font=FlowBlock-Regular.ttf} REN (LMAO YOU_THOUGHT){/font}" style "terminal_button"
+                        text ("{color=#FF66CB}{size=+5}ชื่อ:{/size}{/color}{font=FlowBlock-Regular.ttf} REN (LMAO YOU_THOUGHT){/font}" if _is_thai() else "{color=#FF66CB}{size=+5}NAME:{/size}{/color}{font=FlowBlock-Regular.ttf} REN (LMAO YOU_THOUGHT){/font}") style "terminal_button"
                     if persistent.fact_dob == True:
                         text ("{color=#FF66CB}{size=+5}วันเกิด:{/size}{/color} ???" if _is_thai() else "{color=#FF66CB}{size=+5}DOB:{/size}{/color} ???") style "terminal_button"
                     else:
-                        text "{color=#FF66CB}{size=+5}DOB:{/size}{/color}{font=FlowBlock-Regular.ttf} 00/00/XXXX{/font}" style "terminal_button"
+                        text ("{color=#FF66CB}{size=+5}วันเกิด:{/size}{/color}{font=FlowBlock-Regular.ttf} 00/00/XXXX{/font}" if _is_thai() else "{color=#FF66CB}{size=+5}DOB:{/size}{/color}{font=FlowBlock-Regular.ttf} 00/00/XXXX{/font}") style "terminal_button"
                     if persistent.fact_job == True:
                         text ("{color=#FF66CB}{size=+5}อาชีพ:{/size}{/color} โปรแกรมเมอร์ฟรีแลนซ์" if _is_thai() else "{color=#FF66CB}{size=+5}OCCUPATION:{/size}{/color} FREELANCE PROGRAMMER") style "terminal_button"
                     else:
-                        text "{color=#FF66CB}{size=+5}OCCUPATION:{/size}{/color}{font=FlowBlock-Regular.ttf} FREELANCE PROGRAMMER{/font}" style "terminal_button"
+                        text ("{color=#FF66CB}{size=+5}อาชีพ:{/size}{/color}{font=FlowBlock-Regular.ttf} โปรแกรมเมอร์ฟรีแลนซ์{/font}" if _is_thai() else "{color=#FF66CB}{size=+5}OCCUPATION:{/size}{/color}{font=FlowBlock-Regular.ttf} FREELANCE PROGRAMMER{/font}") style "terminal_button"
                     ## unlockable stuff (surely there's an easier way to do this?????? lawd)
                     text ("{color=#FF66CB}{size=+5}\nข้อมูลที่ทราบ:{/size}{/color}" if _is_thai() else "{color=#FF66CB}{size=+5}\nKNOWN FACTS:{/size}{/color}") style "terminal_button"
                     if persistent.fact_tempermentshy == True:
                         text ("- ขี้อายและเงอะงะ เหมือน Haruko จาก \"ATTACK ON GIANTS\"" if _is_thai() else "- TIMID AND AWKWARD, LIKE HARUKO FROM \"ATTACK ON GIANTS\"") style "terminal_button"
                     else:
-                        text "- {font=FlowBlock-Regular.ttf}TIMID AND AWKWARD, LIKE HARUKO FROM \"ATTACK ON GIANTS\"{/font}" style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}ขี้อายและเงอะงะ เหมือน Haruko จาก \"ATTACK ON GIANTS\"{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}TIMID AND AWKWARD, LIKE HARUKO FROM \"ATTACK ON GIANTS\"{/font}") style "terminal_button"
                     if persistent.fact_mannerism1 == True:
                         text ("- เกาคางเวลาไม่มั่นใจหรือไม่สบายใจ" if _is_thai() else "- SCRATCHES AT JAW WHEN UNSURE OR UNCOMFORTABLE") style "terminal_button"
                     else:
-                        text "- {font=FlowBlock-Regular.ttf}SCRATCHES AT JAW WHEN UNSURE OR UNCOMFORTABLE{/font}" style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}เกาคางเวลาไม่มั่นใจหรือไม่สบายใจ{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}SCRATCHES AT JAW WHEN UNSURE OR UNCOMFORTABLE{/font}") style "terminal_button"
                     if persistent.fact_mannerism2 == True:
                         text ("- ดึงแขนเสื้อเวลาวิตกกังวล" if _is_thai() else "- PICKS AT SLEEVES WHEN ANXIOUS") style "terminal_button"
                     else:
-                        text "- {font=FlowBlock-Regular.ttf}PICKS AT SLEEVES WHEN ANXIOUS{/font}" style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}ดึงแขนเสื้อเวลาวิตกกังวล{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}PICKS AT SLEEVES WHEN ANXIOUS{/font}") style "terminal_button"
                     if persistent.fact_food == True:
                         text ("- อาหารโปรดคือสตรอว์เบอร์รี่สวีตโรล" if _is_thai() else "- FAVOURITE FOOD IS STRAWBERRY SWEETROLL") style "terminal_button"
                     else:
-                        text "- {font=FlowBlock-Regular.ttf}FAVOURITE FOOD IS STRAWBERRY SWEETROLL{/font}" style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}อาหารโปรดคือสตรอว์เบอร์รี่สวีตโรล{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}FAVOURITE FOOD IS STRAWBERRY SWEETROLL{/font}") style "terminal_button"
                     if persistent.fact_drink == True:
                         text ("- เครื่องดื่มโปรดคือกาแฟดำ" if _is_thai() else "- FAVOURITE DRINK IS BLACK COFFEE") style "terminal_button"
                     else:
-                        text "- {font=FlowBlock-Regular.ttf}FAVOURITE DRINK IS BLACK COFFEE{/font}" style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}เครื่องดื่มโปรดคือกาแฟดำ{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}FAVOURITE DRINK IS BLACK COFFEE{/font}") style "terminal_button"
                     if persistent.fact_cosmetics == True:
                         text ("- ใช้คอนซีลเลอร์และย้อมผม" if _is_thai() else "- USES CONCEALER AND HAIR DYE") style "terminal_button"
                     else:
-                        text "- {font=FlowBlock-Regular.ttf}USES CONCEALER AND HAIR DYE{/font}" style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}ใช้คอนซีลเลอร์และย้อมผม{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}USES CONCEALER AND HAIR DYE{/font}") style "terminal_button"
 
                     if persistent.fact_residence == True:
                         text ("- อาศัยอยู่ในย่านดีของ Corland Bay" if _is_thai() else "- LIVES IN THE BETTER PARTS OF CORLAND BAY") style "terminal_button"
                         text ("- พักอยู่ที่ Sunshine Hills Apartments" if _is_thai() else "- HAS A RESIDENCY AT SUNSHINE HILLS APARTMENTS") style "terminal_button"
                     else:
-                        text "- {font=FlowBlock-Regular.ttf}LIVES IN THE BETTER PARTS OF CORLAND BAY{/font}" style "terminal_button"
-                        text "- {font=FlowBlock-Regular.ttf}HAS A RESIDENCY AT SUNSHINE HILLS APARTMENTS{/font}" style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}อาศัยอยู่ในย่านดีของ Corland Bay{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}LIVES IN THE BETTER PARTS OF CORLAND BAY{/font}") style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}พักอยู่ที่ Sunshine Hills Apartments{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}HAS A RESIDENCY AT SUNSHINE HILLS APARTMENTS{/font}") style "terminal_button"
                     if persistent.fact_awy == True:
                         text ("- สนใจ \"ALWAYS WITH YOU\"" if _is_thai() else "- HAS AN INTEREST IN \"ALWAYS WITH YOU\"") style "terminal_button"
                     else:
-                        text "- {font=FlowBlock-Regular.ttf}HAS AN INTEREST IN \"ALWAYS WITH YOU\"{/font}" style "terminal_button"
+                        text ("- {font=FlowBlock-Regular.ttf}สนใจ \"ALWAYS WITH YOU\"{/font}" if _is_thai() else "- {font=FlowBlock-Regular.ttf}HAS AN INTEREST IN \"ALWAYS WITH YOU\"{/font}") style "terminal_button"
                     textbutton ("{size=+10}ออกจากระบบ{/size}" if _is_thai() else "{size=+10}LOG OUT{/size}") text_style "terminal_button" action ToggleVariable("persistent.terminal_unlocked") align (0.5,0.5) at choice_fade
 
     vpgrid:

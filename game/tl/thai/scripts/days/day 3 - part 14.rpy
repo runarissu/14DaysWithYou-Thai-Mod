@@ -204,7 +204,7 @@ translate thai day3_dayend_e05a1adc:
 translate thai day3_dayend_f965587a:
 
     # n "But my eyes were starting to get droopy, and all my mind could think about was the \"double date\" I had planned with [ch_leon], [ch_teo], and [ch_elanor] tomorrow."
-    n "แต่ตาฉันเริ่มหนักอึ้ง และสมองมีแต่คิดเรื่อง \"double date\" ที่ฉันนัดกับ [ch_leon], [ch_teo] และ [ch_elanor] พรุ่งนี้"
+    n "แต่ตาฉันเริ่มหนักอึ้ง และสมองมีแต่คิดเรื่อง \"ดับเบิ้ลเดท\" ที่ฉันนัดกับ [ch_leon], [ch_teo] และ [ch_elanor] พรุ่งนี้"
 
 # game/scripts/days/day 3.rpy:2597
 

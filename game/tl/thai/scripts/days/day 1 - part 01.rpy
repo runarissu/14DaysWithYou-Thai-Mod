@@ -172,7 +172,7 @@ translate thai day1_1d7c2bfc:
 translate thai day1_461134a6:
 
     # n "Without missing a beat, I open up the image gallery with practised fingers and send back a blurry picture of a worm in a bag of crisps with the word \"sexy\" written in glitter font."
-    n "โดยไม่รอช้า ฉันเปิดแกลเลอรี่รูปภาพด้วยนิ้วที่คล่องแคล่วแล้วส่งรูปเบลอๆ ของหนอนในถุงมันฝรั่งทอดที่มีคำว่า \"sexy\" เขียนด้วยฟอนต์เป็นประกายกลับไป"
+    n "โดยไม่รอช้า ฉันเปิดแกลเลอรี่รูปภาพด้วยนิ้วที่คล่องแคล่วแล้วส่งรูปเบลอๆ ของหนอนในถุงมันฝรั่งทอดที่มีคำว่า \"เซ็กซี่\" เขียนด้วยฟอนต์เป็นประกายกลับไป"
 
 # game/scripts/days/day 1.rpy:100
 translate thai day1_dc1576e8:
@@ -274,7 +274,7 @@ translate thai day1_0d6acbc4:
 translate thai day1_e9533b42:
 
     # mt "oh for real??? haruko never changed his hairstyle? i guess that makes sense lol"
-    mt "โอ้จริงเหรอ??? haruko ไม่เคยเปลี่ยนทรงผมเลย? ก็เข้าใจได้นะ lol"
+    mt "โอ้จริงเหรอ??? haruko ไม่เคยเปลี่ยนทรงผมเลย? ก็เข้าใจได้นะ 555"
 
 # game/scripts/days/day 1.rpy:129
 translate thai day1_76d7d6d9:
@@ -304,7 +304,7 @@ translate thai day1_9017cf05:
 translate thai day1_355a4960:
 
     # mt "right???? or am i just dumb and got the time zones mixed up again lol"
-    mt "ใช่มั้ย???? หรือฉันโง่แล้วสับเขตเวลาอีกแล้ว lol"
+    mt "ใช่มั้ย???? หรือฉันโง่แล้วสับเขตเวลาอีกแล้ว 555"
 
 # game/scripts/days/day 1.rpy:135
 translate thai day1_6daf2279:

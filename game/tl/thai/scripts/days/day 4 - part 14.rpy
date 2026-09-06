@@ -141,7 +141,7 @@ translate thai day4_acceptoffer_55c3f474:
 translate thai day4_acceptoffer_c79bfcac:
 
     # n "Picking up the manual, [ch_ren] tries to busy himself with learning how to connect the cameras to my Wi-Fi — before tossing it aside and doing it {b}his{/b} own way."
-    n "[ch_ren] หยิบคู่มือขึ้นมาอ่าน พยายามจะศึกษาวิธีเชื่อมกล้องเข้ากับ Wi-Fi ของฉัน — แต่สุดท้ายก็ทิ้งมันไปแล้วทำแบบ{b}เขา{/b}เอง"
+    n "[ch_ren] หยิบคู่มือขึ้นมาอ่าน พยายามจะศึกษาวิธีเชื่อมกล้องเข้ากับ ไวไฟ ของฉัน — แต่สุดท้ายก็ทิ้งมันไปแล้วทำแบบ{b}เขา{/b}เอง"
 
 # game/scripts/days/day 4.rpy:2761
 
@@ -316,7 +316,7 @@ translate thai day4_acceptoffer_55c3f474_1:
 translate thai day4_acceptoffer_c79bfcac_1:
 
     # n "Picking up the manual, [ch_ren] tries to busy himself with learning how to connect the cameras to my Wi-Fi — before tossing it aside and doing it {b}his{/b} own way."
-    n "[ch_ren] หยิบคู่มือขึ้นมาอ่าน พยายามจะศึกษาวิธีเชื่อมกล้องเข้ากับ Wi-Fi ของฉัน — แต่สุดท้ายก็ทิ้งมันไปแล้วทำแบบ{b}เขา{/b}เอง"
+    n "[ch_ren] หยิบคู่มือขึ้นมาอ่าน พยายามจะศึกษาวิธีเชื่อมกล้องเข้ากับ ไวไฟ ของฉัน — แต่สุดท้ายก็ทิ้งมันไปแล้วทำแบบ{b}เขา{/b}เอง"
 
 # game/scripts/days/day 4.rpy:2802
 

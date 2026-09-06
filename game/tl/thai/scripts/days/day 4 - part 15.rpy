@@ -372,14 +372,14 @@ translate thai day4_closetbranch_d4474db3:
 translate thai day4_closetbranch_0683d976:
 
     # e "Here! I'm sure we'll all start to feel better again once we've had something to eat. I hope you like adobo as much as me."
-    e "นี่จ้า! ฉันแน่ใจว่าพอได้กินอะไรเข้าท้อง ทุกคนคงรู้สึกดีขึ้น หวังว่าแกจะชอบ adobo เท่าฉันนะ"
+    e "นี่จ้า! ฉันแน่ใจว่าพอได้กินอะไรเข้าท้อง ทุกคนคงรู้สึกดีขึ้น หวังว่าแกจะชอบ อาโดโบ เท่าฉันนะ"
 
 # game/scripts/days/day 4.rpy:3000
 
 translate thai day4_closetbranch_504e281d:
 
     # t "…Adobo? Is that foreign?"
-    t "...adobo? ของต่างประเทศเหรอ?"
+    t "...อาโดโบ? ของต่างประเทศเหรอ?"
 
 # game/scripts/days/day 4.rpy:3002
 

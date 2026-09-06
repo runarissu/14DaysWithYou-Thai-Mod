@@ -184,7 +184,7 @@ translate thai day3_libraryscene_c5ee5ff0:
 translate thai day3_libraryscene_6356690e:
 
     # n "Even from here, I could make out [ch_elanor]'s fancy \"welcome!\" message written on the chalkboard sign, and from the looks of the parking situation outside, it didn't seem that busy… yet."
-    n "แม้แต่จากตรงนี้ ฉันก็เห็นข้อความ \"welcome!\" สวยๆ ของ [ch_elanor] ที่เขียนอยู่บนป้ายกระดานชอล์ก และจากสภาพที่จอดรถข้างนอก ดูเหมือนจะยังไม่ค่อยยุ่ง… ตอนนี้"
+    n "แม้แต่จากตรงนี้ ฉันก็เห็นข้อความ \"ยินดีต้อนรับ!\" สวยๆ ของ [ch_elanor] ที่เขียนอยู่บนป้ายกระดานชอล์ก และจากสภาพที่จอดรถข้างนอก ดูเหมือนจะยังไม่ค่อยยุ่ง… ตอนนี้"
 
 # game/scripts/days/day 3.rpy:331
 translate thai day3_libraryscene_8eeb121b:

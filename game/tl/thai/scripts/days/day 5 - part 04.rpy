@@ -99,7 +99,7 @@ translate thai day5_ferryscene_33ea6af1:
 translate thai day5_ferryscene_4303c975:
 
     # m "Well, don't worry about it too much! I'll be sure to buy you all the Haruko charms I can find. I mean, I still owe you, don't I?"
-    m "เอาน่า ไม่ต้องคิดมาก! ฉันจะซื้อ charm Haruko ให้แกทุกอันที่เจอเลย คือฉันยังเป็นหนี้แกอยู่ใช่มั้ง?"
+    m "เอาน่า ไม่ต้องคิดมาก! ฉันจะซื้อ เครื่องราง Haruko ให้แกทุกอันที่เจอเลย คือฉันยังเป็นหนี้แกอยู่ใช่มั้ง?"
 
 # game/scripts/days/day 5.rpy:683
 

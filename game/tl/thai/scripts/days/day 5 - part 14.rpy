@@ -204,14 +204,14 @@ translate thai day5_reneepy_2832ccbf:
 translate thai day5_reneepy_2ebaff45:
 
     # m "Must be all the manifesting you've been doing in our DMs."
-    m "คงเป็นเพราะการ manifest ที่มึงทำในแชทของเราสิ"
+    m "คงเป็นเพราะการ มานิเฟส ที่มึงทำในแชทของเราสิ"
 
 # game/scripts/days/day 5.rpy:3030
 
 translate thai day5_reneepy_49344799:
 
     # y "Oh, please—manifesting? I think {i}you're{/i} the one who's been doing that."
-    y "โอ้ย—manifest? ฉันว่า {i}มึง{/i} ต่างหากที่ทำแบบนั้น"
+    y "โอ้ย—มานิเฟส? ฉันว่า {i}มึง{/i} ต่างหากที่ทำแบบนั้น"
 
 # game/scripts/days/day 5.rpy:3031
 
@@ -232,7 +232,7 @@ translate thai day5_reneepy_1fbb502b:
 translate thai day5_reneepy_0f769b0e:
 
     # y "Manifest harder."
-    y "ก็ manifest ให้แรงกว่านี้สิ"
+    y "ก็ มานิเฟส ให้แรงกว่านี้สิ"
 
 # game/scripts/days/day 5.rpy:3036
 

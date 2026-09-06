@@ -122,7 +122,7 @@ translate thai strings:
 
     # game/scripts/days/day 3.rpy:1409
     old "{glitch=10.0}{b}Go back…{/b}{/glitch}"
-    new "{glitch=10.0}{b}Go back…{/b}{/glitch}"
+    new "{glitch=10.0}{b}ย้อนกลับ…{/b}{/glitch}"
 
     # game/scripts/days/day 3.rpy:1529
     old "The location is nice"
@@ -174,7 +174,7 @@ translate thai strings:
 
     # game/scripts/days/day 3.rpy:2536
     old "{glitch=10.0}{b}Accept [ch_leon]'s offer{/b}{/glitch}"
-    new "{glitch=10.0}{b}Accept [ch_leon]'s offer{/b}{/glitch}"
+    new "{glitch=10.0}{b}ยอมรับข้อเสนอของ [ch_leon]{/b}{/glitch}"
 
     # game/scripts/days/day 3.rpy:2551
     old "[de_o]Decline [ch_leon]'s offer[de_c]"

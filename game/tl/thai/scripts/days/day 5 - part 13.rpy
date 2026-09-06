@@ -554,7 +554,7 @@ translate thai day5_renevening_14a91103:
 translate thai day5_renevening_dad1886e:
 
     # m "C'moooooon! What if he's one of the lucky people who got Haruko's limited-edition sword? You're seriously not interested? Even the slightest bit?"
-    m "เฮ้ยยย! ถ้าเขาเป็นคนหนึ่งที่ได้ดาบ limited-edition ของ Haruko ล่ะ? แกไม่สนจริงๆ เหรอ? แม้แต่นิดเดียว?"
+    m "เฮ้ยยย! ถ้าเขาเป็นคนหนึ่งที่ได้ดาบ ฉบับลิมิเต็ด ของ Haruko ล่ะ? แกไม่สนจริงๆ เหรอ? แม้แต่นิดเดียว?"
 
 # game/scripts/days/day 5.rpy:2910
 

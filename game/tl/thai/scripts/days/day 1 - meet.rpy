@@ -406,7 +406,7 @@ translate thai day1_meetelanor_90b11a1f:
 translate thai day1_meetelanor_0b4ec730:
 
     # n "Spinning around once more, [ch_elanor] comes back and hands me a sheet of paper with the word \"SCHEDULE\" printed in big, bold letters. I take it from her grasp and give the sheet a once-over."
-    n "หันกลับมาอีกครั้ง [ch_elanor] เดินกลับมายื่นกระดาษให้ฉัน มีคำว่า \"SCHEDULE\" พิมพ์ด้วยตัวอักษรตัวใหญ่ๆ ฉันรับมามาดูสักครู่"
+    n "หันกลับมาอีกครั้ง [ch_elanor] เดินกลับมายื่นกระดาษให้ฉัน มีคำว่า \"ตารางเวลา\" พิมพ์ด้วยตัวอักษรตัวใหญ่ๆ ฉันรับมามาดูสักครู่"
 
 # game/scripts/days/day 1.rpy:350
 translate thai day1_meetelanor_2b250a7f:

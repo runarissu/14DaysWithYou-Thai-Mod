@@ -260,7 +260,7 @@ translate thai day4_televisionscene_9f31ae27:
 translate thai day4_renreturns_2b4c8bba:
 
     # n "In one of his hands is my beloved phone — alongside a bag of delicious-smelling takeout and an angelfish plushie peeking out from another."
-    n "มือข้างหนึ่งของเขาถือโทรศัพท์ที่ฉันรัก — พร้อมกับถุงอาหารที่มีกลิ่นหอม และตุ๊กตาปลา angelfish ที่โผล่หัวออกมาจากอีกถุง"
+    n "มือข้างหนึ่งของเขาถือโทรศัพท์ที่ฉันรัก — พร้อมกับถุงอาหารที่มีกลิ่นหอม และตุ๊กตาปลา ปลาออสการ์ ที่โผล่หัวออกมาจากอีกถุง"
 
 # game/scripts/days/day 4.rpy:2180
 

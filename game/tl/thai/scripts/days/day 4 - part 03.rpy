@@ -421,7 +421,7 @@ translate thai day4_aquariumscene_a18eb7c3:
 translate thai day4_aquariumscene_1e904f89:
 
     # l "See if they have any sunfish merch in there."
-    l "ดูให้ดีๆ นะครับว่ามีของ Sunfish ขายไหม"
+    l "ดูให้ดีๆ นะครับว่ามีของ ปลาซันฟิช ขายไหม"
 
 # game/scripts/days/day 4.rpy:581
 
@@ -547,7 +547,7 @@ translate thai day4_aquariumscene_c9c2e233:
 translate thai day4_aquariumscene_504056fd:
 
     # n "If only [ch_leon] could join us… I could almost hear his laughter at some of the sunfish-like creatures that swim by."
-    n "ถ้า [ch_leon] มาด้วยได้ก็ดี… ฉันเกือบจะได้ยินเสียงหัวเราะของเขาเวลาเห็นสัตว์ทะเลที่หน้าตาเหมือน Sunfish ว่ายผ่านไป"
+    n "ถ้า [ch_leon] มาด้วยได้ก็ดี… ฉันเกือบจะได้ยินเสียงหัวเราะของเขาเวลาเห็นสัตว์ทะเลที่หน้าตาเหมือน ปลาซันฟิช ว่ายผ่านไป"
 
 # game/scripts/days/day 4.rpy:628
 
@@ -617,7 +617,7 @@ translate thai day4_aquariumscene_d18e4101:
 translate thai day4_aquariumscene_2c925764:
 
     # n "Was that… an angelfish?"
-    n "นั่นมัน… Angelfish?"
+    n "นั่นมัน… ปลาออสการ์?"
 
 # game/scripts/days/day 4.rpy:647
 
@@ -687,13 +687,13 @@ translate thai day4_aquariumscene_b1d885fa:
 translate thai day4_aquariumscene_7b199188:
 
     # r "Hey, did you spot the angelfish swimming by?"
-    r "เฮ้ ได้เห็น Angelfish ว่ายผ่านไปไหม?"
+    r "เฮ้ ได้เห็น ปลาออสการ์ ว่ายผ่านไปไหม?"
 
 # game/scripts/days/day 4.rpy:681
 
 translate thai day4_aquariumscene_fe55ddea:
 
     # r "…Sunfish? There were sunfish as well? I-I didn't even notice… Sorry."
-    r "…Sunfish? มี Sunfish ด้วยเหรอ? ฉ-ฉันไม่ได้สังเกตเลย… ขอโทษ"
+    r "…ปลาซันฟิช? มี ปลาซันฟิช ด้วยเหรอ? ฉ-ฉันไม่ได้สังเกตเลย… ขอโทษ"
 
 # game/scripts/days/day 4.rpy:682

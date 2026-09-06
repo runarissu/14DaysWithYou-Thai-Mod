@@ -547,7 +547,7 @@ translate thai day4_closetbranch_5e269a53:
 translate thai day4_closetbranch_16ccd9ec:
 
     # n "Peering into the bag {b}still{/b} being held tightly in [ch_ren]'s grasp, I notice the food, an adorable angelfish plushie, and…"
-    n "ฉันมองเข้าไปในถุงที่ [ch_ren] {b}ยังคง{/b}กำแน่นอยู่ ก็เห็นอาหาร ตุ๊กตาปลา Angelfish น่ารักๆ และก็..."
+    n "ฉันมองเข้าไปในถุงที่ [ch_ren] {b}ยังคง{/b}กำแน่นอยู่ ก็เห็นอาหาร ตุ๊กตาปลา ปลาออสการ์ น่ารักๆ และก็..."
 
 # game/scripts/days/day 4.rpy:3411
 

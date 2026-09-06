@@ -64,7 +64,7 @@ translate thai day3_invitemoth_09a838af:
 translate thai day3_invitemoth_a931c75d:
 
     # n "[damn!c]. Curse their horrible wifi."
-    n "[damn!c] แช่ง wifi ห่วยๆ ของ M จริง"
+    n "[damn!c] แช่ง ไวไฟ ห่วยๆ ของ M จริง"
 
 # game/scripts/days/day 3.rpy:1961
 

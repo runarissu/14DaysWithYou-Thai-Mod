@@ -344,7 +344,7 @@ translate thai monsterpupeasteregg_1566fed8:
 translate thai monsterpupeasteregg_fceeb8ed:
 
     # l "Haha, sounds good, sunpup!"
-    l "ฮ่าๆ ได้เลยครับ sunpup!"
+    l "ฮ่าๆ ได้เลยครับ ซันพัพ!"
 
 # game/scripts/days/day 0.rpy:708
 
@@ -358,7 +358,7 @@ translate thai monsterpupeasteregg_67e76117:
 translate thai monsterpupeasteregg_22898517:
 
     # j "You got it, sunshine!"
-    j "รับทราบ sunshine!"
+    j "รับทราบ ซันไชน์!"
 
 # game/scripts/days/day 0.rpy:712
 
@@ -379,7 +379,7 @@ translate thai monsterpupeasteregg_de149069:
 translate thai monsterpupeasteregg_ee6e6c56:
 
     # na "And you too, loverboy. Elanor's told me all about you."
-    na "และคุณด้วย loverboy Elanor เล่าเรื่องคุณให้ฉันฟังหมดแล้ว"
+    na "และคุณด้วย ที่รัก Elanor เล่าเรื่องคุณให้ฉันฟังหมดแล้ว"
 
 # game/scripts/days/day 0.rpy:718
 

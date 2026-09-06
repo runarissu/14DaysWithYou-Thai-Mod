@@ -8,7 +8,7 @@ translate thai day4_aquariumscene_3d86c15f:
 translate thai day4_aquariumscene_e1d5c152:
 
     # r "You know, I don't think I've ever seen a sunfish from the front."
-    r "รู้ไหม ฉันว่าฉันไม่เคยเห็น sunfish จากด้านหน้าเลยนะ"
+    r "รู้ไหม ฉันว่าฉันไม่เคยเห็น ปลาซันฟิช จากด้านหน้าเลยนะ"
 
 # game/scripts/days/day 4.rpy:685
 
@@ -92,7 +92,7 @@ translate thai day4_aquariumscene_e3b8afcb:
 translate thai day4_aquariumscene_e41ec1f8:
 
     # r "Heh, clownfish? Wait… Isn't there a popular movie about one?"
-    r "เฮ่ ๆ clownfish? เดี๋ยวนะ… มันมีหนังดังเรื่องนึงเกี่ยวกับพวกนี้ไม่ใช่เหรอ?"
+    r "เฮ่ ๆ ปลาการ์ตูน? เดี๋ยวนะ… มันมีหนังดังเรื่องนึงเกี่ยวกับพวกนี้ไม่ใช่เหรอ?"
 
 # game/scripts/days/day 4.rpy:709
 
@@ -134,7 +134,7 @@ translate thai day4_aquariumscene_d7c7f463:
 translate thai day4_aquariumscene_f4ed90e6:
 
     # r "Hmm… Probably something about finding emos."
-    r "อืม… คงจะเป็นเรื่องเกี่ยวกับการตามหาพวก emo มั้ง"
+    r "อืม… คงจะเป็นเรื่องเกี่ยวกับการตามหาพวก อีโม มั้ง"
 
 # game/scripts/days/day 4.rpy:718
 
@@ -155,7 +155,7 @@ translate thai day4_aquariumscene_c642c0d7_1:
 translate thai day4_aquariumscene_b3ac8cb6:
 
     # r "{size=-6}Is that… your type? Emos?{/size}"
-    r "{size=-6}นั่น… คือแบบที่คุณชอบเหรอ? พวก emo?{/size}"
+    r "{size=-6}นั่น… คือแบบที่คุณชอบเหรอ? พวก อีโม?{/size}"
 
 # game/scripts/days/day 4.rpy:723
 
@@ -218,7 +218,7 @@ translate thai day4_aquariumscene_b936dad0:
 translate thai day4_aquariumscene_ba1d3064:
 
     # y "Actually… This might sound cheesy, but after you mentioned the angelfish… It reminded me of our date by the pier. Remember?"
-    y "จริง ๆ นะ… เรื่องนี้อาจจะฟังดูเชย แต่พอแกพูดถึง angelfish… มันทำให้ฉันนึกถึงเดทของเราที่ท่าเรือ จำได้ไหม?"
+    y "จริง ๆ นะ… เรื่องนี้อาจจะฟังดูเชย แต่พอแกพูดถึง ปลาออสการ์… มันทำให้ฉันนึกถึงเดทของเราที่ท่าเรือ จำได้ไหม?"
 
 # game/scripts/days/day 4.rpy:741
 

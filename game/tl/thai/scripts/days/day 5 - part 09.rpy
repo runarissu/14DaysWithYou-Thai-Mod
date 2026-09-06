@@ -302,7 +302,7 @@ translate thai day5_angelcooking_ab30d60b:
 translate thai day5_visitviolet_3aefa4d6:
 
     # n "As soon as the cursive 'welcome!' mat comes into view, I clear my throat and gently knock on [ch_violet]'s door — making sure to avoid the hanging ivy near the peephole."
-    n "ทันทีที่พบเห็นพรมอักษรสวยงาม 'welcome!' ฉันกระแอมเบาๆ แล้วเคาะประตูของ[ch_violet]เบาๆ — ระวังไม่ให้โดนเถาวัลย์ที่ห้อยอยู่ใกล้รูกสองตา"
+    n "ทันทีที่พบเห็นพรมอักษรสวยงาม 'ยินดีต้อนรับ!' ฉันกระแอมเบาๆ แล้วเคาะประตูของ[ch_violet]เบาๆ — ระวังไม่ให้โดนเถาวัลย์ที่ห้อยอยู่ใกล้รูกสองตา"
 
 # game/scripts/days/day 5.rpy:1994
 

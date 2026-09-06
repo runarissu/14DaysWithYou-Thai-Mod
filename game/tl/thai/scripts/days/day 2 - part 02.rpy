@@ -211,7 +211,7 @@ translate thai day2_alonemorning_798b0910:
 translate thai day2_alonemorning_60cc758a:
 
     # rt "hi hiii! ^^ gm angel! i hope i didn't wakr u up!"
-    rt "hi hiii! ^^ อรุณสวัสดิ์ angel! หวังว่าจะไม่ได้ปลุกคุณนะ!"
+    rt "สวัสดี~ ^^ อรุณสวัสดิ์ angel! หวังว่าจะไม่ได้ปลุกคุณนะ!"
 
 # game/scripts/days/day 2.rpy:271
 
@@ -225,14 +225,14 @@ translate thai day2_alonemorning_03b147a8:
 translate thai day2_alonemorning_d2f2d958:
 
     # rt "gah this is so embarrassing knowing ur a librarian >//< i swear i can spell lol"
-    rt "gah น่าอายมากรู้ว่านายเป็นบรรณารักษ์ >//< ฉันสาบานว่าสะกดเป็นนะ lol"
+    rt "อ๊ะ น่าอายมากรู้ว่านายเป็นบรรณารักษ์ >//< ฉันสาบานว่าสะกดเป็นนะ 555"
 
 # game/scripts/days/day 2.rpy:273
 
 translate thai day2_alonemorning_fbe5b5e8:
 
     # rt "hehe anyway!! i just wanted to confirm whether or not u were still on for our date today??"
-    rt "hehe ยังไงก็ตาม!! แค่อยากยืนยันว่านายยังไปเดทกับฉันวันนี้อยู่ป่ะ??"
+    rt "แหะๆ ยังไงก็ตาม!! แค่อยากยืนยันว่านายยังไปเดทกับฉันวันนี้อยู่ป่ะ??"
 
 # game/scripts/days/day 2.rpy:274
 

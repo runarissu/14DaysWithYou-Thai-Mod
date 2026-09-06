@@ -281,7 +281,7 @@ translate thai day3_rencanonevent_486a93ab:
 translate thai day3_rencanonevent_bda24da9:
 
     # n "His soothing voice greets me, and I can practically {b}feel{/b} the excitement and moe flowers expel from the screen and hit me in the face."
-    n "เสียงนุ่มๆ ของเขาทักทายฉัน ฉันแทบจะ{b}รู้สึกได้{/b}ถึงความตื่นเต้นและดอกไม้ moe พุ่งออกมาจากหน้าจอมากระแทกหน้าฉัน"
+    n "เสียงนุ่มๆ ของเขาทักทายฉัน ฉันแทบจะ{b}รู้สึกได้{/b}ถึงความตื่นเต้นและดอกไม้ โมเอะ พุ่งออกมาจากหน้าจอมากระแทกหน้าฉัน"
 
 # game/scripts/days/day 3.rpy:2463
 
@@ -344,7 +344,7 @@ translate thai day3_homealone_5892be98:
 translate thai day3_homealone_30e73110:
 
     # y "Well, whatever. At least I still have my fictional crushes."
-    y "ก็เอาเถอะ ยังไงฉันก็ยังมี crush ในนิยายอยู่"
+    y "ก็เอาเถอะ ยังไงฉันก็ยังมี ครัช ในนิยายอยู่"
 
 # game/scripts/days/day 3.rpy:2483
 
