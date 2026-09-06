@@ -1284,7 +1284,7 @@ screen custompronouns():
                 xalign 0.5
                 hbox:
                     xalign 0.5
-                    text ("อ้า? คนนั่น{color=#9d64fd}{b}[gorgeous] [person]{/b}{/color}ตรงนั้นเป็นใคร?" if _is_thai() else "Hm? Who's that {color=#9d64fd}{b}[gorgeous] [person]{/b}{/color} over there?"):
+                    text ("อ้า? {color=#9d64fd}{b}[person] ดีตา{/b}{/color} คนนั่นเป็นใคร?" if _is_thai() else "Hm? Who's that {color=#9d64fd}{b}[gorgeous] [person]{/b}{/color} over there?"):
                         font "fonts/Assistant-Regular.ttf"
                         color "#141414"
                         size 25
