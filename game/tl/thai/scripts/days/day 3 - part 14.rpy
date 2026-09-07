@@ -169,7 +169,7 @@ translate thai day3_homealone_36bbdf40:
 translate thai day3_homealone_462b6a71:
 
     # n "Pressing the phone closer to my ear, I try and make out [ch_leon]'s words. Except nothing but static and white noise greets me."
-    n "ฉันกดโทรศัพท์แนบหูให้แน่นขึ้น พยายามจะฟังคำของ [ch_leon] ให้ออก แต่มีแต่เสียงสามกับเสียงรบกเท่านั้นที่ดังขึ้นมา"
+    n "ฉันกดโทรศัพท์แนบหูให้แน่นขึ้น พยายามจะฟังคำของ [ch_leon] ให้ออก แต่มีแต่เสียงซ่ากับเสียงรบกวนเท่านั้นที่ดังขึ้นมา"
 
 # game/scripts/days/day 3.rpy:2576
 
@@ -232,14 +232,14 @@ translate thai day3_dayend_34298659:
 translate thai day3_dayend_6ac2940d:
 
     # n "Strange. I don't remember opening it earlier…"
-    n "แปลก ฉันไม่จำได้ว่าเปิดไว้ตอนไหนนะ..."
+    n "แปลก ฉันจำไม่ได้ว่าเปิดไว้ตอนไหนนะ..."
 
 # game/scripts/days/day 3.rpy:2602
 
 translate thai day3_dayend_88e8027a:
 
     # n "With a groan, I get up from my bed and to go and close it. But once I lock it shut, something moves from within the shadows and startles me."
-    n "ฉันครางออกมาแล้วลุกจากเตียงไปปิดหน้าต่าง แต่พอล็อกปิดสนิท มีอะไรบางอย่างขยับในเงามืดจนฉันสะดุ้"
+    n "ฉันครางออกมาแล้วลุกจากเตียงไปปิดหน้าต่าง แต่พอล็อกปิดสนิท มีอะไรบางอย่างขยับในเงามืดจนฉันสะดุ้ง"
 
 # game/scripts/days/day 3.rpy:2603
 
@@ -288,7 +288,7 @@ translate thai day3_dayend_ba6f0e8a:
 translate thai day3_dayend_662604c5:
 
     # n "But before I turn away, I double check to make sure that the window is locked shut and the blinds are fully closed. I wasn't about to risk it."
-    n "แต่ก่อนจะหันหลังกลับ ฉันเช็คอีกครั้งว่าหน้าต่างล็อกสนิทแล้วและมู้ดปิดมิด ฉันไม่อยากเสี่ยง"
+    n "แต่ก่อนจะหันหลังกลับ ฉันเช็คอีกครั้งว่าหน้าต่างล็อกสนิทแล้วและมู่ลี่ปิดมิด ฉันไม่อยากเสี่ยง"
 
 # game/scripts/days/day 3.rpy:2612
 

@@ -136,7 +136,7 @@ translate thai day4_visitren_a6080217:
 translate thai day4_visitren_163c01d7:
 
     # y "You know, you sound an awful lot like [ch_leon]."
-    y "คุณรู้ไหม พูดเหมือน [ch_leon] เป่า"
+    y "คุณรู้ไหม พูดเหมือน [ch_leon] เป๊ะ"
 
 # game/scripts/days/day 4.rpy:1780
 translate thai day4_visitren_c642c0d7:

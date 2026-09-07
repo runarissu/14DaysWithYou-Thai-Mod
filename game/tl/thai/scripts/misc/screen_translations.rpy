@@ -90,7 +90,7 @@ screen charamenu():
         pos (773,554)
         spacing -5
         if update_angel == "status":
-            text ("อยู่ใน DM ของ Haruko เหรอ? ฉันยังดีอยู่\nเราไม่เหมือนกันนะ <3 ([they]/[them])" if _is_thai() else "You're in Haruko's DMs? I'm in sane\nWe are not the same <3 ([they]/[them])"):
+            text ("อยู่ใน DM ของ Haruko เหรอ? ฉันยังสติดีอยู่\nเราไม่เหมือนกันนะ <3 ([they]/[them])" if _is_thai() else "You're in Haruko's DMs? I'm in sane\nWe are not the same <3 ([they]/[them])"):
                 font "fonts/Assistant-Regular.ttf"
                 color "#898989"
                 size 25
@@ -1284,31 +1284,31 @@ screen custompronouns():
                 xalign 0.5
                 hbox:
                     xalign 0.5
-                    text ("อ้า? {color=#9d64fd}{b}[person] ดีตา{/b}{/color} คนนั่นเป็นใคร?" if _is_thai() else "Hm? Who's that {color=#9d64fd}{b}[gorgeous] [person]{/b}{/color} over there?"):
+                    text ("อ๊ะ? {color=#9d64fd}{b}[person] ดูดี{/b}{/color} คนนั้นเป็นใคร?" if _is_thai() else "Hm? Who's that {color=#9d64fd}{b}[gorgeous] [person]{/b}{/color} over there?"):
                         font "fonts/Assistant-Regular.ttf"
                         color "#141414"
                         size 25
                 hbox:
                     xalign 0.5
-                    text ("นั่น [player!l!c]! {color=#9d64fd}{b}[they!c] [are]{/b}{/color}{color=#9d64fd}{b}[partner]{/b}{/color}ของฉันนะ, แต่…" if _is_thai() else "That's [player!l!c]! {color=#9d64fd}{b}[they!c] [are]{/b}{/color} my {color=#9d64fd}{b}[partner]{/b}{/color}, but…"):
+                    text ("นั่น [player!l!c]! {color=#9d64fd}{b}[they!c] เป็น{/b}{/color} {color=#9d64fd}{b}[partner]{/b}{/color} ของฉันนะ, แต่…" if _is_thai() else "That's [player!l!c]! {color=#9d64fd}{b}[they!c] [are]{/b}{/color} my {color=#9d64fd}{b}[partner]{/b}{/color}, but…"):
                         font "fonts/Assistant-Regular.ttf"
                         color "#141414"
                         size 25
                 hbox:
                     xalign 0.5
-                    text ("ฉันอยากให้{color=#9d64fd}{b}[them]{/b}{/color}เป็น{color=#9d64fd}{b}[spouse]{/b}{/color}ของฉัน" if _is_thai() else "I want {color=#9d64fd}{b}[them]{/b}{/color} to be my {color=#9d64fd}{b}[spouse]{/b}{/color}."):
+                    text ("ฉันอยากให้ {color=#9d64fd}{b}[them]{/b}{/color} เป็น {color=#9d64fd}{b}[spouse]{/b}{/color} ของฉัน" if _is_thai() else "I want {color=#9d64fd}{b}[them]{/b}{/color} to be my {color=#9d64fd}{b}[spouse]{/b}{/color}."):
                         font "fonts/Assistant-Regular.ttf"
                         color "#141414"
                         size 25
                 hbox:
                     xalign 0.5
-                    text ("กรุณาอย่าแตะหนังสือของ{color=#9d64fd}{b}[their]{/b}{/color} นั่นเป็นของ{color=#9d64fd}{b}[theirs]{/b}{/color}" if _is_thai() else "Please don't touch {color=#9d64fd}{b}[their]{/b}{/color} book. That's {color=#9d64fd}{b}[theirs]{/b}{/color}."):
+                    text ("กรุณาอย่าแตะหนังสือของ {color=#9d64fd}{b}[their]{/b}{/color} นะ นั่นเป็นของ {color=#9d64fd}{b}[theirs]{/b}{/color}" if _is_thai() else "Please don't touch {color=#9d64fd}{b}[their]{/b}{/color} book. That's {color=#9d64fd}{b}[theirs]{/b}{/color}."):
                         font "fonts/Assistant-Regular.ttf"
                         color "#141414"
                         size 25
                 hbox:
                     xalign 0.5
-                    text ("{color=#9d64fd}{b}[they!c]{/b}{/color}บอกฉันเองว่า{color=#9d64fd}{b}[themself]{/b}{/color}" if _is_thai() else "{color=#9d64fd}{b}[they!c]{/b}{/color} told me that {color=#9d64fd}{b}[themself]{/b}{/color}."):
+                    text ("{color=#9d64fd}{b}[they!c]{/b}{/color} บอกฉันเองว่า {color=#9d64fd}{b}[themself]{/b}{/color}" if _is_thai() else "{color=#9d64fd}{b}[they!c]{/b}{/color} told me that {color=#9d64fd}{b}[themself]{/b}{/color}."):
                         font "fonts/Assistant-Regular.ttf"
                         color "#141414"
                         size 25

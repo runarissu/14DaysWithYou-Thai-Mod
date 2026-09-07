@@ -267,7 +267,7 @@ translate thai day5_renmorning_e8e05b37:
 translate thai day5_renmorning_d5b2dd4c:
 
     # n "The sudden noise seems to startle [ch_ren] as well — so much so that he ends up knocking something off my dresser just as I press the answer button."
-    n "เสียงที่ดังขึ้นมากะทันหันก็ทำให้ [ch_ren] ตกใจด้วย — จนเขาทำของบนโต๊ะเครื่องประทานตกลงพื้นพอดีตอนที่ฉันกดรับสาย"
+    n "เสียงที่ดังขึ้นมากะทันหันก็ทำให้ [ch_ren] ตกใจด้วย — จนเขาทำของบนโต๊ะเครื่องแป้งตกลงพื้นพอดีตอนที่ฉันกดรับสาย"
 
 # game/scripts/days/day 5.rpy:313
 

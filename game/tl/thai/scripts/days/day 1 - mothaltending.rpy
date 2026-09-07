@@ -4,7 +4,7 @@
 translate thai mothaltending_c4b5bf96:
 
     # mcall "Okay, okaaaaay I'm sorry! But still… You don't think he was some creep or something? I mean, who just… {i}agrees{/i} to go to some strangers house?"
-    mcall "โอเค โอเคเค้า ฉันขอโทษ! แต่ก็… เธอไม่คิดว่าเขาเป็นคนแปลกหน้าอะไรบ้างอย่างเหรอ? คือ ใครจะไป… {i}ตกลง{/i}ไปบ้านคนแปลกหน้าแบบนั้น?"
+    mcall "โอเค โอเคเค้า ฉันขอโทษ! แต่ก็… แกไม่คิดว่าเขาเป็นคนแปลกๆ หรืออะไรทำนองนั้นเหรอ? คือ ใครจะไป… {i}ตกลง{/i}ไปบ้านคนแปลกหน้าแบบนั้น?"
 
 # game/scripts/days/day 1.rpy:1731
 translate thai mothaltending_c1cc81a1:
@@ -16,13 +16,13 @@ translate thai mothaltending_c1cc81a1:
 translate thai mothaltending_4e777952:
 
     # y "You think? Vi had some suspicions about him as well."
-    y "คิดดี? Vi ก็มีข้อสงสัยเรื่องเขาเหมือนกัน"
+    y "คิดงั้นเหรอ? Vi ก็สงสัยเรื่องเขาเหมือนกัน"
 
 # game/scripts/days/day 1.rpy:1734
 translate thai mothaltending_3257f381:
 
     # mcall "Yeah? That's real sus. And you said he had pink hair like Haruko? That's like… Anime rule number one."
-    mcall "จริงเหรอ? นั่นมันน่าสงสัยมาก และเธอบอกว่าเขาผมสีชมพูเหมือน Haruko? นั่นมัน… กฎข้อที่หนึ่งของอนิเมะเลย"
+    mcall "จริงเหรอ? นั่นมันน่าสงสัยสุดๆ และเธอบอกว่าเขาผมสีชมพูเหมือน Haruko? นั่นมัน… กฎข้อที่หนึ่งของอนิเมะเลย"
 
 # game/scripts/days/day 1.rpy:1736
 translate thai mothaltending_407c598b:
@@ -40,7 +40,7 @@ translate thai mothaltending_9b74ffd2:
 translate thai mothaltending_154e5932:
 
     # y "…Hello? [ch_moth]? You're breaking up."
-    y "…ฮัลโล? [ch_moth]? เสียงขาดหายไป"
+    y "…ฮัลโหล? [ch_moth]? เสียงแกขาดๆ หายๆ"
 
 # game/scripts/days/day 1.rpy:1742
 translate thai mothaltending_b27135ca:

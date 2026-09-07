@@ -4,7 +4,7 @@
 translate thai day1_callren_24202482:
 
     # n "*ring*… *ring*… *ring*…"
-    n "*ริง*… *ริง*… *ริง*…"
+    n "*กริ๊ง*… *กริ๊ง*… *กริ๊ง*…"
 
 # game/scripts/days/day 1.rpy:1862
 translate thai day1_callren_224d4a93:
@@ -22,7 +22,7 @@ translate thai day1_callren_449fd8df:
 translate thai day1_callren_4e519758:
 
     # rcall "O-Oh, yeah! No worries, hahaha! Thanks for… uh, thanks for calling! Wow… your voice sounds just as lovely on the phone."
-    rcall "อ-โอ ใช่! ไม่เป็นไร ฮ่าๆๆ! ขอบคุณที่… อ่ะ ขอบคุณที่โทรมานะ! ว้าว… เสียงคุณก็ไพเราะไม่แพ้ตอนคุยผ่านโทรศัพท์เลย"
+    rcall "อ-โอ ใช่! ไม่เป็นไร ฮ่าๆๆ! ขอบคุณที่… อ่ะ ขอบคุณที่โทรมานะ! ว้าว… เสียงคุณฟังดูไพเราะเหมือนตอนคุยต่อหน้าเลย"
 
 # game/scripts/days/day 1.rpy:1873
 translate thai day1_callren_6513b8f8:
@@ -64,7 +64,7 @@ translate thai day1_callren_da457ac7:
 translate thai day1_callren_de7b65b0:
 
     # rcall "Sometimes it keeps me up until the morning, but I don't really mind. I feel at ease when I get to look at y—"
-    rcall "บางครั้งฉันก็ดูจนเช้าเลย แต่ฉันก็ไม่ค่อยว่างะ ฉันรู้สึกสบายใจเวลาได้มองคุ—"
+    rcall "บางครั้งฉันก็ดูจนเช้าเลย แต่ฉันก็ไม่ค่อยว่าอะไรหรอก ฉันรู้สึกสบายใจเวลาได้มองคุ—"
 
 # game/scripts/days/day 1.rpy:1886
 translate thai day1_callren_c859e53f:
@@ -82,7 +82,7 @@ translate thai day1_callren_f0edda77:
 translate thai day1_callren_3fc2cb03:
 
     # rcall "…Movies? Why would I— {b}OH.{/b} Y-Yeah! It's some niche film you might not have heard about… M-Maybe we could watch it together sometime."
-    rcall "…หนัง? ทำไมฉันจะ— {b}อ๊ะ.{/b} อ-ใช่! เป็นหนังเฉพาะกลุ่มที่คุณอาจไม่เคยได้ยิน… บ-บางทีเราอาจดูด้วยกันได้บางที"
+    rcall "…หนัง? ทำไมฉันจะ— {b}อ๊ะ.{/b} อ-ใช่! เป็นหนังเฉพาะกลุ่มที่คุณอาจไม่เคยได้ยิน… บ-บางทีเราอาจดูด้วยกันสักวันก็ได้"
 
 # game/scripts/days/day 1.rpy:1889
 translate thai day1_callren_96b90de9:
@@ -118,7 +118,7 @@ translate thai day1_callren_599f6f4a:
 translate thai day1_callren_a535a3f7:
 
     # n "Deciding to put him out of his misery, I finally speak up."
-    n "ฉันตัดสินใจพูดขึ้นมาเพื่อจบความทุกข์ของเขา"
+    n "ฉันตัดสินใจพูดขึ้นมาเพื่อช่วยให้เขาหยุดทรมานเสียที"
 
 # game/scripts/days/day 1.rpy:1898
 translate thai day1_callren_43bce9a0:
@@ -148,7 +148,7 @@ translate thai day1_callren_965a5db4:
 translate thai day1_callren_109659c9:
 
     # n "He's really been apologising a lot today — I almost feel bad for him."
-    n "วันนี้เขาขอโทษฉันตลอดเลย — ฉันเกือบจะสงสารเขาแล้ว"
+    n "วันนี้เขาขอโทษบ่อยจริงๆ — ฉันเกือบจะสงสารเขาแล้ว"
 
 # game/scripts/days/day 1.rpy:1906
 translate thai day1_callren_983d8891:
@@ -160,7 +160,7 @@ translate thai day1_callren_983d8891:
 translate thai day1_callren_6bd9d8a6:
 
     # rcall "I hope you didn't find it creepy or anything. Your… {i}workmate{/i} seemed like the type to tease you if I handed it to her instead, so I figured that leaving it on your desktop would've been the wiser choice."
-    rcall "ฉันหวังว่าคุณจะไม่คิดว่ามันน่าขยะแขยงนะ คน… {i}ที่ทำงานด้วย{/i} ของคุณดูเหมือนจะเป็นคนชอบแกล้งคุณ ถ้าฉันเอาไปให้เขาแทน ฉันเลยคิดว่าเอาไว้บนโต๊ะคุณน่าจะฉลาดกว่า"
+    rcall "ฉันหวังว่าคุณจะไม่คิดว่ามันน่าขยะแขยงนะ เพื่อนร่วมงาน{i}ของคุณ{/i}ดูเหมือนจะเป็นคนชอบแกล้งคุณ ถ้าฉันเอาไปให้เขาแทน ฉันเลยคิดว่าเอาไว้บนโต๊ะคุณน่าจะฉลาดกว่า"
 
 # game/scripts/days/day 1.rpy:1908
 translate thai day1_callren_1d15436b:
@@ -214,7 +214,7 @@ translate thai day1_callren_c5e28867:
 translate thai day1_callren_49701b4b:
 
     # n "Yeah, maybe going on a date with him wouldn't be such a bad idea. Besides, [ch_ren] didn't seem {b}that bad{/b} of a guy. I could even use this as an opportunity to get to know him better. He certainly seemed interesting."
-    n "ใช่ ไปเดทกับเขาก็คงไม่ใช่ความคิดแย่หรอก อีกอย่าง [ch_ren] ก็ไม่ได้ดูเป็นคน {b}เลวร้าย{/b} ขนาดนั้น ฉันจะถือโอกาสนี้ทำความรู้จักเขาให้มากขึ้นก็ได้ เขาดูน่าสนใจอยู่เหมือนจริง"
+    n "ใช่ ไปเดทกับเขาก็คงไม่ใช่ความคิดแย่หรอก อีกอย่าง [ch_ren] ก็ไม่ได้ดูเป็นคน {b}เลวร้าย{/b} ขนาดนั้น ฉันจะถือโอกาสนี้ทำความรู้จักเขาให้มากขึ้นก็ได้ เขาดูน่าสนใจอยู่เหมือนกัน"
 
 # game/scripts/days/day 1.rpy:1917
 translate thai day1_callren_486b4e70:
@@ -226,7 +226,7 @@ translate thai day1_callren_486b4e70:
 translate thai day1_callren_cb22cacf:
 
     # rcall "Y-You really want to go on a date?!"
-    rcall "ค-คุณจะไปเดทจริงๆเหรอ?!"
+    rcall "ค-คุณจะไปเดทจริงๆ เหรอ?!"
 
 # game/scripts/days/day 1.rpy:1919
 translate thai day1_callren_36ac4668:
@@ -268,7 +268,7 @@ translate thai day1_callren_8dc2e56c:
 translate thai day1_callren_d50af186:
 
     # rcall "{size=+10}A-A-Ah! Really?!{/size}" with vpunch
-    rcall "{size=+10}อ-อ-อ๊ะ! จริงๆเหรอ?!{/size}" with vpunch
+    rcall "{size=+10}อ-อ-อ๊ะ! จริงๆ เหรอ?!{/size}" with vpunch
 
 # game/scripts/days/day 1.rpy:1932
 translate thai day1_callren_18c74d0c:
@@ -298,7 +298,7 @@ translate thai day1_callren_8d74e142:
 translate thai day1_callren_9b8f1efb:
 
     # rcall "Goodnight [ch_angel]. Sweet dreams."
-    rcall "อรุณสวัสดิ์ [ch_angel] ขอให้ฝันดีนะ"
+    rcall "ราตรีสวัสดิ์ [ch_angel] ขอให้ฝันดีนะ"
 
 # game/scripts/days/day 1.rpy:1941
 translate thai day1_callren_86c4fa53:
@@ -328,7 +328,7 @@ translate thai day1_callren_fd304d33:
 translate thai day1_callren_682b8995:
 
     # rcall "G-Goodnight!"
-    rcall "อ-อรุณสวัสดิ์!"
+    rcall "ร-ราตรีสวัสดิ์!"
 
 # game/scripts/days/day 1.rpy:1955
 translate thai day1_callren_571213a1:
@@ -340,7 +340,7 @@ translate thai day1_callren_571213a1:
 translate thai day1_callren_4a360310:
 
     # rcall "…Can I… Can I still call you tomorrow, [ch_angel]? Or— No, never mind! Goodnight!"
-    rcall "…ฉันจะ… ฉันโทรหาคุณพรุ่งนี้ได้มั้ย [ch_angel]? หรือ— ไม่ ไม่เป็นไร! อรุณสวัสดิ์!"
+    rcall "…ฉันจะ… ฉันโทรหาคุณพรุ่งนี้ได้มั้ย [ch_angel]? หรือ— ไม่ ไม่เป็นไร! ราตรีสวัสดิ์!"
 
 # game/scripts/days/day 1.rpy:1957
 translate thai day1_callren_6638e7ce:
@@ -352,7 +352,7 @@ translate thai day1_callren_6638e7ce:
 translate thai day1_callren_36badfcd:
 
     # n "Deciding not to respond, I keep my mouth shut and listen to [ch_ren] awkwardly fumble on the other side of the line."
-    n "ฉันตัดสินใจไม่ตอบ แล้วนั่งฟัง [ch_ren] พูดอยู่อย่างกระอักกระอ่วนอยู่อีกฝั่งสาย"
+    n "ฉันตัดสินใจไม่ตอบ แล้วนั่งฟัง [ch_ren] พูดตะกุกตะกักอย่างกระอักกระอ่วนอยู่อีกฝั่งสาย"
 
 # game/scripts/days/day 1.rpy:1961
 translate thai day1_callren_58be2786:
@@ -364,7 +364,7 @@ translate thai day1_callren_58be2786:
 translate thai day1_callren_2b8da93c:
 
     # rcall "Ah— Don't tell my my phone isn't working again… Here, why don't I try calling you back and—"
-    rcall "อ่ะ— อย่าบอกนะว่าโทรศัพท์ฉันเสียอีกแล้ว… เอานี่ ฉันลองโทรกลับให้ดูแล้วกันแล้ว—"
+    rcall "อ่ะ— อย่าบอกนะว่าโทรศัพท์ฉันเสียอีกแล้ว… เอานี่ ฉันลองโทรกลับให้ดูแล้วกัน—"
 
 # game/scripts/days/day 1.rpy:1963
 translate thai day1_callren_e7d418dd:

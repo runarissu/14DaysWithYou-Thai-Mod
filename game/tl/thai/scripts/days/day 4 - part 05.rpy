@@ -8,7 +8,7 @@ translate thai day4_fillerscene_677898d4:
 translate thai day4_fillerscene_3346b431:
 
     # e "Why didn't you say anything earlier, [ch_teo]?"
-    e "ทำไมไม่บอกตั้งแต่แยกแล้วล่ะ [ch_teo]?"
+    e "ทำไมไม่บอกตั้งแต่แรกแล้วล่ะ [ch_teo]?"
 
 # game/scripts/days/day 4.rpy:871
 
@@ -29,7 +29,7 @@ translate thai day4_fillerscene_c76f4d90:
 translate thai day4_fillerscene_f8942651:
 
     # t "And [damn], if it isn't Buttercup."
-    t "และก็ [damn] นี่มัน Buttercup เองหรอเนี่ย"
+    t "และก็ [damn] นี่มัน Buttercup เองเหรอเนี่ย"
 
 # game/scripts/days/day 4.rpy:877
 
@@ -141,14 +141,14 @@ translate thai day4_fillerscene_1d8113ee:
 translate thai day4_fillerscene_efbf58e8:
 
     # r "I-I feel like I'm missing some context here…"
-    r "ฉ-ฉันรู้สึกเหมือนตกม้าตื่นอยู่นะ…"
+    r "ฉ-ฉันรู้สึกเหมือนตามเรื่องไม่ทันอยู่นะ…"
 
 # game/scripts/days/day 4.rpy:903
 
 translate thai day4_fillerscene_d4351cff:
 
     # n "Almost hastily, I snatch the ticket from [ch_elanor]'s hands and usher [ch_ren] inside the tunnel — {b}away{/b} from my gossipy co-worker and [ch_teo]'s smug grin."
-    n "แทบจะเป็นการรีบร้อน ฉันคว้าตั๋วจากมือของ [ch_elanor] แล้วพา [ch_ren] เข้าไปในอุโมงค์ — ให้{b}ห่าง{/b}จากเพื่อนร่วมงานขี้นินทากับรอยยิ้มหยิ่งๆ ของ [ch_teo]"
+    n "ฉันรีบคว้าตั๋วจากมือของ [ch_elanor] แล้วพา [ch_ren] เข้าไปในอุโมงค์ — ให้{b}ห่าง{/b}จากเพื่อนร่วมงานขี้นินทากับรอยยิ้มหยิ่งๆ ของ [ch_teo]"
 
 # game/scripts/days/day 4.rpy:913
 

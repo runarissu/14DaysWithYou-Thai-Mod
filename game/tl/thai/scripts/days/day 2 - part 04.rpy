@@ -57,7 +57,7 @@ translate thai day2_teocont_b4052354:
 translate thai day2_teocont_82b96dc1:
 
     # l "Seriously! Why don't we all cool off, yeah? I think we're getting a bit too heated."
-    l "จริงๆ นะ! พวกเราทุกคนเย็นลงก่อนได้มั้ยครับ? ผมว่ามันเริ่มจะรุนแรงเกินไปแล้ว"
+    l "จริงๆ นะ! พวกเราทุกคนใจเย็นลงก่อนได้มั้ยครับ? ผมว่ามันเริ่มจะรุนแรงเกินไปแล้ว"
 
 # game/scripts/days/day 2.rpy:691
 
@@ -78,7 +78,7 @@ translate thai day2_teocont_66287b37:
 translate thai day2_teocont_2855a7f5:
 
     # l "Are you sure you don't want to join us, [ch_angel]? I promise to make sure that [ch_teo] stays on his best behaviour."
-    l "แน่ใจนะว่าไม่อยากมาด้วยกัน [ch_angel]? ผมสัญญาว่าจะดูแลให้ [ch_teo] อยู่ในการอารมณ์ดีที่สุด"
+    l "แน่ใจนะว่าไม่อยากมาด้วยกัน [ch_angel]? ผมสัญญาว่าจะดูแลให้ [ch_teo] ประพฤติตัวให้ดีที่สุด"
 
 # game/scripts/days/day 2.rpy:696
 
@@ -141,7 +141,7 @@ translate thai day2_teocont_00e5ee2d:
 translate thai day2_teocont_d4e4cafd:
 
     # n "Though that could've also been because [ch_teo] was still around. And honestly? I couldn't blame him."
-    n "แม้ว่านั่นอาจเป็นเพราะ [ch_teo] ยังอยู่ด้วยก็ได้ แล้วถ้าจะพูดตรงๆ? ฉันก็ไม่สามารถโทษเขาได้"
+    n "แม้ว่านั่นอาจเป็นเพราะ [ch_teo] ยังอยู่ด้วยก็ได้ แล้วถ้าจะพูดตรงๆ? ฉันก็โทษเขาไม่ได้"
 
 # game/scripts/days/day 2.rpy:708
 
@@ -197,7 +197,7 @@ translate thai day2_cafedate_37ee2418:
 translate thai day2_cafedate_bbefc222:
 
     # n "A comfortable silence washes over us, and I watch as he absent-mindedly fiddles with the ends of his hair."
-    n "ความเงียบที่สบายๆ โอบล้อมพวกเรา ฉันมองเขาเล่นปลายผมอย่างเหม่อลอย"
+    n "ความเงียบสบายๆ โอบล้อมพวกเรา ฉันมองเขาเล่นปลายผมอย่างเหม่อลอย"
 
 # game/scripts/days/day 2.rpy:730
 
@@ -267,7 +267,7 @@ translate thai day2_cafedate_b2c5f97d:
 translate thai day2_cafedate_ee65fedd:
 
     # n "Just when I thought he got over his timid personality, it slowly came crawling back. Was this {b}really{/b} who he was?"
-    n "พอฉันคิดว่าเขาหายขี้อายแล้ว มันก็ค่อยๆ กลับมาอีก เขา{b}จริงๆ{/b}เป็นคนแบบนี้เหรอ?"
+    n "พอฉันคิดว่าเขาหายขี้อายแล้ว มันก็ค่อยๆ กลับมาอีก เขา{b}เป็น{/b}คนแบบนี้จริงๆ เหรอ?"
 
 # game/scripts/days/day 2.rpy:744
 

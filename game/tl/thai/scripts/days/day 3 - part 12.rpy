@@ -64,7 +64,7 @@ translate thai day3_inviteleon_03ec38d3:
 translate thai day3_inviteleon_9f7470f9:
 
     # lcall "Aww, missed me that much? Haha, I'm flattered!"
-    lcall "โอ้ย คิดถึงผมมากขนาดนั้นเลยหรอครับ? ฮ่าๆ ผมกระเริ่งเลย!"
+    lcall "โอ้ย คิดถึงผมมากขนาดนั้นเลยเหรอครับ? ฮ่าๆ ผมปลื้มเลย!"
 
 # game/scripts/days/day 3.rpy:2296
 
@@ -176,7 +176,7 @@ translate thai day3_inviteleon_f4d71acd:
 translate thai day3_inviteleon_ab046255:
 
     # y "I mean, you and I both know he's not exactly the type to settle down, and El's the biggest hopeless romantic I know."
-    y "คือ... คุณกับฉันก็รู้ว่าเขาไม่ใช่คนแบบยึดมั่น แล้ว El ก็เป็นคนโรแมนติกสุดๆ ที่ฉันรู้จัก"
+    y "คือ... คุณกับฉันก็รู้ว่าเขาไม่ใช่คนประเภทที่จะลงหลักปักฐาน แล้ว El ก็เป็นคนโรแมนติกสุดๆ ที่ฉันรู้จัก"
 
 # game/scripts/days/day 3.rpy:2312
 
@@ -428,7 +428,7 @@ translate thai day3_inviteteo_c296c9c9:
 translate thai day3_inviteteo_fab76a4c:
 
     # n "I can hear shuffling from his end and what sounds like the television being turned down."
-    n "ฉันได้ยินเสียงขยับจากฝั่งเขา และเสียงที่ดูเหมือนโทรทัศน์ถูกปริ่มเสียงลง"
+    n "ฉันได้ยินเสียงขยับจากฝั่งเขา และเสียงที่ดูเหมือนโทรทัศน์ถูกลดเสียงลง"
 
 # game/scripts/days/day 3.rpy:2354
 

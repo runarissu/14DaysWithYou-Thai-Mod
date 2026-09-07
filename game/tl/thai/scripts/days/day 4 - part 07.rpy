@@ -8,7 +8,7 @@ translate thai day4_storeroomscene_5e1eee52:
 translate thai day4_storeroomscene_8547fd25:
 
     # n "I can almost hear the wooden shelf creak as his grip tightens — before he pulls back with a determined glint in his eyes."
-    n "ฉันแทบได้ยินเสียงชั้นไม้ครางออกมาตอนที่เขากำแน่นขึ้น — ก่อนจะถอยออก พร้อมเปล่งแววตามุ่งมั่น"
+    n "ฉันแทบได้ยินเสียงชั้นไม้ครางออกมาตอนที่เขากำแน่นขึ้น — ก่อนจะถอยออก พร้อมแววตามุ่งมั่น"
 
 # game/scripts/days/day 4.rpy:1350
 
@@ -43,7 +43,7 @@ translate thai day4_storeroomscene_39e83070:
 translate thai day4_storeroomscene_a26d0d7a:
 
     # n "It was like the room got cold all of a sudden. There's an unsettling look on [ch_ren]'s face before it quickly morphs into his usual, soft expression."
-    n "ราวกับห้องเย็นลงทันที ใบหน้าของ [ch_ren] มีสีหน้าน่าขนลุกชั่วขณะ ก่อนจะกลับเป็นสีหน้าอ่อนโยนเหมือนเดิมอย่างรวดเร็ว"
+    n "ราวกับห้องเย็นลงทันที สีหน้าของ [ch_ren] ดูน่าขนลุกชั่วขณะ ก่อนจะกลับเป็นสีหน้าอ่อนโยนเหมือนเดิมอย่างรวดเร็ว"
 
 # game/scripts/days/day 4.rpy:1358
 
@@ -162,7 +162,7 @@ translate thai day4_storeroomscene_96384894:
 translate thai day4_storeroomscene_97682164:
 
     # n "I never really let it get to me, but I've honestly had it up to here with people like him. Those hedonistic individuals who only care about themselves and never the well-being of those around them."
-    n "ฉันไม่เคยปล่อยให้มันรบกวนจิตใจหรอก แต่ฉันก็ทนคนแบบเขาจนถึงทนไม่ไหวแล้วจริงๆ คนที่สนแต่ความสุขตัวเอง ไม่เคยแคร์คนรอบข้างเลยสักนิด"
+    n "ฉันไม่เคยปล่อยให้มันรบกวนจิตใจหรอก แต่ฉันก็ทนคนแบบเขาไม่ไหวแล้วจริงๆ คนที่สนแต่ความสุขตัวเอง ไม่เคยแคร์คนรอบข้างเลยสักนิด"
 
 # game/scripts/days/day 4.rpy:1392
 

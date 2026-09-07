@@ -8,7 +8,7 @@ translate thai eastereggalternative_b6e87780:
 translate thai eastereggalternative_59595052:
 
     # n "Great, it's my landlord skulking around the library again."
-    n "ดีแล้ว คนเป็นเจ้าของบ้านที่ฉันเช่าแอบมาเลียนแบร่อยู่ในห้องสมุดอีกแล้ว"
+    n "เยี่ยมเลย เจ้าของบ้านที่ฉันเช่าอยู่แอบย่องมาในห้องสมุดอีกแล้ว"
 
 # game/scripts/days/day 0.rpy:751
 
@@ -29,7 +29,7 @@ translate thai eastereggalternative_00fc186c:
 translate thai eastereggalternative_98697256:
 
     # n "But still… I couldn't help but ask…"
-    n "แต่ก็… ฉันทนไม่ได้ที่จะไม่ถาม…"
+    n "แต่ก็… แต่ก็อดถามไม่ได้…"
 
 # game/scripts/days/day 0.rpy:754
 
@@ -71,7 +71,7 @@ translate thai eastereggalternative_60603bea:
 translate thai eastereggalternative_05c57ab3:
 
     # n "I have half a mind to jump her right here and now for all of the shit I've had to endure while renting out her apartment, but I decide against it."
-    n "ฉันแทบจะเข้าไปต่อยเธอตรงนี้เลยเพราะเรื่องบ้าๆ ที่ฉันต้องทนมาตอนเช่าห้องของเธออยู่ แต่ฉันตัดสินใจว่าไม่ทำดีกว่า"
+    n "ฉันแทบอยากจะกระโดดเข้าไปต่อยเธอตรงนี้เลย จากเรื่องบ้าๆ ที่ฉันต้องเจอตอนเช่าอพาร์ตเมนต์ของเธออยู่ แต่สุดท้ายก็ตัดสินใจไม่ทำ"
 
 # game/scripts/days/day 0.rpy:764
 
@@ -190,7 +190,7 @@ translate thai eastereggalternative_6b64cfeb:
 translate thai eastereggalternative_2380b325:
 
     # s "…I'm about to do something sooo silly and drastic right now."
-    s "…ฉันกำลังจะทำอะไรบ้าบอมากๆ และสุดขั้วตอนนี้แล้ว"
+    s "…ตอนนี้ฉันกำลังจะทำอะไรที่บ้าบอและสุดโต่งสุดๆ แล้ว"
 
 # game/scripts/days/day 0.rpy:796
 
@@ -218,7 +218,7 @@ translate thai eastereggalternative_42a800a5:
 translate thai eastereggalternative_751ed812:
 
     # na "Where are ya going? I can drop you off on my forklift if you want. Just move Leon's sports bag out of the way."
-    na "คุณจะไปไหนเหรอ? ฉันไปส่งคุณด้วยรถฟอร์คลิฟต์ได้นะ แค่ย้ายกระเป๋ากีฬาของ Leon ออกทางก่อน"
+    na "คุณจะไปไหนเหรอ? ฉันไปส่งคุณด้วยรถฟอร์คลิฟต์ได้นะ แค่ย้ายกระเป๋ากีฬาของ Leon ออกไปให้พ้นทางก่อน"
 
 # game/scripts/days/day 0.rpy:804
 
@@ -274,14 +274,14 @@ translate thai eastereggalternative_f5e55a6e:
 translate thai eastereggalternative_c476230e:
 
     # ro "Then why don't we all go on a triple date together!"
-    ro "ถ้างั้นพวกเราไปเดทสามด้วยกันทั้งหมดเลยไหม!"
+    ro "ถ้างั้นงั้นพวกเราไปเดตสามคู่ด้วยกันเลยไหม!"
 
 # game/scripts/days/day 0.rpy:821
 
 translate thai eastereggalternative_fda753ae:
 
     # ro "Or… would it be considered a quadruple date? Because I guess Kimi would also be tagging along?"
-    ro "หรือ… นี่น่าจะนับเป็นเดทสี่? เพราะคิดว่า Kimi ก็จะไปตามมาด้วยสิ"
+    ro "หรือ… งั้นนับเป็นเดตสี่คู่ไหม? เพราะคิดว่า Kimi ก็จะไปตามมาด้วยสิ"
 
 # game/scripts/days/day 0.rpy:823
 

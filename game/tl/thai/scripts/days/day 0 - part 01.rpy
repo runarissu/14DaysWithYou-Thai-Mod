@@ -29,7 +29,7 @@ translate thai day0_foxren_d773d226:
 translate thai day0_foxren_3f475318:
 
     # n "But before I can dwell on it any further, the rustling sounds of an all-too-familiar willow tree pull me away — and I look down to see that I have been absent-mindedly picking at the flowers beneath my feet."
-    n "แต่ก่อนที่ฉันจะคิดต่อไปได้ลึกกว่านี้ เสียงใบไม้ปริวของต้นหลิวที่คุ้นเคยก็ดึงฉันกลับมาจากภวังค์ — และเมื่อฉันก้มลงมอง ก็พบว่าตัวเองเผลอเด็ดดอกไม้ใต้ฝ่าเท้าไปหลายดอกโดยไม่รู้ตัว"
+    n "แต่ก่อนที่ฉันจะคิดต่อไปได้ลึกกว่านี้ เสียงใบไม้ปลิวของต้นหลิวที่คุ้นเคยก็ดึงฉันกลับมาจากภวังค์ — และเมื่อฉันก้มลงมอง ก็พบว่าตัวเองเผลอเด็ดดอกไม้ใต้ฝ่าเท้าไปหลายดอกโดยไม่รู้ตัว"
 
 # game/scripts/days/day 0.rpy:436
 
@@ -239,7 +239,7 @@ translate thai day0_foxren_e2da4fb4:
 translate thai day0_foxren_a859c526:
 
     # n "I can feel Ren nod in acknowledgement from somewhere behind me, before his hands slip from my waist to reach for the flower wreath in my lap."
-    n "ฉันรู้สึกได้ว่า Ren พยักหน้ารับรู้จากข้างหลัง ก่อนที่มือของเขาจะเลื่อนลงจากเอวฉันไปหยิบพวงมาลัยดอกไม้ที่บนตักฉัน"
+    n "ฉันรู้สึกได้ว่า Ren พยักหน้ารับรู้จากข้างหลัง ก่อนที่มือของเขาจะเลื่อนลงจากเอวฉันไปหยิบพวงมาลัยดอกไม้บนตักฉัน"
 
 # game/scripts/days/day 0.rpy:476
 
@@ -407,14 +407,14 @@ translate thai day0_foxren_dc428800:
 translate thai day0_foxren_e32cd76e:
 
     # n "I mumble — more-so to myself — as I lean back into his embrace. Another one of Ren's tails places itself onto my lap in a comforting manner, and I absent-mindedly thread my fingers into the soft fur."
-    n "ฉันพึมพำ — ราวกับพูดกับตัวเองเท่านั้น — ขณะที่ซบกายเข้าไปในอ้อมกอดของเขา หางอีกเล่มของ Ren วางลงบนตักฉันเพื่อปลอบใจ และฉันก็เผลอสอดนิ้วเข้าไปในขนนุ่ม"
+    n "ฉันพึมพำ — ราวกับพูดกับตัวเองเท่านั้น — ขณะที่ซบกายเข้าไปในอ้อมกอดของเขา หางอีกข้างของ Ren วางลงบนตักฉันเพื่อปลอบใจ และฉันก็เผลอสอดนิ้วเข้าไปในขนนุ่ม"
 
 # game/scripts/days/day 0.rpy:518
 
 translate thai day0_foxren_0add3b15:
 
     # n "I don't say anything, instead letting myself fall back into his embrace. Another one of Ren's tails places itself onto my lap in a comforting manner, and I absent-mindedly thread my fingers into the soft fur."
-    n "ฉันไม่ได้พูดอะไร แต่ปล่อยตัวซบเข้าไอในอ้อมกอดของเขา หางอีกเล่มของ Ren วางลงบนตักฉันเพื่อปลอบใจ และฉันก็เผลอสอดนิ้วเข้าไปในขนนุ่ม"
+    n "ฉันไม่ได้พูดอะไร แต่ปล่อยตัวซบเข้าไปในอ้อมกอดของเขา หางอีกข้างของ Ren วางลงบนตักฉันเพื่อปลอบใจ และฉันก็เผลอสอดนิ้วเข้าไปในขนนุ่ม"
 
 # game/scripts/days/day 0.rpy:521
 
@@ -470,7 +470,7 @@ translate thai day0_foxren_3ae66777:
 translate thai day0_foxren_1a81a3fe:
 
     # y "Really?!" with hpunch
-    y "จริงๆเหรอ?!" with hpunch
+    y "จริงๆ เหรอ?!" with hpunch
 
 # game/scripts/days/day 0.rpy:532
 

@@ -442,7 +442,7 @@ translate thai day5_angelapartmentbranch_faa1e7ad:
 translate thai day5_angelapartmentbranch_ad2869f6:
 
     # m "I'm so used to living in a rowdy household; sometimes I {i}need{/i} to be firm on making the final decisions. Otherwise, my siblings will just continue to argue and yell at each other."
-    m "ฉันคุ้นเคยกับการอยู่บ้านที่อื้ออึงมาก บางครั้งฉัน{i}จำเป็น{/i}ต้องเด็ดขาดในการตัดสินใจสุดท้าย ไม่งั้นพี่น้องฉันจะทะเลาะตบายกันต่อไปไม่จบ"
+    m "ฉันคุ้นเคยกับการอยู่บ้านที่อื้ออึงมาก บางครั้งฉัน{i}จำเป็น{/i}ต้องเด็ดขาดในการตัดสินใจสุดท้าย ไม่งั้นพี่น้องฉันจะทะเลาะกันต่อไปไม่จบ"
 
 # game/scripts/days/day 5.rpy:1790
 
@@ -512,14 +512,14 @@ translate thai day5_angelcooking_c89a1f44:
 translate thai day5_angelcooking_ec505df9:
 
     # n "Admittedly, I was a little wary of letting [ch_ren] watch the stove — considering how he'd once burnt an entire pan of pancakes — yet he seems to be doing well so far."
-    n "ต้องยอมรับว่าฉันระแวงนิดหน่อยที่ปล่อยให้ [ch_ren] ดูเตาอบ — พิจารณาว่าเขาเคยไหม้แพนเค้กไปทั้งกระทะ — แต่ตอนนี้เขาดูทำได้ดีอยู่"
+    n "ต้องยอมรับว่าฉันระแวงนิดหน่อยที่ปล่อยให้ [ch_ren] ดูเตา — พิจารณาว่าเขาเคยไหม้แพนเค้กไปทั้งกระทะ — แต่ตอนนี้เขาดูทำได้ดีอยู่"
 
 # game/scripts/days/day 5.rpy:1822
 
 translate thai day5_angelcooking_f204a5a5:
 
     # n "Admittedly, I was a little wary of letting [ch_ren] watch the stove — considering how distracted he was with something on his phone — yet he seems to be doing well so far."
-    n "ต้องยอมรับว่าฉันระแวงนิดหน่อยที่ปล่อยให้ [ch_ren] ดูเตาอบ — พิจารณาว่าเขามัวแต่สนใจอะไรบางอย่างบนมือถือ — แต่ตอนนี้เขาดูทำได้ดีอยู่"
+    n "ต้องยอมรับว่าฉันระแวงนิดหน่อยที่ปล่อยให้ [ch_ren] ดูเตา — พิจารณาว่าเขามัวแต่สนใจอะไรบางอย่างบนมือถือ — แต่ตอนนี้เขาดูทำได้ดีอยู่"
 
 # game/scripts/days/day 5.rpy:1824
 

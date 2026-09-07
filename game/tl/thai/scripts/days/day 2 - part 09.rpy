@@ -155,7 +155,7 @@ translate thai day2_renapartment_ee3e802e:
 translate thai day2_renapartment_6634f53a:
 
     # r "Sorry… That's the only pair of clothing I could find that might fit you. It looks really good on you, though."
-    r "ขอโทษนะ… นั่นเป็นชุดเดียวที่ฉันหาได้ที่น่าจะพอดีกับคุณ แต่ใส่แล้วดีตามากเลยนะ"
+    r "ขอโทษนะ… นั่นเป็นชุดเดียวที่ฉันหาได้ที่น่าจะพอดีกับคุณ แต่ใส่แล้วดูดีมากเลยนะ"
 
 # game/scripts/days/day 2.rpy:1758
 

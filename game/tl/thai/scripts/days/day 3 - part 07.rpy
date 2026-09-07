@@ -393,7 +393,7 @@ translate thai day3_inviteren_ef2b0688:
 translate thai day3_inviteren_567cb0f4:
 
     # y "It was overwhelming at first, but…"
-    y "ตอนแรกมันก็เยอะไปหน่อย แต่…"
+    y "ตอนแรกมันก็หนักหน่อย แต่…"
 
 # game/scripts/days/day 3.rpy:1535
 
@@ -407,7 +407,7 @@ translate thai day3_inviteren_cd68b1f8:
 translate thai day3_inviteren_7c672c7e:
 
     # y "I mean… It was a bit overwhelming during the first month, but once you look past the smashed windows and broken elevators, the place is actually really nice."
-    y "คือ… เดือนแรกมันก็เยอะไปหน่อย แต่พอผ่านเรื่องหน้าต่างแตกกับลิฟต์พังไป ที่นี่ก็น่าอยู่ดีนะ"
+    y "คือ… เดือนแรกมันก็หนักหน่อย แต่พอผ่านเรื่องหน้าต่างแตกกับลิฟต์พังไป ที่นี่ก็น่าอยู่ดีนะ"
 
 # game/scripts/days/day 3.rpy:1541
 
@@ -421,7 +421,7 @@ translate thai day3_inviteren_86e204fe:
 translate thai day3_inviteren_2e288250:
 
     # y "Well, everything was a little overwhelming in the beginning…"
-    y "ก็ตอนแรกทุกอย่างมันเยอะไปหน่อย…"
+    y "ก็ตอนแรกทุกอย่างมันหนักหน่อย…"
 
 # game/scripts/days/day 3.rpy:1547
 
@@ -442,7 +442,7 @@ translate thai day3_inviteren_eae21b17:
 translate thai day3_inviteren_850029a5:
 
     # y "Everything was a bit overwhelming at first, but I really wanted to come back to Corland Bay."
-    y "ตอนแรกทุกอย่างมันเยอะไปหน่อย แต่ฉันอยากกลับมา Corland Bay จริงๆ"
+    y "ตอนแรกทุกอย่างมันหนักหน่อย แต่ฉันอยากกลับมา Corland Bay จริงๆ"
 
 # game/scripts/days/day 3.rpy:1555
 
@@ -687,7 +687,7 @@ translate thai day3_inviteren_237b0dff:
 translate thai day3_inviteren_7e2561e1:
 
     # r "I-It's fine! Besides, you said yourself that living here can get overwhelming."
-    r "ไม—ไม่เป็นไรหรอก! อีกอย่าง คุณก็บอกเองว่าการอยู่ที่นี่มันเยอะไปบางครั้ง"
+    r "ไม—ไม่เป็นไรหรอก! อีกอย่าง คุณก็บอกเองว่าการอยู่ที่นี่มันหนักหนาอยู่บ้าง"
 
 # game/scripts/days/day 3.rpy:1615
 

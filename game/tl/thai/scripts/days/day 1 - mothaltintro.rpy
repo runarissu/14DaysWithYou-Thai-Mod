@@ -46,7 +46,7 @@ translate thai mothaltintro_2f4d534d:
 translate thai mothaltintro_e372ddf0:
 
     # mcall "I was asking you about that dude from earlier. Like, I seriously can't believe he gave you his number."
-    mcall "ฉันถามเรื่องผู้ชายคนนั้นก่อนหน้านี้ไง คือ ฉันไม่เชื่อเลยว่าเขาให้เบอร์แกนา"
+    mcall "ฉันถามเรื่องผู้ชายคนนั้นก่อนหน้านี้ไง คือ ฉันไม่เชื่อเลยว่าเขาให้เบอร์แกน่ะ"
 
 # game/scripts/days/day 1.rpy:1643
 translate thai mothaltintro_26f9d08a:
@@ -58,13 +58,13 @@ translate thai mothaltintro_26f9d08a:
 translate thai mothaltintro_f85543e1:
 
     # mcall "Yeah, no kidding! My guy {i}literally{/i} couldn't even stutter out a complete sentence, yet he was able to shoot his shot like that?"
-    mcall "ใช่เลย ไม่ต้องพูดถึง! คนขี้อายคนนั้น {i}ตัวจริงๆ{/i} พูดไม่จบสักประโยค แต่กลับกล้าขอเบอร์แบบนั้น?"
+    mcall "ใช่เลย! ไม่ต้องพูดถึง! หมอนั่น {i}แทบจะ{/i}พูดเป็นประโยคไม่จบด้วยซ้ำ แต่กลับกล้ารุกแบบนั้นเนี่ยนะ?"
 
 # game/scripts/days/day 1.rpy:1649
 translate thai mothaltintro_b9f9f27a:
 
     # mcall "…Wow, maybe his… {i}y'know{/i} really is big."
-    mcall "…ว้าว สงสัย… {i}อ๊ะนั่น{/i} ของเขาคงใหญ่จริง"
+    mcall "…ว้าว สงสัยว่า… {i}ไอ้นั่น{/i} ของเขาคงใหญ่จริง"
 
 # game/scripts/days/day 1.rpy:1650
 translate thai mothaltintro_b142d8f8:
@@ -106,7 +106,7 @@ translate thai mothaltintro_6917fb95:
 translate thai mothaltintro_bdfaf3b3:
 
     # y "…Err, no. I thought you were supposed to make them wait a day or something? I don't want to seem too eager."
-    y "…เอ่อ ยัง ฉันคิดว่าน่าจะให้เขารอสักวันก่อนไหม? ฉันไม่อยากดูรีบร้อนไป"
+    y "…เอ่อ ยัง ฉันคิดว่าน่าจะให้เขารอสักวันก่อนไหม? ฉันไม่อยากดูตื่นเต้นเกินไป"
 
 # game/scripts/days/day 1.rpy:1666
 translate thai mothaltintro_d621c1c1:
@@ -136,7 +136,7 @@ translate thai mothaltintro_e63f0d3e:
 translate thai mothaltintro_cfce7f3d:
 
     # mcall "Yeah, yeah. Okay. Look! If it were me, I'd text him back as soon as possible. Maybe even give him a call instead if his voice was as {i}\"submissive and breedable\"{/i} as you said it was."
-    mcall "โอเค โอเค ก็ได้ ฟังนะ! ถ้าเป็นฉัน ฉันจะทักกลับเขาเร็วที่สุดเท่าที่ทำได้ อาจจะโทรหาเขาเลยด้วยซ้ำ ถ้าเสียงเขามัน {i}\"น่ารักและน่าครอบครอง\"{/i} อย่างที่แกว่า"
+    mcall "โอเค โอเค ก็ได้ ฟังนะ! ถ้าเป็นฉัน ฉันจะทักกลับเขาเร็วที่สุดเท่าที่ทำได้ อาจจะโทรหาเขาเลยด้วยซ้ำ ถ้าเสียงเขา {i}\"นุ่มนิ่มน่าจับกด\"{/i} อย่างที่แกว่าน่ะ"
 
 # game/scripts/days/day 1.rpy:1676
 translate thai mothaltintro_8def375a:
@@ -154,7 +154,7 @@ translate thai mothaltintro_85a28269:
 translate thai mothaltintro_15c9d1fd:
 
     # n "[dammit!c], their laughter was contagious."
-    n "[dammit!c] เสียงหัวเราะของเขาช่างติดจริงๆ"
+    n "[dammit!c] เสียงหัวเราะของเขานี่ติดคนอื่นจริงๆ"
 
 # game/scripts/days/day 1.rpy:1681
 translate thai mothaltintro_3749a190:
@@ -178,7 +178,7 @@ translate thai mothaltintro_09a31289:
 translate thai mothaltintro_3f09c618:
 
     # n "With a sigh, I watch the green call button turn red. [ch_moth] had always been terrible towards my impulse control, but I adored them either way."
-    n "ด้วยเสียงถอนหายใจ ฉันมองปุ่มโทรสีเขียวเปลี่ยนเป็นสีแดง [ch_moth] มักจะทำให้ฉันห้ามใจไม่อยู่เสมอ แต่ฉันก็รักเขาอยู่ดี"
+    n "ด้วยเสียงถอนหายใจ ฉันมองปุ่มโทรสีเขียวเปลี่ยนเป็นสีแดง [ch_moth] มักทำให้ฉันห้ามใจตัวเองไม่ได้อยู่เรื่อย แต่ฉันก็รักเขาอยู่ดี"
 
 # game/scripts/days/day 1.rpy:1692
 translate thai mothaltintro_495e878a:
@@ -202,7 +202,7 @@ translate thai mothaltintro_35ba388d:
 translate thai mothaltintro_8d4f1788:
 
     # n "So what if it was almost eleven at night? Before I can give myself time to rethink, I shoot [ch_ren] a short text explaining who this was and ask if he enjoyed his book."
-    n "จะว่าไปมันก็เกือบห้าทุ่มแล้ว จะเป็นไรไป ก่อนที่ฉันจะทันคิดใหม่ ฉันส่งข้อความสั้นๆ ถึง [ch_ren] บอกว่านี่ใครและถามว่าเขาชอบหนังสือเล่มนั้นไหม"
+    n "จะว่าไปมันก็เกือบห้าทุ่มแล้ว จะเป็นไรไป ก่อนที่ฉันจะทันคิดใหม่ ฉันส่งข้อความสั้นๆ ถึง [ch_ren] แนะนำตัวเองและถามว่าเขาชอบหนังสือเล่มนั้นไหม"
 
 # game/scripts/days/day 1.rpy:1706
 translate thai mothaltintro_3c727917:
@@ -226,7 +226,7 @@ translate thai mothaltintro_aa9c18f9:
 translate thai mothaltintro_640785d7:
 
     # n "Putting my phone down, I decided to stick to what I know best and just text him in the morning instead. "
-    n "วางโทรศัพท์ลง ฉันตัดสินใจทำตามที่ถนัดแล้วแค่ทักเขาในตอนเช้าแทน "
+    n "วางโทรศัพท์ลง ฉันตัดสินใจทำสิ่งที่ถนัดที่สุด แล้วค่อยทักเขาตอนเช้าแทน "
 
 # game/scripts/days/day 1.rpy:1723
 translate thai mothaltintro_22d8f950:
@@ -238,7 +238,7 @@ translate thai mothaltintro_22d8f950:
 translate thai mothaltintro_e9fc9a28:
 
     # n "While [ch_ren] ultimately seemed harmless, his odd and timid behaviour rubbed me off the wrong way."
-    n "แม้ว่า [ch_ren] จะดูไม่น่าเป็นอันตราย แต่พฤติกรรมแปลกๆ และขี้อายของเขาก็ทำให้ฉันรู้สึกไม่สบายใจ"
+    n "แม้ว่า [ch_ren] จะดูไม่น่าเป็นอันตราย แต่พฤติกรรมแปลกๆ และขี้อายของเขาก็ทำให้ฉันรู้สึกไม่ชอบมาพากล"
 
 # game/scripts/days/day 1.rpy:1725
 translate thai mothaltintro_2bb99a72:

@@ -1,7 +1,7 @@
 translate thai day4_leonarrival_ad1165d1:
 
     # l "Haha! He's rubbing off on me. C'mon, let's go see if she's okay."
-    l "ฮ่าๆ! คงติดมาจากเขานะครับ ไปกันเถอะ ไปดูกันหน่อยว่าเขาเป็นยังไง"
+    l "ฮ่าๆ! คงติดนิสัยมาจากเขานะครับ ไปกันเถอะ ไปดูกันหน่อยว่าเขาเป็นยังไง"
 
 # game/scripts/days/day 4.rpy:465
 
@@ -22,7 +22,7 @@ translate thai day4_aquariumscene_b07cb358:
 translate thai day4_aquariumscene_f4c09d98:
 
     # n "But… Seeing [ch_elanor] so happy… It meant that my stalker didn't do anything to her, and I couldn't help but let out a comforting sigh at the thought."
-    n "แต่… ได้เห็น [ch_elanor] ดีใจแบบนี้… ก็แปลว่าสตอล์กเกอร์ของฉันไม่ได้ทำอะไรเธอ คิดได้แบบนั้นก็ทำให้ฉันถอนหายใจโล่งๆ ออกมาเผอิญ"
+    n "แต่… ได้เห็น [ch_elanor] ดีใจแบบนี้… ก็แปลว่าสตอล์กเกอร์ของฉันไม่ได้ทำอะไรเธอ คิดได้แบบนั้นก็ทำให้ฉันอดถอนหายใจโล่งอกออกมาไม่ได้"
 
 # game/scripts/days/day 4.rpy:470
 
@@ -50,7 +50,7 @@ translate thai day4_aquariumscene_ea3cbb3b:
 translate thai day4_aquariumscene_54b72315:
 
     # n "Ugh, no. What was I thinking? And where did this sudden burst of foolhardiness come from? I have to start taking this seriously, otherwise—"
-    n "อืด ไม่ใช่ ฉันคิดอะไรอยู่? แล้วความกล้าบ้าบิ่นนี่มาจากไหนเนี่ย? ฉันต้องจริงจังกับเรื่องนี้บ้างแล้ว ไม่งั้น—"
+    n "เฮ้อ ไม่นะ ฉันคิดอะไรอยู่? แล้วความกล้าบ้าบิ่นนี่มาจากไหนเนี่ย? ฉันต้องจริงจังกับเรื่องนี้บ้างแล้ว ไม่งั้น—"
 
 # game/scripts/days/day 4.rpy:474
 
@@ -64,7 +64,7 @@ translate thai day4_aquariumscene_0a064bfd:
 translate thai day4_aquariumscene_d26557e2:
 
     # n "But the moment only lasts until [ch_leon] and I rejoin the group with a knowing smile on our faces. [ch_teo] aptly chooses not to say anything, and out of solidarity — or perhaps future blackmail — neither do we."
-    n "แต่ช่วงเวลานั้นก็อยู่ได้ไม่นาน จนกว่า [ch_leon] กับฉันจะเดินกลับไปหากลุ่มพร้อมกับรอยยิ้มที่เข้าใจกัน [ch_teo] เลือกที่จะไม่พูดอะไรอย่างเหมาะสม และด้วยความสามัคคี — หรืออาจจะเก็บไว้แบล็กเมล์ในอนาคต — พวกเราก็เงียบเหมือนกัน"
+    n "แต่ช่วงเวลานั้นก็อยู่ได้ไม่นาน ก่อนที่ [ch_leon] กับฉันจะเดินกลับไปหากลุ่มพร้อมรอยยิ้มที่เข้าใจกัน [ch_teo] เลือกที่จะไม่พูดอะไรอย่างเหมาะสม และด้วยความสามัคคี — หรืออาจจะเก็บไว้แบล็กเมล์ในอนาคต — พวกเราก็เงียบเหมือนกัน"
 
 # game/scripts/days/day 4.rpy:477
 
@@ -85,7 +85,7 @@ translate thai day4_aquariumscene_963ba159:
 translate thai day4_aquariumscene_063f051c:
 
     # e "This is all rather exciting, don't you think?"
-    e "น่าตื่นเต้นเนอะ ลูกว่าไหม?"
+    e "น่าตื่นเต้นเนอะ ว่าไหม?"
 
 # game/scripts/days/day 4.rpy:491
 
@@ -190,7 +190,7 @@ translate thai day4_aquariumscene_b3f7ca14:
 translate thai day4_aquariumscene_b30d1795:
 
     # n "All too quickly, the light-hearted mood gets replaced with something serious as [ch_leon]'s phone starts buzzing."
-    n "บรรยากาศสบายๆ ก็ถูกแทนที่ด้วยความจริงจังอย่างรวดเร็ว เมื่อโทรศัพท์ของ [ch_leon] ดังสั่นขึ้นมา"
+    n "บรรยากาศสบายๆ ก็ถูกแทนที่ด้วยความเคร่งเครียดอย่างรวดเร็ว เมื่อโทรศัพท์ของ [ch_leon] ดังสั่นขึ้นมา"
 
 # game/scripts/days/day 4.rpy:519
 
@@ -617,7 +617,7 @@ translate thai day4_aquariumscene_d18e4101:
 translate thai day4_aquariumscene_2c925764:
 
     # n "Was that… an angelfish?"
-    n "นั่นมัน… ปลาออสการ์?"
+    n "นั่นมัน… ปลาเทวดา?"
 
 # game/scripts/days/day 4.rpy:647
 
@@ -687,7 +687,7 @@ translate thai day4_aquariumscene_b1d885fa:
 translate thai day4_aquariumscene_7b199188:
 
     # r "Hey, did you spot the angelfish swimming by?"
-    r "เฮ้ ได้เห็น ปลาออสการ์ ว่ายผ่านไปไหม?"
+    r "เฮ้ ได้เห็น ปลาเทวดา ว่ายผ่านไปไหม?"
 
 # game/scripts/days/day 4.rpy:681
 

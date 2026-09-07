@@ -22,21 +22,21 @@ translate thai monsterpupeasteregg_fe7e5429:
 translate thai monsterpupeasteregg_a9d52ff3:
 
     # n "Ah… I could recognise those boisterous voices anywhere."
-    n "อา… ฉันรู้เสียงอันคึกคักพวกนั้นได้ทุกที่"
+    n "อา… ฉันจำเสียงอันคึกคักพวกนั้นได้ไม่ว่าจะอยู่ที่ไหน"
 
 # game/scripts/days/day 0.rpy:628
 
 translate thai monsterpupeasteregg_3b2e7117:
 
     # n "One of them belonged to Jae-hyun, a guy I had met during my early days at university. He sat next to me during the first few days of orientation, and even offered to lend me his phone charger when my battery started to run out."
-    n "หนึ่งในนั้นเป็นเสียงของ Jae-hyun ผู้ชายที่ฉันรู้จักตั้งแต่สมัยปีแรกในมหาวิทยาลัย เขานั่งข้างฉันในช่วงแรกของการทำความรู้จัก แถมยังเสนอยืมที่ชาร์จโทรศัพท์ให้ตอนแบตเตอรี่ฉันกำลังจะหมดอีก"
+    n "หนึ่งในนั้นเป็นเสียงของ Jae-hyun ผู้ชายที่ฉันรู้จักตั้งแต่สมัยปีแรกในมหาวิทยาลัย เขานั่งข้างฉันในช่วงแรกของการทำความรู้จัก แถมยังเสนอให้ฉันยืมที่ชาร์จโทรศัพท์ตอนแบตเตอรี่ใกล้หมดอีก"
 
 # game/scripts/days/day 0.rpy:629
 
 translate thai monsterpupeasteregg_448d5bd3:
 
     # n "He's a fun guy to be around, though his extroverted and energetic personality was often hard to keep up with."
-    n "เขาเป็นคนสนุกที่ได้อยู่ด้วย แต่บุคลิกที่เปิดเผยและกระฉับกระเฉงของเขาก็มักจะตามไม่ทัน"
+    n "เขาเป็นคนสนุกที่ได้อยู่ด้วย แต่บุคลิกที่เปิดเผยและพลังงานล้นเหลือของเขาก็มักทำให้ฉันตามไม่ทัน"
 
 # game/scripts/days/day 0.rpy:630
 
@@ -57,7 +57,7 @@ translate thai monsterpupeasteregg_0d7e712e:
 translate thai monsterpupeasteregg_f32c6a01:
 
     # n "Luckily no one was injured, but paw was going ten miles per hour in an enclosed environment, and the whole ordeal honestly scarred Conan for life."
-    n "โชคดีที่ไม่มีใครบาดเจ็บ แต่ paw ขับถึงสิบไมล์ต่อชั่วโมงในพื้นที่ปิด และเหตุการณ์ทั้งหมดนั้นทำให้ Conan เป็นบาดแผลในใจตลอดชีวิตจริงๆ"
+    n "โชคดีที่ไม่มีใครบาดเจ็บ แต่ paw ขับรถด้วยความเร็วสิบไมล์ต่อชั่วโมงในพื้นที่ปิด และเหตุการณ์ทั้งหมดนั้นก็ทิ้งบาดแผลในใจให้ Conan ไปตลอดชีวิตจริงๆ"
 
 # game/scripts/days/day 0.rpy:633
 
@@ -78,7 +78,7 @@ translate thai monsterpupeasteregg_6a78c349:
 translate thai monsterpupeasteregg_77f77ccf:
 
     # y "Yeah! I just got off the clock now now, actually."
-    y "ใช่! ฉันเพิ่งออกเวลาเลย"
+    y "ใช่! จริงๆ ฉันเพิ่งเลิกงานเมื่อกี้นี้เอง"
 
 # game/scripts/days/day 0.rpy:637
 
@@ -316,14 +316,14 @@ translate thai monsterpupeasteregg_6dc48346:
 translate thai monsterpupeasteregg_328ab5ae:
 
     # n "But instead, he simply gives his partners a playful nudge and a scoff."
-    n "แต่แทนที่จะเป็นแบบนั้น เขาแค่เอาศอกดันคู่รักของเขาเล่นๆ พร้อมกับสูดจมูก"
+    n "แต่แทนที่จะเป็นแบบนั้น เขาแค่กระทุ้งศอกใส่คู่รักของเขาเล่นๆ พร้อมกับส่งเสียงฮึดฮัด"
 
 # game/scripts/days/day 0.rpy:700
 
 translate thai monsterpupeasteregg_c0ebcead:
 
     # na "Anyway… I think I'll go ahead and scope out the area if you guys wanna stay here with [player]?"
-    na "เอาเถอะ… ฉันว่าฉันจะไปดูพื้นที่ข้างนอกก่อน ถ้าพวกคุณอยากอยู่ที่นี่กับ [player]?"
+    na "เอาเถอะ… ฉันว่าจะออกไปสำรวจแถวนี้ก่อน ถ้าพวกคุณอยากอยู่ที่นี่กับ [player]"
 
 # game/scripts/days/day 0.rpy:702
 

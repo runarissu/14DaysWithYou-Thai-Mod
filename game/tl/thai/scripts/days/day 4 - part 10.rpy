@@ -15,7 +15,7 @@ translate thai day4_snooping_6c7435ff:
 translate thai day4_snooping_4858b00f:
 
     # n "I can't help the twang of curiosity that hits me as I draw closer towards it. And with the desk now close enough to see, I can easily make out the shape of some kind of art station — as well as [ch_ren]'s laptop still open to the side."
-    n "ความอยากรู้อยากเห็นก็พุ่งขึ้นมาทันทีตอนเดินเข้าไปใกล้ พอใกล้พอที่จะมองเห็นชัด ฉันก็เห็นว่ามันเป็นมุมวาดรูป — และก็แล็ปท็อปของ[ch_ren]ที่เปิดค้างอยู่ข้างๆ"
+    n "ความอยากรู้อยากเห็นก็พุ่งขึ้นมาทันทีตอนเดินเข้าไปใกล้ พอใกล้พอที่จะมองเห็นชัด ฉันก็เห็นว่ามันเป็นมุมวาดรูป — และก็แล็ปท็อปของ [ch_ren] ที่เปิดค้างอยู่ข้างๆ"
 
 # game/scripts/days/day 4.rpy:1929
 
@@ -29,14 +29,14 @@ translate thai day4_snooping_6966b59c:
 translate thai day4_snooping_bbd58440:
 
     # n "I had an inkling [ch_ren] would be into them — given his interest in AoG — but I had no idea he {b}created{/b} a few of his own."
-    n "ฉันรู้มาบ้างว่า[ch_ren]น่าจะสนใจเรื่องพวกนี้ — เห็นได้จากที่เขาชอบ AoG — แต่ไม่เคยนึกเลยว่าเขา{b}ทำ{/b}เว็บคอมมิคของตัวเองด้วย"
+    n "ฉันรู้มาบ้างว่า [ch_ren] น่าจะสนใจเรื่องพวกนี้ — เห็นได้จากที่เขาชอบ AoG — แต่ไม่เคยนึกเลยว่าเขา{b}ทำ{/b}เว็บคอมมิคของตัวเองด้วย"
 
 # game/scripts/days/day 4.rpy:1931
 
 translate thai day4_snooping_f3f2335b:
 
     # n "One book in particular, however, piques my interest with its unique cover (though it might've just been the book-lover in me). It was thick and worn out, yet it looked like it was well taken care of."
-    n "แต่มีหนังสือเล่มหนึ่งที่ดึงดูดความสนใจฉันเป็นพิเศษเพราะปกที่ไม่เหมือนใคร (ถึงจะเป็นเพราะความเป็นคนรักหนังสือในตัวฉันก็เหอะ) มันหนาและดูเก่า แต่ก็ดูเหมือนว่าเขาดูแลมันมาดิๆ"
+    n "แต่มีหนังสือเล่มหนึ่งที่ดึงดูดความสนใจฉันเป็นพิเศษเพราะปกที่ไม่เหมือนใคร (ถึงจะเป็นเพราะความเป็นคนรักหนังสือในตัวฉันก็เหอะ) มันหนาและดูเก่า แต่ก็ดูเหมือนว่าเขาดูแลมันมาอย่างดี"
 
 # game/scripts/days/day 4.rpy:1932
 
@@ -120,7 +120,7 @@ translate thai day4_snooping_4c71d446:
 translate thai day4_snooping_eca9e600:
 
     # n "It was oddly cute to think that [ch_ren] might've made his own self-insert character, though if {b}I{/b} were any better at art, I probably would've done the same."
-    n "คิดว่า[ch_ren]อาจจะทำตัวละครแทนตัวเองขึ้นมาก็น่ารักดีนะ ถึงจะบอกว่าถ้า{b}ฉัน{/b}วาดรูปเก่งกว่านี้ ฉันก็คงทำแบบเดียวกัน"
+    n "คิดว่า [ch_ren] อาจจะทำตัวละครแทนตัวเองขึ้นมาก็น่ารักดีนะ ถึงจะบอกว่าถ้า{b}ฉัน{/b}วาดรูปเก่งกว่านี้ ฉันก็คงทำแบบเดียวกัน"
 
 # game/scripts/days/day 4.rpy:1948
 

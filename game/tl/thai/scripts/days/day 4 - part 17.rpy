@@ -15,7 +15,7 @@ translate thai day4_closetbranch_b1974572:
 translate thai day4_closetbranch_4a244e58:
 
     # n "But just as I think of my answer, [ch_leon] speaks it into existence with a knowing, toothy grin."
-    n "แต่ทันทีที่ฉันคิดได้ [ch_leon] ก็เอ่ยคำตอบนั้นออกมาพร้อมรอยยิ้มที่เห็นฟันเป็นรู้รอบ"
+    n "แต่ทันทีที่ฉันคิดได้ [ch_leon] ก็เอ่ยคำตอบนั้นออกมาพร้อมรอยยิ้มกว้างเห็นฟันอย่างรู้ทัน"
 
 # game/scripts/days/day 4.rpy:3274
 
@@ -85,7 +85,7 @@ translate thai day4_closetbranch_71fe528a:
 translate thai day4_closetbranch_c2595a73:
 
     # n "Eventually, [ch_leon] leads me to a nearby park where we plop down on one of the benches and kick up our feet."
-    n "สุดท้าย [ch_leon] ก็พาฉันไปที่สวนสาธารณะข้างๆ เรานั่งลงบนม้านั่งแล้วเอนเท้าพัก"
+    n "สุดท้าย [ch_leon] ก็พาฉันไปที่สวนสาธารณะข้างๆ เรานั่งลงบนม้านั่งแล้วเหยียดขาพัก"
 
 # game/scripts/days/day 4.rpy:3298
 
@@ -99,7 +99,7 @@ translate thai day4_closetbranch_0804e7b8:
 translate thai day4_closetbranch_314d5e77:
 
     # n "A comfortable silence blankets the both of us as [ch_leon] casually throws his arms behind his head and closes his eyes. He seems at peace like this; almost as if the stress of his day-to-day life had been stripped away."
-    n "ความเงียบที่สบายๆ โอบล้อมเราทั้งคู่ [ch_leon] ก็แบมือไปกอดหลังศีรษะแล้วหลับตาลง เขาดูสงบมากเวลาแบบนี้ เหมือนความเครียดจากชีวิตประจำวันถูกปลดออกไปหมดแล้ว"
+    n "ความเงียบสบายๆ โอบล้อมเราทั้งคู่ [ch_leon] เอามือประสานไว้หลังศีรษะแล้วหลับตาลง เขาดูสงบมากเวลาแบบนี้ เหมือนความเครียดจากชีวิตประจำวันถูกปลดออกไปหมดแล้ว"
 
 # game/scripts/days/day 4.rpy:3300
 
@@ -169,7 +169,7 @@ translate thai day4_closetbranch_3ca87c37:
 translate thai day4_closetbranch_82c8ed3e:
 
     # n "I follow [ch_leon]'s finger towards the sky, only to notice ominous, dark clouds rolling in from the distance."
-    n "ฉันมองตามนิ้วของ [ch_leon] ไปที่ท้องฟ้า ก็เห็นเมฆดำทมึนกำลังกลิ้งเข้ามาจากที่ไกล"
+    n "ฉันมองตามนิ้วของ [ch_leon] ไปที่ท้องฟ้า ก็เห็นเมฆดำทะมึนกำลังกลิ้งเข้ามาจากที่ไกล"
 
 # game/scripts/days/day 4.rpy:3314
 

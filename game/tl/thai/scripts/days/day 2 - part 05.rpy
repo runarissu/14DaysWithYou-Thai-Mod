@@ -225,7 +225,7 @@ translate thai day2_meetolivia_3f33ab9b:
 translate thai day2_meetolivia_559ca0e9:
 
     # n "[ch_ren] seems to take notice of what I was not-so-subtly gawking at — but before we could enter the store, the cashier walks in front of the display stand and blocks our view."
-    n "[ch_ren] ดูเหมือนจะสังเกตเห็นสิ่งที่ฉันกำลังจ้องมองอยู่อย่างไม่รู้ตัว — แต่ก่อนที่เราจะเข้าร้านได้ พนักงานแคชเชียร์ก็เดินมาขวางหน้าจัดแสดงและบังสายตาเรา"
+    n "[ch_ren] ดูเหมือนจะสังเกตเห็นสิ่งที่ฉันกำลังจ้องมองอยู่อย่างไม่รู้ตัว — แต่ก่อนที่เราจะเข้าร้านได้ พนักงานแคชเชียร์ก็เดินมาขวางหน้าตู้จัดแสดงจนบังสายตาเรา"
 
 # game/scripts/days/day 2.rpy:979
 
@@ -253,7 +253,7 @@ translate thai day2_meetolivia_74b0551e:
 translate thai day2_meetolivia_8fac91cd:
 
     # n "But the cashier seemed adamant about getting [ch_ren]'s attention, considering how she felt the need to abandon her spot by the shelves and make her way towards us."
-    n "แต่พนักงานแคชเชียร์ดูจะยืนยันที่จะดึงความสนใจของ [ch_ren] เพราะเธอรู้สึกจำเป็นต้องออกจากจุดที่ชั้นของแล้วเดินมาหาเรา"
+    n "แต่พนักงานแคชเชียร์ดูจะยืนกรานที่จะดึงความสนใจของ [ch_ren] เพราะเธอรู้สึกจำเป็นต้องออกจากจุดที่ชั้นของแล้วเดินมาหาเรา"
 
 # game/scripts/days/day 2.rpy:988
 

@@ -70,7 +70,7 @@ translate thai day5_changingstalls_3a0bc6b9:
 translate thai day5_changingstalls_8291ef16:
 
     # n "Eh, whatever. I'll make a mental note to ask him about this later."
-    n "เออ ช่างมัน ฉันจะจดไว้ในใจว่าจะถามเขาเรื่องนี้ทีหลัง"
+    n "เออ ช่างมัน ฉันจะจำไว้ว่าต้องถามเขาเรื่องนี้ทีหลัง"
 
 # game/scripts/days/day 5.rpy:911
 translate thai day5_changingstalls_9895b2d4:
@@ -322,7 +322,7 @@ translate thai day5_covescene_900097e0:
 translate thai day5_covescene_5a6ce837:
 
     # n "[ch_moth] can barely contain their excitement as they take in the familiar scenery before them, and I don't miss the way they start to babble about the striking similarities between the beach scene from AoG and the current scene laid out before them."
-    n "[ch_moth] แทบจะกลั้นความตื่นเต้นไม่ได้ตอนมองทิวทัศน์ที่คุ้นตาตรงหน้า และฉันก็ไม่พลาดที่เขาเริ่มพูดเพรียวเกี่ยวกับความคล้ายคลึงอย่างน่าทึ่งระหว่างฉากหาดใน AoG กับวิวตรงหน้า"
+    n "[ch_moth] แทบจะกลั้นความตื่นเต้นไม่ได้ตอนมองทิวทัศน์ที่คุ้นตาตรงหน้า และฉันก็ไม่พลาดที่เขาเริ่มพูดพร่ำเกี่ยวกับความคล้ายคลึงอย่างน่าทึ่งระหว่างฉากหาดใน AoG กับวิวตรงหน้า"
 
 # game/scripts/days/day 5.rpy:1010
 translate thai day5_covescene_7d6954fe:
@@ -340,7 +340,7 @@ translate thai day5_covescene_918b67a3:
 translate thai day5_covescene_a8f55d12:
 
     # m "They {i}actually{/i} built a monument for Attack on Giants here? That's sooo cool!"
-    m "เขา{i}เนี่ยะ{/i}สร้างอนุสาวรีย์ Attack on Giants ที่นี่เลยเหรอ? มันเจ๋งมากกก!"
+    m "เขา{i}เนี่ย{/i}สร้างอนุสาวรีย์ Attack on Giants ที่นี่เลยเหรอ? มันเจ๋งมากกก!"
 
 # game/scripts/days/day 5.rpy:1018
 translate thai day5_covescene_f74fbd67:
@@ -370,7 +370,7 @@ translate thai day5_covescene_6587337e:
 translate thai day5_covescene_c4627313:
 
     # n "[ch_ren], however, seems to have a bout of confusion as he takes in the scene in front of him — before he snaps out of his daze and lifts [ch_moth]'s phone to take a photo."
-    n "แต่ [ch_ren] ดูเหมือนจะงงไปครู่หนึ่งตอนมองภาพตรงหน้า — ก่อนจะสะดิ้กตื่นแล้วยกโทรศัพท์ของ [ch_moth] ขึ้นมาถ่ายรูป"
+    n "แต่ [ch_ren] ดูเหมือนจะงงไปครู่หนึ่งตอนมองภาพตรงหน้า — ก่อนจะสะดุ้งตื่นแล้วยกโทรศัพท์ของ [ch_moth] ขึ้นมาถ่ายรูป"
 
 # game/scripts/days/day 5.rpy:1029
 translate thai day5_covescene_66743b69:
@@ -466,7 +466,7 @@ translate thai day5_covescene_69fc4921:
 translate thai day5_covescene_22d8a524:
 
     # n "When [ch_ren] hands the phone back to [ch_moth], they hunch over the screen and look over everything with a critical eye."
-    n "ตอนที่ [ch_ren] คืนโทรศัพท์ให้ [ch_moth] เขาก้มลงดูหน้าจอและตรวจดูทุกอย่างด้วยสายตาจิกจก"
+    n "ตอนที่ [ch_ren] คืนโทรศัพท์ให้ [ch_moth] เขาก้มลงดูหน้าจอและตรวจดูทุกอย่างด้วยสายตาจับผิด"
 
 # game/scripts/days/day 5.rpy:1070
 translate thai day5_covescene_907953f8:
@@ -580,7 +580,7 @@ translate thai day5_covescene_cf3643ba:
 translate thai day5_covescene_0a04c787:
 
     # n "I stifle my laughter at [ch_ren]'s confused look as [ch_moth] continues to rant while they tug him towards the Haruko statue. I look away the moment they ask him to start posing, and it's then that I realise I still have his phone in my hands."
-    n "ฉันกลั้นหัวเราะตอนเห็นสีหน้างงของ [ch_ren] ขณะที่ [ch_moth] พูดเพรียวและดึงเขาไปที่รูปปั้น Haruko ฉันหันหน้าหนีตอนที่เขาเริ่มให้เขาโพสท่า และตอนนั้นฉันก็รู้ตัวว่ายังถือโทรศัพท์ของเขาอยู่"
+    n "ฉันกลั้นหัวเราะตอนเห็นสีหน้างงของ [ch_ren] ขณะที่ [ch_moth] พูดพร่ำและดึงเขาไปที่รูปปั้น Haruko ฉันหันหน้าหนีตอนที่เขาเริ่มให้เขาโพสท่า และตอนนั้นฉันก็รู้ตัวว่ายังถือโทรศัพท์ของเขาอยู่"
 
 # game/scripts/days/day 5.rpy:1124
 translate thai day5_covescene_f34df770:

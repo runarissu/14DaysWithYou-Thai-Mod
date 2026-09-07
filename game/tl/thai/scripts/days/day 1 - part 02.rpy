@@ -4,13 +4,13 @@
 translate thai day1_inviteren_e1a57df2:
 
     # y "So, this is my place… You'll have to excuse the mess; I wasn't expecting to have anyone over."
-    y "นี่คือที่อยู่ของฉันเอง… ต้องขออภัยในความรกๆ นะ ฉันไม่ได้คาดหวังว่าจะมีใครมาเยือน"
+    y "นี่คือบ้านฉันเอง… ขอโทษที่รกหน่อยนะ ฉันไม่ได้คิดว่าจะมีใครมา"
 
 # game/scripts/days/day 1.rpy:1028
 translate thai day1_inviteren_a75a4c4b:
 
     # r "Hey, don't worry about it. I know you're not a messy person."
-    r "อ๊ะ ไม่ต้องห่วงหรอก ฉันรู้ว่าคุณไม่ใช่คนรกขี้"
+    r "อ๊ะ ไม่ต้องห่วงหรอก ฉันรู้ว่าคุณไม่ใช่คนรกๆ"
 
 # game/scripts/days/day 1.rpy:1030
 translate thai day1_inviteren_c3d7f29c:
@@ -64,7 +64,7 @@ translate thai day1_inviteren_a40acf3a:
 translate thai day1_inviteren_4e2057b5:
 
     # n "I'm certain she'd chew me out for bringing home a complete stranger, but still… He didn't exactly seem like the type to murder me in my sleep."
-    n "ฉันแน่ใจว่าเธอคงด่าฉันเรื่องพาคนแปลกหน้ากลับบ้าน แต่ก็… เขาก็ดูไม่ใช่คนแบบที่จะฆ่าฉันตอนหลับอยู่หรอก"
+    n "ฉันแน่ใจว่าเธอคงด่าฉันเรื่องพาคนแปลกหน้ากลับบ้าน แต่ก็… เขาก็ดูไม่ใช่คนที่จะฆ่าฉันตอนหลับหรอก"
 
 # game/scripts/days/day 1.rpy:1053
 translate thai day1_inviteren_6402d71b:
@@ -88,19 +88,19 @@ translate thai day1_inviteren_ddb5804d:
 translate thai day1_inviteren_27700aa9:
 
     # n "Immediately, his large frame blocks my view as he steps in front of my neighbour and me — almost as if he wanted to put as much distance between us as possible."
-    n "ทันทีที่ร่างใหญ่ของเขาบดบังสายตาฉัน เขาก้าวไปยืนขวางระหว่างฉันกับเพื่อนบ้าน — เหมือนอยากให้ระยะห่างระหว่างเรามากที่สุด"
+    n "ทันทีที่ร่างใหญ่ของเขาเข้ามาบดบังสายตา เขาก็ก้าวไปยืนขวางระหว่างฉันกับเพื่อนบ้าน — ราวกับอยากให้เราสองคนอยู่ห่างกันมากที่สุด"
 
 # game/scripts/days/day 1.rpy:1058
 translate thai day1_inviteren_025f837c:
 
     # n "One of his hands shoots out from inside his pocket, and he gruffly offers it to [ch_violet] for her to shake."
-    n "มือข้างหนึ่งของเขายื่นออกมาจากกระเป๋า แล้วเขาก็ยื่นให้ [ch_violet] จับอย่างกระแบะ"
+    n "มือข้างหนึ่งของเขายื่นออกมาจากกระเป๋า แล้วเขาก็ยื่นให้ [ch_violet] จับอย่างห้วนๆ"
 
 # game/scripts/days/day 1.rpy:1059
 translate thai day1_inviteren_94f663c7:
 
     # n "Concerned about his abrupt actions, I sidestep him and look up to gauge his expression."
-    n "ฉันเป็นห่วงการกระทำที่กะทันหันของเขา จึงก้าวหลีกแล้วเงยหน้ามองสีหน้าของเขา"
+    n "ด้วยความสงสัยกับท่าทีที่กะทันหันของเขา ฉันจึงก้าวหลบแล้วเงยหน้ามองสีหน้าของเขา"
 
 # game/scripts/days/day 1.rpy:1061
 translate thai day1_inviteren_c642c0d7:
@@ -130,7 +130,7 @@ translate thai day1_inviteren_ee84d657:
 translate thai day1_inviteren_64baf503:
 
     # n "At least… I sure hope he wasn't. And why did I feel the sudden urge to defend him? It wasn't like I could confidently say that he was some 'holy being' that flew down from heaven, or something."
-    n "อย่างน้อย… ฉันก็หวังว่าเขาไม่ใช่ แล้วทำไมฉันถึงรู้สึกอยากจะป้องกันเขาขึ้นมาดลๆ? ฉันก็ไม่ได้มั่นใจขนาดจะพูดได้ว่าเขาเป็น 'เทพ' ที่ลงมาจากสวรรค์หรืออะไรแบบนั้น"
+    n "อย่างน้อย… ฉันก็หวังว่าเขาไม่ใช่ แล้วทำไมฉันถึงรู้สึกอยากจะปกป้องเขาขึ้นมาเฉยๆ? ฉันก็ไม่ได้มั่นใจขนาดจะพูดได้ว่าเขาเป็น 'เทพ' ที่ลงมาจากสวรรค์หรืออะไรแบบนั้น"
 
 # game/scripts/days/day 1.rpy:1068
 translate thai day1_inviteren_45e47f80:
@@ -142,7 +142,7 @@ translate thai day1_inviteren_45e47f80:
 translate thai day1_inviteren_4bddadc8:
 
     # y "{i}Really.{/i} [ch_ren] actually offered to stay at my place for the night in case that creep decides to come back."
-    y "{i}จริงๆ.{/i} [ch_ren] เสนอที่จะค้างที่บ้านฉันคืนนี้ ในกรณีที่คนบ้านั้นกลับมา"
+    y "{i}จริงๆ.{/i} [ch_ren] เสนอที่จะค้างที่บ้านฉันคืนนี้ ในกรณีที่คนบ้านั่นกลับมา"
 
 # game/scripts/days/day 1.rpy:1071
 translate thai day1_inviteren_622fc944:
@@ -160,7 +160,7 @@ translate thai day1_inviteren_d7869b48:
 translate thai day1_inviteren_d2f1ecee:
 
     # r "But don't worry, [they] [are] safe in my hands."
-    r "แต่ไม่ต้องห่วงนะ [they] [are]ปลอดภัยอยู่ในมือฉัน"
+    r "แต่ไม่ต้องห่วงนะ [they] [are] ปลอดภัยอยู่ในมือฉัน"
 
 # game/scripts/days/day 1.rpy:1077
 translate thai day1_inviteren_6fc095c9:
@@ -178,7 +178,7 @@ translate thai day1_inviteren_f78c47b3:
 translate thai day1_inviteren_040b1fea:
 
     # n "She \"whispers\" the next part to [ch_ren] under her breath, but clearly had the intention of letting me hear it all as well."
-    n "เธอ \"กระซิบ\" ส่วนต่อไปกับ [ch_ren] เบาๆ แต่ก็ตั้งใจให้ฉันได้ยินชัดๆ เหมือนกัน"
+    n "เธอ \"กระซิบ\" ส่วนต่อไปกับ [ch_ren] เบาๆ แต่เห็นได้ชัดว่าตั้งใจให้ฉันได้ยินด้วย"
 
 # game/scripts/days/day 1.rpy:1082
 translate thai day1_inviteren_520b0018:
@@ -244,7 +244,7 @@ translate thai day1_inviteren_0d74c5d6:
 translate thai day1_inviteren_e5bc1ecf:
 
     # n "Turning to [ch_ren], I watch as he awkwardly shuffles about in the hallway, almost uncertain if he should come inside or not. He moves to take off his shoes, and I watch in awe as he neatly stacks them next to the umbrella rack."
-    n "หันไปทาง [ch_ren] ฉันมองเขาเดินกระปลกกระปลกในทางเดิน ดูไม่แน่ใจว่าควรเข้ามาข้างในไหม เขาเอนตัวถอดรองเท้า แล้วฉันก็มองด้วยความอัศจรรย์ใจเมื่อเขาจัดวางรองเท้าเรียบร้อยข้างที่วางร่ม"
+    n "หันไปทาง [ch_ren] ฉันมองเขาเดินงกๆ เงิ่นๆ อยู่ในทางเดิน ดูไม่แน่ใจว่าควรเข้ามาข้างในไหม เขาก้มลงถอดรองเท้า แล้วฉันก็มองด้วยความอัศจรรย์ใจเมื่อเขาจัดวางรองเท้าเรียบร้อยข้างที่วางร่ม"
 
 # game/scripts/days/day 1.rpy:1115
 translate thai day1_inviteren_0a0117b5:
@@ -280,7 +280,7 @@ translate thai day1_inviteren_0abf955c:
 translate thai day1_inviteren_874668dd:
 
     # n "Turning to face the pink-haired man once more, I almost jump back in fright. {b}Clearly{/b}, I wasn't expecting him to get so close to me while I was lost in thought."
-    n "หันไปทางผู้ชายผมชมพูอีกครั้ง ฉันแทบจะกระเด้งถอยหลังด้วยความตกใจ {b}ชัดเจน{/b} ว่าฉันไม่ได้คาดหวังว่าเขาจะเข้ามาใกล้ขนาดนี้ตอนที่ฉันกำลังคิดอะไรอยู่"
+    n "หันไปทางผู้ชายผมชมพูอีกครั้ง ฉันแทบจะผงะถอยหลังด้วยความตกใจ {b}ชัดเจน{/b} ว่าฉันไม่ได้คาดหวังว่าเขาจะเข้ามาใกล้ขนาดนี้ตอนที่ฉันกำลังคิดอะไรอยู่"
 
 # game/scripts/days/day 1.rpy:1125
 translate thai day1_inviteren_0f580270:
@@ -322,13 +322,13 @@ translate thai day1_inviteren_69dff1ba:
 translate thai day1_inviteren_834aa054:
 
     # r "Nah, I don't really have anything I need to do. You can just go about your normal routine if you want, and I'll try not to get in your way."
-    r "เปล่า ฉันไม่มีอะไรต้องทำเป็นพิเศษ คุณทำกิจวัตรประจำวันได้ตามปกติ ฉันจะพยายามไม่เป็นพวง"
+    r "เปล่า ฉันไม่มีอะไรต้องทำเป็นพิเศษ คุณทำกิจวัตรประจำวันได้ตามปกติ ฉันจะพยายามไม่เกะกะคุณ"
 
 # game/scripts/days/day 1.rpy:1134
 translate thai day1_inviteren_bea97613:
 
     # r "Or you can just put me in a corner somewhere and pretend I'm not there. Whatever works for you!"
-    r "หรือจะเอาฉันไปตั้งไว้มุมไหนสักมุมแล้วทำเป็นไม่เห็นก็ได้ แล้วแต่ที่คุณสบาย!"
+    r "หรือจะเอาฉันไปตั้งไว้มุมไหนสักมุมแล้วทำเป็นไม่เห็นก็ได้ แล้วแต่คุณเลย!"
 
 # game/scripts/days/day 1.rpy:1135
 translate thai day1_inviteren_09751406:
@@ -406,7 +406,7 @@ translate thai day1_inviteren_83b56b5c:
 translate thai day1_inviteren_5e530437:
 
     # y "It's getting rather late, isn't it? Did you just want to get ready for bed? I can show you the bathroom while I get the air mattress out."
-    y "ดึกแล้วใช่ไหม? อยากเตรียมตัวนอนเลยไหม? ฉันพาไปห้องน้ำป้าย ส่วนฉันจะไปเอาที่นอนพองออกมา"
+    y "ดึกแล้วใช่ไหม? อยากเตรียมตัวนอนเลยไหม? ฉันพาไปห้องน้ำป้าย ส่วนฉันจะไปเอาที่นอนลมออกมา"
 
 # game/scripts/days/day 1.rpy:1176
 translate thai day1_inviteren_af5b47bb:
@@ -760,7 +760,7 @@ translate thai day1_inviteren_f057994d:
 translate thai day1_inviteren_4f5688ca:
 
     # r "O-Oh, but you asked about my hair, right? I guess it {i}does{/i} have something to do with Haruko but at the same time…"
-    r "อ-อ๊ะ แต่คุณถามเรื่องผมฉันใช่ไหม? ก็{i}มี{/i}เกี่ยวกับ Haruko บ้าง แต่ในขณะเดียวกัน…"
+    r "อ-อ๊ะ แต่คุณถามเรื่องผมฉันใช่ไหม? ก็{i}เกี่ยวข้อง{/i}กับ Haruko อยู่บ้าง แต่ในขณะเดียวกัน…"
 
 # game/scripts/days/day 1.rpy:1285
 translate thai day1_inviteren_50c0dd19:
@@ -772,13 +772,13 @@ translate thai day1_inviteren_50c0dd19:
 translate thai day1_inviteren_150f06eb:
 
     # r "I chose this hairstyle because of… {i}other{/i} reasons."
-    r "ฉันเลือกทรงผมนี้เพราะ… เหตุผล{i}อื่น{/i}"
+    r "ฉันเลือกทรงผมนี้เพราะ… เหตุผล{i}อื่นๆ{/i}"
 
 # game/scripts/days/day 1.rpy:1288
 translate thai day1_inviteren_e2c405d2:
 
     # n "Well, that certainly was ominous."
-    n "ก็ ฟังดูมีทีมืดมนดีแฮะ"
+    n "ก็ ฟังดูมีลางไม่ดีแฮะ"
 
 # game/scripts/days/day 1.rpy:1289
 translate thai day1_inviteren_4c10d28e:
@@ -790,13 +790,13 @@ translate thai day1_inviteren_4c10d28e:
 translate thai day1_inviteren_4b88a5f5:
 
     # y "…Tired? I can go get your bed set up now if you'd like. Just give me a second to pull out the air mattress."
-    y "…ง่วงแล้วเหรอ? ฉันไปเตรียมที่นอนให้ตอนนี้เลยได้นะ รอฉันแป๊บเดียว เอาที่นอนพองออกมา"
+    y "…ง่วงแล้วเหรอ? ฉันไปเตรียมที่นอนให้ตอนนี้เลยได้นะ รอฉันแป๊บเดียว เอาที่นอนลมออกมา"
 
 # game/scripts/days/day 1.rpy:1292
 translate thai day1_inviteren_1c505660:
 
     # r "I-It's fine! I don't want to be a bother. I can just sleep on the floor or something. I really don't mind, {i}honest!{/i}"
-    r "ไม-ไม่เป็นไร! ฉันไม่อยากเป็นภาระ ฉันนอนพื้นก็ได้ ไม่ว่าอะไรจริงๆ {i}จริง!{/i}"
+    r "ไม-ไม่เป็นไร! ฉันไม่อยากเป็นภาระ ฉันนอนพื้นก็ได้ ฉันไม่ถือหรอก {i}จริงๆ นะ!{/i}"
 
 # game/scripts/days/day 1.rpy:1293
 translate thai day1_inviteren_9c14a8b8:

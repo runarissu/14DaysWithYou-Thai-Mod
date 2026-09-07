@@ -4,19 +4,19 @@
 translate thai day1_rejectren_48d00640:
 
     # n "Back at home, the sounds of my microwave meal and the television filled the silence as I told [ch_moth] about my day."
-    n "กลับถึงบ้าน เสียงไมโครเวฟอาหารและทีวีดังกังวานแทนความเงียบ ขณะที่ฉันเล่าเรื่องวันนี้ให้ [ch_moth] ฟัง"
+    n "กลับถึงบ้าน เสียงไมโครเวฟกับทีวีดังขึ้นท่ามกลางความเงียบ ขณะที่ฉันเล่าเรื่องวันนี้ให้ [ch_moth] ฟัง"
 
 # game/scripts/days/day 1.rpy:1630
 translate thai day1_deadendstart_ccaaaa7f:
 
     # n "I climb into bed with the thought of the supposed intruder still heavy on my mind, but I eventually put it to rest by remembering the heavy duty lock I bought and installed earlier."
-    n "ฉันขึ้นเต้ายายความสงสัยเรื่องคนบุกรุกยังวนเวียนอยู่ในหัว แต่สุดท้ายก็โล่งใจได้เพราะนึกได้ว่าล็อกแน่นที่ซื้อและติดตั้งไว้ก่อนหน้านี้"
+    n "ฉันขึ้นเตียงทั้งที่ยังคิดถึงเรื่องคนบุกรุกที่ค้างคาอยู่ในหัว แต่สุดท้ายก็สบายใจขึ้นเมื่อนึกได้ว่าฉันซื้อและติดตั้งกลอนประตูแบบแข็งแรงไว้ก่อนหน้านี้แล้ว"
 
 # game/scripts/days/day 1.rpy:1982
 translate thai day1_deadendstart_18279e6f:
 
     # n "There's no way anyone could break in now, and even if they did, I could rely on my neighbour to hear."
-    n "คนไม่มีทางบุกเข้ามาได้แน่ และถ้าเกิดมาจริง ฉันก็พึ่งเพื่อนบ้านให้ช่วยเหลือได้"
+    n "ไม่มีทางที่ใครจะบุกเข้ามาได้แน่ และถ้าเกิดมีคนบุกเข้ามาจริง ฉันก็พึ่งเพื่อนบ้านให้ช่วยเหลือได้"
 
 # game/scripts/days/day 1.rpy:1983
 translate thai day1_deadendstart_1b389e6e:

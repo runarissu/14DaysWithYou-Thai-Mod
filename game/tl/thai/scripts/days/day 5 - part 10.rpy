@@ -8,7 +8,7 @@ translate thai day5_visitviolet_5856d1d1:
 translate thai day5_visitviolet_a4fbc2d9:
 
     # v "I never really know when to put my foot down and say that enough is enough."
-    v "ฉันก็ไม่รู้หรอกว่าตอนไหนควรจะลงเอยแบบไหน บอกว่าพอแล้ว"
+    v "ฉันก็ไม่รู้หรอกว่าเมื่อไหร่ควรจะยืนกรานแล้วบอกว่าพอแล้ว"
 
 # game/scripts/days/day 5.rpy:2109
 
@@ -36,7 +36,7 @@ translate thai day5_visitviolet_9415e673:
 translate thai day5_visitviolet_c3b3faf2:
 
     # v "Unless… You're the one who keeps burning everything and setting off the fire alarm?"
-    v "ไม่ก็… คนที่ทำของไหม้แล้วเหนี่ยวนำสัญญาณเตือนไฟไหม้ตลอดคือคุณเองอ่ะ?"
+    v "ไม่ก็… คนที่ทำของไหม้แล้วทำให้สัญญาณเตือนไฟไหม้ดังตลอดคือคุณเองอ่ะ?"
 
 # game/scripts/days/day 5.rpy:2116
 
@@ -99,7 +99,7 @@ translate thai day5_visitviolet_247e4966:
 translate thai day5_visitviolet_ddbf4d90:
 
     # v "Unless, of course, {i}you're{/i} the one who keeps burning everything and setting off the fire alarm?"
-    v "ไม่ก็ แน่นอนอ่ะ {i}คุณเอง{/i} นั่นแหละที่ทำของไหม้แล้วเหนี่ยวนำสัญญาณเตือนไฟไหม้ตลอด?"
+    v "ไม่ก็ แน่นอนอ่ะ {i}คุณเอง{/i} นั่นแหละที่ทำของไหม้แล้วทำให้สัญญาณเตือนไฟไหม้ดังตลอด?"
 
 # game/scripts/days/day 5.rpy:2134
 

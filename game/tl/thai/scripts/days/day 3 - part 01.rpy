@@ -81,7 +81,7 @@ translate thai day3_renmorning_6c08dc3c:
 translate thai day3_renmorning_abe5f4e5:
 
     # n "He doesn't seem to notice my presence yet, so I take the opportunity to study him a little bit more."
-    n "เขายังไม่ได้สังเกตว่าฉันอยู่ตรงนี้ ฉันเลยถือโอกาสส่องสมอเขาอีกสักหน่อย"
+    n "เขายังไม่ได้สังเกตว่าฉันอยู่ตรงนี้ ฉันเลยถือโอกาสส่องเขาอีกสักหน่อย"
 
 # game/scripts/days/day 3.rpy:97
 
@@ -109,7 +109,7 @@ translate thai day3_renmorning_3bc738c7:
 translate thai day3_renmorning_ecd804f6:
 
     # r "Fuck!" with vpunch
-    r "เสือก!" with vpunch
+    r "เชี่ย!" with vpunch
 
 # game/scripts/days/day 3.rpy:105
 
@@ -144,7 +144,7 @@ translate thai day3_renmorning_79a59760:
 translate thai day3_renmorning_2d448d73:
 
     # n "Deciding I've had my fill of watching [ch_ren], I finally make myself known."
-    n "ฉันตัดสินใจว่าดู [ch_ren] พอแล้ว ก็เลยเปิดตัวเอง"
+    n "ฉันตัดสินใจว่าดู [ch_ren] พอแล้ว ก็เลยทำให้เขารู้ตัวว่าฉันอยู่ตรงนี้"
 
 # game/scripts/days/day 3.rpy:121
 
@@ -193,7 +193,7 @@ translate thai day3_renmorning_0cadf67a:
 translate thai day3_renmorning_fd8c81c2:
 
     # n "That moment arrives once he turns around to scrape the burnt remnants of pancake into the bin, and before [ch_ren] has any time to react, I spring into action."
-    n "จังหวะนั้นมาถึงตอนเขาหันมาปากแพนเค้กไหม้ๆ ลงถัง และก่อนที่ [ch_ren] จะทันได้ตอบสนอง ฉันก็ลงมือทันที"
+    n "จังหวะนั้นมาถึงตอนเขาหันมาเทแพนเค้กไหม้ๆ ลงถัง และก่อนที่ [ch_ren] จะทันได้ตอบสนอง ฉันก็ลงมือทันที"
 
 # game/scripts/days/day 3.rpy:137
 
@@ -613,7 +613,7 @@ translate thai day3_renmorning_cf8ada53:
 translate thai day3_renmorning_5793ddc5:
 
     # n "I was already overstaying my welcome by using his dryer and sleeping in his spare bed — but now here I was — eating his food and being exactly five minutes away from getting a lift in his car."
-    n "ฉันอยู่เกินเหมาะอยู่แล้ว ตั้งแต่ใช้เครื่องอบผ้าเขาไปนอนเตียงรองรับของเขา — แต่ตอนนี้ — ฉันกินข้าวเขาแถมจะได้นั่งรถเขาไปทำงานอีกในอีกห้านาที"
+    n "ฉันอยู่เกินความเหมาะสมอยู่แล้ว ตั้งแต่ใช้เครื่องอบผ้าเขาไปนอนเตียงสำรองของเขา — แต่ตอนนี้ — ฉันกินอาหารของเขา แถมกำลังจะได้นั่งรถเขาไปทำงานอีกในอีกห้านาที"
 
 # game/scripts/days/day 3.rpy:250
 
@@ -683,7 +683,7 @@ translate thai day3_alonemorning_1d2f84cd:
 translate thai day3_alonemorning_2a30c467:
 
     # n "Opening them up, I casually begin to skim through them."
-    n "ฉันกดเปิดอ่าน แล้วก็อ่านสำรวมไปเรื่อยๆ"
+    n "ฉันกดเปิดอ่าน แล้วก็ไล่อ่านผ่านๆ ไปเรื่อยๆ"
 
 # game/scripts/days/day 3.rpy:279
 

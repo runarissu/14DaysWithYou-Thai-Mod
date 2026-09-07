@@ -442,7 +442,7 @@ translate thai day2_angelapartment_9fa522dd:
 translate thai day2_angelapartment_78f921cf:
 
     # n "I could almost see the steam rise from his head as he remains in his slouched-over position, so I awkwardly pat his chest to get him to loosen up."
-    n "ฉันแทบจะเห็นไอน้ำลอยขึ้นจากหัวเขาขณะที่เขายังคงก้มตัวอยู่ ฉันเลยตบหน้าอกเขาเบาๆ อย่างกระอักกระอ่วนเพื่อให้เขาคลายเครียด"
+    n "ฉันแทบจะเห็นไอน้ำลอยขึ้นจากหัวเขา ขณะที่เขายังคงก้มตัวอยู่ ฉันเลยตบหน้าอกเขาเบาๆ อย่างกระอักกระอ่วนเพื่อให้เขาคลายเครียด"
 
 # game/scripts/days/day 2.rpy:2078
 

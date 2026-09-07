@@ -10,7 +10,7 @@ translate thai nowahoo_af16c155:
 translate thai nowahoo_f9402fc4:
 
     # r "Sorry, I hope I didn't make things awkward?"
-    r "ขอโทษนะ ฉันไม่ได้ทำให้อากาศมันแปลกไปใช่มั้ย?"
+    r "ขอโทษนะ ฉันไม่ได้ทำให้บรรยากาศมันแปลกๆ ใช่ไหม?"
 
 # game/scripts/days/day 1.rpy:1597
 translate thai nowahoo_274ff2e9:
@@ -34,13 +34,13 @@ translate thai nowahoo_830b778f:
 translate thai nowahoo_60ee8547:
 
     # r "Y-Yeah, I'd like that."
-    r "อ-อืม ฉันอยาก"
+    r "อ-อืม ฉันอยากสิ"
 
 # game/scripts/days/day 1.rpy:1604
 translate thai nowahoo_0a0c64b5:
 
     # n "Giving him a faint nod (could he even see it in the dark?), I awkwardly turn over onto my side and settle back into bed. As [ch_ren] does the same, I feel the mattress shift once more, and a heavy silence lingers in the air."
-    n "ฉันพยักหน้าให้เขาเบาๆ (เขาจะมองเห็นในที่มืดไหมนะ?) แล้วหันตัวไปด้านข้างอย่างกระอักกระอ่วนก่อนจะนอนลง ขณะที่ [ch_ren] ทำเหมือนกัน ฉันรู้สึกได้ว่าที่นอนเอียงอีกครั้ง และความเงียบที่หนักอึ้งก็ค้างอยู่ในอากาศ"
+    n "ฉันพยักหน้าให้เขาเบาๆ (เขาจะมองเห็นในที่มืดไหมนะ?) แล้วหันตัวไปด้านข้างอย่างกระอักกระอ่วนก่อนจะนอนลง ขณะที่ [ch_ren] ทำเหมือนกัน ฉันรู้สึกได้ว่าที่นอนยวบลงอีกครั้ง และความเงียบที่หนักอึ้งก็ยังคงปกคลุมอยู่ในห้อง"
 
 # game/scripts/days/day 1.rpy:1605
 translate thai nowahoo_f2845932:

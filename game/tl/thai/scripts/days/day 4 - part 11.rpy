@@ -1,7 +1,7 @@
 translate thai day4_televisionscene_571a4964:
 
     # n "The TV turns to static, and I quickly reach for the remote to find another channel. Another news show pops up; this time showing a grainy, black and white recording of CCTV footage taken from the aquarium."
-    n "ทีวีกลายเป็นจอด่าง ฉันรีบคว้ารีโมตหาช่องอื่นทันที รายการข่าวอีกช่องโผล่มา ครั้งนี้เป็นภาพขาวดำจากกล้องวงจรปิดที่พร่าเลือน ถ่ายจากพิพิธภัณฑ์สัตว์น้ำ"
+    n "ทีวีกลายเป็นจอสัญญาณรบกวน ฉันรีบคว้ารีโมตหาช่องอื่นทันที รายการข่าวอีกช่องโผล่มา ครั้งนี้เป็นภาพขาวดำจากกล้องวงจรปิดที่พร่าเลือน ถ่ายจากพิพิธภัณฑ์สัตว์น้ำ"
 
 # game/scripts/days/day 4.rpy:2111
 
@@ -155,7 +155,7 @@ translate thai day4_televisionscene_de8ae0c1:
 translate thai day4_televisionscene_b5ea3897:
 
     # n "Today's outing aside, it sure was good to see [ch_elanor] having fun outside of our workplace. I hardly ever see her outside of the library, so it was nice to know that she was enjoying herself."
-    n "นอกจากการออกไปข้างนอกวันนี้แล้ว มันก็ดีใจที่ได้เห็น [ch_elanor] มีความสุขนอกที่ทำงาน ฉันแทบไม่เคยเห็นเธอนอกห้องสมุดเลย ก็เลยดีใจที่รู้ว่าเธอสนุกอยู่"
+    n "นอกจากการออกไปข้างนอกวันนี้แล้ว มันก็ดีที่ได้เห็น [ch_elanor] มีความสุขนอกที่ทำงาน ฉันแทบไม่เคยเห็นเธอนอกห้องสมุดเลย ก็เลยดีใจที่รู้ว่าเธอสนุกอยู่"
 
 # game/scripts/days/day 4.rpy:2137
 

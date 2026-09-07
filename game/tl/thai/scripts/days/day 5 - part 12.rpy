@@ -344,7 +344,7 @@ translate thai day5_rencouch_ac307401:
 translate thai day5_rencouch_23e0fe5e:
 
     # r "You're cold… I should've noticed earlier. Here, I'll go turn up the heater."
-    r "แกหนาว... ฉันน่าจะสังเกตตั้งแต่แรก เดี๋ยวฉันไปปรับเตาผ้าให้ร้อนขึ้นนะ"
+    r "แกหนาว... ฉันน่าจะสังเกตตั้งแต่แรก เดี๋ยวฉันไปปรับเครื่องทำความร้อนให้ร้อนขึ้นนะ"
 
 # game/scripts/days/day 5.rpy:2668
 

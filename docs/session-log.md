@@ -6,82 +6,84 @@
 - Engine: Ren'Py 8.5.2, scripts packed in `game/script.rpa`
 - Used `unrpa` to extract scripts to `_extracted/`
 - Used bundled `14DaysWithYou.exe` with `translate thai` CLI to generate translation framework
-- Created temp project `_tmp_project/` with extracted scripts to generate dialog translation blocks (because main game only has .rpa)
-- Font strategy: `config.font_replacement_map` with language callbacks (not `define gui.*_font`) to catch hardcoded font references in screens.rpy
-- Pronoun strategy: wrap `refresh_pronouns()` in `replace_pronouns.rpy` — override to gender-neutral Thai when `_preferences.language == "thai"`
-- Fonts: Sarabun (body), Prompt-SemiBold (names/headers), Prompt-Regular (UI) — copied from `C:\Windows\Fonts`
+- Created temp project `_tmp_project/` with extracted scripts to generate dialog translation blocks
+- Font strategy: `config.font_replacement_map` with language callbacks
+- Pronoun strategy: wrap `refresh_pronouns()` in `replace_pronouns.rpy` for gender-neutral Thai
+- Fonts: later changed to composite Noto Sans Thai + original English font
 
 ### Files Created
-- `docs/thai-localization-mod-guide.md` — workflow guide
-- `docs/en-th-localization-style-guide.md` — translation style guide
-- `docs/codebase-map.md` — project structure reference
-- `docs/active-task.md` — task tracker
-- `game/tl/thai/replace_font.rpy` — font override via callbacks
-- `game/tl/thai/replace_pronouns.rpy` — pronoun system override
-- `game/tl/thai/common.rpy` — UI translations (needs fix: duplicate block)
-- `game/tl/thai/scripts/**/*.rpy` — generated dialog translation blocks
+- `docs/thai-localization-mod-guide.md`
+- `docs/en-th-localization-style-guide.md`
+- `docs/codebase-map.md`
+- `docs/active-task.md`
+- `game/tl/thai/replace_font.rpy`
+- `game/tl/thai/replace_pronouns.rpy`
+- `game/tl/thai/common.rpy`
+- `game/tl/thai/scripts/**/*.rpy`
 
-### Issues Found
-- `common.rpy`: SDK appended auto-generated `translate thai strings:` after my custom block → duplicate sections, need merge
-- `replace_pronouns.rpy`: initial version called `refresh_pronouns()` at init time → `NameError: pronoun` not defined → fixed by removing the call
-- Day 0 translation subagent was canceled before completion
-
-### Next Steps
-- Fix `common.rpy` duplicate blocks
-- Restart day 0 translation with style guide context
-- Parallelize day 1-5 translation with subagents
+### Issues / Fixes
+- `common.rpy`: SDK duplicate string block identified; needs merge review
+- `replace_pronouns.rpy`: removed premature `refresh_pronouns()` call causing `NameError`
+- Day 0 translation was previously canceled before completion
 
 ## 2026-09-05 — File Split for Safety
 
 ### Decision
-- devin terminate หลายครั้ง เสียงานทั้งไฟล์ → แยกไฟล์ใหญ่เป็นไฟล์ย่อย
-- แยก day 0-5 เป็น 88 ไฟล์ (รวม 6716 blocks)
-- แยกตาม label prefix ถ้ามีหลาย prefix, ถ้า prefix เดียวแยกทุก 100 blocks
-- ไฟล์ strings (choice/menu) แยกออกมาต่างหาก
-- Original backup ที่ `_backup_days_original/`
+- Split day 0-5 into 88 files (6716 blocks) so completed files survive interruptions.
+- Split by label prefix where possible; otherwise roughly 100 blocks/file.
+- Separate `strings` files for choices/menus.
+- Original backups stored in `_backup_days_original/`.
 
-### Status
-- ทุกไฟล์ยังเป็นอังกฤษ (ยังไม่ได้แปล)
-- พร้อมเริ่มแปลทีละไฟล์ย่อย
-
-### Next Steps
-- เริ่มแปล day 0 ทีละไฟล์ย่อย (10 ไฟล์)
-- ไฟล์ไหนเสร็จ = เซฟ = เก็บถาวร
-
-## 2026-09-05 — เปลี่ยน Font เป็น Noto Sans Thai
+## 2026-09-05 — Font Update
 
 ### Decision
-- เปลี่ยน font ไทยจาก Sarabun/Prompt เป็น Noto Sans Thai (Google Fonts)
-- ใช้ weight Regular + SemiBold + Bold
-- Noto Sans Thai เป็น Thai-only (ไม่มี Latin) → ใช้ตรงๆ ใน font_replacement_map ไม่ได้
-- แก้โดย merge Noto Sans Thai + font อังกฤษเดิม เป็น composite TTF ด้วย fontTools.merge
+- Changed Thai font strategy to composite Noto Sans Thai + original English font.
+- Fixed `font_replacement_map` values to Ren'Py tuple format `(filename, False, False)`.
 
-### Bug Fix
-- script เดิมใช้ค่าเป็น string ใน font_replacement_map → ผิด (Ren'Py unpack เป็น 3 ค่า)
-- แก้เป็น tuple `(filename, False, False)` ตามมาตรฐาน Ren'Py
+## 2026-09-07 — Full Thai Localization QA
 
-### Files
-- Composite fonts 8 ไฟล์ใน `game/tl/thai/NotoSansThai-*.ttf`
-- `replace_font.rpy` อัปเดต mapping + แก้ bug
+### Workflow
+- QA one Day end-to-end before moving to the next: source/Thai meaning, natural Thai, spelling, grammar, character voice, punctuation, and Ren'Py tags/variables.
+- Do not stop mid-Day or claim completion from sampling.
 
-## 2026-09-05 — ติดตั้ง RTK + lean-ctx สำหรับ Devin Desktop
+### Day 0
+- Completed review of all 10 Day 0 translation files: deadend1-5, eastereggalternative, monsterpupeasteregg, part 01, part 02, strings.
+- Corrected confirmed issues including `ปริว`→`ปลิว`, malformed phrases, unnatural literal translations, `ดีตา` usage in dialogue, punctuation, and several awkward English-to-Thai constructions.
+- Preserved intentional glitch/cipher text and Ren'Py formatting tags.
+- Status: complete.
 
-### Decisions
-- พี่บอสใช้ Devin Desktop (ฝังเป็น Windsurf extension, CLI = `devin-desktop` v1.126.0)
-- RTK v0.48.0 stable ยังไม่มี `--agent devin` (PR #3144 merge แล้วแต่อยู่ใน develop branch) → ใช้ `--agent windsurf` สำหรับ Cascade + เพิ่ม hook ให้ Devin CLI โดยตรงผ่าน `rtk hook claude` (format ตรงกับ Devin's PreToolUse + updatedInput)
-- lean-ctx ลงผ่าน `npm install -g lean-ctx-bin` (v3.10.0)
-- ตั้ง `shell_hook_disabled = true` ใน lean-ctx เพื่อไม่ให้ยุ่งกับ PowerShell profile — ปล่อยให้ rtk จัดการ shell compression ฝั่ง PowerShell แทน
-- lean-ctx ทำงานเป็น MCP server (stdio) เท่านั้น ให้ `ctx_read`/`ctx_search`/`ctx_shell` ฯลฯ
-- Node path เสถียร: `C:\Users\lunas\AppData\Roaming\fnm\node-versions\v26.8.1\installation\` (fnm default v26.8.1)
+### Day 1
+- Completed review of all 16 active Day 1 Thai `.rpy` translation files: meet, mothaltintro, mothaltending, nowahoo, part 01-05, reninterrupt, saygoodnight, saynothing, sleeping, sleepingbed, sleepingfloor, strings.
+- Corrected confirmed typos, unnatural literal phrasing, malformed Thai, repeated/incorrect words, and several context-sensitive dialogue/narration issues.
+- Preserved intentional glitch/cipher text and Ren'Py formatting tags/variables.
+- Status: complete.
 
-### Files Modified
-- `C:\Users\lunas\.local\bin\rtk.exe` — RTK v0.48.0 binary (จาก GitHub release)
-- `C:\Users\lunas\.windsurfrules` — RTK rules สำหรับ Windsurf Cascade
-- `C:\Users\lunas\.config\lean-ctx\config.toml` — `shell_hook_disabled = true`
-- `C:\Users\lunas\AppData\Roaming\devin\config.json` — เพิ่ม `hooks.PreToolUse` สำหรับ rtk
-- `C:\Users\lunas\AppData\Roaming\devin\mcp_config.json` — เพิ่ม `lean-ctx` MCP server
+### Day 2
+- Completed review of all 12 active Day 2 Thai `.rpy` translation files: part 01-11 and strings.
+- Corrected confirmed typos, malformed Thai, unnatural literal phrasing, timing/wording errors, and context-sensitive dialogue/narration issues.
+- Preserved intentional glitch/cipher text and Ren'Py formatting tags/variables.
+- Status: complete.
 
-### Next Steps
-- Restart Devin Desktop เพื่อให้ hook + MCP server ใหม่มีผล
-- ทดสอบ: สั่ง `git status` ใน Devin → ควรถูก rewrite เป็น `rtk git status` อัตโนมัติ
-- ตรวจดู `ctx_*` tools ใน Devin (เช่น `ctx_read`, `ctx_search`)
+### Day 3
+- Completed review of all 15 active Day 3 Thai `.rpy` translation files: part 01-14 and strings.
+- Corrected confirmed typos, malformed Thai, unnatural/literal phrasing, and context-sensitive dialogue/narration issues across the day.
+- Preserved intentional glitch/cipher text and Ren'Py formatting tags/variables/placeholders.
+- `git diff --check` passes for Day 3 files.
+- Status: complete.
+
+### Day 4
+- Completed review of all 18 active Day 4 Thai `.rpy` translation files: part 01-17 and strings.
+- Corrected confirmed typos, malformed Thai, unnatural/literal phrasing, duplicate wording, placeholder spacing issues, and context-sensitive dialogue/narration issues.
+- Preserved intentional glitch/cipher text and Ren'Py formatting tags/variables/placeholders.
+- `git diff --check` passes for Day 4 files.
+- Status: complete.
+
+### Day 5
+- Completed review of all 15 active Day 5 Thai `.rpy` translation files: part 01-14 and strings.
+- Corrected confirmed typos, malformed Thai, unnatural/literal phrasing, terminology issues, punctuation/spacing issues, and context-sensitive dialogue/narration problems.
+- Preserved intentional glitch/cipher text and Ren'Py formatting tags/variables/placeholders.
+- `git diff --check` passes for Day 5 files.
+- Status: complete.
+
+### Next
+- Day 5 QA is complete. Continue to the next requested localization task/day.

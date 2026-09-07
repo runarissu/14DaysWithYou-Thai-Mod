@@ -4,21 +4,21 @@
 translate thai day2_wahoomorning_b4085a90:
 
     # n "The sounds of birds chirping outside pull me from my slumber, as streaks of sunlight peak through the blinds of my window and cast a warm glow across my skin."
-    n "เสียงนกร้องเพราะๆ ข้างนอกดึงฉันออกจากหลับ ในขณะที่แสงแดดส่องผ่านมู่ลี่หน้าต่างระยับ ทอดเงาอุ่นๆ ลงมาบนผิวฉัน"
+    n "เสียงนกร้องเพราะๆ ข้างนอกปลุกฉันให้ตื่นจากหลับ ในขณะที่แสงแดดส่องผ่านมู่ลี่หน้าต่างระยับ ทอดเงาอุ่นๆ ลงมาบนผิวฉัน"
 
 # game/scripts/days/day 2.rpy:59
 
 translate thai day2_wahoomorning_38ae3aba:
 
     # n "I wanted nothing more than to reach out and close the blinds, but something — or rather, someone — seemed to be stopping me."
-    n "ฉันอยากจะยื่นมือไปปิดมู่ลี่ให้หมดสิทธิ์ แต่มีบางอย่าง — หรือจะว่าไปก็คือใครบางคน — ดูเหมือนจะขวางฉันไว้"
+    n "ฉันอยากจะยื่นมือไปปิดมู่ลี่ให้สนิท แต่มีบางอย่าง — หรือจะว่าไปก็คือใครบางคน — ดูเหมือนจะขวางฉันไว้"
 
 # game/scripts/days/day 2.rpy:61
 
 translate thai day2_wahoomorning_372f269e:
 
     # n "A familiar pair of white sleeves are wrapped securely around my waist, so I turn around, only to find [ch_ren] staring intently at me from his side of the bed."
-    n "แขนเสื้อสีขาวคู่คุ้นเคยพันรอบเอวฉันแน่นหนา ฉันเลยหันไป ก็ได้แต่พบว่า [ch_ren] กำลังจ้องมองฉันอย่างตั้งใจจากด้านของเขาบนเตียง"
+    n "แขนเสื้อสีขาวคู่คุ้นเคยโอบรอบเอวฉันไว้แน่น ฉันเลยหันไป ก็ได้แต่พบว่า [ch_ren] กำลังจ้องมองฉันอย่างตั้งใจจากด้านของเขาบนเตียง"
 
 # game/scripts/days/day 2.rpy:62
 
@@ -39,14 +39,14 @@ translate thai day2_wahoomorning_95ebaef3:
 translate thai day2_wahoomorning_867a296a:
 
     # n "But [ch_ren] only seems to find amusement in my state of embarrassment with how his eyes crinkle while he lightly chuckles underneath the morning light."
-    n "แต่ [ch_ren] กลับดูเพลิดเพลินกับความอายของฉัน สังเกตได้จากตาที่ยิ้มย่นของเขาพร้อมเสียงหัวเราะเบาๆ ใต้แสงเช้า"
+    n "แต่ [ch_ren] กลับดูเพลิดเพลินกับความอายของฉัน สังเกตได้จากดวงตาที่หยีลงอย่างยิ้มแย้มพร้อมเสียงหัวเราะเบาๆ ใต้แสงเช้า"
 
 # game/scripts/days/day 2.rpy:65
 
 translate thai day2_wahoomorning_a8cf2f56:
 
     # n "He looked far too pretty in the sunlight for a man who'd surely woken up no more than five minutes ago, and I had to fight the urge to take a picture of him to commit the scene to memory."
-    n "เขาดูสวยเกินไปในแสงแดดสำหรับคนที่คงตื่นมาไม่เกินห้านาที ฉันต้องอดกลั้นอารมณ์อยากจะถ่ายรูปเก็บภาพตรงนี้ไว้ในความทรงจำ"
+    n "เขาดูดีเกินไปในแสงแดดสำหรับคนที่คงตื่นมาไม่เกินห้านาที ฉันต้องอดกลั้นอารมณ์อยากจะถ่ายรูปเก็บภาพตรงนี้ไว้ในความทรงจำ"
 
 # game/scripts/days/day 2.rpy:66
 
@@ -74,7 +74,7 @@ translate thai day2_wahoomorning_f7d8e8c8:
 translate thai day2_wahoomorning_b99c9f39:
 
     # n "His sudden act of affection startled me, to say the least, and despite the events that unfolded last night, he seemed {b}far too{/b} comfortable to be acting this familiar and cuddly with me."
-    n "การกระทำที่แสนหวานของเขาทำเอาฉันตกใจไม่ใช่น้อย และถึงแม้จะผ่านเรื่องราวเมื่อคืนไปแล้ว เขาก็ยังดูสบายใจ{b}เกินไป{/b}ที่จะทำตัวใกล้ชิดและอ้อนเอาแบบนี้กับฉัน"
+    n "การกระทำที่แสนหวานของเขาทำเอาฉันตกใจไม่ใช่น้อย และถึงแม้จะผ่านเรื่องราวเมื่อคืนไปแล้ว เขาก็ยังดูสบายใจ{b}เกินไป{/b}ที่จะทำตัวสนิทสนมและออดอ้อนฉันแบบนี้"
 
 # game/scripts/days/day 2.rpy:70
 
@@ -109,7 +109,7 @@ translate thai day2_wahoomorning_92dba5d1:
 translate thai day2_wahoomorning_29c4faf7:
 
     # n "[ch_ren], however, doesn't seem to {b}want{/b} to acknowledge the heavy air between us, and instead feels more than content with snuggling up to me and tickling my neck with his breath."
-    n "แต่ [ch_ren] กลับดูไม่{b}อยาก{/b}รับรู้ถึงบรรยากาศอึ้งๆ ระหว่างพวกเรา แถมยังดูพอใจกับการซุกแนบชิดฉันแล้วรบกวนซอกคอฉันด้วยลมหายใจ"
+    n "แต่ [ch_ren] กลับดูไม่{b}อยาก{/b}รับรู้ถึงบรรยากาศอึ้งๆ ระหว่างพวกเรา แถมยังดูพอใจกับการซุกแนบชิดฉันแล้วจั๊กจี้ซอกคอฉันด้วยลมหายใจ"
 
 # game/scripts/days/day 2.rpy:76
 
@@ -326,7 +326,7 @@ translate thai day2_wahoomorning_8dc4ca07:
 translate thai day2_wahoomorning_de61879a:
 
     # n "And I almost get rolled over when he tries to hoist the blanket around his waist and rise from the bed."
-    n "และฉันแทบถูกกลิ้งตกเตียงเมื่อเขาพันผ้าห่มรอบเอวแล้วลุกจากเตียง"
+    n "และฉันแทบกลิ้งตกเตียงเมื่อเขาพันผ้าห่มรอบเอวแล้วลุกจากเตียง"
 
 # game/scripts/days/day 2.rpy:119
 

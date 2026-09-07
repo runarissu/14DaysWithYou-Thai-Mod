@@ -17,7 +17,7 @@ translate thai strings:
 
     # game/scripts/days/day 1.rpy:95
     old "Send a meme with zero context"
-    new "ส่งมีมโดยไม่บอกบริบท"
+    new "ส่งมีมแบบไร้บริบท"
 
     # game/scripts/days/day 1.rpy:113
     old "\"Haruko's hair is short now.\""
@@ -105,7 +105,7 @@ translate thai strings:
 
     # game/scripts/days/day 1.rpy:1155
     old "[rh_o]Make a late-night snack[rh_c]"
-    new "[rh_o]ทำขนมดึกๆ[rh_c]"
+    new "[rh_o]หาอะไรกินดึกๆ[rh_c]"
 
     # game/scripts/days/day 1.rpy:1168
     old "Suggest getting ready for bed"
@@ -189,15 +189,15 @@ translate thai strings:
 
     # game/scripts/days/day 1.rpy:1763
     old "\"That is kinda weird, ngl\""
-    new "\"ก็แปลกนิดนึงนะ ไม่โกหก\""
+    new "\"ก็แปลกนิดนึงนะ พูดจริง\""
 
     # game/scripts/days/day 1.rpy:1769
     old "\"Yeah np! Thanks for leaving your number!\""
-    new "\"โอเคไม่เป็นไร! ขอบคุณที่ทิ้งเบอร์ไว้นะ!\""
+    new "\"โอเค ไม่เป็นไร! ขอบคุณที่ฝากเบอร์ไว้นะ!\""
 
     # game/scripts/days/day 1.rpy:1779
     old "\"Wait! Look at this meme I found real quick\""
-    new "\"เดี๋ยว! ดูมีมที่ฉันเจอมาก่อน\""
+    new "\"เดี๋ยว! ดูมีมที่ฉันเพิ่งเจอเร็วๆ นี้สิ\""
 
     # game/scripts/days/day 1.rpy:1800
     old "{image=14NWY symbol} \"what are you wearing rn? ;)\""
@@ -249,5 +249,5 @@ translate thai strings:
 
     # game/scripts/days/day 1.rpy:1958
     old "[de_o]Blatantly ignore him[de_c]"
-    new "[de_o]เมินเขาสนิท[de_c]"
+    new "[de_o]เมินเขาไปเลย[de_c]"
 

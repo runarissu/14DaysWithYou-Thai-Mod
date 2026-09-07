@@ -477,7 +477,7 @@ translate thai day3_invitejae_3561a4eb:
 translate thai day3_invitejae_b86f8482:
 
     # n "At that, he playfully tosses a piece of popcorn into the air and effortlessly catches it in his mouth."
-    n "พูดจบเขาก็ขว้างป๊อปคอร์นเม็ดหนึ่งขึ้นฟลอย่างมั่นใจแล้วรับปากได้อย่างไม่ยากเย็น"
+    n "พูดจบเขาก็ขว้างป๊อปคอร์นเม็ดหนึ่งขึ้นฟ้าอย่างมั่นใจแล้วรับเข้าปากได้อย่างไม่ยากเย็น"
 
 # game/scripts/days/day 3.rpy:2235
 
@@ -491,7 +491,7 @@ translate thai day3_invitejae_e2e516b7:
 translate thai day3_invitejae_e4df7c96:
 
     # y "You won't believe whose date I'll be third wheeling tomorrow."
-    y "มึงคงไม่เชื่อหรอกว่าพรุ่งนี้ฉันจะไปเป็นไฟส่อนคนไหน"
+    y "มึงคงไม่เชื่อหรอกว่าพรุ่งนี้ฉันจะไปเป็นก้างขวางคอเดตของใคร"
 
 # game/scripts/days/day 3.rpy:2238
 

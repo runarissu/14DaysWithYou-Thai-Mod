@@ -15,7 +15,7 @@ translate thai day3_inviteren_be68e9ad:
 translate thai day3_inviteren_7c69ffbd:
 
     # n "The cold, evening air of my apartment ghosts along my exposed skin before [ch_ren] wraps his arms around my body to share his warmth."
-    n "อากาศยามเย็นที่เย็นเย็นในอพาร์ตเมนต์ลอยผ่านผิวที่เปลือยเปล่าของฉัน ก่อนที่ [ch_ren] จะโอบแขนรอบตัวฉันเพื่อส่งความอบอุ่นจากตัวเขามาให้"
+    n "อากาศเย็นยามเย็นในอพาร์ตเมนต์ลอยผ่านผิวที่เปลือยเปล่าของฉัน ก่อนที่ [ch_ren] จะโอบแขนรอบตัวฉันเพื่อส่งความอบอุ่นจากตัวเขามาให้"
 
 # game/scripts/days/day 3.rpy:1817
 
@@ -526,7 +526,7 @@ translate thai day3_invitemoth_98b68a77:
 translate thai day3_invitemoth_76b880ee:
 
     # mcall "Heh… Me? I didn't know we were going on a date together. I'm flattered, dude!"
-    mcall "เหอะ… ฉันเหรอ? ไม่รู้นะว่าเราจะไปเดตกัน ฉันกระเริ่นเลยว่ะ!"
+    mcall "เหอะ… ฉันเหรอ? ไม่รู้นะว่าเราจะไปเดตกัน ฉันปลื้มเลยว่ะ!"
 
 # game/scripts/days/day 3.rpy:1927
 
@@ -680,7 +680,7 @@ translate thai day3_invitemoth_575601ac:
 translate thai day3_invitemoth_794cfa10:
 
     # n "It was a weak response, but I could tell [ch_moth] was being sincere about it."
-    n "มันเป็นคำตอบที่อ่อนประเดี๋ยว แต่ฉันรู้ว่า [ch_moth] พูดจากใจจริง"
+    n "มันเป็นคำตอบที่ไม่ค่อยช่วยอะไรเท่าไหร่ แต่ฉันรู้ว่า [ch_moth] พูดจากใจจริง"
 
 # game/scripts/days/day 3.rpy:1949
 

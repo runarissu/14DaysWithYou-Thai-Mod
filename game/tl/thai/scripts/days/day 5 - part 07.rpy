@@ -337,7 +337,7 @@ translate thai day5_streetscenealt_cea66984:
 translate thai day5_streetscenealt_207cf3b2:
 
     # n "When his eyes meet mine, I…"
-    n "พอสายตาของเขาปะกับฉัน ฉัน..."
+    n "พอสายตาของเขาประสานกับฉัน ฉัน..."
 
 # game/scripts/days/day 5.rpy:1544
 
@@ -428,7 +428,7 @@ translate thai day5_streetscenealt_8c7d71b9:
 translate thai day5_streetscenealt_cd353ad5:
 
     # n "Before I can get lost in my thoughts, the sleeves of [ch_ren]'s cardigan come into view as he starts to wipe the blood from my face. There's a tender look in his eye, and I can't help but feel weak in the knees at the vulnerability of it all."
-    n "ก่อนที่ฉันจะจมปลักอยู่กับความคิด แขนเสื้อการ์ดิแกนของ [ch_ren] ก็ปรากฏขึ้นขณะที่เขาเริ่มเช็ดเลือดออกจากใบหน้าฉัน สายตาของเขามีความอ่อนโยน และความเปราะบางของตอนนี้ทำให้เข่าฉันอ่อนย้อนจนแทบยืนไม่ไหว"
+    n "ก่อนที่ฉันจะจมปลักอยู่กับความคิด แขนเสื้อการ์ดิแกนของ [ch_ren] ก็ปรากฏขึ้นขณะที่เขาเริ่มเช็ดเลือดออกจากใบหน้าฉัน สายตาของเขามีความอ่อนโยน และความเปราะบางของตอนนี้ทำให้เข่าฉันอ่อนยวบจนแทบยืนไม่ไหว"
 
 # game/scripts/days/day 5.rpy:1564
 
@@ -442,7 +442,7 @@ translate thai day5_streetscenealt_1767f661:
 translate thai day5_streetscenealt_cd353ad5_1:
 
     # n "Before I can get lost in my thoughts, the sleeves of [ch_ren]'s cardigan come into view as he starts to wipe the blood from my face. There's a tender look in his eye, and I can't help but feel weak in the knees at the vulnerability of it all."
-    n "ก่อนที่ฉันจะจมปลักอยู่กับความคิด แขนเสื้อการ์ดิแกนของ [ch_ren] ก็ปรากฏขึ้นขณะที่เขาเริ่มเช็ดเลือดออกจากใบหน้าฉัน สายตาของเขามีความอ่อนโยน และความเปราะบางของตอนนี้ทำให้เข่าฉันอ่อนย้อนจนแทบยืนไม่ไหว"
+    n "ก่อนที่ฉันจะจมปลักอยู่กับความคิด แขนเสื้อการ์ดิแกนของ [ch_ren] ก็ปรากฏขึ้นขณะที่เขาเริ่มเช็ดเลือดออกจากใบหน้าฉัน สายตาของเขามีความอ่อนโยน และความเปราะบางของตอนนี้ทำให้เข่าฉันอ่อนยวบจนแทบยืนไม่ไหว"
 
 # game/scripts/days/day 5.rpy:1568
 
@@ -582,7 +582,7 @@ translate thai day5_streetscenealt_ae81b672:
 translate thai day5_streetscenealt_3b503b8d:
 
     # r "…They tried t'kill {i}you{/i}, [ch_angel]. They had it coming."
-    r "...พวกเขาพยายามจะฆ่า{i}คุณ{/i} [ch_angel] พวกเขาเอาเหมาะเอาการเอง"
+    r "...พวกเขาพยายามจะฆ่า{i}คุณ{/i} [ch_angel] พวกเขาสมควรโดนแล้ว"
 
 # game/scripts/days/day 5.rpy:1608
 
@@ -638,7 +638,7 @@ translate thai day5_streetscenealt_460c623f:
 translate thai day5_streetscenealt_3724bde1:
 
     # r "…A murderer? Is that what you really think of me?"
-    r "...ฆาตกร? คุณคิดกับฉันแบบนั้นจริงๆเหรอ?"
+    r "...ฆาตกร? คุณคิดกับฉันแบบนั้นจริงๆ เหรอ?"
 
 # game/scripts/days/day 5.rpy:1625
 

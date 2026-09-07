@@ -1,7 +1,7 @@
 translate thai day2_pierdate_c1955da5:
 
     # n "[ch_teo] isn't subtle with how he nudges [ch_leon] out of the way, nor does he seem to remove his hand from Rosie's waist."
-    n "[ch_teo] ไม่ได้แอบทำเลย ที่เขาใช้ไหล่ดัน [ch_leon] ออกไปทาง และเขาก็ไม่ยอมปล่อยมือจากเอวของ Rosie เหมือนกัน"
+    n "[ch_teo] ไม่ได้แอบทำเลย ที่เขาใช้ไหล่ดัน [ch_leon] ออกไปด้านข้าง และเขาก็ไม่ยอมปล่อยมือจากเอวของ Rosie เหมือนกัน"
 
 # game/scripts/days/day 2.rpy:438
 
@@ -85,7 +85,7 @@ translate thai day2_pierdate_704f5fc3:
 translate thai day2_pierdate_5f4ee9b8:
 
     # ro "We {i}always{/i} catch up on the weekends, and I show her our wedding videos while she shows me all his baby photos!"
-    ro "เรา{i}ตลอด{/i}มาเจอกันช่วงสุดสัปดาห์ ฉันเอาวิดีโองานแต่งงานของเราให้เธอดู ส่วนเธอก็เอารูปตอนเด็กๆ ของเขามาให้ฉันดู!"
+    ro "เรา{i}มักจะ{/i}มาเจอกันช่วงสุดสัปดาห์ ฉันเอาวิดีโองานแต่งงานของเราให้เธอดู ส่วนเธอก็เอารูปตอนเด็กๆ ของเขามาให้ฉันดู!"
 
 # game/scripts/days/day 2.rpy:458
 
@@ -323,7 +323,7 @@ translate thai day2_pierdate_723a1be3:
 translate thai day2_pierdate_1d57d8d7:
 
     # n "It {b}definitely{/b} wasn't out of the ordinary for him to do something like that. Plus… It offered me a lot more insight into the whole \"assertive yet nonchalant\" attitude he often liked to put on."
-    n "มัน{b}อย่างแน่นอน{/b}ไม่ใช่เรื่องแปลกสำหรับเขาที่จะทำแบบนั้น อีกอย่าง… มันทำให้ฉันเข้าใจท่าที \"กวาดต้อน แต่เรียบเฉย\" ที่เขามักจะแสดงออกได้มากขึ้น"
+    n "มัน{b}ไม่ใช่เรื่องแปลกเลย{/b}ที่เขาจะทำอะไรแบบนั้น อีกอย่าง… มันทำให้ฉันเข้าใจท่าที \"ชอบเอาชนะ แต่ทำเป็นไม่สนใจ\" ที่เขามักจะแสดงออกได้มากขึ้น"
 
 # game/scripts/days/day 2.rpy:536
 
@@ -358,7 +358,7 @@ translate thai day2_pierdate_833cfe12:
 translate thai day2_teocont_99cdf89a:
 
     # n "But luckily [ch_ren] manages to catch his footing at the last second, sending [ch_teo] an annoyed scowl of his own."
-    n "แต่โชคดีที่ [ch_ren] ยืนยันได้ทันในวินาทีสุดท้าย และส่งสายตาจ้องไปที่ [ch_teo] อย่างหัวเราะเยาะ"
+    n "แต่โชคดีที่ [ch_ren] ทรงตัวได้ทันในวินาทีสุดท้าย แล้วส่งสายตาไม่พอใจไปให้ [ch_teo]"
 
 # game/scripts/days/day 2.rpy:544
 

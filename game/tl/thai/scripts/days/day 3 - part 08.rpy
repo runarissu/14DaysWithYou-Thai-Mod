@@ -407,7 +407,7 @@ translate thai day3_inviteren_d3fcafae:
 translate thai day3_inviteren_daf0612c:
 
     # r "—Ish good! Real tashty! Wan' some?"
-    r "—มะอ่อย! อช่อยมะก! จะกินมั้ย?"
+    r "—มะอ่อย! อร่อยมะก! จะกินมั้ย?"
 
 # game/scripts/days/day 3.rpy:1726
 

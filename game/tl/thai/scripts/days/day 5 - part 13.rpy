@@ -603,7 +603,7 @@ translate thai day5_renevening_6412b367:
 translate thai day5_renevening_a7bd010d:
 
     # n "All of a sudden, [ch_ren] appears from behind one of the dark hallways and scares the living [shit] out of us."
-    n "ทันใดนั้น [ch_ren] ก็โผล่ออกมาจากทางเดินมืดด้านหลังและทำเอาพวกเราตกใจ [shit] แทบหัวใจวาย"
+    n "ทันใดนั้น [ch_ren] ก็โผล่ออกมาจากทางเดินมืดด้านหลังและทำเอาพวกเราตกใจ [shit] แทบหัวใจแทบวาย"
 
 # game/scripts/days/day 5.rpy:2931
 

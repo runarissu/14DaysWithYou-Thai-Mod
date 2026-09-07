@@ -211,7 +211,7 @@ translate thai day3_inviteviolet_880acda4:
 translate thai day3_inviteviolet_8a234e11:
 
     # n "I didn't know the {b}exact{/b} details of their history, but I did know that [ch_teo] and [ch_violet] never really got along with each other."
-    n "ฉันไม่รู้รายละเอียด{b}เต็ม{/b}ของเรื่องราวระหว่างพวกเขา แต่ฉันรู้ว่า [ch_teo] กับ [ch_violet] ไม่เคยถูกกันสักที"
+    n "ฉันไม่รู้รายละเอียด{b}แน่ชัด{/b}ของเรื่องราวระหว่างพวกเขา แต่ฉันรู้ว่า [ch_teo] กับ [ch_violet] ไม่เคยถูกกันสักที"
 
 # game/scripts/days/day 3.rpy:2004
 
@@ -512,7 +512,7 @@ translate thai day3_inviteelanor_e3351967:
 translate thai day3_inviteelanor_bfd2f0af:
 
     # y "Hey, thanks! I don't remember leaving it there, though."
-    y "เอ่อ ขอบคุณนะ! แต่ฉันไม่จำได้ว่าเอาไปวางตรงนั้น"
+    y "เอ่อ ขอบคุณนะ! แต่ฉันจำไม่ได้ว่าเอาไปวางตรงนั้น"
 
 # game/scripts/days/day 3.rpy:2090
 

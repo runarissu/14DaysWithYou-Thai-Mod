@@ -22,7 +22,7 @@ translate thai day4_aquariumscene_fa042e31:
 translate thai day4_aquariumscene_3100ec55:
 
     # y "I guess they'd look a bit silly, huh? Oh— that reminds me! I should've taken some photos!"
-    y "คงจะดูตลก ๆ หน่อยมั้ง? อ่ะ— นี่ทำให้ฉันนึกได้! ฉันน่าจะถ่ายรูปไว้ตั้งหลาย!"
+    y "คงจะดูตลก ๆ หน่อยมั้ง? อ๊ะ— นี่ทำให้ฉันนึกได้! ฉันน่าจะถ่ายรูปไว้บ้าง!"
 
 # game/scripts/days/day 4.rpy:688
 
@@ -36,7 +36,7 @@ translate thai day4_aquariumscene_8a411b55:
 translate thai day4_aquariumscene_592693f9:
 
     # y "So I can show them to [ch_leon] later! I'm sure he'd find them {i}hilarious{/i}."
-    y "ก็เอาไปให้ [ch_leon] ดูทีหลังไง! ฉันแน่ใจว่าเขาคงจะหัวเราะ{i}ขบขัน{/i}"
+    y "ก็เอาไปให้ [ch_leon] ดูทีหลังไง! ฉันแน่ใจว่าเขาคงจะหัวเราะ{i}จนขำ{/i}"
 
 # game/scripts/days/day 4.rpy:691
 
@@ -127,7 +127,7 @@ translate thai day4_aquariumscene_01b2dab6:
 translate thai day4_aquariumscene_d7c7f463:
 
     # y "Oh? I'd be down for that. I'm pretty sure I've forgotten the entire plot of the movie, anyway."
-    y "โอ้? ฉันก็ได้นะ ฉันลืมเนื้อเรื่องไปหมดแล้วอยู่"
+    y "โอ้? ฉันก็ได้นะ ฉันลืมเนื้อเรื่องไปหมดแล้วด้วย"
 
 # game/scripts/days/day 4.rpy:717
 
@@ -218,7 +218,7 @@ translate thai day4_aquariumscene_b936dad0:
 translate thai day4_aquariumscene_ba1d3064:
 
     # y "Actually… This might sound cheesy, but after you mentioned the angelfish… It reminded me of our date by the pier. Remember?"
-    y "จริง ๆ นะ… เรื่องนี้อาจจะฟังดูเชย แต่พอแกพูดถึง ปลาออสการ์… มันทำให้ฉันนึกถึงเดทของเราที่ท่าเรือ จำได้ไหม?"
+    y "จริง ๆ นะ… เรื่องนี้อาจจะฟังดูเชย แต่พอแกพูดถึง ปลาเทวดา… มันทำให้ฉันนึกถึงเดทของเราที่ท่าเรือ จำได้ไหม?"
 
 # game/scripts/days/day 4.rpy:741
 
@@ -239,7 +239,7 @@ translate thai day4_aquariumscene_428c0646:
 translate thai day4_aquariumscene_9aae5013:
 
     # y "Pfft— Oh, please… Top three?"
-    y "พูบ— โอ๊ย ไม่จริงนะ… ท็อปสาม?"
+    y "พุทโธ่— โอ๊ย ไม่จริงนะ… ท็อปสาม?"
 
 # game/scripts/days/day 4.rpy:745
 
@@ -463,7 +463,7 @@ translate thai day4_aquariumscene_e3b8afcb_2:
 translate thai day4_aquariumscene_0dec9611:
 
     # y "You know… I wasn't expecting to run into you here."
-    y "รู้ไหม… ฉันไม่คิดเลยว่าจะมาเจอแกที่นี่"
+    y "รู้ไหม… ฉันไม่คิดเลยว่าจะได้มาเจอแกที่นี่"
 
 # game/scripts/days/day 4.rpy:798
 
@@ -561,7 +561,7 @@ translate thai day4_aquariumscene_1775f5ce:
 translate thai day4_aquariumscene_e0bece3e:
 
     # n "A surprised sound escapes the back of my throat as I watch [ch_teo] unabashedly run a hand down my co-worker's side — but what truly shocks me is the way [ch_elanor] boldly grabs his arm and loops her hand around it."
-    n "เสียงอุทานดังออกจากลำคอฉันเมื่อเห็น [ch_teo] ลูบมือลงข้างตัวเพื่อนร่วมงานฉันอย่างไม่อาย — แต่ที่ทำให้ฉันช็อคจริง ๆ คือ [ch_elanor] ที่คว้าแขนเขาแล้วโอบมือเข้าไปอย่างกล้าหาญ"
+    n "เสียงอุทานดังออกจากลำคอฉันเมื่อเห็น [ch_teo] ลูบมือลงข้างตัวเพื่อนร่วมงานฉันอย่างไม่อาย — แต่ที่ทำให้ฉันช็อกจริง ๆ คือ [ch_elanor] ที่คว้าแขนเขาแล้วโอบมือเข้าไปอย่างกล้าหาญ"
 
 # game/scripts/days/day 4.rpy:818
 
@@ -589,7 +589,7 @@ translate thai day4_aquariumscene_43e91147:
 translate thai day4_aquariumscene_c133ad68:
 
     # n "And while her confidence shocked me, it also sparked a bout of curiosity inside of me as well. Even though we all established that this {b}wasn't{/b} an actual date, [ch_elanor] still wanted to treat like one?"
-    n "ความมั่นใจของเธอทำให้ฉันช็อค แต่มันก็จุดประกายความอยากรู้อยากเห็นในตัวฉันเช่นกัน ทั้ง ๆ ที่เราตกลงกันแล้วว่านี่{b}ไม่ใช่{/b}เดทจริง ๆ [ch_elanor] ก็ยังอยากปฏิบัติเหมือนมันเป็นเดทอยู่ดี?"
+    n "ความมั่นใจของเธอทำให้ฉันช็อก แต่มันก็จุดประกายความอยากรู้อยากเห็นในตัวฉันเช่นกัน ทั้ง ๆ ที่เราตกลงกันแล้วว่านี่{b}ไม่ใช่{/b}เดทจริง ๆ [ch_elanor] ก็ยังอยากปฏิบัติเหมือนมันเป็นเดทอยู่ดี?"
 
 # game/scripts/days/day 4.rpy:823
 

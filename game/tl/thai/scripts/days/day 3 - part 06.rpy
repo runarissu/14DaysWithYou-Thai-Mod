@@ -344,7 +344,7 @@ translate thai day3_meetinglandlord_bce3c963:
 translate thai day3_meetinglandlord_8a5c777f:
 
     # n "He looks up from his phone and spares a meagre glance in my direction."
-    n "เขาเงยหน้าจากโทรศัพท์แล้วมองมาทางฉันแวบหนึ่งอย่างเหลาเหลือ"
+    n "เขาเงยหน้าจากโทรศัพท์แล้วมองมาทางฉันแวบหนึ่งอย่างขอไปที"
 
 # game/scripts/days/day 3.rpy:1298
 
@@ -491,7 +491,7 @@ translate thai day3_invitingfriend_ad250186:
 translate thai day3_invite1_7571abc3:
 
     # n "Odd… I don't remember scrolling all the way down to view his contact details."
-    n "แปลก… ฉันไม่จำได้ว่าเลื่อนลงไปดูรายละเอียดผู้ติดต่อของเขาตลอด"
+    n "แปลก… ฉันจำไม่ได้ว่าเลื่อนลงมาดูรายละเอียดผู้ติดต่อของเขาจนสุด"
 
 # game/scripts/days/day 3.rpy:1355
 

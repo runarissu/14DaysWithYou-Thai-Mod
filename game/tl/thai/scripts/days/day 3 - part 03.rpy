@@ -148,7 +148,7 @@ translate thai day3_meetingkiara_8e7ba232:
 translate thai day3_meetingkiara_4eb18e64:
 
     # n "Her green eyes seem oddly familiar to me, but what gives it all away is how the woman slightly inclines her head to the side as she looks over me with concern."
-    n "ดวงตาสีเขียวของเธอดูคุ้นตาอย่างประหลาด แต่สิ่งที่ฟ้องทุกอย่างคือท่าทางที่เธอเอียดหัวนิดหน่อยพร้อมมองฉันด้วยความเป็นห่วง"
+    n "ดวงตาสีเขียวของเธอดูคุ้นตาอย่างประหลาด แต่สิ่งที่ฟ้องทุกอย่างคือท่าทางที่เธอเอียงหัวนิดหน่อยพร้อมมองฉันด้วยความเป็นห่วง"
 
 # game/scripts/days/day 3.rpy:487
 
@@ -274,14 +274,14 @@ translate thai day3_meetingkiara_0f6b7908:
 translate thai day3_meetingkiara_f33e9b81:
 
     # k "I think it's my sisterly duty to annoy her at least once a day. It keeps me young."
-    k "ฉันว่ามันเป็นหน้าที่ของพี่สาวเลยที่ต้องมาหัวหายกับเธอวันละครั้ง มันทำให้ฉันดูอ่อนเยาว์ขึ้น"
+    k "ฉันว่ามันเป็นหน้าที่ของพี่สาวเลยที่ต้องมากวนเธอวันละครั้ง มันทำให้ฉันดูอ่อนเยาว์ขึ้น"
 
 # game/scripts/days/day 3.rpy:542
 
 translate thai day3_meetingkiara_8e2cf20e:
 
     # k "What about you? Have any siblings of your own to anno—"
-    k "แล้วคุณล่ะ? มีพี่น้องที่บ้านให้มาหัวหายบ้างไหม—"
+    k "แล้วคุณล่ะ? มีพี่น้องที่บ้านให้มากวนบ้างไหม—"
 
 # game/scripts/days/day 3.rpy:549
 
@@ -428,7 +428,7 @@ translate thai day3_planningdate_b3c71fc2:
 translate thai day3_planningdate_cdd5f532:
 
     # n "He's absolutely shameless with how his eyes take in both of the sisters' appearances, before he's leaning more of his weight onto his arm and shooting me an expectant look."
-    n "เขาเพลียดเลยกับสายตาที่กวาดมองสองพี่น้องจากหัวจรดเท้า ก่อนจะเอนน้ำหนักไปที่แขนและมองฉันด้วยสายตาคาดหวัง"
+    n "เขาไม่อายเลยสักนิดกับสายตาที่กวาดมองสองพี่น้องจากหัวจรดเท้า ก่อนจะเอนน้ำหนักไปที่แขนและมองฉันด้วยสายตาคาดหวัง"
 
 # game/scripts/days/day 3.rpy:607
 

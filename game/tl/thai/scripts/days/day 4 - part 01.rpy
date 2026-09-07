@@ -11,7 +11,7 @@ translate thai day4_morning_7a9c3a17:
 translate thai day4_morning_92301cdb:
 
     # n "Almost groggily, I reach for my phone to turn it off and flop back into my bed. Curious, I glance at the screen to check the time — only to get blinded by the brightness of my wallpaper."
-    n "ด้วยความง่วงงุน ฉันคว้ามือถือไปปิดเสียงปลุกแล้วก็ล้มลงกลางเตียง พอนึกสงสัยขึ้นมาก็เลยแวบดูหน้าจอเช็กเวลา — แต่กลับถูกแสงวอลเปเปอร์สว่างจ้าตาบอดไปเลย"
+    n "ด้วยความง่วงงุน ฉันคว้ามือถือไปปิดเสียงปลุกแล้วก็ทิ้งตัวกลับลงบนเตียง พอนึกสงสัยขึ้นมาก็เลยแวบดูหน้าจอเช็กเวลา — แต่กลับถูกแสงวอลเปเปอร์สว่างจ้าตาบอดไปเลย"
 
 # game/scripts/days/day 4.rpy:64
 
@@ -25,7 +25,7 @@ translate thai day4_morning_fbe726f5:
 translate thai day4_morning_a8836ac2:
 
     # n "Wincing at the bright screen that practically flashbangs me, I crack open one eye to read the numbers on the screen."
-    n "หลับตาหลีกจอสว่างจ้าจนเหมือนโดนระเบิดแสง ฉันแกะตาข้างเดียวมองตัวเลขบนหน้าจอ"
+    n "ฉันหรี่ตาหนีหน้าจอสว่างจ้าจนเหมือนโดนแฟลชแสงใส่ แล้วค่อยๆ เปิดตาข้างหนึ่งเพื่อดูตัวเลขบนหน้าจอ"
 
 # game/scripts/days/day 4.rpy:66
 
@@ -67,7 +67,7 @@ translate thai day4_morning_119b0b85:
 translate thai day4_morning_9031dea4:
 
     # n "In fact, I was confident I did — because there was {b}no way{/b} I'd be getting any sleep after finding out a potential stalker was creeping outside my window."
-    n "จริงๆ แล้วฉันมั่นใจเลยว่าฉันปิด — เพราะมัน{b}เป็นไปไม่ได้{/b}ที่ฉันจะนอนหลับได้หลังจากรู้ว่าอาจมีสตอล์กเกอร์แอบเดินเล่นอยู่หน้าต่างฉัน"
+    n "จริงๆ แล้วฉันมั่นใจเลยว่าฉันปิด — เพราะมัน{b}เป็นไปไม่ได้{/b}ที่ฉันจะนอนหลับได้หลังจากรู้ว่าอาจมีสตอล์กเกอร์แอบอยู่ข้างนอกหน้าต่างฉัน"
 
 # game/scripts/days/day 4.rpy:76
 
@@ -123,14 +123,14 @@ translate thai day4_morning_63c80a08:
 translate thai day4_morning_8458aa41:
 
     # n "Feeling satisfied with the items I chose, I nod in approval before heading to the bathroom to change."
-    n "พอพอใจกับของที่เลือก ฉันพยักหน้ารับรองแล้วเดินไปห้องน้ำเพื่อเปลี่ยนเสื้อผ้า"
+    n "พอใจกับของที่เลือกแล้ว ฉันก็พยักหน้าอย่างพอใจแล้วเดินไปห้องน้ำเพื่อเปลี่ยนเสื้อผ้า"
 
 # game/scripts/days/day 4.rpy:92
 
 translate thai day4_morning_94203fb1:
 
     # n "I doubt the hot water would work this early in the morning, so having a nice, refreshing shower was {b}definitely{/b} out of the question."
-    n "ฉันสงสัยว่าน้ำร้อนจะทำงานตอนเช้าตรู่แบบนี้ไหม การอาบน้ำสดชื่นสบายๆ ก็เลย{b}เป็นไปไม่ได้{/b}แน่ๆ"
+    n "ฉันสงสัยว่าน้ำร้อนจะทำงานตอนเช้าตรู่แบบนี้ไหม การได้อาบน้ำอุ่นๆ สดชื่นสบายๆ ก็เลย{b}เป็นไปไม่ได้{/b}แน่ๆ"
 
 # game/scripts/days/day 4.rpy:93
 
@@ -228,14 +228,14 @@ translate thai day4_morningcont_2454d57b:
 translate thai day4_morningcont_2508f449:
 
     # n "An hour flies by, and I've somehow managed to change into my outfit and finish breakfast in record time."
-    n "เวลาผ่านไปได้ชั่วโมงหนึ่ง ฉันกลับเปลี่ยนเสื้อผ้าและทานเช้าเสร็จในเวลาที่เร็วเป็นประวัติการณ์"
+    n "หนึ่งชั่วโมงผ่านไป ฉันกลับเปลี่ยนเสื้อผ้าและทานเช้าเสร็จในเวลาที่เร็วเป็นประวัติการณ์"
 
 # game/scripts/days/day 4.rpy:154
 
 translate thai day4_morningcont_5ab9b2ef:
 
     # n "An hour flies by, and I've somehow managed to get dressed, style my hair, and finish breakfast in record time."
-    n "เวลาผ่านไปได้ชั่วโมงหนึ่ง ฉันกลับแต่งตัว ทำผม และทานเช้าเสร็จในเวลาที่เร็วเป็นประวัติการณ์"
+    n "หนึ่งชั่วโมงผ่านไป ฉันกลับแต่งตัว ทำผม และทานเช้าเสร็จในเวลาที่เร็วเป็นประวัติการณ์"
 
 # game/scripts/days/day 4.rpy:155
 
@@ -277,7 +277,7 @@ translate thai day4_morningcont_bd45eb83:
 translate thai day4_morningcont_9a451aec:
 
     # n "Curiosity gets the better of me, and I find myself scooping up the letter and opening it. Inside was nothing more than a folded note written in red ink, and—"
-    n "ความอยากรู้อยากเห็นเอาชนะ ฉันหยิบจดหมายขึ้นมาเปิด ข้างในมีแค่กระดาษโน้ตพับไว้ เขียนด้วยหมึกสีแดง แล้วก็—"
+    n "ความอยากรู้อยากเห็นเอาชนะฉัน ฉันหยิบจดหมายขึ้นมาเปิด ข้างในมีแค่กระดาษโน้ตพับไว้ เขียนด้วยหมึกสีแดง แล้วก็—"
 
 # game/scripts/days/day 4.rpy:166
 
@@ -319,7 +319,7 @@ translate thai day4_morningcont_920da024:
 translate thai day4_morningcont_97e04034:
 
     # n "A chill runs down my spine once I realise what {b}exactly{/b} this item is, and I hesitantly scan the rest of the note for answers. It simply read:"
-    n "ฉันสะดุ้งขนลุกเมื่อรู้ว่าสิ่งนี้มันคืออะไร{b}กันแน่{/b} แล้วฉันก็อ่านโน้ตส่วนที่เหลืออย่างลังเล มันเขียนไว้แค่ว่า:"
+    n "ความเย็นวาบแล่นไปตามสันหลังเมื่อฉันรู้ว่าสิ่งนี้คืออะไร{b}กันแน่{/b} แล้วฉันก็ไล่อ่านโน้ตส่วนที่เหลืออย่างลังเล มันเขียนไว้แค่ว่า:"
 
 # game/scripts/days/day 4.rpy:175
 
@@ -354,7 +354,7 @@ translate thai day4_morningcont_2c260477:
 translate thai day4_morningcont_dc7c6b5e:
 
     # n "Though admittedly, whoever this… {b}stalker{/b} was, they were honestly doing a pretty bad job at making their intentions clear. I mean, what exactly were they trying to accomplish by doing this?"
-    n "แต่จริงๆ แล้ว ไม่ว่าคนที่เป็น… {b}สตอล์กเกอร์{/b} คนนี้จะเป็นใคร ก็ทำได้แย่มากในการสื่อสารว่าตัวเองต้องการอะไร คือ แกจะทำแบบนี้ไปเพื่ออะไรกันแน่?"
+    n "แต่จริงๆ แล้ว ไม่ว่าคนที่เป็น… {b}สตอล์กเกอร์{/b} คนนี้จะเป็นใคร ก็ทำได้แย่มากในการสื่อสารว่าตัวเองต้องการอะไร คือ แกทำแบบนี้ไปเพื่ออะไรกันแน่?"
 
 # game/scripts/days/day 4.rpy:184
 
@@ -515,14 +515,14 @@ translate thai day4_morningcont_6cee9b0c:
 translate thai day4_morningcont_b58d18d4:
 
     # n "Even if it {b}was{/b} just to tease me, hearing [ch_teo]'s smug voice honestly brought me a sense of comfort. It meant that he was safe after all, and I couldn't help but let out a sigh of relief at the thought."
-    n "แม้จะ{b}เป็นแค่{/b}การแกล้งฉัน การได้ยินเสียงหยิ่งๆ ของ [ch_teo] ก็ทำให้ฉันรู้สึกโล่งใจ มันแปลว่าเขาปลอดภัยจริงๆ ฉันก็เลยถอนหายใจโล่งอกได้ไม่ตั้งใจ"
+    n "แม้จะ{b}เป็นแค่{/b}การแกล้งฉัน การได้ยินเสียงหยิ่งๆ ของ [ch_teo] ก็ทำให้ฉันรู้สึกโล่งใจ มันแปลว่าเขาปลอดภัยจริงๆ ฉันก็เลยอดถอนหายใจโล่งอกออกมาไม่ได้"
 
 # game/scripts/days/day 4.rpy:216
 
 translate thai day4_morningcont_eedacfbe:
 
     # tcall "Aw, what? Did I take your breath away? That's real cute."
-    tcall "อาว อะไรนะ? กูทำให้แกใจหวิวเลยเหรอ? น่ารักชะมัด"
+    tcall "อ้าว อะไรนะ? กูทำให้แกใจหวิวเลยเหรอ? น่ารักชะมัด"
 
 # game/scripts/days/day 4.rpy:217
 
@@ -606,7 +606,7 @@ translate thai day4_morningcont_038c06d1:
 translate thai day4_morningcont_406755e5:
 
     # extend " Ah, [dammit]."
-    extend " อาว [dammit]"
+    extend " อ่า [dammit]"
 
 # game/scripts/days/day 4.rpy:231
 
@@ -648,7 +648,7 @@ translate thai day4_morningcont_a3209581:
 translate thai day4_morningcont_d3ffc5d2:
 
     # n "Relief washes over me, and I never thought I'd be happy to hear {b}[ch_teo]{/b} talking about my neighbour, even if it were in an antagonistic manner. It meant that she really was safe after all, and I couldn't help but let out a sigh of relief at the thought."
-    n "ความโล่งใจเข้าครอบฉัน ฉันไม่เคยคิดเลยว่าจะดีใจที่ได้ยิน {b}[ch_teo]{/b} พูดถึงเพื่อนบ้านฉัน แม้จะเป็นการพูดแบบประชดประชันก็ตาม มันแปลว่าเธอปลอดภัยจริงๆ ฉันก็เลยถอนหายใจโล่งอกได้ไม่ตั้งใจ"
+    n "ความโล่งใจถาโถมเข้ามา ฉันไม่เคยคิดเลยว่าจะดีใจที่ได้ยิน {b}[ch_teo]{/b} พูดถึงเพื่อนบ้านฉัน แม้จะเป็นการพูดแบบประชดประชันก็ตาม มันแปลว่าเธอปลอดภัยจริงๆ ฉันก็เลยอดถอนหายใจโล่งอกออกมาไม่ได้"
 
 # game/scripts/days/day 4.rpy:239
 

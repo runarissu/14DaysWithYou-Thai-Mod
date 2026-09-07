@@ -58,7 +58,7 @@ translate thai saygoodnight_8909d033:
 translate thai saygoodnight_ab43447e:
 
     # n "Talk about awkward."
-    n "พูดถึงความอึดอัดเลยก็ว่าได้"
+    n "อึดอัดชะมัด"
 
 # game/scripts/days/day 1.rpy:1464
 translate thai saygoodnight_ed85435b:

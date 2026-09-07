@@ -30,7 +30,7 @@ translate thai strings:
 
     # game/scripts/days/day 4.rpy:130
     old "I also have coily hair"
-    new "ผมขมิ้นแน่นด้วย"
+    new "ผมหยิกเป็นเกลียวแน่นด้วย"
 
     # game/scripts/days/day 4.rpy:133
     old "I also have braided hair"
@@ -150,7 +150,7 @@ translate thai strings:
 
     # game/scripts/days/day 4.rpy:1973
     old "Look at the weird lock"
-    new "ดูกลองประหลาด"
+    new "ดูกลไกล็อกประหลาด"
 
     # game/scripts/days/day 4.rpy:1987
     old "Check out the desk"

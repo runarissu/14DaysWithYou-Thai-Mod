@@ -4,14 +4,14 @@
 translate thai day5_alonemorning_6e44f8fa:
 
     # n "Rather than the faint chirping of birds outside my window, it's the sound of something buzzing that rudely pulls me from my slumber."
-    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับอย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างดังสั่น"
+    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับอย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างดังหึ่งๆ"
 
 # game/scripts/days/day 5.rpy:71
 
 translate thai day5_alonemorning_9f105ca0:
 
     # n "Muscle memory immediately kicks in, causing me to haphazardly throw my arm above my head and fumble around in search of the noise."
-    n "ความจำของกล้ามเนื้อทำงานทันที ทำให้ฉันโยนแขนขึ้นเหนือศีรษะอย่างกระทันหัน แล้วควานหาแหล่งกำเนิดเสียงนั้นอย่างไร้ทิศทาง"
+    n "ความจำของกล้ามเนื้อทำงานทันที ทำให้ฉันเหวี่ยงแขนขึ้นเหนือศีรษะอย่างสะเปะสะปะ แล้วควานหาแหล่งกำเนิดเสียงนั้น"
 
 # game/scripts/days/day 5.rpy:72
 
@@ -375,7 +375,7 @@ translate thai day5_alonemorning_d4fbce0e:
 translate thai day5_meetingviolet_d3231c7e:
 
     # n "Now appropriately dressed and prepared to face the day, I barely take two steps out of my apartment before the muffled sounds of chatter capture my attention."
-    n "แต่งตัวเรียบร้อยพร้อมออกไปเริ่มวันใหม่ ฉันเพิ่งก้าวออกจากอพาร์ตเมนต์ได้แค่สองก้าว เสียงพูดคุยอู้อี้ๆ ก็ดึงความสนใจฉันเข้าไป"
+    n "แต่งตัวเรียบร้อยพร้อมออกไปเริ่มวันใหม่ ฉันเพิ่งก้าวออกจากอพาร์ตเมนต์ได้แค่สองก้าว เสียงพูดคุยอู้อี้ๆ ก็ดึงความสนใจของฉันไป"
 
 # game/scripts/days/day 5.rpy:163
 
@@ -515,7 +515,7 @@ translate thai day5_meetingviolet_7441825c:
 translate thai day5_meetingviolet_7e1e6371:
 
     # n "A wave of concern washes over me as I notice how she ignores the potted plant by her door — normally, she'd give it a pet or even bring it inside on certain days — but [ch_ren]'s timid voice pulls me away from my thoughts and captures my attention."
-    n "ความกังวลซัดเข้ามาเมื่อฉันสังเกตเห็นว่าเธอเมินต้นไม้ในกระถางข้างประตู — ปกติเธอจะลูบมันหรือแม้แต่เอาเข้าบ้านในบางวัน — แต่เสียงอ่อนโอนของ [ch_ren] ดึงฉันออกจากความคิดและดึงความสนใจฉันไป"
+    n "ความกังวลซัดเข้ามาเมื่อฉันสังเกตเห็นว่าเธอเมินต้นไม้ในกระถางข้างประตู — ปกติเธอจะลูบมันหรือแม้แต่เอาเข้าบ้านในบางวัน — แต่เสียงอ่อนโยนของ [ch_ren] ดึงฉันออกจากความคิดและดึงความสนใจฉันไป"
 
 # game/scripts/days/day 5.rpy:204
 
@@ -620,14 +620,14 @@ translate thai day5_meetingviolet_c70b5495:
 translate thai day5_renmorning_6e44f8fa:
 
     # n "Rather than the faint chirping of birds outside my window, it's the sound of something buzzing that rudely pulls me from my slumber."
-    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับอย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างดังสั่น"
+    n "แทนที่จะได้ยินเสียงนกร้องเบาๆ ข้างหน้าต่าง สิ่งที่ดึงฉันออกจากความหลับอย่างหยาบคายกลับเป็นเสียงอะไรบางอย่างดังหึ่งๆ"
 
 # game/scripts/days/day 5.rpy:238
 
 translate thai day5_renmorning_9f105ca0:
 
     # n "Muscle memory immediately kicks in, causing me to haphazardly throw my arm above my head and fumble around in search of the noise."
-    n "ความจำของกล้ามเนื้อทำงานทันที ทำให้ฉันโยนแขนขึ้นเหนือศีรษะอย่างกระทันหัน แล้วควานหาแหล่งกำเนิดเสียงนั้นอย่างไร้ทิศทาง"
+    n "ความจำของกล้ามเนื้อทำงานทันที ทำให้ฉันเหวี่ยงแขนขึ้นเหนือศีรษะอย่างสะเปะสะปะ แล้วควานหาแหล่งกำเนิดเสียงนั้น"
 
 # game/scripts/days/day 5.rpy:239
 

@@ -71,7 +71,7 @@ translate thai day4_closetbranch_dbf19692:
 translate thai day4_closetbranch_a85efd62:
 
     # l "I just saw him sulk off in that direction. Plus, he seemed kinda… off in the group chat."
-    l "ผมเพิ่งเห็นเขาเดินไปทางนั้นไปอยู่ อีกอย่าง ในแชทกลุ่มเขาก็ดูแปลกๆ…"
+    l "ผมเพิ่งเห็นเขาเดินไปทางนั้น อีกอย่าง ในแชทกลุ่มเขาก็ดูแปลกๆ…"
 
 # game/scripts/days/day 4.rpy:3112
 
@@ -106,7 +106,7 @@ translate thai day4_closetbranch_f904e979:
 translate thai day4_closetbranch_74167724:
 
     # l "Pffft, yeah, I suppose!"
-    l "พุ่บ ก็ใช่ครับ สมมุติว่างั้น!"
+    l "พุ่บ ก็ใช่ครับ คิดว่างั้นแหละ!"
 
 # game/scripts/days/day 4.rpy:3121
 
@@ -127,7 +127,7 @@ translate thai day4_closetbranch_b8c84b6d:
 translate thai day4_closetbranch_f5a17c6b:
 
     # n "[ch_leon] gives me a non-comital shrug of his shoulders before gesturing for me to follow him."
-    n "[ch_leon] กระดกไหล่ให้ฉันอย่างลังเล ก่อนจะทำท่าให้ฉันตามเขาไป"
+    n "[ch_leon] ยักไหล่ให้ฉันอย่างไม่ออกความเห็น ก่อนจะทำท่าให้ฉันตามเขาไป"
 
 # game/scripts/days/day 4.rpy:3125
 
@@ -155,7 +155,7 @@ translate thai day4_closetbranch_ac3890a6:
 translate thai day4_closetbranch_dd54c660:
 
     # y "No, it's just… I can't help but feel like this is all somehow my fault."
-    y "ไม่ แค่… ฉันนึกอยู่เรื่อยว่าเรื่องทั้งหมดนี้มันเป็นความผิดฉันยังไงๆ"
+    y "ไม่ แค่… ฉันอดคิดไม่ได้ว่าเรื่องทั้งหมดนี้มันเป็นความผิดฉันหรือเปล่า"
 
 # game/scripts/days/day 4.rpy:3130
 

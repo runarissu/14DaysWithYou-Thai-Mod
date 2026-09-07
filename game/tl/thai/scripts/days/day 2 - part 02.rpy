@@ -113,7 +113,7 @@ translate thai day2_neutralmorning_1967df5c:
 translate thai day2_alonemorning_a46ae22d:
 
     # n "Waking up to the sounds of birds chirping outside and the sunlight filtering through my blinds, I groggily rub my eyes before absent-mindedly staring at the ceiling for a few moments."
-    n "ตื่นขึ้นมากับเสียงนกร้องข้างนอกและแสงแดดที่ลอดผ่านมูนี่บาง ฉันขยี้ตาอย่างง่วงงุนก่อนจะมองเพดานไปเรื่อยเปล่าๆ สักครู่"
+    n "ตื่นขึ้นมากับเสียงนกร้องข้างนอกและแสงแดดที่ลอดผ่านมู่ลี่บาง ฉันขยี้ตาอย่างง่วงงุนก่อนจะมองเพดานไปเรื่อยเปล่าๆ สักครู่"
 
 # game/scripts/days/day 2.rpy:254
 
@@ -134,7 +134,7 @@ translate thai day2_alonemorning_1d1c5bc6:
 translate thai day2_alonemorning_c28d1c03:
 
     # n "Reaching over my nightstand to grab my phone, I casually check the time — only to realise that I still had a few more hours to kill."
-    n "ฉันเอื้อมไปหยิบมือถือจากข้างตู้หัวนอน แล้วเช็กเวลาเป็นพิธีเป็นการ — ก็เพื่อจะรู้ว่ายังเหลือเวลาอีกตั้งหลายชั่วโมงให้ฆ่า"
+    n "ฉันเอื้อมไปหยิบมือถือจากข้างตู้หัวนอน แล้วเช็กเวลาแบบผ่านๆ — ก็พบว่ายังเหลือเวลาอีกตั้งหลายชั่วโมง"
 
 # game/scripts/days/day 2.rpy:257
 
@@ -169,14 +169,14 @@ translate thai day2_alonemorning_f3448d72:
 translate thai day2_alonemorning_f17bfdf8:
 
     # n "Glancing back at the time on my phone once more, I notice that it went from being eight o'clock to half past ten."
-    n "ฉันเช็กเวลาบนมือถืออีกครั้ง แล้วก็พบว่ามันเปลี่ยนจากแปดโมงเป็นสิบเอ็ดโมงครึ่งไปแล้ว"
+    n "ฉันเช็กเวลาบนมือถืออีกครั้ง แล้วก็พบว่ามันเปลี่ยนจากแปดโมงเป็นสิบโมงครึ่งไปแล้ว"
 
 # game/scripts/days/day 2.rpy:262
 
 translate thai day2_alonemorning_abba1ae7:
 
     # y "…Half past ten?!"
-    y "…สิบเอ็ดโมงครึ่ง?!"
+    y "…สิบโมงครึ่ง?!"
 
 # game/scripts/days/day 2.rpy:263
 
@@ -267,7 +267,7 @@ translate thai day2_pierdate_36d196d4:
 translate thai day2_pierdate_60296f3a:
 
     # n "In the end, I {b}did{/b} end up meeting [ch_ren] halfway via the boardwalk, and we decided to walk to this recently opened café together for lunch."
-    n "สุดท้าย ฉัน{b}ก็{/b}ไปเจอ [ch_ren] กึ่งทางที่ทางเดินไม้ แล้วเราตัดสินใจเดินไปร้านกาแฟที่เพิ่งเปิดใหม่ด้วยกันเพื่อกินมื้อเที่ยง"
+    n "สุดท้าย ฉัน{b}ก็{/b}ไปเจอ [ch_ren] ตรงกลางทางที่ทางเดินไม้ แล้วเราตัดสินใจเดินไปร้านกาแฟที่เพิ่งเปิดใหม่ด้วยกันเพื่อกินมื้อเที่ยง"
 
 # game/scripts/days/day 2.rpy:305
 
@@ -288,7 +288,7 @@ translate thai day2_pierdate_aa81a885:
 translate thai day2_pierdate_25ed51ce:
 
     # n "The arm at his side practically {b}itches{/b} to reach out — and if I knew any better, I would've assumed he wanted to hold my hand."
-    n "แขนข้างนั้นของเขาแทบ{b}คัน{/b}อยากยื่นออกไป — และถ้าฉันไม่รู้จักเขา ฉันคงคิดว่าเขาอยากจะจับมือฉัน"
+    n "แขนข้างนั้นของเขาแทบ{b}อยู่ไม่สุข{/b}จนอยากยื่นออกไป — และถ้าฉันไม่รู้จักเขา ฉันคงคิดว่าเขาอยากจะจับมือฉัน"
 
 # game/scripts/days/day 2.rpy:310
 
@@ -351,7 +351,7 @@ translate thai day2_pierdate_34602a45:
 translate thai day2_pierdate_9ec18881:
 
     # y "Yeah. We could go for a swim, or maybe even check out the rock pools! It's been a while since I've been there."
-    y "อืม เราไปว่ายน้ำก็ได้ หรือไม่ก็ไปดูแอ่งหิน! ฉันไม่ไปมานานแล้ว"
+    y "อืม เราไปว่ายน้ำก็ได้ หรือไม่ก็ไปดูแอ่งหิน! ฉันไม่ได้ไปมานานแล้ว"
 
 # game/scripts/days/day 2.rpy:327
 

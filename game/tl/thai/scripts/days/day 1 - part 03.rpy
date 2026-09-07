@@ -226,7 +226,7 @@ translate thai day1_textren_53cff8a9:
 translate thai day1_textren_c7af2fb5:
 
     # rt "Goodnight, [ch_angel]. And make sure you close your window before you go to sleep. You wouldn't want anyone breaking in again, right? :)"
-    rt "อรุณสวัสดิ์ [ch_angel] แล้วอย่าลืมปิดหน้าต่างก่อนนอนนะ คงไม่อยากให้มีใครแอบเข้ามาอีกใช่มั้ย? :)"
+    rt "ราตรีสวัสดิ์ [ch_angel] แล้วอย่าลืมปิดหน้าต่างก่อนนอนนะ คงไม่อยากให้มีใครแอบเข้ามาอีกใช่มั้ย? :)"
 
 # game/scripts/days/day 1.rpy:1836
 translate thai day1_textren_38709550:
@@ -262,13 +262,13 @@ translate thai day1_textren_c5e28867:
 translate thai day1_textren_49701b4b:
 
     # n "Yeah, maybe going on a date with him wouldn't be such a bad idea. Besides, [ch_ren] didn't seem {b}that bad{/b} of a guy. I could even use this as an opportunity to get to know him better. He certainly seemed interesting."
-    n "ใช่ ไปเดทกับเขาก็คงไม่ใช่ความคิดแย่หรอก อีกอย่าง [ch_ren] ก็ไม่ได้ดูเป็นคน {b}เลวร้าย{/b} ขนาดนั้น ฉันจะถือโอกาสนี้ทำความรู้จักเขาให้มากขึ้นก็ได้ เขาดูน่าสนใจอยู่เหมือนจริง"
+    n "ใช่ ไปเดทกับเขาก็คงไม่ใช่ความคิดแย่หรอก อีกอย่าง [ch_ren] ก็ไม่ได้ดูเป็นคน {b}เลวร้าย{/b} ขนาดนั้น ฉันจะถือโอกาสนี้ทำความรู้จักเขาให้มากขึ้นก็ได้ เขาดูน่าสนใจอยู่เหมือนกัน"
 
 # game/scripts/days/day 1.rpy:1844
 translate thai day1_textren_17122a14:
 
     # n "With that thought in mind, I quickly texted him back with my address and preferred time. Hardly a moment passes before I get a response."
-    n "คิดได้ดังนั้น ฉันรีบตอบกลับไปพร้อมที่อยู่และเวลาที่สะดวก ไม่ถึงชั่วโมงก็ได้รับการตอบกลับ"
+    n "คิดได้ดังนั้น ฉันรีบตอบกลับไปพร้อมที่อยู่และเวลาที่สะดวก ไม่นานก็ได้รับการตอบกลับ"
 
 # game/scripts/days/day 1.rpy:1845
 translate thai day1_textren_981ca1da:
@@ -292,13 +292,13 @@ translate thai day1_textren_dc0bd20b:
 translate thai day1_textren_de6d3273:
 
     # rt "goodnight! and thnx again for all ur help!! <3"
-    rt "อรุณสวัสดิ์! แล้วขอบคุณอีกครั้งที่ช่วยเหลือมากมาย!! <3"
+    rt "ราตรีสวัสดิ์! แล้วก็ขอบคุณอีกครั้งที่ช่วยเหลือมากมาย!! <3"
 
 # game/scripts/days/day 1.rpy:1849
 translate thai day1_textren_da4b8768:
 
     # n "After sending him a goodnight text of my own, I place my phone down and crawl into bed. Well… today definitely didn't turn out the way I was expecting it to, but… At least I scored a date with a cute guy!"
-    n "หลังจากส่งข้อความอวยคืนดีให้เขา ฉันวางโทรศัพท์แล้วคลานขึ้นไปนอนบนเตียง อืม… วันนี้ก็ไม่ได้เป็นไปตามที่ฉันคาดไว้จริงๆ แต่… อย่างน้อยฉันก็ได้นัดเดทกับหนุ่มน่ารักคนหนึ่ง!"
+    n "หลังจากส่งข้อความราตรีสวัสดิ์ให้เขา ฉันวางโทรศัพท์แล้วคลานขึ้นไปนอนบนเตียง อืม… วันนี้ก็ไม่ได้เป็นไปตามที่ฉันคาดไว้จริงๆ แต่… อย่างน้อยฉันก็ได้นัดเดทกับหนุ่มน่ารักคนหนึ่ง!"
 
 # game/scripts/days/day 1.rpy:1850
 translate thai day1_textren_dc66f43e:

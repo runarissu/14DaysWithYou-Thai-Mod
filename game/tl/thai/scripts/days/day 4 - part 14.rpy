@@ -225,7 +225,7 @@ translate thai day4_acceptoffer_f09aa61f:
 translate thai day4_acceptoffer_3b2c212f:
 
     # r "B-But I always did the gardening and used a lawn mower {i}a lot{/i} when I was younger. I'm sure I can figure it all out again."
-    r "แ-แต่ตอนเด็กๆ ฉันทำสวนกับใช้เครื่องตัดหญ้า{i}บ่อยมาก{/i} คิดว่าน่าจะทำเป็นอีก"
+    r "แ-แต่ตอนเด็กๆ ฉันทำสวนและใช้เครื่องตัดหญ้า{i}บ่อยมาก{/i} คิดว่าน่าจะทำเป็นอีก"
 
 # game/scripts/days/day 4.rpy:2782
 
@@ -295,7 +295,7 @@ translate thai day4_acceptoffer_b2f65e9b:
 translate thai day4_acceptoffer_0aba1078:
 
     # y "…Oh? Well, I really appreciate the offer [ch_ren], but I gotta tough this one out on my own."
-    y "…อ่อ? ก็ ขอบคุณมากนะที่เสนอให้ [ch_ren] แต่เรื่องนี้ฉันต้องอดทนสู้เอง"
+    y "…อ๋อ? ก็ขอบคุณมากนะที่เสนอให้ [ch_ren] แต่เรื่องนี้ฉันต้องอดทนสู้เอง"
 
 # game/scripts/days/day 4.rpy:2797
 

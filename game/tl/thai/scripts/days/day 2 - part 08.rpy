@@ -120,14 +120,14 @@ translate thai day2_renapartment_3eb82ced:
 translate thai day2_renapartment_4af7cf1c:
 
     # r "{size=-6}Marble's a pain in the rear end to clean too…{/size}"
-    r "{size=-6}หินอ่อนก็ยากตอนทำความสะอาดด้วยนะ...{/size}"
+    r "{size=-6}หินอ่อนก็ทำความสะอาดยากเหมือนกันนะ...{/size}"
 
 # game/scripts/days/day 2.rpy:1568
 
 translate thai day2_renapartment_633d3b27:
 
     # r "{size=-6}Marble's a pain in the ass to clean too…{/size}"
-    r "{size=-6}หินอ่อนก็กวนประสาทตอนทำความสะอาดด้วย...{/size}"
+    r "{size=-6}หินอ่อนก็กวนประสาทเวลาทำความสะอาดด้วย...{/size}"
 
 # game/scripts/days/day 2.rpy:1571
 
@@ -176,14 +176,14 @@ translate thai day2_renapartment_4e3ab9ab:
 translate thai day2_renapartment_e4367dd0:
 
     # n "As I put them on, I notice how they're an exact fit, and it makes me wonder if I just have average-sized feet — or if [ch_ren] had bought a bunch of expensive house slippers in varying sizes."
-    n "ตอนใส่ ฉันสังเกตว่ามันพอดีเป๊ะ จนฉันเริ่มสงสัยว่าเท้าฉันนี่แหละที่ขนาดกลางๆ — หรือว่า [ch_ren] ซื้อรองเท้าแตะหรูหรูไว้หลายขนาดเลยกัน"
+    n "ตอนใส่ ฉันสังเกตว่ามันพอดีเป๊ะ จนฉันเริ่มสงสัยว่าเท้าฉันนี่แหละที่ขนาดกลางๆ — หรือว่า [ch_ren] ซื้อรองเท้าแตะหรูๆไว้หลายขนาดเลยกัน"
 
 # game/scripts/days/day 2.rpy:1579
 
 translate thai day2_renapartment_a6a627d6:
 
     # n "But as funny as that imagery was… How {b}did{/b} he accurately guess my shoe size without seeing my feet?"
-    n "แต่ภาพนั้นตลกแค่ไหนก็แล้วแต่... เขาเดาขนาดเท้าฉันได้{b}แม่นยำ{/b}ได้ยังไง ทั้งที่ไม่เคยเห็นเท้าฉันเลย?"
+    n "แต่ภาพนั้นตลกแค่ไหนก็แล้วแต่... เขาเดาขนาดเท้าฉันได้{b}แม่นยำ{/b}ขนาดนี้ได้ยังไง ทั้งที่ไม่เคยเห็นเท้าฉันเลย?"
 
 # game/scripts/days/day 2.rpy:1581
 
@@ -645,7 +645,7 @@ translate thai day2_renapartment_43b1370c:
 translate thai day2_renapartment_5e6e1b00:
 
     # n "Bundled up in a warm towel, I crack open the large door and poke my head out into the hallway."
-    n "พันผ้าเช็ดตัวอุ่นๆ รอบตัว ฉันเปิดประตูบานใหญ่ออกแล้วแหย่หัวออกไปดูที่เดินย่อย"
+    n "พันผ้าเช็ดตัวอุ่นๆ รอบตัว ฉันเปิดประตูบานใหญ่ออกแล้วแง้มประตูแล้วโผล่หัวออกไปดูที่ทางเดิน"
 
 # game/scripts/days/day 2.rpy:1713
 
@@ -659,7 +659,7 @@ translate thai day2_renapartment_fb04de4b:
 translate thai day2_renapartment_a6c0cb11:
 
     # n "Bringing the contents back inside, I notice that one piece of clothing in particular was a rather comfy-looking hoodie…"
-    n "หยิบของกลับเข้าไปข้างใน ฉันสังเกตเห็นว่ามีเสื้อผ้าชิ้นหนึ่งเป็นฮู้ดตีที่ดูนุ่มสบายดี..."
+    n "หยิบของกลับเข้าไปข้างใน ฉันสังเกตเห็นว่ามีเสื้อผ้าชิ้นหนึ่งเป็นฮู้ดดี้ที่ดูนุ่มสบายดี..."
 
 # game/scripts/days/day 2.rpy:1715
 
@@ -680,7 +680,7 @@ translate thai day2_renapartment_32a03283:
 translate thai day2_renapartment_537fd45d:
 
     # n "Shrugging my shoulders, I put the hoodie on and instantly get enveloped by the sheer amount of fabric."
-    n "กระดกไหล่ ฉันสวมฮู้ดตีแล้วรู้สึกเหมือนถูกผ้าหนาๆ ห่อหุ้มไปทั้งตัวในทันที"
+    n "กระดกไหล่ ฉันสวมฮู้ดดี้แล้วรู้สึกเหมือนถูกผ้าหนาๆ ห่อหุ้มไปทั้งตัวในทันที"
 
 # game/scripts/days/day 2.rpy:1718
 

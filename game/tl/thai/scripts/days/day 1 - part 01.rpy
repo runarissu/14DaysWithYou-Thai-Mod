@@ -4,31 +4,31 @@
 translate thai day1_4d8c3539:
 
     # n "\"And in other news; the remains of {b}yet another{/b} body has been found inside one of the tunnels in Mount Corland, making it a total of {b}four{/b} unidentifiable victims this past year. Authorities believe that—\""
-    n "\"และในข่าวอื่นๆ ศพของผู้เสียชีวิตอีก{b}หนึ่งราย{/b}ถูกพบในอุโมงค์แห่งหนึ่งบน Mount Corland ทำให้มีผู้เสียชีวิตที่ไม่สามารถระบุตัวตนได้รวม{b}สี่{/b}รายในปีนี้ เจ้าหน้าที่เชื่อว่า—\""
+    n "\"และในข่าวอื่นๆ ศพของผู้เสียชีวิตอีก{b}หนึ่งราย{/b}ถูกพบในอุโมงค์แห่งหนึ่งบน Mount Corland ทำให้มีผู้เสียชีวิตที่ไม่สามารถระบุตัวตนได้รวม{b}สี่{/b}รายในปีที่ผ่านมา เจ้าหน้าที่เชื่อว่า—\""
 
 # game/scripts/days/day 1.rpy:48
 translate thai day1_519e7e4a:
 
     # n "\"And in other news; the remains of {b}yet another{/b} body has been pulled out from Lake Bluemoss, making it a total of {b}four{/b} unidentifiable victims this past year. Authorities believe that—\""
-    n "\"และในข่าวอื่นๆ ศพของผู้เสียชีวิตอีก{b}หนึ่งราย{/b}ถูกนำขึ้นมาจาก Lake Bluemoss ทำให้มีผู้เสียชีวิตที่ไม่สามารถระบุตัวตนได้รวม{b}สี่{/b}รายในปีนี้ เจ้าหน้าที่เชื่อว่า—\""
+    n "\"และในข่าวอื่นๆ ศพของผู้เสียชีวิตอีก{b}หนึ่งราย{/b}ถูกนำขึ้นมาจาก Lake Bluemoss ทำให้มีผู้เสียชีวิตที่ไม่สามารถระบุตัวตนได้รวม{b}สี่{/b}รายในปีที่ผ่านมา เจ้าหน้าที่เชื่อว่า—\""
 
 # game/scripts/days/day 1.rpy:50
 translate thai day1_223e3f5c:
 
     # y "Ugh."
-    y "อืด."
+    y "เฮ้อ."
 
 # game/scripts/days/day 1.rpy:51
 translate thai day1_89bf53da:
 
     # n "Stifling a groan with the rim of my coffee cup, I fish around for the remote lodged between the cushions and turn off the TV."
-    n "ฉันสะกดเสียงครางออกไว้กับขอบแก้วกาแฟ แล้วเอื้อมมือควานหารีโมตที่ทิ้งอยู่ระหว่างมุมเบาะก่อนจะปิดทีวี"
+    n "ฉันกลั้นเสียงครางไว้กับขอบแก้วกาแฟ แล้วเอื้อมมือควานหารีโมตที่ทิ้งอยู่ระหว่างมุมเบาะก่อนจะปิดทีวี"
 
 # game/scripts/days/day 1.rpy:52
 translate thai day1_c78f3295:
 
     # n "I wasn't about to let some morbid headline damper the start of my cheerful morning… Especially considering how today was going to be my first day at work after {b}finally{/b} getting that hard-earned promotion."
-    n "ฉันไม่มีทางยอมให้พาดหัวข่าวสยองมาทำลายบรรยากาศยามเช้าที่ร่าเริงของฉันหรอก… ยิ่งตอนนี้วันนี้เป็นวันทำงานวันแรกของฉันหลังจากได้รับการเลื่อนตำแหน่งที่{b}สมหวัง{/b}มาตลอดด้วย"
+    n "ฉันไม่มีทางยอมให้พาดหัวข่าวสยองมาทำลายบรรยากาศยามเช้าอันสดใสของฉันหรอก… โดยเฉพาะวันนี้ที่เป็นวันแรกที่ฉันได้มาทำงานหลังจาก{b}ในที่สุด{/b}ก็ได้เลื่อนตำแหน่งที่อุตส่าห์พยายามมานาน"
 
 # game/scripts/days/day 1.rpy:53
 translate thai day1_ce8fbdcd:
@@ -100,7 +100,7 @@ translate thai day1_fc736d0f:
 translate thai day1_3384772f:
 
     # n "[ch_moth] had always been adamant about showing their {b}endless{/b} support for me — even after five years of friendship, cursed memes, and late night video calls."
-    n "[ch_moth] มักจะแสดงความเป็นห่วงและ{b}ไม่รู้เบื่อ{/b}ต่อฉันเสมอ — แม้จะผ่านมิตรภาพมาห้าปี มีมสาปแช่ง และการโทรหากันดึกดื่นมานับครั้ง"
+    n "[ch_moth] มักจะแสดงการสนับสนุนฉันอย่าง{b}ไม่รู้จบ{/b}เสมอ — แม้จะผ่านมิตรภาพมาห้าปี มีมต้องสาป และการโทรหากันดึกดื่นมานับครั้ง"
 
 # game/scripts/days/day 1.rpy:70
 translate thai day1_806bf217:
@@ -130,7 +130,7 @@ translate thai day1_65c2bc64:
 translate thai day1_88ee2884:
 
     # n "When {b}did{/b} I download that pack of anime stickers…? Not that I was about to complain or anything. After all, they were free, charming, and included some of my favourite comfort characters."
-    n "ตอนไหนนะที่ฉัน{b}ดาวน์โหลด{/b}แพ็คสติ๊กเกอร์อนิเมะนั่นมา…? ก็ไม่ได้จะบ่นอะไรหรอก เพราะมันฟรี น่ารัก แถมยังมีตัวละครความสุขที่ฉันชอบอยู่ด้วย"
+    n "ตอนไหนนะที่ฉัน{b}ดาวน์โหลด{/b}แพ็คสติ๊กเกอร์อนิเมะนั่นมา…? ก็ไม่ได้จะบ่นอะไรหรอก เพราะมันฟรี น่ารัก แถมยังมีตัวละครโปรดที่ช่วยปลอบใจฉันอยู่ด้วย"
 
 # game/scripts/days/day 1.rpy:86
 translate thai day1_39a91fad:
@@ -148,7 +148,7 @@ translate thai day1_65c2bc64_1:
 translate thai day1_e1e8ad11:
 
     # n "Leaving people on read is my specialty, after all. As I reach for my discarded mug, I slip my phone back into my pocket, intending to reply to [ch_moth] later."
-    n "การทิ้งคนไว้ในอ่านแล้วเป็นความถนัดของฉัน ขณะที่เอื้อมมือไปหยิบแก้วที่วางทิ้งไว้ ฉันสอดโทรศัพท์กลับเข้ากระเป๋า ตั้งใจจะตอบ [ch_moth] ทีหลัง"
+    n "การอ่านแล้วไม่ตอบเป็นความถนัดของฉัน ขณะที่เอื้อมมือไปหยิบแก้วที่วางทิ้งไว้ ฉันสอดโทรศัพท์กลับเข้ากระเป๋า ตั้งใจจะตอบ [ch_moth] ทีหลัง"
 
 # game/scripts/days/day 1.rpy:92
 translate thai day1_614e3e2c:
@@ -250,13 +250,13 @@ translate thai day1_9f0b6441:
 translate thai day1_859bf23f:
 
     # mt "oh!!! so it's still relatively the same length then??? PHEW >.<"
-    mt "โอ!!! แปลว่ายังยาวใกล้เคียงเดิมเลยสิ??? โฮ่ว >.<"
+    mt "โอ!!! แปลว่ายังยาวใกล้เคียงเดิมเลยสิ??? โล่งอกไปที >.<"
 
 # game/scripts/days/day 1.rpy:120
 translate thai day1_4be34770:
 
     # mt "i must've been looking at fake news or something…"
-    mt "คงดูข่าวปลอมอะไรเฉยๆ สินะ…"
+    mt "คงไปเจอข่าวปลอมอะไรมาแหละ…"
 
 # game/scripts/days/day 1.rpy:124
 translate thai day1_d7eb5912:
@@ -310,7 +310,7 @@ translate thai day1_355a4960:
 translate thai day1_6daf2279:
 
     # n "Looking at the time displayed on my phone, I immediately let out a string of curses and leap to my feet."
-    n "พอเห็นเวลาบนจอโทรศัพท์ ฉันรีบสาดคำหยาบออกไปทันทีแล้วกระโดดขึ้นยืน"
+    n "พอเห็นเวลาบนจอโทรศัพท์ ฉันสบถคำหยาบออกมารัวๆ ทันทีแล้วกระโดดขึ้นยืน"
 
 # game/scripts/days/day 1.rpy:136
 translate thai day1_130da2d5:
@@ -322,13 +322,13 @@ translate thai day1_130da2d5:
 translate thai day1_169a0c44:
 
     # n "Grabbing the coat that I had carelessly strewn across the back of the sofa earlier, I quickly shrug it on before making a beeline towards the front door."
-    n "ฉันคว้าเสื้อโค้ทที่ทิ้งพาดไว้ที่พนักเก้าอี้เมื่อกี้อย่างไม่ใส่ใจ รีดสวมแล้วเดินตรงไปที่ประตูหน้า"
+    n "ฉันคว้าเสื้อโค้ทที่พาดทิ้งไว้ที่พนักโซฟาเมื่อกี้อย่างไม่ใส่ใจ รีบสวมแล้วเดินตรงไปที่ประตูหน้า"
 
 # game/scripts/days/day 1.rpy:138
 translate thai day1_a6fbb0c6:
 
     # n "Before I leave; however, I spare myself one final glance in the (poorly hung) mirror in the hallway."
-    n "ก่อนจะออกไป ฉันแวะมองตัวเองเป็นครั้งสุดท้ายที่กระจก (ที่แขวนเอียงๆ) ในเฉลียง"
+    n "ก่อนจะออกไป ฉันแวะมองตัวเองเป็นครั้งสุดท้ายที่กระจก (ที่แขวนเอียงๆ) ในโถงทางเดิน"
 
 # game/scripts/days/day 1.rpy:139
 translate thai day1_c22f2d2e:
@@ -346,7 +346,7 @@ translate thai day1_0511189f:
 translate thai day1_14334b29:
 
     # n "Giving myself a small spin in the mirror, I admire how the soft fabric and patterns flow around me."
-    n "ฉันหมุนตัวเล็กๆ ต่อหน้ากระจก ชื่นชมว่าผ้านุ่มๆ และลายเสียเคลื่อนไหวรอบตัวฉันสวยแค่ไหน"
+    n "ฉันหมุนตัวเล็กๆ ต่อหน้ากระจก ชื่นชมว่าผ้านุ่มๆ และลวดลายก็ดูพลิ้วไหวไปตามตัวฉันสวยแค่ไหน"
 
 # game/scripts/days/day 1.rpy:153
 translate thai day1_e17e0a9b:
@@ -388,13 +388,13 @@ translate thai day1_c534e70a:
 translate thai day1_a211cb6a:
 
     # n "Did this outfit cost me an arm and a leg to obtain? …Perhaps. But hey, if my pay check can cover it, then I should be able to wear it."
-    n "ชุดนี้ทำเงินไปเท่าไหร่? …ก็ว่าไป แต่เอาน่า ถ้าเงินเดือนจ่ายไหว ฉันก็ควรจะใส่มันได้"
+    n "ชุดนี้ทำฉันเสียเงินไปตั้งเท่าไหร่? …ก็ช่างเถอะ แต่เอาน่า ถ้าเงินเดือนจ่ายไหว ฉันก็ควรจะใส่มันได้"
 
 # game/scripts/days/day 1.rpy:173
 translate thai day1_b37397e7:
 
     # n "Giving myself a small spin in the mirror, I admire how the eye-catching accessories move around me."
-    n "ฉันหมุนตัวเล็กๆ ต่อหน้ากระจก ชื่นชมว่าอุปกรณ์เสริมที่เด่นชวนมองเคลื่อนไหวรอบตัวฉันสวยแค่ไหน"
+    n "ฉันหมุนตัวเล็กๆ ต่อหน้ากระจก ชื่นชมว่าเครื่องประดับสะดุดตาที่ขยับไปตามตัวฉันดูสวยแค่ไหน"
 
 # game/scripts/days/day 1.rpy:179
 translate thai day1_0d2f9984:
@@ -406,13 +406,13 @@ translate thai day1_0d2f9984:
 translate thai day1_6e315408:
 
     # n "Adjusting the strings and sleeves of my hoodie, I give myself an appreciative nod in the mirror."
-    n "ฉันจัดเชือกและแขนเสื้อฮู้ดีให้เข้าที่ แล้วพยักหน้าชื่นชมตัวเองในกระจก"
+    n "ฉันจัดเชือกและแขนเสื้อฮู้ดดี้ให้เข้าที่ แล้วพยักหน้าชื่นชมตัวเองในกระจก"
 
 # game/scripts/days/day 1.rpy:182
 translate thai day1_cbddee94:
 
     # n "But enough of that! I can check myself out another time. Hastily, I smooth out the wrinkles and pick off any stray pieces of lint from my sleeves before I {b}finally{/b} head out the front door—"
-    n "พอแล้ว! จะมั่นใจตัวเองก็มีเวลาทีหลัง ฉันรีดรอยยับและหยิบเศษฝุ่นออกจากแขนเสื้ออย่างรวดเร็ว ก่อนจะ{b}ออกจากประตูหน้าไปในที่สุด—"
+    n "พอแล้ว! จะส่องตัวเองก็มีเวลาทีหลัง ฉันรีดรอยยับและหยิบเศษฝุ่นออกจากแขนเสื้ออย่างรวดเร็ว ก่อนจะ{b}ออกจากประตูหน้าไปในที่สุด—"
 
 # game/scripts/days/day 1.rpy:183
 translate thai day1_b996d9fe:
@@ -466,19 +466,19 @@ translate thai day1_meetren_754dd92c_1:
 translate thai day1_meetren_bbc20896_1:
 
     # n "As if to prove a point, [ch_ren] reaches out to gently flick the name tag that I somehow {b}forgot{/b} that I had put on this morning."
-    n "ราวกับจะพิสูจน์ให้ดู [ch_ren] เอื้อมมือมากระเด้งป้ายชื่อที่ฉันแม้แต่{b}ลืม{/b}ไปเลยว่าเอาไว้เมื่อเช้านี้"
+    n "ราวกับจะพิสูจน์ให้ดู [ch_ren] เอื้อมมือมาดีดป้ายชื่อที่ฉัน{b}ลืม{/b}ไปเลยว่าติดไว้ตั้งแต่เมื่อเช้า"
 
 # game/scripts/days/day 1.rpy:670
 translate thai day1_meetren_52c19255_1:
 
     # y "Oh."
-    y "อ๋อ."
+    y "อ๋อ"
 
 # game/scripts/days/day 1.rpy:673
 translate thai day1_meetconan_e36586ba_1:
 
     # n "Unfolding it read the following:"
-    n "กางออกมาอ่านได้ดังนี้:"
+    n "คลี่ออกมาแล้วพบข้อความว่า:"
 
 # game/scripts/days/day 1.rpy:833
 translate thai day1_meetconan_95722e51_1:

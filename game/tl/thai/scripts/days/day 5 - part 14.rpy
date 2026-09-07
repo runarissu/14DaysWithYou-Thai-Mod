@@ -64,7 +64,7 @@ translate thai day5_renevening_38590d59:
 translate thai day5_reneepy_53e81970:
 
     # n "Soon enough, the events of the day slowly catches up and leaves me feeling tired and drained. Man, today had been a lot, huh?"
-    n "อีกไม่นาน เรื่องราวทั้งหมดของวันนี้ก็ค่อยๆ ทวงสิทธิ์ ทำให้ฉันรู้สึกเหนื่อยและหมดแรง เฮ้อ วันนี้มันเยอะจริงๆ นะ"
+    n "อีกไม่นาน เรื่องราวทั้งหมดของวันนี้ก็ค่อยๆ ตามมาทัน ทำให้ฉันรู้สึกเหนื่อยและหมดแรง เฮ้อ วันนี้มันเยอะจริงๆ นะ"
 
 # game/scripts/days/day 5.rpy:2989
 
@@ -120,7 +120,7 @@ translate thai day5_reneepy_cf67980d:
 translate thai day5_reneepy_db3a8dfd:
 
     # m "…Thanks for today, [player_fl]."
-    m "…ขอบคุณมื้อวันนี้นะ [player_fl]"
+    m "…ขอบคุณสำหรับวันนี้นะ [player_fl]"
 
 # game/scripts/days/day 5.rpy:3006
 
@@ -253,7 +253,7 @@ translate thai day5_reneepy_da1a10c4:
 translate thai day5_reneepy_fb3a28b1:
 
     # m "…Goodnight, [ch_angel]. Thanks for today."
-    m "…ไนท์ [ch_angel] ขอบคุณมื้อวันนี้นะ"
+    m "…ไนท์ [ch_angel] ขอบคุณสำหรับวันนี้นะ"
 
 # game/scripts/days/day 5.rpy:3040
 

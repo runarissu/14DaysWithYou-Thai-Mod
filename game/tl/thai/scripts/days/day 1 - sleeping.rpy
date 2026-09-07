@@ -16,7 +16,7 @@ translate thai sleeping_6d6a79ed:
 translate thai sleeping_8a7c32b1:
 
     # n "Shaking my head to dismiss those thoughts, I pull out my trusty air mattress from the closet and begin setting it up in the lounge room."
-    n "ฉันส่ายหัวไล่ความคิดนั้นทิ้ง แล้วหยิบที่นอนอัดอากาศคู่ใจออกจากตู้เสื้อผ้าแล้วเริ่มปูในห้องนั่งเล่น"
+    n "ฉันส่ายหัวไล่ความคิดนั้นทิ้ง แล้วหยิบที่นอนเป่าลมคู่ใจออกจากตู้เสื้อผ้าแล้วเริ่มปูในห้องนั่งเล่น"
 
 # game/scripts/days/day 1.rpy:1303
 translate thai sleeping_eabec665:
@@ -28,13 +28,13 @@ translate thai sleeping_eabec665:
 translate thai sleeping_0c836bb9:
 
     # n "…That is, until I found out that it had a massive, gaping hole on the side."
-    n "…นั่นคือ จนกว่าฉันจะรู้ว่ามันมีรูขนาดใหญ่ทะลุอยู่ด้านข้าง"
+    n "…จนกระทั่งฉันพบว่าด้านข้างมันมีรูโหว่ขนาดใหญ่"
 
 # game/scripts/days/day 1.rpy:1305
 translate thai sleeping_176e0aab:
 
     # n "Those [damn] rats! I swear, if I had the chance to move apartments, I'd take it in a heartbeat. But until then, I'll continue to send complaint after complaint to that good-for-nothing landlord."
-    n "หนูตัว [damn] เนี่ย! ฉันสาบาน ถ้ามีโอกาสย้ายคอนโด ฉันจะย้ายเลย แต่ก่อนถึงตอนนั้น ฉันจะส่งเรื่องร้องเรียนไปหาเจ้าของที่ไร้ประโยชน์คนนั้นไม่หยุด"
+    n "ไอ้หนู [damn] พวกนี้! ฉันสาบาน ถ้ามีโอกาสย้ายคอนโด ฉันจะย้ายเลย แต่ก่อนถึงตอนนั้น ฉันจะส่งเรื่องร้องเรียนไปหาเจ้าของที่ไร้ประโยชน์คนนั้นไม่หยุด"
 
 # game/scripts/days/day 1.rpy:1307
 translate thai sleeping_ac7ed376:
@@ -76,7 +76,7 @@ translate thai sleeping_7109e4c5:
 translate thai sleeping_cf59e188:
 
     # r "N-No! I don't mind! It's just… Is that {i}really{/i} okay with you?"
-    r "ไม-ไม่! ฉันไม่เป็นไร! แค่… คุณ{i}จริงๆ{/i} ไม่รังเกียจเหรอ?"
+    r "ไม-ไม่! ฉันไม่เป็นไร! แค่… คุณไม่รังเกียจ{i}จริงๆ{/i} เหรอ?"
 
 # game/scripts/days/day 1.rpy:1329
 translate thai sleeping_9601932f:
@@ -88,7 +88,7 @@ translate thai sleeping_9601932f:
 translate thai sleeping_70b427c6:
 
     # y "No, it's fine. I'm the one who asked you to do this favour in the first place, so I owe you."
-    y "ไม่ ไม่เป็นไร ฉันเป็นคนขอให้คุณมาช่วยตั้งแต่แรก ฉันเป็นหนี้บุญคุณอยู่"
+    y "ไม่ ไม่เป็นไร ฉันเป็นคนขอให้คุณมาช่วยตั้งแต่แรก ฉันติดหนี้คุณอยู่"
 
 # game/scripts/days/day 1.rpy:1339
 translate thai sleeping_9f535a00:
@@ -100,7 +100,7 @@ translate thai sleeping_9f535a00:
 translate thai sleeping_2018234a:
 
     # n "But noooo, I just {b}had{/b} to go and embarrass myself by attempting to blow up an air mattress, only to find out that it had holes in it because of {b}rats{/b}."
-    n "แต่ไม่นะ ฉันก็{b}ต้อง{/b}ไปทำตัวน่าอายด้วยการพยายามเป่าที่นอนอัดอากาศ แล้วถึงรู้ว่ามันมีรูเพราะ{b}หนู{/b}"
+    n "แต่ไม่นะ ฉันก็{b}ต้อง{/b}ไปทำตัวน่าอายด้วยการพยายามเป่าที่นอนเป่าลม แล้วถึงรู้ว่ามันมีรูเพราะ{b}หนู{/b}"
 
 # game/scripts/days/day 1.rpy:1341
 translate thai sleeping_b6a7b06b:
@@ -124,7 +124,7 @@ translate thai sleeping_7a19b4b1:
 translate thai sleeping_2402ab72:
 
     # y "No, it's okay. I'm the one who asked you to do this favour in the first place, so I owe you."
-    y "ไม่ ไม่เป็นไร ฉันเป็นคนขอให้คุณมาช่วยตั้งแต่แรก ฉันเป็นหนี้บุญคุณอยู่"
+    y "ไม่ ไม่เป็นไร ฉันเป็นคนขอให้คุณมาช่วยตั้งแต่แรก ฉันติดหนี้คุณอยู่"
 
 # game/scripts/days/day 1.rpy:1349
 translate thai sleeping_d2463859:
@@ -142,13 +142,13 @@ translate thai sleeping_eb94f473:
 translate thai sleeping_ba1f271e:
 
     # r "Well, yeah, but… Is that {i}really{/i} okay with you? I don't want to make you uncomfortable by invading your personal space, and I {i}really{/i} don't mind sleeping on the floor."
-    r "ก็ ใช่ แต่… คุณ{i}จริงๆ{/i} ไม่รังเกียจเหรอ? ฉันไม่อยากทำให้คุณไม่สบายใจเพราะบุกรุกพื้นที่ส่วนตัวของคุณ และฉัน{i}จริงๆ{/i} ไม่เป็นไรที่จะนอนบนพื้น"
+    r "ก็ ใช่ แต่… คุณไม่รังเกียจ{i}จริงๆ{/i} เหรอ? ฉันไม่อยากทำให้คุณไม่สบายใจเพราะบุกรุกพื้นที่ส่วนตัวของคุณ และฉัน{i}จริงๆ{/i} ไม่เป็นไรที่จะนอนบนพื้น"
 
 # game/scripts/days/day 1.rpy:1353
 translate thai sleeping_70b427c6_1:
 
     # y "No, it's fine. I'm the one who asked you to do this favour in the first place, so I owe you."
-    y "ไม่ ไม่เป็นไร ฉันเป็นคนขอให้คุณมาช่วยตั้งแต่แรก ฉันเป็นหนี้บุญคุณอยู่"
+    y "ไม่ ไม่เป็นไร ฉันเป็นคนขอให้คุณมาช่วยตั้งแต่แรก ฉันติดหนี้คุณอยู่"
 
 # game/scripts/days/day 1.rpy:1358
 translate thai sleeping_e50c3d61:

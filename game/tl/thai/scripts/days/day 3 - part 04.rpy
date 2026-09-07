@@ -155,7 +155,7 @@ translate thai day3_planningdate_f0aad838:
 translate thai day3_planningdate_7b072e41:
 
     # n "[ch_elanor] awkwardly shuffles on her feet at the abrupt end of the conversation, but otherwise, she doesn't seem to pick up on [ch_teo]'s curt behaviour."
-    n "[ch_elanor] กวัดแกว่งอย่างอึดอัดใจกับการจบบทสนทนาที่กะทันหัน แต่ก็ดูเหมือนจะไม่ได้สังเกตท่าทางห้วนๆ ของ [ch_teo] เลย"
+    n "[ch_elanor] ขยับตัวอย่างอึดอัดใจกับการจบบทสนทนาที่กะทันหัน แต่ก็ดูเหมือนจะไม่ได้สังเกตท่าทางห้วนๆ ของ [ch_teo] เลย"
 
 # game/scripts/days/day 3.rpy:765
 

@@ -15,7 +15,7 @@ translate thai day4_renreturns_53e62fad:
 translate thai day4_renreturns_ef01fd61:
 
     # n "He {b}still{/b} doesn't seem to react though, and before my guilty conscience can eat me alive, [ch_ren]'s voice breaks the silence."
-    n "แต่เขาก็{b}ยังคง{/b}ไม่มีปฏิกิริยาอะไร และก่อนที่ความรู้สึกผิดจะกัดกินฉันทั้งตัว เสียงของ [ch_ren] ก็ตัดความเงียบลง"
+    n "แต่เขาก็{b}ยังคง{/b}ไม่มีปฏิกิริยาอะไร และก่อนที่ความรู้สึกผิดจะกัดกินฉันทั้งตัว เสียงของ [ch_ren] ก็ทำลายความเงียบลง"
 
 # game/scripts/days/day 4.rpy:2317
 
@@ -50,7 +50,7 @@ translate thai day4_renreturns_f562844c:
 translate thai day4_renreturns_46e0fae2:
 
     # n "Ah, forget it; maybe it was some form of righteousness, but I find myself confessing the truth."
-    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกถูกต้องอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
+    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกว่าควรทำสิ่งที่ถูกต้องก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
 
 # game/scripts/days/day 4.rpy:2328
 
@@ -113,7 +113,7 @@ translate thai day4_renreturns_27905d24:
 translate thai day4_renreturns_ef01fd61_1:
 
     # n "He {b}still{/b} doesn't seem to react though, and before my guilty conscience can eat me alive, [ch_ren]'s voice breaks the silence."
-    n "แต่เขาก็{b}ยังคง{/b}ไม่มีปฏิกิริยาอะไร และก่อนที่ความรู้สึกผิดจะกัดกินฉันทั้งตัว เสียงของ [ch_ren] ก็ตัดความเงียบลง"
+    n "แต่เขาก็{b}ยังคง{/b}ไม่มีปฏิกิริยาอะไร และก่อนที่ความรู้สึกผิดจะกัดกินฉันทั้งตัว เสียงของ [ch_ren] ก็ทำลายความเงียบลง"
 
 # game/scripts/days/day 4.rpy:2341
 
@@ -148,7 +148,7 @@ translate thai day4_renreturns_a23599d6:
 translate thai day4_renreturns_46e0fae2_1:
 
     # n "Ah, forget it; maybe it was some form of righteousness, but I find myself confessing the truth."
-    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกถูกต้องอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
+    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกว่าควรทำสิ่งที่ถูกต้องก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
 
 # game/scripts/days/day 4.rpy:2350
 
@@ -225,7 +225,7 @@ translate thai day4_renreturns_a23599d6_1:
 translate thai day4_renreturns_46e0fae2_2:
 
     # n "Ah, forget it; maybe it was some form of righteousness, but I find myself confessing the truth."
-    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกถูกต้องอย่างหนึ่งก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
+    n "เอาเถอะ บางทีมันอาจจะเป็นความรู้สึกว่าควรทำสิ่งที่ถูกต้องก็เป็นได้ แต่ฉันกลับพบว่าตัวเองกำลังสารภาพความจริง"
 
 # game/scripts/days/day 4.rpy:2368
 

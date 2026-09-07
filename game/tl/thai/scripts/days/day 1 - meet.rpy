@@ -4,7 +4,7 @@
 translate thai day1_meetviolet_d847b6e1:
 
     # n "With a grumble, I tug at the fabric of my coat before slamming the door shut with a little bit {b}too much{/b} force than necessary."
-    n "พร้อมเสียงบ่นพึมพำ ฉันดึงผ้าเสื้อโค้ทของตัวเองก่อนจะปิดประตูดังปังด้วยแรงที่{b}มากไปหน่อย{/b}"
+    n "พร้อมเสียงบ่นพึมพำ ฉันดึงผ้าเสื้อโค้ทของตัวเองก่อนจะปิดประตูดังปังด้วยแรงที่{b}มากเกินไปหน่อย{/b}"
 
 # game/scripts/days/day 1.rpy:196
 translate thai day1_meetviolet_935440c2:
@@ -34,7 +34,7 @@ translate thai day1_meetviolet_fe19d7ef:
 translate thai day1_meetviolet_c91e8235:
 
     # n "My neighbour — [ch_violet] — practically beams at me while she fishes through her pockets for her own apartment key."
-    n "เพื่อนบ้านของฉัน — [ch_violet] — ยิ้มร่าไปหมดทั้งตัวขณะควานหากุญแจอพาร์ตเมนต์ในกระเป๋า"
+    n "เพื่อนบ้านของฉัน — [ch_violet] — ยิ้มกว้างอย่างร่าเริงขณะควานหากุญแจอพาร์ตเมนต์ในกระเป๋า"
 
 # game/scripts/days/day 1.rpy:205
 translate thai day1_meetviolet_b3c50273:
@@ -70,13 +70,13 @@ translate thai day1_meetviolet_5d0ec67a:
 translate thai day1_meetviolet_4e0c1dd1:
 
     # v "Love the shoes, by the way! The colour reeeeally compliments your aura this morning."
-    v "รองเท้าก็ชอบนะ! สีมันเข้ากับออร่าของคุณช่างเป็นตอนเช้าวันนี้จริงๆ"
+    v "รองเท้าก็ชอบนะ! สีมันเข้ากับออร่าของคุณตอนเช้านี้สุดๆ เลย"
 
 # game/scripts/days/day 1.rpy:219
 translate thai day1_meetviolet_08ae62a8:
 
     # v "You'll have to let me peek inside your closet some day. I've been looking for some new inspiration lately."
-    v "สักวันต้องให้ฉันแวะดูตู้เสื้อผ้าในตู้ของคุณบ้างนะ ช่วงนี้ฉันกำลังหาไอเดียใหม่ๆ อยู่"
+    v "สักวันต้องให้ฉันแวะดูตู้เสื้อผ้าของคุณบ้างนะ ช่วงนี้ฉันกำลังหาไอเดียใหม่ๆ อยู่"
 
 # game/scripts/days/day 1.rpy:221
 translate thai day1_meetviolet_fc388ed9:
@@ -100,7 +100,7 @@ translate thai day1_meetviolet_e70731b2:
 translate thai day1_meetviolet_176b250a:
 
     # n "Wow, [ch_violet] sure was extra chirpy this morning… I wonder if she'd let me borrow some of that energy?"
-    n "ว้าว [ch_violet] สดใสเป็นพิเศษจริงๆ ตอนเช้านี้… สงสัยเธอจะยืมพลังงานให้ฉันบ้างมั้ย?"
+    n "ว้าว [ch_violet] สดใสเป็นพิเศษจริงๆ ตอนเช้านี้… สงสัยเธอจะแบ่งพลังงานมาให้ฉันบ้างไหม?"
 
 # game/scripts/days/day 1.rpy:227
 translate thai day1_meetviolet_ba4aefed:
@@ -118,13 +118,13 @@ translate thai day1_meetviolet_689a2cab:
 translate thai day1_meetviolet_8f2dd5ca:
 
     # n "She briefly pulls away from her lock to gently pet the succulent plant. The look on her face is soft now, and I couldn't help but stare."
-    n "เธอหันจากกุญแจมาลูบต้นไม้สดในมือเบาๆ สีหน้าของเธอดูนุ่มนวล ฉันเลยจ้องมองไม่วางตา"
+    n "เธอหันจากกุญแจมาลูบต้นไม้อวบน้ำเบาๆ สีหน้าของเธอดูนุ่มนวล ฉันเลยจ้องมองไม่วางตา"
 
 # game/scripts/days/day 1.rpy:246
 translate thai day1_meetviolet_e8f94381:
 
     # v "Hmm? {i}Oh!{/i} Yeah, this is Charlie! I'm thinking of putting her next to Whitney."
-    v "หรือ? {i}โอ้!{/i} อ๋อ นี่ Charlie ค่ะ! ฉันกำลังคิดจะวางเธอข้าง Whitney"
+    v "หืม? {i}โอ้!{/i} อ๋อ นี่ Charlie ค่ะ! ฉันกำลังคิดจะวางเธอข้าง Whitney"
 
 # game/scripts/days/day 1.rpy:247
 translate thai day1_meetviolet_51f81bf8:
@@ -172,7 +172,7 @@ translate thai day1_meetviolet_1427d5c1:
 translate thai day1_meetviolet_786c8ae4:
 
     # n "A knowing look pulls at her features as [ch_violet] continues to fiddle with the lock on her door."
-    n "สีหน้ารู้ทันปรากฏขึ้นบนใบหน้าเธอขณะที่[ch_violet]ยังคงแก้กุญแจประตูต่อไป"
+    n "สีหน้ารู้ทันปรากฏขึ้นบนใบหน้าเธอขณะที่[ch_violet]ยังคงไขกุญแจประตูต่อไป"
 
 # game/scripts/days/day 1.rpy:270
 translate thai day1_meetviolet_db711810:
@@ -196,7 +196,7 @@ translate thai day1_meetviolet_592519ca:
 translate thai day1_meetviolet_0792617a:
 
     # n "I give [ch_violet] a concerned look, and she picks up on it almost immediately."
-    n "ฉันมอง[ch_violet]ด้วยสีหน้ากังวล เธอก็รับรู้ได้ทันทีเลย"
+    n "ฉันมอง [ch_violet] ด้วยสีหน้ากังวล และเธอก็สังเกตเห็นแทบจะทันที"
 
 # game/scripts/days/day 1.rpy:276
 translate thai day1_meetviolet_e9eb2ebb:
@@ -208,7 +208,7 @@ translate thai day1_meetviolet_e9eb2ebb:
 translate thai day1_meetviolet_2dd808ad:
 
     # n "With a huff, she gives up on trying to unlock her door (it seemed as though we both shared the same problem with our apartment locks) and places her potted plant on the ground before slowly making her way towards me."
-    n "พร้อมเสียงงึมงำ เธอยอมแพ้การแก้กุญแจประตู (ดูเหมือนเราจะมีปัญหาเรื่องล็อกอพาร์ตเมนต์เหมือนกัน) แล้ววางต้นไม้กระถางลงบนพื้นก่อนจะเดินตรงมาหาฉันช้าๆ"
+    n "พร้อมเสียงงึมงำ เธอยอมแพ้การไขกุญแจประตู (ดูเหมือนเราจะมีปัญหาเรื่องกลอนประตูอพาร์ตเมนต์เหมือนกัน) แล้ววางต้นไม้กระถางลงบนพื้นก่อนจะเดินตรงมาหาฉันช้าๆ"
 
 # game/scripts/days/day 1.rpy:280
 translate thai day1_meetviolet_23d0e8be:
@@ -226,13 +226,13 @@ translate thai day1_meetviolet_fac011fa:
 translate thai day1_meetviolet_536c082d:
 
     # extend "Really into alternative fashion with the crazy amount of belts and loops wrapped around his leg?"
-    extend "แต่งตัวแฟชั่นเทิร์นๆ มีสายเข็มขัดกับหูหิ้วพันรอบขาเยอะมาก?"
+    extend "แต่งตัวแฟชั่นสายอัลเทอร์เนทีฟ มีสายเข็มขัดกับห่วงพันรอบขาเต็มไปหมด?"
 
 # game/scripts/days/day 1.rpy:287
 translate thai day1_meetviolet_1199fae4:
 
     # extend "Probably into either alt fashion {i}or{/i} bondage with the crazy amount of belts and loops wrapped around his leg?"
-    extend "น่าจะเป็นแฟชั่นเทิร์น{i}หรือ{/i}บอนเดจ กับสายเข็มขัดกับหูหิ้วพันรอบขาเยอะมากนั่นแหละ?"
+    extend "น่าจะเป็นแฟชั่นสายอัลเทอร์เนทีฟ{i}หรือ{/i}ไม่ก็บอนเดจ จากสายเข็มขัดกับห่วงที่พันรอบขาเต็มไปหมดนั่นแหละ?"
 
 # game/scripts/days/day 1.rpy:289
 translate thai day1_meetviolet_aab3e930:
@@ -250,7 +250,7 @@ translate thai day1_meetviolet_1d320c1a:
 translate thai day1_meetviolet_e5f1fd33:
 
     # y "No one came here, even if they did, I would've heard them. My place isn't really that big anyway."
-    y "ไม่มีใครมาที่นี่หรอก ถ้ามาจริงฉันก็คงได้ยิน บ้านฉันก็ไม่ได้ใหญ่อะไรขนาดนั้น"
+    y "ไม่มีใครมาที่นี่หรอก ถ้ามาจริงฉันก็คงได้ยิน ห้องฉันก็ไม่ได้ใหญ่อะไรขนาดนั้น"
 
 # game/scripts/days/day 1.rpy:293
 translate thai day1_meetviolet_7c98e8fc:
@@ -262,13 +262,13 @@ translate thai day1_meetviolet_7c98e8fc:
 translate thai day1_meetviolet_7129537e:
 
     # n "A hand rests on her cheek in a thinking manner before she pouts up at me, seemingly giving in… for now."
-    n "เธอวางมือบนแก้มทำท่าครุ่นคิดก่อนจะมองฉันด้วยสีหนงงอลง เหมือนจะยอมแพ้… ชั่วคราว"
+    n "เธอวางมือบนแก้มทำท่าครุ่นคิดก่อนจะมองฉันด้วยสีหน้ามุ่ยลง เหมือนจะยอมแพ้… ชั่วคราว"
 
 # game/scripts/days/day 1.rpy:296
 translate thai day1_meetviolet_4eea3272:
 
     # v "Well… alright then. Maybe it was somebody else's apartment? I mean, it's always so dark in these hallways at night. Honestly… What is our landlord doing?"
-    v "อ้าว… งั้นก็แล้วแต่ คงเป็นอพาร์ตเมนต์ของคนอื่นมั้ง? ตอนกลางคืนทางเดินมันก็มืดอยู่แล้ว พูดจริงๆ… เจ้าของที่เราทำอะไรอยู่อ่ะ?"
+    v "อ้าว… งั้นก็แล้วแต่ คงเป็นอพาร์ตเมนต์ของคนอื่นมั้ง? ตอนกลางคืนทางเดินมันก็มืดอยู่แล้ว พูดจริงๆ… เจ้าของที่ของเราทำอะไรอยู่อ่ะ?"
 
 # game/scripts/days/day 1.rpy:298
 translate thai day1_meetviolet_2169896f:
@@ -280,7 +280,7 @@ translate thai day1_meetviolet_2169896f:
 translate thai day1_meetviolet_921ce961:
 
     # y "Yeah, that's fine."
-    y "อ่อ ไม่เป็นไร"
+    y "อ๋อ ไม่เป็นไร"
 
 # game/scripts/days/day 1.rpy:301
 translate thai day1_meetviolet_8d3abb5b:
@@ -298,7 +298,7 @@ translate thai day1_meetviolet_105330a6:
 translate thai day1_meetviolet_ba0f0c90:
 
     # n "[ch_violet] lets out one last huff before she picks up her plant (what did she name this one again?) and goes back to unlocking her door."
-    n "[ch_violet] งึมงำออกมาอีกครั้งก่อนจะหยิบต้นไม้ขึ้นมา (ต้นนี้เธอตั้งชื่อว่าอะไรนะ?) แล้วกลับไปแก้กุญแจต่อ"
+    n "[ch_violet] งึมงำออกมาอีกครั้งก่อนจะหยิบต้นไม้ขึ้นมา (ต้นนี้เธอตั้งชื่อว่าอะไรนะ?) แล้วกลับไปไขกุญแจต่อ"
 
 # game/scripts/days/day 1.rpy:310
 translate thai day1_meetviolet_285cdfb3:
@@ -334,7 +334,7 @@ translate thai day1_meetelanor_23d5d21c:
 translate thai day1_meetelanor_5e630e89:
 
     # n "The melodic chimes alert the woman at the reception desk of my arrival, and I watch as she tucks a strand of stray blonde hair behind her ear as she turns around to greet me."
-    n "เสียงกริ่งเพราะๆ แจ้งเตือนผู้หญิงที่เคาน์เตอร์รับแขกว่าฉันมาถึง ฉันเห็นเธอเกล้าผมบลอนด์ที่หลุดมาเสียบไว้หลังหูก่อนจะหันมาทักทาย"
+    n "เสียงกริ่งเพราะๆ แจ้งเตือนผู้หญิงที่เคาน์เตอร์รับแขกว่าฉันมาถึง ฉันเห็นเธอทัดผมบลอนด์ที่หลุดลงมาข้างหูก่อนจะหันมาทักทาย"
 
 # game/scripts/days/day 1.rpy:328
 translate thai day1_meetelanor_ed71a698:
@@ -358,7 +358,7 @@ translate thai day1_meetelanor_a4122012:
 translate thai day1_meetelanor_37b19370:
 
     # n "[ch_elanor] is one of my co-workers here at Corland Bay Library, and one of the {b}very few{/b} people here who actually gets the work done."
-    n "[ch_elanor] เป็นหนึ่งในเพื่อนร่วมงานของฉันที่ห้องสมุด Corland Bay และเป็นหนึ่งใน{b}ไม่กี่คน{/b}ที่ทำงานจริงจัง"
+    n "[ch_elanor] เป็นหนึ่งในเพื่อนร่วมงานของฉันที่ห้องสมุด Corland Bay และเป็นหนึ่งใน{b}ไม่กี่คน{/b}ที่ทำงานเป็นชิ้นเป็นอัน"
 
 # game/scripts/days/day 1.rpy:335
 translate thai day1_meetelanor_4024a01e:
@@ -370,7 +370,7 @@ translate thai day1_meetelanor_4024a01e:
 translate thai day1_meetelanor_6d96cfbc:
 
     # n "But her nurturing personality can get rather… overbearing at times, and I often find myself having to step away to get some breathing room."
-    n "แต่บุคลิกที่เอาใจใส่ของเธอบางครั้งก็… มากไปหน่อย ฉันมักต้องแยกตัวไปหายใจบ้าง"
+    n "แต่ความช่างดูแลเอาใจใส่ของเธอบางครั้งก็… มากเกินไปหน่อย ฉันมักต้องถอยออกมาหาพื้นที่หายใจบ้าง"
 
 # game/scripts/days/day 1.rpy:337
 translate thai day1_meetelanor_fc67d4ed:
@@ -466,13 +466,13 @@ translate thai day1_meetelanor_91bb154c:
 translate thai day1_meetelanor_01c51577:
 
     # e "You know, that new guy. I don't know when he started showing up here in the Bay, but he always comes in and rents out the books you recommend on the display window."
-    e "คุณก็รู้นะ ผู้ชายคนใหม่นั่น ฉันไม่รู้ว่าเขาเริ่มมาตอนไหน แต่เขามาทุกทีแล้วก็ยืมหนังสือที่คุณแนะนำในตู้จัดแสดง"
+    e "คุณก็รู้นะ ผู้ชายคนใหม่นั่น ฉันไม่รู้ว่าเขาเริ่มมาตอนไหน แต่เขามาที่นี่ตลอด แล้วก็ยืมหนังสือที่คุณแนะนำไว้ในตู้จัดแสดงทุกครั้ง"
 
 # game/scripts/days/day 1.rpy:368
 translate thai day1_meetelanor_83165e6a:
 
     # e "And if I didn't know any better, I'd say he has a little crush on you."
-    e "และถ้าฉันไม่รู้เรื่องเลย ฉันคงว่าเขาแอบชอบคุณอยู่"
+    e "แล้วถ้าฉันไม่รู้จักเขาดีกว่านี้ ฉันคงคิดว่าเขาแอบชอบคุณอยู่"
 
 # game/scripts/days/day 1.rpy:372
 translate thai day1_meetelanor_53f612ed:
@@ -490,7 +490,7 @@ translate thai day1_meetelanor_81a926ee:
 translate thai day1_meetelanor_308f188c:
 
     # e "Especially with that outfit you've got on! It makes you look rather [gorgeous], so I can't really fault him for staring."
-    e "ยิ่งกับชุดที่คุณใส่ด้วย! มันทำให้คุณดู[gorgeous]เลย ฉันเลยไม่ค่อยว่าเขาที่จ้องมองได้"
+    e "ยิ่งกับชุดที่คุณใส่ด้วย! คุณ[gorgeous]มาก ฉันเลยไม่ค่อยว่าเขาที่จ้องมองได้"
 
 # game/scripts/days/day 1.rpy:380
 translate thai day1_meetelanor_31da5104:
@@ -508,13 +508,13 @@ translate thai day1_meetelanor_a62962a5:
 translate thai day1_meetelanor_154a7fcc:
 
     # n "Snorting, I push [ch_elanor]'s office chair so that she's facing the other way and focus my attention {i}back{/i} to the papers in front of me."
-    n "ฉันเสียงจาม ผลักเก้าอี้ของ[ch_elanor]ให้หันไปทางอื่น แล้วโฟกัส{i}กลับ{/i}ไปที่เอกสารตรงหน้า"
+    n "ฉันแค่นหัวเราะเบาๆ ผลักเก้าอี้ของ[ch_elanor]ให้หันไปทางอื่น แล้วโฟกัส{i}กลับ{/i}ไปที่เอกสารตรงหน้า"
 
 # game/scripts/days/day 1.rpy:386
 translate thai day1_meetelanor_01c5bb79:
 
     # n "What was with everyone today? Always smiling, gossiping about other people, and meddling in business that wasn't their own."
-    n "วันนี้คนทั้งนั้นเลย ยิ้มกันไม่หยุด นินทาคนอื่น แล้วก็ยุ่งกับเรื่องที่ไม่เกี่ยวกับตัวเอง"
+    n "วันนี้ทุกคนเป็นอะไรกันเนี่ย? เอาแต่ยิ้ม นินทาคนอื่น แล้วก็ยุ่งเรื่องชาวบ้านกันทั้งนั้น"
 
 # game/scripts/days/day 1.rpy:387
 translate thai day1_meetelanor_52941e5d:
@@ -526,7 +526,7 @@ translate thai day1_meetelanor_52941e5d:
 translate thai day1_meetelanor_04736771:
 
     # n "I might need to buy a stronger lock on my way home from work… Maybe even some kind of alarm system. But would the stores still be open by then?"
-    n "ฉันอาจต้องซื้อกุญแจที่แน่นกว่านี้ระหว่างทางกลับ… หรือไม่ก็ระบบเตือนภัยอะไรสักอย่าง แต่ร้านคงยังเปิดอยู่มั้ย?"
+    n "ฉันอาจต้องซื้อกลอนประตูที่แข็งแรงกว่านี้ระหว่างทางกลับ… หรือไม่ก็ระบบเตือนภัยอะไรสักอย่าง แต่ร้านคงยังเปิดอยู่มั้ย?"
 
 # game/scripts/days/day 1.rpy:389
 translate thai day1_meetelanor_974b5b11:
@@ -538,7 +538,7 @@ translate thai day1_meetelanor_974b5b11:
 translate thai day1_meetelanor_161e8bc1:
 
     # e "Would you look at that… {i}Loverboy{/i} in aisle eight needs some help, it seems."
-    e "ดูสิ… {i}หนุ่มจี้{/i}ที่แถวแปดดูเหมือนจะต้องการความช่วยเหลือ"
+    e "ดูสิ… {i}หนุ่มคลั่งรัก{/i}ที่แถวแปดดูเหมือนจะต้องการความช่วยเหลือ"
 
 # game/scripts/days/day 1.rpy:393
 translate thai day1_meetelanor_3763b37f:
@@ -574,7 +574,7 @@ translate thai day1_meetren_87dd5ab8:
 translate thai day1_meetren_3c781178:
 
     # y "{i}Ahem—!{/i}"
-    y "{i}อืม—!{/i}"
+    y "{i}กระแอม—!{/i}"
 
 # game/scripts/days/day 1.rpy:421
 translate thai day1_meetren_ddbdb8ff:
@@ -586,7 +586,7 @@ translate thai day1_meetren_ddbdb8ff:
 translate thai day1_meetren_ecbffa5e:
 
     # n "He seems to jump at the sudden noise before sheepishly turning around to face me. Immediately, I was taken aback by his soft demeanour, doe-like eyes, and imposing height."
-    n "เขาดูเหมือนจะสะดุ้งกับเสียงก่อนจะหันมาหาฉันอย่างเขินอาย ทันใดนั้นฉันก็ตกตะลึงกับท่าทางอ่อนโยน ดวงตาคล้ายกวาง และส่วนสูงที่สูงร่มของเขา"
+    n "เขาดูเหมือนจะสะดุ้งกับเสียงก่อนจะหันมาหาฉันอย่างเขินอาย ทันใดนั้นฉันก็ตกตะลึงกับท่าทางอ่อนโยน ดวงตาคล้ายกวาง และความสูงที่โดดเด่นของเขา"
 
 # game/scripts/days/day 1.rpy:423
 translate thai day1_meetren_b732333a:
@@ -598,7 +598,7 @@ translate thai day1_meetren_b732333a:
 translate thai day1_meetren_d31d4df0:
 
     # n "His pink hair also reminded me of Haruko, an anime character I had recently been obsessing over with [ch_moth] during our late-night video calls. In fact, even the overall cut and style appeared vaguely similar to his…"
-    n "ผมสีชมพูของเขาทำให้ฉันนึกถึง Haruko ตัวละครอนิเมะที่ฉันกับ[ch_moth]กำลังเมาอยู่ช่วงนี้ ตอนคุยกันทางวิดีโอคอลดึกๆ จริงๆ ทรงผมก็ดูคล้ายกัน…"
+    n "ผมสีชมพูของเขาทำให้ฉันนึกถึง Haruko ตัวละครอนิเมะที่ฉันกับ [ch_moth] กำลังคลั่งไคล้อยู่ช่วงนี้ ตอนคุยกันทางวิดีโอคอลดึกๆ จริงๆ ทรงผมก็ดูคล้ายกัน…"
 
 # game/scripts/days/day 1.rpy:425
 translate thai day1_meetren_848941ef:
@@ -616,7 +616,7 @@ translate thai day1_meetren_3f314d1e:
 translate thai day1_meetren_910b07dd:
 
     # n "It was called \"Always with you\", and it involved the main character meeting the love of [their] life at a—"
-    n "ชื่อเรื่อง \"Always with you\" เนื้อเรื่องเกี่ยวกับพระเอกที่ได้พบกับรักแท้ของ[their]ที่—"
+    n "ชื่อเรื่อง \"Always with you\" เนื้อเรื่องเกี่ยวกับตัวเอกที่ได้พบกับคนรักของ[their]ชีวิตที่—"
 
 # game/scripts/days/day 1.rpy:439
 translate thai day1_meetren_b87c236d:
@@ -691,7 +691,7 @@ translate thai day1_meetren_9662cded:
 translate thai day1_meetren_0bc58492:
 
     # rpc "…I need some help. I-I'm looking for a specific book, you see, but…"
-    rpc "…ฉันต้องการความช่วยเหลือหน่อย ฉ-ฉันกำลังหาหนังสือเล่มใดเล่มหนึ่งอะ แต่…"
+    rpc "…ฉันต้องการความช่วยเหลือหน่อย ฉ-ฉันกำลังหาหนังสือเล่มหนึ่งโดยเฉพาะน่ะ แต่…"
 
 # game/scripts/days/day 1.rpy:468
 translate thai day1_meetren_e58f30dc:
@@ -739,7 +739,7 @@ translate thai day1_meetren_ed27299c:
 translate thai day1_meetren_d096a605:
 
     # rpc "Or… Maybe I'm just in the wrong aisle?"
-    rpc "หรือ… บางทีฉันอาจจะมาผิดทางเดิน?"
+    rpc "หรือ… บางทีฉันอาจจะมาผิดแถว?"
 
 # game/scripts/days/day 1.rpy:481
 translate thai day1_meetren_f007de94:
@@ -769,7 +769,7 @@ translate thai day1_meetren_9a7a4cdf:
 translate thai day1_meetren_a13e64f4:
 
     # y "No, you're definitely in the right aisle. Those kinds of books are just… more hidden, I guess."
-    y "ไม่ คุณมาถูกทางเดินแล้วหล่ะ หนังสือพวกนั้นแค่… ซ่อนอยู่ลึกกว่านิดหน่อยมั้ง"
+    y "ไม่ คุณมาถูกแถวแล้วล่ะ หนังสือพวกนั้นแค่… ซ่อนอยู่ลึกกว่านิดหน่อยมั้ง"
 
 # game/scripts/days/day 1.rpy:488
 translate thai day1_meetren_892cdf1f:
@@ -799,7 +799,7 @@ translate thai day1_meetren_e38b7737:
 translate thai day1_meetren_0276fe52:
 
     # n "…Was it just me, or… Did he have a certain glint in his eyes?"
-    n "…มีฉันคนเดียวที่เห็นไหม หรือ… เขามีแววตาแปลกๆ อยู่ในสายตา?"
+    n "…มีฉันคนเดียวที่เห็นไหม หรือ… เขามีประกายบางอย่างในแววตาหรือเปล่า?"
 
 # game/scripts/days/day 1.rpy:497
 translate thai day1_meetren_3f9a8749:
@@ -901,7 +901,7 @@ translate thai day1_meetren_fa3df996:
 translate thai day1_meetren_310c7cb6:
 
     # n "Figuring that was my cue to leave before things got awkward, I give him one last friendly smile and subtly glance back toward the front desk. But the eccentric man showed no signs of moving; instead, he just looked down at me expectantly."
-    n "คิดว่านี่เป็นสัญญาณว่าฉันควรไปก่อนที่มันจะอึดอัด ฉันเลยยิ้มให้เขาเป็นครั้งสุดท้ายและแอบมองกลับไปที่เคาน์เตอร์เบาะๆ แต่ชายประหลาดคนนี้กลับไม่มีท่าทางจะขยับไปไหน กลับแค่มองลงมาที่ฉันด้วยสายตาคาดหวัง"
+    n "คิดว่านี่เป็นสัญญาณว่าฉันควรไปก่อนที่มันจะอึดอัด ฉันเลยยิ้มให้เขาเป็นครั้งสุดท้ายและแอบเหลือบมองกลับไปทางเคาน์เตอร์ แต่ชายประหลาดคนนี้กลับไม่มีท่าทางจะขยับไปไหน กลับแค่มองลงมาที่ฉันด้วยสายตาคาดหวัง"
 
 # game/scripts/days/day 1.rpy:522
 translate thai day1_meetren_278a515b:
@@ -1147,7 +1147,7 @@ translate thai day1_meetren_754dd92c:
 translate thai day1_meetren_451767d7:
 
     # n "Surely there was no way [ch_ren] was be able to guess my {b}real name{/b} from a silly little nickname he made up on the spot…"
-    n "ไม่มีทางที่ [ch_ren] จะเดา{b}ชื่อจริง{/b}ของฉันได้จากชื่อเล่นแบบแว๊บๆ ที่เขาแต่งขึ้นมาเดี๋ยวนั้นหรอก…"
+    n "ไม่มีทางที่ [ch_ren] จะเดา{b}ชื่อจริง{/b}ของฉันได้จากชื่อเล่นที่เขาเพิ่งคิดขึ้นมาเดี๋ยวนั้นหรอก…"
 
 # game/scripts/days/day 1.rpy:622
 translate thai day1_meetren_ec551a3b:
@@ -1165,7 +1165,7 @@ translate thai day1_meetren_9ddde228:
 translate thai day1_meetren_bbc20896:
 
     # n "As if to prove a point, [ch_ren] reaches out to gently flick the name tag that I somehow {b}forgot{/b} that I had put on this morning."
-    n "ราวกับจะพิสูจน์ให้ดู [ch_ren] ยื่นมือมากระทิบป้ายชื่อที่ฉันไม่รู้ตัวเลยว่าตอนเช้าฉัน{b}ลืม{/b}ว่าได้ติดมันไว้"
+    n "ราวกับจะพิสูจน์ให้ดู [ch_ren] ยื่นมือมาดีดป้ายชื่อที่ฉัน{b}ลืม{/b}ไปเลยว่าติดมันไว้ตั้งแต่เมื่อเช้า"
 
 # game/scripts/days/day 1.rpy:627
 translate thai day1_meetren_52c19255:
@@ -1189,7 +1189,7 @@ translate thai day1_meetren_0153f36a:
 translate thai day1_meetren_6a6acdb7:
 
     # y "Actually… Now that I think about it, you haven't told me your name yet."
-    y "จริงๆ สิ… พอคิดดูอีกที คุณยังไม่ได้บอกชื่อฉันเลยนะ"
+    y "จริงๆ สิ… พอคิดดูอีกที คุณยังไม่ได้บอกชื่อให้ฉันเลยนะ"
 
 # game/scripts/days/day 1.rpy:635
 translate thai day1_meetren_c964e9a0:
@@ -1334,7 +1334,7 @@ translate thai day1_meetren_cbde328f:
 translate thai day1_meetconan_7b284cec:
 
     # n "Hours seem to pass by in a blur, and soon enough, I find myself resting up in the employees' lounge. My mind drifts back to the guy from earlier, and I couldn't help but wonder what happened to him afterwards."
-    n "ผ่านไปหลายชั่วโมงเหมือนเป็นเงา แล้วไม่นานฉันก็พบตัวเองกำลังพักอยู่ในห้องพักพนักงาน ความคิดฉันล่องลอยกลับไปหาผู้ชายคนนั้นเมื่อกี้ และก็ไม่อาจฝืนสงสัยได้ว่าเขาเป็นยังไงต่อหลังจากนั้น"
+    n "เวลาหลายชั่วโมงผ่านไปอย่างเลือนราง แล้วไม่นานฉันก็พบตัวเองกำลังพักอยู่ในห้องพักพนักงาน ความคิดฉันล่องลอยกลับไปหาผู้ชายคนนั้นเมื่อกี้ และก็ไม่อาจฝืนสงสัยได้ว่าเขาเป็นยังไงต่อหลังจากนั้น"
 
 # game/scripts/days/day 1.rpy:779
 translate thai day1_meetconan_cbfc4007:
@@ -1346,7 +1346,7 @@ translate thai day1_meetconan_cbfc4007:
 translate thai day1_meetconan_f0fbe978:
 
     # n "He still gave me off-putting vibes, though — especially with his ever-changing personality. And if I had to be completely honest, that 'shy and timid' persona that he displayed felt rather… {b}forced{/b} to me."
-    n "แต่เขาก็ยังทำให้ฉันรู้สึกไม่ค่อยสบายใจ — โดยเฉพาะนิสัยที่เปลี่ยนไปเปลี่ยนมา และถ้าให้พูดกันตรงๆ บุคลิก 'ขี้อายและเก็บตัว' ที่เขาแสดงออกมามันดู… {b}เล่นท่า{/b} ให้ฉันรู้สึกแปลกๆ"
+    n "แต่เขาก็ยังทำให้ฉันรู้สึกไม่ค่อยสบายใจ — โดยเฉพาะนิสัยที่เปลี่ยนไปเปลี่ยนมา และถ้าให้พูดกันตรงๆ บุคลิก 'ขี้อายและเก็บตัว' ที่เขาแสดงออกมามันดู… {b}ฝืนๆ{/b} สำหรับฉัน"
 
 # game/scripts/days/day 1.rpy:781
 translate thai day1_meetconan_9e2cd466:
@@ -1364,7 +1364,7 @@ translate thai day1_meetconan_48e33f75:
 translate thai day1_meetconan_57f07f46:
 
     # n "[ch_conan], my boss, startles me as he suddenly appears in the entranceway."
-    n "[ch_conan] เจ้านายของฉันทำให้ฉันสะดุ้เมื่อเขาปรากฏตัวขึ้นที่ปากทางเข้าอย่างกะทันหัน"
+    n "[ch_conan] เจ้านายของฉันทำให้ฉันสะดุ้งเมื่อเขาปรากฏตัวขึ้นที่ปากทางเข้าอย่างกะทันหัน"
 
 # game/scripts/days/day 1.rpy:787
 translate thai day1_meetconan_d8adbb62:
@@ -1376,7 +1376,7 @@ translate thai day1_meetconan_d8adbb62:
 translate thai day1_meetconan_703d8f36:
 
     # n "Those low-life teens started causing chaos elsewhere, and the rumoured gangs became few and far between."
-    n "เด็กวัยรุ่นพวกนั้นเริ่มไปก่อเรื่องที่อื่น และแก๊งค์ที่เคยลืองกันก็หายไปเกลี้ยง"
+    n "เด็กวัยรุ่นพวกนั้นเริ่มไปก่อเรื่องที่อื่น และแก๊งที่เคยลือกันว่ามีอยู่ก็หายไปเกลี้ยง"
 
 # game/scripts/days/day 1.rpy:789
 translate thai day1_meetconan_b2f11392:
@@ -1394,13 +1394,13 @@ translate thai day1_meetconan_6f931f0b:
 translate thai day1_meetconan_f396efde:
 
     # n "I mean, he {b}literally{/b} installed a new air-conditioner and water dispenser last week because one of his employees fainted due to heatstroke…"
-    n "หมายความว่าเขา{b}จริงๆ{/b}ติดตั้งแอร์และเครื่องกรองน้ำใหม่เมื่อสัปดาห์ก่อน เพราะพนักงานคนหนึ่งเป็นลมพิษจากความร้อน…"
+    n "หมายความว่าเขา{b}จริงๆ{/b}ติดตั้งแอร์และเครื่องกรองน้ำใหม่เมื่อสัปดาห์ก่อน เพราะพนักงานคนหนึ่งเป็นลมเพราะฮีตสโตรก…"
 
 # game/scripts/days/day 1.rpy:792
 translate thai day1_meetconan_5f2c842f:
 
     # n "It wasn't anything {b}too major{/b}, but it was nice to know that our boss was considerate enough about the people he hired. I doubt I could say the same about my old job in the city."
-    n "มันไม่ใช่เรื่อง{b}ใหญ่โต{/b}อะไร แต่ก็ดีใจที่รู้ว่าเจ้านายของเราใส่ใจคนที่เขาจ้างขนาดนี้ ของเก่าที่ฉันทำอยู่ในเมืองคงไม่ได้แบบนี้แน่"
+    n "มันไม่ใช่เรื่อง{b}ใหญ่โต{/b}อะไร แต่ก็ดีใจที่รู้ว่าเจ้านายของเราใส่ใจคนที่เขาจ้างขนาดนี้ งานเก่าที่ฉันทำในเมืองคงไม่มีอะไรแบบนี้แน่"
 
 # game/scripts/days/day 1.rpy:793
 translate thai day1_meetconan_f30fc66d:
@@ -1484,7 +1484,7 @@ translate thai day1_meetconan_abaccce6:
 translate thai day1_meetconan_e923f9f1:
 
     # n "But once I arrive, I immediately notice that my chatty co-worker was {b}still{/b} nowhere to be found."
-    n "แต่พอไปถึง ฉันก็สังเกตเห็นทันทีว่าเพื่อนร่วมงานคนเก่งเรื่องคุยของฉันก็ยัง{b}หายไป{/b}"
+    n "แต่พอไปถึง ฉันก็สังเกตเห็นทันทีว่าเพื่อนร่วมงานช่างพูดของฉันก็ยัง{b}หายไป{/b}"
 
 # game/scripts/days/day 1.rpy:817
 translate thai day1_meetconan_efe430cb:
@@ -1526,7 +1526,7 @@ translate thai day1_meetconan_57f2a5a4:
 translate thai day1_meetconan_e36586ba:
 
     # n "Unfolding it read the following:"
-    n "กางออกแล้วอ่านได้ดังนี้:"
+    n "คลี่ออกมาแล้วพบข้อความว่า:"
 
 # game/scripts/days/day 1.rpy:827
 translate thai day1_meetconan_ce5c3681:
@@ -1538,13 +1538,13 @@ translate thai day1_meetconan_ce5c3681:
 translate thai day1_meetconan_95722e51:
 
     # n "{b}\"— that stuttering guy from aisle 8 <3\"{/b}"
-    n "{b}\"— คนพูดติดๆ จากทางเดิน 8 <3\"{/b}"
+    n "{b}\"— คนพูดติดอ่างจากแถว 8 <3\"{/b}"
 
 # game/scripts/days/day 1.rpy:829
 translate thai day1_meetconan_feae21cd:
 
     # n "The stuttering guy from aisle eight? I couldn't help but crack a smile at the name [ch_ren] chose for himself."
-    n "คนพูดติดๆ จากทางเดินแปด? ฉันอดยิ้มไม่ได้กับชื่อที่ [ch_ren] เลือกให้ตัวเอง"
+    n "คนพูดติดอ่างจากแถวแปด? ฉันอดยิ้มไม่ได้กับชื่อที่ [ch_ren] เลือกให้ตัวเอง"
 
 # game/scripts/days/day 1.rpy:831
 translate thai day1_meetconan_d70afce2:
@@ -1562,7 +1562,7 @@ translate thai day1_meetconan_7ea3cb00:
 translate thai day1_meetconan_7fbf5182:
 
     # n "Did [ch_ren] leave this note? And was that his number? I had to admit, he really was a persistent fellow."
-    n "[ch_ren] เป็นคนเขียนโน้ตนี้มารึเปล่า? แล้วนั่นเบอร์เขาเหรอ? ต้องยอมรับว่าเขาใจเดาดีจริงๆ"
+    n "[ch_ren] เป็นคนเขียนโน้ตนี้มารึเปล่า? แล้วนั่นเบอร์เขาเหรอ? ต้องยอมรับว่าเขาตื๊อเก่งจริงๆ"
 
 # game/scripts/days/day 1.rpy:837
 translate thai day1_meetconan_511d4e4c:
@@ -1580,7 +1580,7 @@ translate thai day1_meetjaeleon_c54893f6:
 translate thai day1_meetjaeleon_c4b191cc:
 
     # n "From afar, he looks like an oversized puppy waiting for his owner to return from work, and admittedly, I find it rather cute. Especially with how his figurative tail starts to wag upon my arrival."
-    n "มองจากไกล เขาดูเหมือนลูกหมาตัวใหญ่ที่รอเจ้านายกลับจากทำงาน และก็ต้องยอมรับว่ามันน่ารักดี โดยเฉพาะเวลาที่หางจินตนาการของเขาเริ่มกระดิ้งเมื่อฉันมาถึง"
+    n "มองจากไกล เขาดูเหมือนลูกหมาตัวใหญ่ที่รอเจ้านายกลับจากทำงาน และก็ต้องยอมรับว่ามันน่ารักดี โดยเฉพาะเวลาที่หางในจินตนาการของเขาเริ่มกระดิกเมื่อฉันมาถึง"
 
 # game/scripts/days/day 1.rpy:861
 translate thai day1_meetjaeleon_89503741:
@@ -1718,7 +1718,7 @@ translate thai day1_meetjaeleon_5d0df8ce:
 translate thai day1_meetjaeleon_833c03e3:
 
     # l "Hey, [ch_angel]. Finally finished with work?"
-    l "เฮ้ [ch_angel] ทำงานเสร็จที่สุดท้าย?"
+    l "เฮ้ [ch_angel] ทำงานเสร็จแล้วสินะ?"
 
 # game/scripts/days/day 1.rpy:919
 translate thai meet_jaeleon_a0214acd:
@@ -1742,7 +1742,7 @@ translate thai meet_jaeleon_b514f7fe:
 translate thai meet_jaeleon_eb740155:
 
     # n "Uh, maybe it wasn't a good idea to tell [ch_leon] — the human personification of overprotective — that I had just met the man today. What would he think if he found out I was bringing home a complete stranger?"
-    n "อ่า บังเอิญไม่ค่อยดีแฮะที่บอก [ch_leon] — ตัวแทนแห่งความห่วงมากเกินไป — ว่าฉันเพิ่งเจอผู้ชายคนนี้วันนี้ เขาจะคิดยังไงถ้ารู้ว่าฉันกำลังพาคนแปลกหน้ากลับบ้าน?"
+    n "เอ่อ ดูท่าจะไม่ค่อยดีแฮะที่บอก [ch_leon] — ตัวแทนแห่งความห่วงมากเกินไป — ว่าฉันเพิ่งเจอผู้ชายคนนี้วันนี้ เขาจะคิดยังไงถ้ารู้ว่าฉันกำลังพาคนแปลกหน้ากลับบ้าน?"
 
 # game/scripts/days/day 1.rpy:926
 translate thai meet_jaeleon_229ca922:
@@ -1772,7 +1772,7 @@ translate thai meet_jaeleon_4b7e5887:
 translate thai meet_jaeleon_57e0d09d:
 
     # n "[ch_leon] dramatically clutches the spot above his heart as he leans further into [ch_jae]'s shoulder."
-    n "[ch_leon] โอบจุดเหนือหัวใจอย่างดราม่าขณะที่ซบเข้าไปที่ไหล่ [ch_jae] มากขึ้น"
+    n "[ch_leon] กุมอกเหนือหัวใจอย่างดราม่าขณะที่ซบเข้าไปที่ไหล่ [ch_jae] มากขึ้น"
 
 # game/scripts/days/day 1.rpy:933
 translate thai meet_jaeleon_f776e631:
@@ -1784,7 +1784,7 @@ translate thai meet_jaeleon_f776e631:
 translate thai meet_jaeleon_79f0dea0:
 
     # r "Um… Y-Yeah… I recently moved here a couple of months ago…"
-    r "อืม… อ-อืม… ฉันย้ายมานี้เมื่อไม่กี่เดือนก่อน…"
+    r "อืม… อ-อืม… ฉันย้ายมาที่นี่เมื่อไม่กี่เดือนก่อน…"
 
 # game/scripts/days/day 1.rpy:937
 translate thai meet_jaeleon_2c90aec7:
@@ -1856,7 +1856,7 @@ translate thai meet_jaeleon_e7e9b5cb:
 translate thai meet_jaeleon_1d6e2bc4:
 
     # l "And do these plans have anything to do with this lanky fellow?"
-    l "แล้วนัดนี้เกี่ยวกับหนุ่มตัวยาวคนนี้มั้ย?"
+    l "แล้วนัดนี้เกี่ยวกับหนุ่มผอมสูงคนนี้มั้ย?"
 
 # game/scripts/days/day 1.rpy:962
 translate thai meet_jaeleon_3bcb21d2:
@@ -1910,7 +1910,7 @@ translate thai meet_jaeleon_eb0a9ffd:
 translate thai meet_jaeleon_14917147:
 
     # l "Well then! If you'll excuse us, I gotta find a way to get this knucklehead to cover his own entry fees. We can all catch up another time, okay?"
-    l "งั้นเอาเป็นว่า! ขอตัวก่อนนะ ผมต้องหาทางให้โง่หัวแข็งคนนี้จ่ายค่าเข้าเอง พวกเราไปเที่ยวกันใหม่คราวหน้านะ"
+    l "งั้นเอาเป็นว่า! ขอตัวก่อนนะ ผมต้องหาทางให้ไอ้ทึ่มคนนี้จ่ายค่าเข้าเอง พวกเราไปเที่ยวกันใหม่คราวหน้านะ"
 
 # game/scripts/days/day 1.rpy:980
 translate thai meet_jaeleon_5b690711:
@@ -1964,7 +1964,7 @@ translate thai meet_jaeleon_81be3688:
 translate thai meet_jaeleon_33da16fe:
 
     # n "It was nice to see them again, especially since I had been so occupied with moving back home and settling in."
-    n "ก็ดีใจที่ได้เจอพวกเขาอีก โดยเฉพาะเพราะฉันยุ่งกับการย้ายกลับบ้านและจัดสรรที่อยู่มาตลอด"
+    n "ก็ดีใจที่ได้เจอพวกเขาอีก โดยเฉพาะเพราะฉันยุ่งกับการย้ายกลับบ้านและจัดบ้านมาตลอด"
 
 # game/scripts/days/day 1.rpy:1009
 translate thai meet_jaeleon_1ad73d68:

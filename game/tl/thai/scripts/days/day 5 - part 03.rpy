@@ -1,7 +1,7 @@
 translate thai day5_renmorning_2b36c02e:
 
     # m "…{i}YET?!{/i} You've talked about this?" with hpunch
-    m "…{i}จริงๆ?!.{/i} พวกแกคุยเรื่องนี้กันแล้วเหรอ?!" with hpunch
+    m "…{i}จริงเหรอ?!{/i} พวกแกคุยเรื่องนี้กันแล้วเหรอ?!" with hpunch
 
 # game/scripts/days/day 5.rpy:450
 

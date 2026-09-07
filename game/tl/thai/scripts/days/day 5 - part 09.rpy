@@ -1,7 +1,7 @@
 translate thai day5_angelcooking_e372c97e:
 
     # n "There's a flash of… {b}something{/b} in [ch_ren]'s blue eyes as he steps closer and fills the space between us."
-    n "ดวงตาสีฟ้าของ[ch_ren]วาบขึ้นเป็นเสี้ยววินาที... มี{b}อะไรบางอย่าง{/b}ลอยผ่าน ตอนที่เขาก้าวเข้ามาใกล้และเติมเต็มช่องว่างระหว่างเรา"
+    n "ดวงตาสีฟ้าของ [ch_ren]วาบขึ้นเป็นเสี้ยววินาที... มี{b}อะไรบางอย่าง{/b}ลอยผ่าน ตอนที่เขาก้าวเข้ามาใกล้และเติมเต็มช่องว่างระหว่างเรา"
 
 # game/scripts/days/day 5.rpy:1882
 
@@ -302,7 +302,7 @@ translate thai day5_angelcooking_ab30d60b:
 translate thai day5_visitviolet_3aefa4d6:
 
     # n "As soon as the cursive 'welcome!' mat comes into view, I clear my throat and gently knock on [ch_violet]'s door — making sure to avoid the hanging ivy near the peephole."
-    n "ทันทีที่พบเห็นพรมอักษรสวยงาม 'ยินดีต้อนรับ!' ฉันกระแอมเบาๆ แล้วเคาะประตูของ[ch_violet]เบาๆ — ระวังไม่ให้โดนเถาวัลย์ที่ห้อยอยู่ใกล้รูกสองตา"
+    n "ทันทีที่พบเห็นพรมอักษรสวยงาม 'ยินดีต้อนรับ!' ฉันกระแอมเบาๆ แล้วเคาะประตูของ[ch_violet]เบาๆ — ระวังไม่ให้โดนเถาวัลย์ที่ห้อยอยู่ใกล้ตาแมว"
 
 # game/scripts/days/day 5.rpy:1994
 
@@ -491,7 +491,7 @@ translate thai day5_visitviolet_44f4fffa:
 translate thai day5_visitviolet_b4a78196:
 
     # n "[ch_kiara]'s concerned voice can be heard somewhere deeper in [ch_violet]'s apartment as she shoots me an incredulous look, though it only gets softened by the red blooming on her cheeks."
-    n "เสียงที่เป็นห่วงของ[ch_kiara]ดังมาจากด้านในของห้อง[ch_violet] พร้อมกับสายตาที่มองฉันอย่างไม่เชื่อ แม้ว่ามันจะถูกทำให้อ่อนโยนลงด้วยสีแดงที่บานขึ้นบนแก้มของเธอก็ตาม"
+    n "เสียงที่เป็นห่วงของ [ch_kiara]ดังมาจากด้านในของห้อง[ch_violet] พร้อมกับสายตาที่มองฉันอย่างไม่เชื่อ แม้ว่ามันจะถูกทำให้อ่อนโยนลงด้วยสีแดงที่บานขึ้นบนแก้มของเธอก็ตาม"
 
 # game/scripts/days/day 5.rpy:2047
 

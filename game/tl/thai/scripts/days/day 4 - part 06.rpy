@@ -1,7 +1,7 @@
 translate thai day4_teocloset_307c6b09:
 
     # t "I mean, when have I ever said we were exclusive?"
-    t "ก็คือ กูเคยบอกป่ะว่าเราเอกสิทธิ์กัน?"
+    t "ก็คือ กูเคยบอกป่ะว่าเราคบกันแบบจริงจัง?"
 
 # game/scripts/days/day 4.rpy:1081
 
@@ -120,7 +120,7 @@ translate thai day4_teocloset_7c31601b:
 translate thai day4_teocloset_d796fd6b:
 
     # n "While I had to jump through hoops and hurdles to understand it, [ch_teo] {b}did{/b} have a point. But everything about his idea still felt wrong."
-    n "ถึงฉันจะต้องคิดวนไปวนมาหลายรอบกว่าจะเข้าใจ แต่ [ch_teo] ก็{b}มีสาระ{/b}อยู่บ้าง ทว่าทุกอย่างเกี่ยวกับแผนของเขามันยังรู้สึกผิดอยู่ดี"
+    n "ถึงฉันจะต้องคิดวนไปวนมาหลายรอบกว่าจะเข้าใจ แต่ [ch_teo] ก็{b}มีเหตุผล{/b}อยู่บ้าง ทว่าทุกอย่างเกี่ยวกับแผนของเขามันยังรู้สึกผิดอยู่ดี"
 
 # game/scripts/days/day 4.rpy:1113
 
@@ -148,7 +148,7 @@ translate thai day4_teocloset_f040927d:
 translate thai day4_teocloset_8549cfe2:
 
     # t "[shit!c], you really {i}are{/i} into me, aren't ya? Can't say I'm flattered, Doll."
-    t "[shit!c] มึงแอบ{i}ชอบ{/i}กูจริงๆ ใช่มั้ย? ไม่อาจจะบอกหรอกนะว่ากูดีใจ Doll"
+    t "[shit!c] มึงแอบ{i}ชอบ{/i}กูจริงๆ ใช่มั้ย? จะบอกว่ากูดีใจก็คงไม่ได้หรอกนะ Doll"
 
 # game/scripts/days/day 4.rpy:1119
 
@@ -176,7 +176,7 @@ translate thai day4_teocloset_bb90cd23:
 translate thai day4_teocloset_db8bb69a:
 
     # t "But if you wanna cling to my arm too, by all means [gorgeous], go ahead."
-    t "แต่ถ้ามึงอยากจะมาเกาะแขนกูด้วย ตามสบายเลย [gorgeous] ทำไปเลย"
+    t "แต่ถ้ามึงอยากจะมาเกาะแขนกูด้วย ก็ตามสบายเลย [gorgeous]"
 
 # game/scripts/days/day 4.rpy:1128
 

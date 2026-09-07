@@ -22,7 +22,7 @@ translate thai day4_storeroomscene_d27b2bb5:
 translate thai day4_storeroomscene_9413a507:
 
     # y "Pffft— Wasabi hair?!"
-    y "พวะ— ผมวาซาบิ?!"
+    y "พรวด— ผมวาซาบิ?!"
 
 # game/scripts/days/day 4.rpy:1527
 
@@ -78,7 +78,7 @@ translate thai day4_storeroomscene_7d0f2403:
 translate thai day4_storeroomscene_aac868fa:
 
     # r "Or… N-Not do it {i}at all{/i}, if you prefer—"
-    r "หรือ... ก็-ไม่ทำเลย {i}เลย{/i} ถ้าคุณไม่ชอบ—"
+    r "หรือ... ก็-ไม่ทำ {i}เลย{/i} ถ้าคุณไม่ชอบ—"
 
 # game/scripts/days/day 4.rpy:1540
 
@@ -127,7 +127,7 @@ translate thai day4_storeroomscene_d9186a4e:
 translate thai day4_storeroomscene_394e138e:
 
     # n "I can feel [ch_ren]'s breath ghost against the shell of my ear as he lets out a puff of laughter."
-    n "ฉันรู้สึกได้ถึงลมหายใจของ [ch_ren] ประกบที่ขอบหูตอนที่เขาหัวเราะเบาๆ ออกมา"
+    n "ฉันรู้สึกได้ถึงลมหายใจของ [ch_ren] เฉียดข้างหูตอนที่เขาหัวเราะเบาๆ ออกมา"
 
 # game/scripts/days/day 4.rpy:1550
 

@@ -1,7 +1,7 @@
 translate thai deadend4_ba61fd9a:
 
     # rfade "{renvoid=1}...are you alright? don't overwork yourself, [player].{/renvoid}" with DistortDissolve
-    rfade "{renvoid=1}...คุณไม่เป็นอะไรใช่ไหม? อย่าทำตัวเองเหนื่อยเกินไปนะ, [player]{/renvoid}" with DistortDissolve
+    rfade "{renvoid=1}...คุณไม่เป็นอะไรใช่ไหม? อย่าหักโหมเกินไปนะ [player]{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:260
 
@@ -22,7 +22,7 @@ translate thai deadend4_214d113e:
 translate thai deadend4_4fc9539c:
 
     # rfade "{renvoid=1}the choices you're making and the path\nyou're going down... it's not what i...{/renvoid}" with DistortDissolve
-    rfade "{renvoid=1}ทางเลือกที่คุณกำลังทำและเส้นทาง\nที่คุณกำลังเดินอยู่... มันไม่ใช่สิ่งที่ฉัน...{/renvoid}" with DistortDissolve
+    rfade "{renvoid=1}ทางเลือกที่คุณกำลังเลือกกับเส้นทาง\nที่คุณกำลังเดินอยู่... มันไม่ใช่สิ่งที่ฉัน...{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:263
 
@@ -71,7 +71,7 @@ translate thai deadend4_31f0b572:
 translate thai deadend4_341173ba:
 
     # rfade "{renvoid=4}it will sense your fear and feed off of it.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=4}มันจะรับรู้ความกลัวของคุณและกินมันเป็นอาหาร{/renvoid}" with DistortDissolve
+    rfade "{renvoid=4}มันจะสัมผัสได้ถึงความกลัวของคุณ แล้วดูดกลืนมัน{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:271
 
@@ -106,7 +106,7 @@ translate thai deadend4_235c6de0:
 translate thai deadend4_81ef3f02:
 
     # rfade "{renvoid=4}it deserves to rot in here with me.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=4}มันสมควรให้เน่าเปื่อยอยู่ที่นี่กับฉัน{/renvoid}" with DistortDissolve
+    rfade "{renvoid=4}มันสมควรเน่าเปื่อยอยู่ที่นี่กับฉัน{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:308
 
@@ -162,7 +162,7 @@ translate thai deadend4_daa818f7:
 translate thai deadend4_6a1b7900:
 
     # rfade "{renvoid=1}everything takes a toll on you.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=1}ทุกอย่างมันกัดกร่อนคุณไปเรื่อยๆ{/renvoid}" with DistortDissolve
+    rfade "{renvoid=1}ทุกอย่างที่นี่กำลังบั่นทอนคุณไปเรื่อยๆ{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:322
 
@@ -197,7 +197,7 @@ translate thai deadend4_131ff671:
 translate thai deadend4_9d6960dc:
 
     # rfade "{renvoid=4}{/size}{size=+20}it doesn't deserve you... but i do.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=4}{/size}{size=+20}มันไม่สมควรได้คุณ... แต่ฉันสมควร{/renvoid}" with DistortDissolve
+    rfade "{renvoid=4}{/size}{size=+20}มันไม่คู่ควรกับคุณ... แต่ฉันคู่ควร{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:329
 
@@ -281,7 +281,7 @@ translate thai deadend4_55b8b0f0:
 translate thai deadend4_80bdae3a:
 
     # rfade "{renvoid=1}look, all i want is for you to stop trying to go down this path.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=1}ฟังนะ สิ่งที่ฉันอยากมีเพียงอย่างเดียวคือให้คุณหยุดพยายามเดินตามเส้นทางนี้{/renvoid}" with DistortDissolve
+    rfade "{renvoid=1}ฟังนะ สิ่งเดียวที่ฉันต้องการคือให้คุณหยุดพยายามเดินตามเส้นทางนี้{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:347
 
@@ -323,7 +323,7 @@ translate thai deadend4_bec98d3b:
 translate thai deadend4_7a51bcf9:
 
     # rfade "{renvoid=1}there's nothing that will keep me from you.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=1}ไม่มีอะไรจะมาขวางฉันจากคุณได้{/renvoid}" with DistortDissolve
+    rfade "{renvoid=1}ไม่มีอะไรจะขวางฉันไม่ให้ไปหาคุณได้{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:353
 
@@ -421,6 +421,6 @@ translate thai deadend4_922ef59b_2:
 translate thai deadend4_00c05e24:
 
     # rfade "{renvoid=1}promise me, [player]. promise that we won't meet here anymore.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=1}สัญญากับฉัน, [player] สัญญาว่าพวกเราจะไม่มาเจอกันที่นี่อีก{/renvoid}" with DistortDissolve
+    rfade "{renvoid=1}สัญญากับฉันนะ [player] สัญญาว่าพวกเราจะไม่มาเจอกันที่นี่อีก{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:394

@@ -29,7 +29,7 @@ translate thai day4_renreturns_8cd1a6fe:
 translate thai day4_renreturns_7fdf5a2d:
 
     # n "Man, was takeout {b}always{/b} this good? It only takes three more modest bites before I practically scarf down my meal. The flavour was immaculate, and I made a mental note to ask [ch_ren] what exactly he ordered the moment he returns."
-    n "อ้อ ข้าวกล่องมัน{b}ตลอด{/b}อร่อยขนาดนี้เลยเหรอ? กินไปแค่สามคำฉันก็แทบจะกินทั้งจานเข้าไปหมดแล้ว รสชาติดีงามมาก ฉันเลยจดไว้ในใจว่าต้องถาม [ch_ren] ให้แน่ว่าสั่งอะไรมาตอนที่เขากลับมา"
+    n "อ้อ ข้าวกล่องมัน{b}อร่อย{/b}ขนาดนี้เลยเหรอ? กินไปแค่สามคำฉันก็แทบจะกินทั้งจานเข้าไปหมดแล้ว รสชาติดีงามมาก ฉันเลยจดไว้ในใจว่าต้องถาม [ch_ren] ให้แน่ว่าสั่งอะไรมาตอนที่เขากลับมา"
 
 # game/scripts/days/day 4.rpy:2501
 
@@ -113,7 +113,7 @@ translate thai day4_gohome_bc50abb2:
 translate thai day4_gohome_94523f7d:
 
     # n "Panic flashes through me at the thought of it being another \"gift\" from my supposed stalker, but then I remembered the purchase I made this morning and the notification I received on my phone."
-    n "ความตื่นตระหนกวาบเข้ามาเมื่อนึกว่ามันเป็น \"ของขวัญ\" ชิ้นใหม่จากสตอล์กเกอร์ที่อ้างว่ามีตัวตน แต่ก็นึกได้ถึงสิ่งที่สั่งซื้อเมื่อเช้านี้และการแจ้งเตือนที่ได้รับมาบนมือถือ"
+    n "ความตื่นตระหนกวาบเข้ามาเมื่อนึกว่ามันเป็น \"ของขวัญ\" ชิ้นใหม่จากสตอล์กเกอร์ที่ฉันสงสัยว่าเป็นคนส่ง แต่ก็นึกได้ถึงสิ่งที่สั่งซื้อเมื่อเช้านี้และการแจ้งเตือนที่ได้รับมาบนมือถือ"
 
 # game/scripts/days/day 4.rpy:2550
 

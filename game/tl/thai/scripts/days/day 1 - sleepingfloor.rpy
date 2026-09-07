@@ -40,7 +40,7 @@ translate thai sleepingfloor_57813745:
 translate thai sleepingfloor_5546812e:
 
     # n "I somehow felt {b}safe{/b} in his presence, and even though we had just met, I felt like I could trust [ch_ren] enough to leave him unattended in my lounge room."
-    n "ฉันรู้สึก{b}ปลอดภัย{/b}อย่างบอกไม่ถูกเวลาอยู่ใกล้เขา และแม้เราจะเพิ่งเจอกัน ฉันก็รู้สึกว่าไว้ใจ [ch_ren] ได้พอที่จะปล่อยให้เขาอยู่ในห้องนั่งเล่นคนเดียว"
+    n "ฉันรู้สึก{b}ปลอดภัย{/b}อย่างบอกไม่ถูกเวลาอยู่กับเขา และแม้เราจะเพิ่งเจอกัน ฉันก็รู้สึกว่าไว้ใจ [ch_ren] ได้พอที่จะปล่อยให้เขาอยู่ในห้องนั่งเล่นคนเดียว"
 
 # game/scripts/days/day 1.rpy:1386
 translate thai sleepingfloor_4c0e61f7:

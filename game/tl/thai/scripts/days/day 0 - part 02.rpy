@@ -1,7 +1,7 @@
 translate thai day0_foxren_faa9145b:
 
     # n "But even though I can feel myself slipping further and further from his reach, I can hear the faintest echo of his voice from somewhere around me."
-    n "แต่แม้ฉันจะรู้สึกเหมือนตัวเองกำลังหลุดจากเอื้อมมือของเขาไปเรื่อยๆ ฉันก็ยังได้ยินเสียงของเขาก้องมาเบาๆ จากที่ไหนสักแห่งรอบตัวฉัน"
+    n "แต่แม้ฉันจะรู้สึกเหมือนตัวเองกำลังหลุดพ้นจากการเอื้อมถึงของเขาไปเรื่อยๆ ฉันก็ยังได้ยินเสียงของเขาก้องมาเบาๆ จากที่ไหนสักแห่งรอบตัวฉัน"
 
 # game/scripts/days/day 0.rpy:592
 
@@ -50,14 +50,14 @@ translate thai day0_foxren_666d493e:
 translate thai day0_foxren_2eec216f:
 
     # centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}I can't wait to see the new you, my beloved.{/color}{/size}{/font}{/sc}{fast}" with dissolve
-    centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}ฉันแทบรอไม่ไหวที่จะได้รู้จักตัวใหม่ของคุณแล้วนะ ที่รัก{/color}{/size}{/font}{/sc}{fast}" with dissolve
+    centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}ฉันแทบรอไม่ไหวที่จะได้รู้จักตัวคุณคนใหม่แล้วนะ ที่รัก{/color}{/size}{/font}{/sc}{fast}" with dissolve
 
 # game/scripts/days/day 0.rpy:599
 
 translate thai day0_foxren_92bd0243:
 
     # centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}I can't wait to fall in love with you all over again.{/color}{/size}{/font}{/sc}{fast}" with dissolve
-    centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}ฉันรอที่จะได้รักคุณใหม่อีกครั้งไม่ไหวแล้ว{/color}{/size}{/font}{/sc}{fast}" with dissolve
+    centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}ฉันแทบรอไม่ไหวที่จะตกหลุมรักคุณอีกครั้ง{/color}{/size}{/font}{/sc}{fast}" with dissolve
 
 # game/scripts/days/day 0.rpy:600
 

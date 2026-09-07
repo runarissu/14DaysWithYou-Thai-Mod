@@ -28,7 +28,7 @@ init 1 python:
             baby      = "ตัวเล็ก"
             partner   = "คู่รัก"
             spouse    = "คู่สมรส"
-            gorgeous  = "ดีตา"
+            gorgeous  = "ดูดี"
 
             # Thai has no subject-verb agreement — empty string
             are       = ""

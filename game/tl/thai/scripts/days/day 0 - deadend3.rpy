@@ -57,7 +57,7 @@ translate thai deadend3_911d6893:
 translate thai deadend3_dfb8e8d2:
 
     # rfade "{renvoid=4}you're so fun to watch, [player].{/renvoid}" with DistortDissolve
-    rfade "{renvoid=4}ดูคุณเพลินจังเลย, [player]{/renvoid}" with DistortDissolve
+    rfade "{renvoid=4}ดูคุณเพลินจังเลย [player]{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:161
 
@@ -134,14 +134,14 @@ translate thai deadend3_b30188f4:
 translate thai deadend3_39749391:
 
     # rfade "{renvoid=3}i can never seem to get you off my mind.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=3}ฉันเอาคุณออกจากใจไม่ออกเลย{/renvoid}" with DistortDissolve
+    rfade "{renvoid=3}ฉันเอาเรื่องคุณออกจากหัวไม่ได้เลย{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:175
 
 translate thai deadend3_9649ae29:
 
     # rfade "{renvoid=3}it's always so much fun watching you...{/renvoid}" with DistortDissolve
-    rfade "{renvoid=3}ดูคุณเป็นสิ่งที่สนุกมากเสมอ...{/renvoid}" with DistortDissolve
+    rfade "{renvoid=3}ฉันสนุกทุกครั้งที่ได้เฝ้าดูคุณ...{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:176
 
@@ -260,7 +260,7 @@ translate thai deadend3_aad4b6ce:
 translate thai deadend3_513148aa:
 
     # rfade "{renvoid=3}{/size}{size=+40}...overwhelming.{/renvoid}" with DistortDissolve
-    rfade "{renvoid=3}{/size}{size=+40}...ล้นท้นจนเอาไม่อยู่{/renvoid}" with DistortDissolve
+    rfade "{renvoid=3}{/size}{size=+40}...ถาโถมจนแทบรับไม่ไหว{/renvoid}" with DistortDissolve
 
 # game/scripts/days/day 0.rpy:211
 

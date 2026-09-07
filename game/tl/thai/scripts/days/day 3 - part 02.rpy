@@ -256,7 +256,7 @@ translate thai day3_elanorscene_84c8088b:
 translate thai day3_elanorscene_5003f93e:
 
     # n "But I'm hardly given any time to take in my surroundings before [ch_elanor] reaches for my arm and all but {b}drags{/b} me behind the reception counter and towards a mountain of paperwork."
-    n "แต่ฉันแทบไม่ได้มีเวลามองรอบตัวเลย ก่อนที่ [ch_elanor] จะคว้าแขนฉันและ{b}ลาก{/b}ฉันไปหลังเคาน์เตอร์ต้อนรับเกือบทุกวง ไปยังภูเขาเอกสารที่รออยู่"
+    n "แต่ฉันแทบไม่มีเวลามองรอบตัวเลย ก่อนที่ [ch_elanor] จะคว้าแขนฉันและ{b}ลาก{/b}ฉันไปหลังเคาน์เตอร์ต้อนรับ ไปยังภูเขาเอกสารที่รออยู่"
 
 # game/scripts/days/day 3.rpy:359
 translate thai day3_elanorscene_b8b2d28b:
@@ -418,7 +418,7 @@ translate thai day3_elanorscene_879fbab3:
 translate thai day3_elanorscene_101d5242:
 
     # n "I watch as she inclines her head to the side to think — and all too quickly — she snaps her fingers and gives me an affirmative nod."
-    n "ฉันมองเธอเอียดคอคิด — แล้วอย่างรวดเร็ว — เธอกรอกนิ้วและพยักหน้ายืนยัน"
+    n "ฉันมองเธอเอียงคอคิด — แล้วอย่างรวดเร็ว — เธอดีดนิ้วและพยักหน้ายืนยัน"
 
 # game/scripts/days/day 3.rpy:403
 translate thai day3_elanorscene_ebc223ca:
@@ -490,7 +490,7 @@ translate thai day3_elanorscene_99520a90:
 translate thai day3_elanorscene_2efb53f2:
 
     # e "I've worked in this library for more than five years now, and not once have I heard so much as a creak from those shelves."
-    e "ฉันทำงานที่ห้องสมุดนี้มากว่าห้าปีแล้ว และไม่เคยได้ยินแม้แต่เสียงเอียดจากชั้นวางของพวกนั้นเลยสักครั้ง"
+    e "ฉันทำงานที่ห้องสมุดนี้มากว่าห้าปีแล้ว และไม่เคยได้ยินแม้แต่เสียงเอี๊ยดจากชั้นวางของพวกนั้นเลยสักครั้ง"
 
 # game/scripts/days/day 3.rpy:422
 translate thai day3_elanorscene_18b6e2e8:

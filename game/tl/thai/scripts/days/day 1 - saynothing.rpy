@@ -46,7 +46,7 @@ translate thai saynothing_616b8e57:
 translate thai saynothing_fc33e323:
 
     # n "Before I could think, I find myself leaning over and drawing my face closer to his. [ch_ren] seems to be on the same wavelength as me, as I feel his warm breath fan against my cheeks as his own face draws near to close the distance."
-    n "ก่อนที่ฉันจะทันคิด ฉันก็เอนตัวเข้าไปและค่อยๆ ใกล้ใบหน้าเข้าไปหาเขา [ch_ren] ดูเหมือนจะรู้สึกเหมือนกัน เพราะฉันรู้สึกได้ถึงลมหายใจอุ่นๆ โชยมาที่แก้มขณะที่ใบหน้าเขาเข้ามาปิดระยะห่าง"
+    n "ก่อนที่ฉันจะทันคิด ฉันก็เอนตัวเข้าไปและค่อยๆ ขยับใบหน้าเข้าไปหาเขา [ch_ren] ดูเหมือนจะรู้สึกเหมือนกัน เพราะฉันรู้สึกได้ถึงลมหายใจอุ่นๆ โชยมาที่แก้มขณะที่ใบหน้าเขาเข้ามาปิดระยะห่าง"
 
 # game/scripts/days/day 1.rpy:1491
 translate thai saynothing_88f840de:
@@ -58,7 +58,7 @@ translate thai saynothing_88f840de:
 translate thai saynothing_01a706d1:
 
     # n "Almost immediately, I was met with a pair of soft lips and the taste of cherry on my mouth. My eyelids flutter shut at the sensation, and I let [ch_ren]'s overwhelming presence engulf my entire being."
-    n "แทบจะทันที ฉันก็สัมผัสได้ถึงริมฝีปากนุ่มนวลและรสเชอร์รี่ที่ปากฉัน เปลือกตาฉันปิดลงตามความรู้สึก แล้วฉันก็ปล่อยให้ตัวตนของ [ch_ren] ที่ท่วมท้นห่อหุ้มตัวฉันทั้งหมด"
+    n "แทบจะทันที ฉันก็สัมผัสได้ถึงริมฝีปากนุ่มนวลและรสเชอร์รี่ที่ปากฉัน เปลือกตาฉันปิดลงตามความรู้สึก แล้วฉันก็ปล่อยให้การปรากฏตัวของ [ch_ren] ที่ท่วมท้นห่อหุ้มตัวฉันไว้"
 
 # game/scripts/days/day 1.rpy:1496
 translate thai saynothing_de742054:
@@ -100,7 +100,7 @@ translate thai saynothing_e82ede5f:
 translate thai saynothing_cfeb7fad:
 
     # n "So [ch_ren] wanted this just as much as I did? I could feel just how eager he was as he kissed me with more desperation and fervour than anything I'd ever experienced in my life."
-    n "งั้น [ch_ren] ก็อยากสิ่งนี้เหมือนฉันสินะ? ฉันรู้สึกได้ถึงความกระหายของเขา ขณะที่เขาจูบฉันด้วยความอยากและเดือดร้อนเกินกว่าอะไรที่เคยสัมผัสมาทั้งชีวิต"
+    n "งั้น [ch_ren] ก็อยากสิ่งนี้เหมือนฉันสินะ? ฉันรู้สึกได้ถึงความกระหายของเขา ขณะที่เขาจูบฉันด้วยความปรารถนาและความเร่าร้อนมากกว่าสิ่งใดที่ฉันเคยสัมผัสมาตลอดชีวิต"
 
 # game/scripts/days/day 1.rpy:1503
 translate thai saynothing_6d8230b6:
@@ -118,7 +118,7 @@ translate thai saynothing_85648a1f:
 translate thai saynothing_73951657:
 
     # n "A beat passes as we just… stare at each other; taking in the moment and to process what had just occurred."
-    n "เวลาผ่านไปครู่หนึ่งขณะที่เราแค่… จ้องมองกัน ซึมซับช่วงเวลาและย่อยสิ่งที่เพิ่งเกิดขึ้น"
+    n "เวลาผ่านไปครู่หนึ่งขณะที่เราแค่… จ้องมองกัน ซึมซับช่วงเวลาและประมวลผลสิ่งที่เพิ่งเกิดขึ้น"
 
 # game/scripts/days/day 1.rpy:1510
 translate thai saynothing_ac85f9bf:
@@ -244,7 +244,7 @@ translate thai saynothing_a23ce4a3:
 translate thai saynothing_cd99cab1:
 
     # n "Taken aback by his sudden boldness, I had to allow myself a moment to collect my thoughts."
-    n "ถูกความกล้าของเขาทำเอาตกใจ ฉันต้องให้เวลาตัวเองสักครู่เพื่อเก็บความคิด"
+    n "ถูกความกล้าของเขาทำเอาตกใจ ฉันต้องให้เวลาตัวเองสักครู่เพื่อเรียบเรียงความคิด"
 
 # game/scripts/days/day 1.rpy:1553
 translate thai saynothing_a5f372cc:
@@ -280,7 +280,7 @@ translate thai saynothing_40d8dea3:
 translate thai saynothing_cd99cab1_1:
 
     # n "Taken aback by his sudden boldness, I had to allow myself a moment to collect my thoughts."
-    n "ถูกความกล้าของเขาทำเอาตกใจ ฉันต้องให้เวลาตัวเองสักครู่เพื่อเก็บความคิด"
+    n "ถูกความกล้าของเขาทำเอาตกใจ ฉันต้องให้เวลาตัวเองสักครู่เพื่อเรียบเรียงความคิด"
 
 # game/scripts/days/day 1.rpy:1568
 translate thai saynothing_1faf36b3:

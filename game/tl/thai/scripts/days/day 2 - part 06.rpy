@@ -29,7 +29,7 @@ translate thai day2_meetolivia_952e3c2d:
 translate thai day2_meetolivia_59e9fe4a:
 
     # n "But instead, he leans in close to her face and whispers in a hushed tone that I could barely hear from my spot outside the store."
-    n "แต่เขากลับก้มเข้าไปใกล้หน้าเธอแล้วกระซิบเบาๆ จนฉันแทบได้ยินไม่ขึ้นจากจุดที่ยืนอยู่หน้าร้าน"
+    n "แต่เขากลับก้มเข้าไปใกล้หน้าเธอแล้วกระซิบเบาๆ จนฉันแทบไม่ได้ยินจากจุดที่ยืนอยู่หน้าร้าน"
 
 # game/scripts/days/day 2.rpy:1120
 
@@ -155,7 +155,7 @@ translate thai day2_meetolivia_f5859e8f:
 translate thai day2_meetolivia_523d2018:
 
     # n "Before I can stop myself, my feet start to move on autopilot as I march towards the two of them and reach for [ch_ren]'s sleeve."
-    n "ก่อนที่ฉันจะทันห้ามตัวเอง เท้าก็เริ่มเดินไปเองราวกับออโต้ไพลอต ฉันเดินตรงไปหาพวกเขาทั้งคู่แล้วเอื้อมมือไปจับแขนเสื้อของ [ch_ren]"
+    n "ก่อนที่ฉันจะทันห้ามตัวเอง เท้าก็เริ่มเดินไปเองราวกับเปิดโหมดอัตโนมัติ ฉันเดินตรงไปหาพวกเขาทั้งคู่แล้วเอื้อมมือไปจับแขนเสื้อของ [ch_ren]"
 
 # game/scripts/days/day 2.rpy:1154
 
@@ -169,7 +169,7 @@ translate thai day2_meetolivia_4b2b27d4:
 translate thai day2_meetolivia_bee624fb:
 
     # n "[ch_ren]'s entire demeanour seems to change in that moment, and he turns to me with a relieved smile on his soft features."
-    n "ท่าทางของ [ch_ren] เปลี่ยนไปทันทีในวินาทีนั้น เขาหันมาหาฉันพร้อมรอยยิ้มที่โล่งอาจบนใบหน้าอ่อนโยนของเขา"
+    n "ท่าทางของ [ch_ren] เปลี่ยนไปทันทีในวินาทีนั้น เขาหันมาหาฉันพร้อมรอยยิ้มโล่งอกบนใบหน้าอ่อนโยนของเขา"
 
 # game/scripts/days/day 2.rpy:1156
 
@@ -694,6 +694,6 @@ translate thai day2_rainscene_9890565a:
 translate thai day2_rainscene_c4fc6cc4:
 
     # n "Her store {b}did{/b} happen to be on the same street… But after spending the afternoon with [ch_ren] and getting to know him, I concluded that he wasn't the type of person to do such a thing."
-    n "ร้านของเธอ{b}บังเอิญ{/b}อยู่บนถนนเส้นเดียวกันจริง… แต่หลังจากได้ใช้บ่ายวันนี้กับ [ch_ren] แล้วรู้จักเขามากขึ้น ฉันก็สรุปว่าเขาไม่ใช่คนแบบที่จะทำแบบนั้น"
+    n "ร้านของเธอ{b}บังเอิญ{/b}อยู่บนถนนเส้นเดียวกันจริง… แต่หลังจากได้ใช้เวลาช่วงบ่ายวันนี้กับ [ch_ren] และรู้จักเขามากขึ้น ฉันก็สรุปว่าเขาไม่ใช่คนที่จะทำแบบนั้น"
 
 # game/scripts/days/day 2.rpy:1298

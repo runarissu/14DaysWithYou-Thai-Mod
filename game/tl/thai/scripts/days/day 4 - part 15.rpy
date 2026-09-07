@@ -120,7 +120,7 @@ translate thai day4_declineoffer_383280dc:
 translate thai day4_declineoffer_791c5940:
 
     # n "Deciding that this was a problem for future me, I lock myself in my bedroom and hide within the safety of my duvet."
-    n "ตัดสินใจว่านี่เป็นปัญหาของตัวตนในอนาคต ฉันล็อกตัวเองอยู่ในห้องนอนแล้วซุกตัวใต้ผ้าห่มอย่างปลอดภัย"
+    n "ตัดสินใจว่านี่เป็นปัญหาของตัวฉันในอนาคต ฉันล็อกตัวเองอยู่ในห้องนอนแล้วซุกตัวใต้ผ้าห่มอย่างปลอดภัย"
 
 # game/scripts/days/day 4.rpy:2929
 

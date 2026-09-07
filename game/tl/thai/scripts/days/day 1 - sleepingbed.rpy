@@ -4,7 +4,7 @@
 translate thai sleepingbed_cf702817:
 
     # n "After showing [ch_ren] to the bathroom to freshen up and changing into my own pyjamas in the laundry room, I met him in the middle, and we both made our way to my bedroom."
-    n "หลังจากพา [ch_ren] ไปห้องน้ำให้ล้างหน้าและเปลี่ยนชุดนอนของฉันเองในห้องซักผ้า เราก็เจอกันกลางทาง แล้วเดินไปห้องนอนฉันด้วยกัน"
+    n "หลังจากพา [ch_ren] ไปห้องน้ำให้จัดการตัวเอง ฉันก็เปลี่ยนเป็นชุดนอนในห้องซักผ้า แล้วเราก็กลับมาเจอกันตรงกลางทางก่อนเดินไปห้องนอนของฉันด้วยกัน"
 
 # game/scripts/days/day 1.rpy:1398
 translate thai sleepingbed_ff7da426:
@@ -40,7 +40,7 @@ translate thai sleepingbed_65d01d3a:
 translate thai sleepingbed_1815c3fd:
 
     # n "It must've looked forced, but I awkwardly pat the empty space next to me and shoot [ch_ren] a crooked smile. He slowly makes his way over and joins me underneath the covers—"
-    n "คงดูไม่เป็นธรรมชาติ แต่ฉันก็ตบที่ว่างข้างๆ ตัวอย่างกระอักกระอ่วนแล้วยิ้มเบี้ยวให้ [ch_ren] เขาค่อยๆ เดินเข้ามาแล้วลอดเข้าใต้ผ้าห่มข้างฉัน—"
+    n "คงดูไม่เป็นธรรมชาติ แต่ฉันก็ตบที่ว่างข้างๆ ตัวอย่างกระอักกระอ่วนแล้วยิ้มเบี้ยวให้ [ch_ren] เขาค่อยๆ เดินเข้ามาแล้วมุดเข้าใต้ผ้าห่มข้างฉัน—"
 
 # game/scripts/days/day 1.rpy:1406
 translate thai sleepingbed_fc9d38c6:
@@ -112,7 +112,7 @@ translate thai sleepingbed_75973ee3:
 translate thai sleepingbed_4e2e99de:
 
     # n "Did I want to get closer to him? Or was I just curious about what that stranger was currently doing in my bed?"
-    n "ฉันอยากเข้าใกล้เขา? หรือแค่อยากรู้ว่าคนแปลงหน้าคนนั้นกำลังทำอะไรอยู่บนเตียงฉัน?"
+    n "ฉันอยากเข้าใกล้เขา? หรือแค่อยากรู้ว่าคนแปลกหน้าคนนั้นกำลังทำอะไรอยู่บนเตียงฉัน?"
 
 # game/scripts/days/day 1.rpy:1429
 translate thai sleepingbed_aa383af3:
@@ -142,6 +142,6 @@ translate thai sleepingbed_ecfe911f:
 translate thai sleepingbed_ea011296:
 
     # n "Maybe it was just me feeling this way? Stifling the urge to reach out to him, I roll onto my side and spare the pink-haired man one last glance."
-    n "บางทีอาจจะมีฉันคนเดียวที่รู้สึกแบบนี้? ฉันสะกดความอยากจะยื่นมือไปหาเขา แล้วพลิกตัวตะแคง พร้อมกับมองชายผมสีชมพูเป็นครั้งสุดท้าย"
+    n "บางทีอาจจะมีฉันคนเดียวที่รู้สึกแบบนี้? ฉันข่มความอยากจะยื่นมือไปหาเขา แล้วพลิกตัวตะแคง พร้อมกับมองชายผมสีชมพูเป็นครั้งสุดท้าย"
 
 # game/scripts/days/day 1.rpy:1440

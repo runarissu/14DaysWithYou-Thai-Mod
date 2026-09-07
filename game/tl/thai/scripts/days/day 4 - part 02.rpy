@@ -8,7 +8,7 @@ translate thai day4_morningcont_116f255e:
 translate thai day4_morningcont_fbe990bf:
 
     # n "But now that I'm thinking about photos… this gives me the perfect opportunity to splurge on some security cameras. I'd been needing them for quite some time now, anyway."
-    n "แต่พอพูดถึงเรื่องรูปภาพ... นี่ก็เป็นโอกาสที่เพอร์เฟกต์ในการไปลงทุนซื้อกล้องวงจรปิดสักหน่อย อันที่จริงฉันก็ต้องการมานานแล้วอยู่"
+    n "แต่พอพูดถึงเรื่องรูปภาพ... นี่ก็เป็นโอกาสดีที่จะลงทุนซื้อกล้องวงจรปิดสักหน่อย อันที่จริงฉันก็ต้องการมานานแล้วด้วย"
 
 # game/scripts/days/day 4.rpy:250
 
@@ -29,14 +29,14 @@ translate thai day4_morningcont_5e484274:
 translate thai day4_leonarrival_f8b09343:
 
     # n "[ch_teo] ended up being uncharacteristically quiet throughout the drive, and if I were being honest, I appreciated the silence."
-    n "[ch_teo] นั่งเงียบผิดปกติไปตลอดทางขับ และถ้าให้พูดตรงๆ ฉันก็ชอบความเงียบนั่นแหละ"
+    n "[ch_teo] นั่งเงียบผิดปกติไปตลอดทางขับ และถ้าให้พูดตรงๆ ฉันก็ชอบที่มันเงียบแบบนั้นแหละ"
 
 # game/scripts/days/day 4.rpy:277
 
 translate thai day4_leonarrival_33b39f20:
 
     # n "It was definitely odd not having our typical playful banter, but it also wasn't something I needed first thing in the morning."
-    n "มันช่างแปลกจริงที่ไม่ได้มีบทพูดล้อเล่นแบบเดิมๆ แต่มันก็ไม่ใช่สิ่งที่ฉันอยากได้ตอนเช้าจัดๆ อยู่ดี"
+    n "มันก็แปลกอยู่เหมือนกันที่ไม่ได้หยอกล้อกันแบบเดิมๆ แต่ตอนเช้าแบบนี้ฉันก็ไม่ได้ต้องการมันเท่าไหร่หรอก"
 
 # game/scripts/days/day 4.rpy:278
 
@@ -64,7 +64,7 @@ translate thai day4_leonarrival_a2ae1a08:
 translate thai day4_leonarrival_1ab63682:
 
     # n "We must've picked a busy day to visit, considering the amount of cars parked both outside {b}and{/b} in the reserved parking area — though [ch_teo] seemed to have somewhere in mind."
-    n "คงจะมาตรงวันที่คนเยอะพอดี เห็นได้จากรถที่จอดเต็มทั้งข้างนอก{b}และ{/b}ในเขตจอดสำรอง — ทว่า [ch_teo] ดูเหมือนจะมีที่ในใจอยู่แล้ว"
+    n "คงจะมาตรงวันที่คนเยอะพอดี เห็นได้จากรถที่จอดเต็มทั้งข้างนอก{b}และ{/b}ในเขตจอดสำรอง — แต่ [ch_teo] ดูเหมือนจะมีที่จอดในใจอยู่แล้ว"
 
 # game/scripts/days/day 4.rpy:283
 
@@ -78,7 +78,7 @@ translate thai day4_leonarrival_69d575c3:
 translate thai day4_leonarrival_72b360ca:
 
     # n "I watch as he drives straight past a {b}very clearly{/b} labelled \"no go\" zone and pulls up into one of the empty spaces without so much as a reaction."
-    n "ฉันมองเขาขับผ่านโซนที่มีป้ายเขียน \"ห้ามเข้า\" {b}ชัดเจนมาก{/b} แล้วแหวกเข้าไปจอดในช่องว่างช่องหนึ่งโดยไม่สะท้อนอะไรกลับมาเลย"
+    n "ฉันมองเขาขับผ่านโซนที่มีป้ายเขียน \"ห้ามเข้า\" {b}ชัดเจนมาก{/b} แล้วขับเข้าไปจอดในช่องว่างช่องหนึ่งโดยไม่มีท่าทีสะทกสะท้านเลย"
 
 # game/scripts/days/day 4.rpy:289
 
@@ -246,28 +246,28 @@ translate thai day4_leonarrival_b38533d7:
 translate thai day4_leonarrival_42297d77:
 
     # n "At his almost childlike reaction, [ch_leon] shoots his friend a cheeky, lopsided smile before continuing."
-    n "พอเห็นปฏิกิริยาเด็กๆ แบบนั้น [ch_leon] ก็ยิ้มเยาะๆ เบี้ยวๆ ให้เพื่อนก่อนจะพูดต่อ"
+    n "พอเห็นปฏิกิริยาเด็กๆ แบบนั้น [ch_leon] ก็ยิ้มกวนๆ เบี้ยวๆ ให้เพื่อนก่อนจะพูดต่อ"
 
 # game/scripts/days/day 4.rpy:336
 
 translate thai day4_leonarrival_c19c468a:
 
     # l "I'm sure she's on her way. She said something about \"wanting to get her steps in\" in our group chat. Is that why she didn't want [ch_teo] picking her up?"
-    l "ผมว่าเธอกำลังมาแล้วล่ะครับ เธอพูดอะไรเรื่อง \"อยากเดินเก็บสเต็ป\" ในแชทกลุ่ม นั่นเป็นเหตุผลที่เธอไม่อยากให้ [ch_teo] มารับเหรอครับ?"
+    l "ผมว่าเธอกำลังมาแล้วล่ะครับ เธอพูดอะไรเรื่อง \"อยากเดินให้ครบตามเป้า\" ในแชทกลุ่ม นั่นเป็นเหตุผลที่เธอไม่อยากให้ [ch_teo] มารับเหรอครับ?"
 
 # game/scripts/days/day 4.rpy:338
 
 translate thai day4_leonarrival_39c6f1db:
 
     # l "And actually… I dunno if you realised, but you guys were fifteen minutes early."
-    l "อ้อจริงๆ... ผมไม่รู้ว่าพวกคุณสังเกตมั้ย แต่พวกคุณมาก่อนเวลาสิบห้านาทีเลยนะครับ"
+    l "อ้อจริงๆ... ผมไม่รู้ว่าพวกคุณสังเกตไหม แต่พวกคุณมาก่อนเวลาสิบห้านาทีเลยนะครับ"
 
 # game/scripts/days/day 4.rpy:339
 
 translate thai day4_leonarrival_9c3746a3:
 
     # y "Really? Pfft— No thanks to [ch_teo]'s speeding, I guess."
-    y "จริงเหรอ? พีฟ— ก็คงเพราะ [ch_teo] ขับเร็วสิ"
+    y "จริงเหรอ? พีฟ— ก็คงเพราะ [ch_teo] ขับเร็วสินะ"
 
 # game/scripts/days/day 4.rpy:340
 
@@ -295,7 +295,7 @@ translate thai day4_leonarrival_0996352b:
 translate thai day4_leonarrival_cd9dbfbf:
 
     # t "Really? 'Cuz it looked like you were sitting on that bench for a while."
-    t "จริงหรอ? กูว่านั่งอยู่บนม้านั่งนั่นมานานแล้วนะ"
+    t "จริงเหรอ? กูว่านั่งอยู่บนม้านั่งนั่นมานานแล้วนะ"
 
 # game/scripts/days/day 4.rpy:348
 
@@ -316,7 +316,7 @@ translate thai day4_leonarrival_2f919ed1:
 translate thai day4_leonarrival_206e7ab4:
 
     # l "…Okay, yeah. So {i}maaaybe{/i} I {i}did{/i} arrive half an hour early."
-    l "...อ่า ก็ใช่ครับ งั้นผม{i}อาจจะ{/i}{i}มา{/i}ก่อนครึ่งชั่วโมงจริงๆ ครับ"
+    l "...อ่า ก็ใช่ครับ งั้นผม{i}อาจจะ{/i}{i}มาถึง{/i}ก่อนครึ่งชั่วโมงจริงๆ ครับ"
 
 # game/scripts/days/day 4.rpy:353
 
@@ -358,7 +358,7 @@ translate thai day4_leonarrival_b8ec4f00:
 translate thai day4_leonarrival_6353c187:
 
     # n "Playing along with [ch_leon]'s dramatics, I lean against his side and clutch at the spot above my heart."
-    n "เล่นตามบทละครของ [ch_leon] ฉันพิงไปที่ตัวเขาแล้วกุมมือที่จุดเหนือหัวใจ"
+    n "เล่นตามบทละครของ [ch_leon] ฉันพิงไปที่ตัวเขาแล้วกุมหน้าอกตรงตำแหน่งหัวใจ"
 
 # game/scripts/days/day 4.rpy:362
 
@@ -372,7 +372,7 @@ translate thai day4_leonarrival_9ada8645:
 translate thai day4_leonarrival_06fb9bba:
 
     # t "You guys are genuinely so embarrassing."
-    t "พวกมึงนี่มันน่าอายจริงๆ ว่ะ"
+    t "พวกแกนี่มันน่าอายจริงๆ ว่ะ"
 
 # game/scripts/days/day 4.rpy:371
 
@@ -463,7 +463,7 @@ translate thai day4_leonarrival_6d635df8:
 translate thai day4_leonarrival_64421fe7:
 
     # n "Whether or not it was because I wanted to stake my claim over [ch_ren] — or because he confidently declared himself as my boyfriend a few days ago — I couldn't help but let it slip."
-    n "ไม่รู้ว่าเพราะอยากประกาศกรรมสิทธิ์เหนือ [ch_ren] — หรือเพราะเขาประกาศตัวเป็นแฟนฉันอย่างมั่นใจเมื่อไม่กี่วันก่อน — ฉันก็พลั้นปากออกไป"
+    n "ไม่รู้ว่าเพราะอยากประกาศกรรมสิทธิ์เหนือ [ch_ren] — หรือเพราะเขาประกาศตัวเป็นแฟนฉันอย่างมั่นใจเมื่อไม่กี่วันก่อน — ฉันก็เผลอพูดออกไป"
 
 # game/scripts/days/day 4.rpy:397
 
@@ -561,7 +561,7 @@ translate thai day4_leonarrival_93595e3e:
 translate thai day4_leonarrival_f938f927:
 
     # n "Oh yeah, I still needed to talk to [ch_ren] about that and clear up any potential misunderstandings with everyone — and [ch_leon] definitely seems like a good place to start."
-    n "อ่ะใช่ ฉันยังต้องคุยกับ [ch_ren] เรื่องนั้นอยู่ และต้องไปล้างความเข้าใจผิดกับทุกคนด้วย — และ [ch_leon] ดูจะเป็นจุดเริ่มต้นที่ดีทีเดียว"
+    n "อ่ะใช่ ฉันยังต้องคุยกับ [ch_ren] เรื่องนั้นอยู่ และต้องไปเคลียร์ความเข้าใจผิดกับทุกคนด้วย — และ [ch_leon] ดูจะเป็นจุดเริ่มต้นที่ดีทีเดียว"
 
 # game/scripts/days/day 4.rpy:416
 
@@ -603,7 +603,7 @@ translate thai day4_leonarrival_4f4c8352:
 translate thai day4_leonarrival_ca24cdef:
 
     # y "Besides! I only agreed to this outing because [ch_elanor] {i}genuinely{/i} seemed like she wanted to go."
-    y "อีกอย่าง! ฉันตกลงมาเที่ยวครั้งนี้เพราะ [ch_elanor] {i}จริงจัง{/i}ว่าอยากมา"
+    y "อีกอย่าง! ฉันตกลงมาเที่ยวครั้งนี้เพราะ [ch_elanor] {i}อยากมา{/i}จริงๆ"
 
 # game/scripts/days/day 4.rpy:426
 

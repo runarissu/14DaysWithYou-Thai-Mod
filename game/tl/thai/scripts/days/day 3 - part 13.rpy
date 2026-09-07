@@ -50,7 +50,7 @@ translate thai day3_inviteolivia_3793d84f:
 translate thai day3_inviteolivia_f067a970:
 
     # y "You know what? I think I got the wrong number! G-Goodbye!"
-    y "รู้ไหม? ฉันว่าฉันโทรผิดเบอร์ไปละ! อ-อาวิดโย!"
+    y "รู้ไหม? ฉันว่าฉันโทรผิดเบอร์ไปละ! บ-บาย!"
 
 # game/scripts/days/day 3.rpy:2410
 
@@ -225,7 +225,7 @@ translate thai day3_invitekiara_85aed825:
 translate thai day3_rencanonevent_9a89eb73:
 
     # n "Shutting the door behind me, I flick off the light and tiredly trudge around my apartment as if my body were on autopilot."
-    n "ปิดประตูฝาหลังฉัน ฉันปิดไฟแล้วเดินอืดอาดไปรอบๆ อพาร์ตเมนต์เหมือนร่างกายทำงานออโต้"
+    n "ปิดประตูตามหลัง ฉันก็ปิดไฟแล้วเดินอืดอาดไปรอบๆ อพาร์ตเมนต์เหมือนร่างกายทำงานอัตโนมัติ"
 
 # game/scripts/days/day 3.rpy:2454
 
@@ -239,7 +239,7 @@ translate thai day3_rencanonevent_3e77204b:
 translate thai day3_rencanonevent_5cfa618b:
 
     # n "Without wasting any more time, I get up and tiredly trudge around my apartment as if my body were on autopilot."
-    n "โดยไม่เสียเวลาอีก ฉันลุกขึ้นแล้วเดินอืดอาดไปรอบๆ อพาร์ตเมนต์เหมือนร่างกายทำงานออโต้"
+    n "โดยไม่เสียเวลาอีก ฉันลุกขึ้นแล้วเดินอืดอาดไปรอบๆ อพาร์ตเมนต์เหมือนร่างกายทำงานอัตโนมัติ"
 
 # game/scripts/days/day 3.rpy:2457
 
@@ -274,7 +274,7 @@ translate thai day3_rencanonevent_4d6fca52:
 translate thai day3_rencanonevent_486a93ab:
 
     # n "A beat passes, and before I can stop myself, I answer his call."
-    n "ผ่านไปประเดี๋ยว ก่อนที่ฉันจะทันห้ามตัวเอง ฉันก็รับสายเขาแล้ว"
+    n "ผ่านไปครู่หนึ่ง ก่อนที่ฉันจะทันห้ามตัวเอง ฉันก็รับสายเขาแล้ว"
 
 # game/scripts/days/day 3.rpy:2462
 
@@ -344,7 +344,7 @@ translate thai day3_homealone_5892be98:
 translate thai day3_homealone_30e73110:
 
     # y "Well, whatever. At least I still have my fictional crushes."
-    y "ก็เอาเถอะ ยังไงฉันก็ยังมี ครัช ในนิยายอยู่"
+    y "ก็เอาเถอะ อย่างน้อยฉันก็ยังมีตัวละครที่แอบชอบในนิยายอยู่"
 
 # game/scripts/days/day 3.rpy:2483
 
@@ -610,7 +610,7 @@ translate thai day3_homealone_ac47d51a:
 translate thai day3_homealone_4c786852:
 
     # n "In all honesty… I was starting to miss him. In fact, it was almost as if I was beginning to have pink-haired enigma withdrawals or something. Jeez."
-    n "พูดตามจริง… ฉันเริ่มคิดถึงเขาแล้ว จริงๆ แล้วมันเหมือนฉันกำลังมีอาการขาดยาแอนิจม่าผมชมพูอะไรงี้แหละ บ้าจริง"
+    n "พูดตามจริง… ฉันเริ่มคิดถึงเขาแล้ว จริงๆ แล้วมันเหมือนฉันกำลังมีอาการลงแดงเพราะขาดหนุ่มปริศนาผมชมพูอะไรงี้แหละ บ้าจริง"
 
 # game/scripts/days/day 3.rpy:2525
 
@@ -694,6 +694,6 @@ translate thai day3_homealone_75463dbd:
 translate thai day3_homealone_10e4e75c:
 
     # n "With that pink-haired enigma in mind; I confirm my plans for tomorrow with [ch_leon], before saying goodnight and ending the call."
-    n "พร้อมกับคิดถึงแอนิจม่าผมชมพูคนนั้นอยู่ ฉันยืนยันแผนพรุ่งนี้กับ [ch_leon] ก่อนจะบอกฝันดีแล้ววางสาย"
+    n "พร้อมกับคิดถึงหนุ่มปริศนาผมชมพูคนนั้นอยู่ ฉันยืนยันแผนพรุ่งนี้กับ [ch_leon] ก่อนจะบอกฝันดีแล้ววางสาย"
 
 # game/scripts/days/day 3.rpy:2548

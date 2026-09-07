@@ -4,19 +4,19 @@
 translate thai reninterrupt_982ae274:
 
     # r "Say, are you busy later? I'd love to thank you for helping me find this book."
-    r "ว่าแต่ คุณจะยุ่งช่วงบ่ายไหม? ฉันอยากจะขอบคุณที่ช่วยหนังสือเล่มนี้ให้"
+    r "ว่าแต่ คุณจะยุ่งช่วงบ่ายไหม? ฉันอยากจะขอบคุณที่ช่วยหาหนังสือเล่มนี้ให้"
 
 # game/scripts/days/day 1.rpy:686
 translate thai reninterrupt_567e42e3:
 
     # n "Seriously, what was up with this guy? One minute he's shy, and the next, he's bold. It was almost like he was putting up several fronts to see which one I responded to better…"
-    n "จริงๆ นะ คนนี้เป็นไรของเขา? อีกะเดี๋ยวก็เขินอาย อีกเดี๋ยวก็กล้า ราวกับเขากำลังแสดงหลายบุคลิกเพื่อดูว่าแบบไหนที่ฉันตอบสนองดีกว่า…"
+    n "จริงๆ นะ คนนี้เป็นไรของเขา? อีกเดี๋ยวก็เขินอาย อีกเดี๋ยวก็กล้า ราวกับเขากำลังแสดงหลายบุคลิกเพื่อดูว่าแบบไหนที่ฉันตอบสนองดีกว่า…"
 
 # game/scripts/days/day 1.rpy:687
 translate thai reninterrupt_3fd3d9cf:
 
     # y "Actually, I'll be busy this afternoon. I need to buy a new lock for my apartment."
-    y "จริงๆ แล้ว ฉันจะยุ่งช่วงบ่าย ต้องไปซื้อกุญแจใหม่ให้ห้อง"
+    y "จริงๆ แล้ว ฉันจะยุ่งช่วงบ่าย ต้องไปซื้อกลอนประตูใหม่ให้ห้อง"
 
 # game/scripts/days/day 1.rpy:689
 translate thai reninterrupt_f2fb4426:
@@ -28,7 +28,7 @@ translate thai reninterrupt_f2fb4426:
 translate thai reninterrupt_5bcaa233:
 
     # n "I guess it wouldn't hurt to tell him… I mean, what was he going to do? Personally show up at my doorstep and test the new lock himself?"
-    n "คงไม่เสียหายอะไรถ้าบอกเขา… เขาจะทำอะไรได้ละ? โผล่มาที่หน้าประตูห้องฉันแล้วลองกุญแจใหม่เองเหรอ?"
+    n "คงไม่เสียหายอะไรถ้าบอกเขา… เขาจะทำอะไรได้ล่ะ? โผล่มาที่หน้าห้องฉันแล้วมาลองกลอนใหม่เองเหรอ?"
 
 # game/scripts/days/day 1.rpy:691
 translate thai reninterrupt_a8f47e9a:
@@ -46,7 +46,7 @@ translate thai reninterrupt_1e29da83:
 translate thai reninterrupt_2d32f280:
 
     # r "Yeah. But… It sounds like instead of a lock, you just need to jump the scumbag when they least expect it and {i}beat 'em up{/i} to teach them a lesson."
-    r "อืม แต่… ฟังดูเหมือนแทนที่จะล็อค คุณแค่ต้องซุ่มทำร้ายไอ้เลวนั่นตอนที่เขาไม่ระวังแล้ว{i}ตีให้สาหัส{/i}เพื่อสั่งสอนเขา"
+    r "อืม แต่… ฟังดูเหมือนแทนที่จะเปลี่ยนกลอน คุณแค่ต้องซุ่มเล่นงานไอ้เลวนั่นตอนที่มันไม่ทันระวัง แล้ว{i}อัดมันให้น่วม{/i}เพื่อสั่งสอนซะ"
 
 # game/scripts/days/day 1.rpy:696
 translate thai reninterrupt_e9122248:
@@ -112,7 +112,7 @@ translate thai reninterrupt_fd64f706:
 translate thai reninterrupt_5f30e4e2:
 
     # n "There it was again; that subtle shift in his personality. But… Now that he mentioned it, would it {b}really{/b} hurt to invite him to my place for the night?"
-    n "อีกแล้ว การเปลี่ยนบุคลิกแบบเล็กน้อยของเขา แต่… พอเขาพูดถึง มันจะเจ็บอะไร{b}จริงๆ{/b}หรอ ถ้าจะชวนเขามาค้างคืนที่ห้อง?"
+    n "อีกแล้ว การเปลี่ยนบุคลิกแบบเล็กน้อยของเขา แต่… พอเขาพูดถึง มันจะเป็นอะไร{b}จริงๆ{/b}เหรอ ถ้าจะชวนเขามาค้างคืนที่ห้อง?"
 
 # game/scripts/days/day 1.rpy:712
 translate thai reninterrupt_3c75826a:
@@ -154,7 +154,7 @@ translate thai reninterrupt_bbe6909d:
 translate thai reninterrupt_d620d379:
 
     # n "He seems a bit {b}too{/b} eager for this."
-    n "เขาดูทะยานอยาก{b}ไปนิด{/b}"
+    n "เขาดูกระตือรือร้น{b}เกินไปนิด{/b}"
 
 # game/scripts/days/day 1.rpy:733
 translate thai reninterrupt_bd991dc3:
@@ -208,7 +208,7 @@ translate thai reninterrupt_e9373fad:
 translate thai reninterrupt_78779c5b:
 
     # e "Someone at the front desk is looking for you, and— {i}Oh!{/i} Sorry, are you busy right now? I can—"
-    e "มีคนที่เคาน์เตอร์หน้าค้นหาคุณอยู่ แล้ว— {i}โอ!{/i} โทษนะ ตอนนี้คุณยุ่งอยู่ไหม? ฉัน—"
+    e "มีคนที่เคาน์เตอร์หน้ากำลังตามหาคุณอยู่ แล้ว— {i}โอ!{/i} โทษนะ ตอนนี้คุณยุ่งอยู่ไหม? ฉัน—"
 
 # game/scripts/days/day 1.rpy:758
 translate thai reninterrupt_4ae060c3:
